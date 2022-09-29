@@ -1,0 +1,4 @@
+The cell
+				membrane must be a dynamic structure if the cell is to grow and respond to
+			environmental changes. The fluidity of the membrane is demonstrated in the following
+			animation. 

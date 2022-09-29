@@ -1,0 +1,6 @@
+In this module, you learned about the characteristics that all
+							cells have in common, like the cell membrane. You
+					also learned about some of the different kinds of cells. You learned about
+					eukaryotic cells, which have DNA contained in the
+							nucleus, and prokaryotic cells which lack a
+							nucleus altogether (though they do not lack DNA).

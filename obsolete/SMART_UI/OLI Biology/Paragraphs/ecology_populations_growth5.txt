@@ -1,0 +1,3 @@
+For any population, the actual quantity of increase (number added
+			to the population) will depend on how many you already have in the group. It can be
+			calculated as follows:

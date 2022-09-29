@@ -1,0 +1,5 @@
+Lipids include a distinct group of compounds that are united by two common
+					features. First, they are largely nonpolar in nature. This is
+					because they are hydrocarbons that include many nonpolar carbon-carbon or
+					carbon-hydrogen bonds. Second, because lipids are nonpolar, they are also hydrophobic (water-hating), or insoluble in
+					water.

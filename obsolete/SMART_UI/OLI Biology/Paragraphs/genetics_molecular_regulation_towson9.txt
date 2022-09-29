@@ -1,0 +1,6 @@
+The enzymes for the synthesis of the amino acid tryptophan are contained
+                            in the Trp operon. The structure of this operon is shown below. The trp
+                            repressor binds the amino acid tryptophan, the end product of the
+                            biosynthesis of tryptophan (trp). As you can see, it has the same
+                            structure as the lac operon, but it contains more genes for the
+                            biosynthesis of trp.

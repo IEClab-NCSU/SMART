@@ -1,0 +1,5 @@
+Glucose from the outside of the cell is transported across the cell membrane by a
+          multi-subunit protein called the glucose transporter. This enzyme catalyzes the diffusion
+          of glucose across the membrane without the input of energy. Consequently, spontaneous flow
+          of glucose into the cell can only occur if the concentration of glucose is lower in the
+          cell than outside the cell. The Gibbs free energy for the transport of glucose is:

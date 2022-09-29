@@ -1,0 +1,6 @@
+
+The expression plasmid must also contain a section of DNA that encodes a protein
+                that will confer antibiotic resistance on the bacterial cells that contain the
+                plasmid. This provides a method to select the bacterial cells that contain the
+                plasmid, because if they have the plasmid, they will be able to grow in the presence
+                of an antibiotic while cells that do not have the plasmid will die.

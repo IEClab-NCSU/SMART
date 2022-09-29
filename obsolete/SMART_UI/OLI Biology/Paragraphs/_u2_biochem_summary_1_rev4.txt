@@ -1,0 +1,10 @@
+Another important aspect of biological solutions is pH, or the hydrogen ion concentration.
+                    You should be able to distinguish between an acid and a  base and be able to discuss the
+                    importance of buffering in biological systems. Hydrogen
+                        ions are simple structures that have a big impact on living
+                    systems. The more hydrogen ions that are found in a substance, the more acidic
+                    the substance. As you’ll learn in the next unit, hydrogen ions can affect the
+                    shape, or structure, of important biological molecules like enzymes
+                    and other proteins. As you already know, structure determines
+                    function. When the pH of a cell or organism changes, proteins can change shape,
+                    resulting in changed function.

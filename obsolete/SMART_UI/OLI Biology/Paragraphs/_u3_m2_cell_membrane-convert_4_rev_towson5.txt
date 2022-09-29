@@ -1,0 +1,7 @@
+How are endocytosis and exocytosis important to everyday life? Immune cells protect animals by
+			recognizing and destroying foreign objects such as bacteria. Disease-causing bacteria
+			are recognized by proteins called receptors on the surface of the immune cell. The
+			phagocytic immune cell will then engulf the bacterial cells (phagocytosis). The vesicle
+			that contains these bacterial cells is called a phagosome ("phago" means "eating" and
+			"-some" refers to "body"). The phagosome next fuses with lysosomes. Finally, the
+			digested bacterial products are excreted through the process of exocytosis.

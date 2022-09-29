@@ -1,0 +1,17 @@
+
+You go to the doctor complaining of a fever and sore throat. The doctor examines
+				the back of your throat using a tongue depressor and pen light. “Looks like a pretty
+				nasty sore throat,” he comments, not very helpfully. “We’ll have to see if we can
+				figure out what’s causing it. It could be Streptococcus bacteria, but it’s probably
+				a virus.” Then he inserts a swab into the back of your throat and rubs it around to
+				get a sample. Ouch! 
+The sample is sent off to the lab. Once in the laboratory, the
+				technicians take the swab and gently slide it across the surface of a Petri dish
+				containing nutrient agar (a plate containing food for bacteria). The dish is closed
+				and placed in a warm incubator for 48 hours. After the required time has elapsed,
+				the lab technicians examine the plate for the growth of cells. Various tests are
+				then used to determine if any of the microbes present are the Streptococcus bacteria
+				that cause strep throat. 
+Question: There are many microbes growing on the dish, but none are
+				Streptococcus. What do you think the doctor will conclude about the cause of your
+				sore throat? 

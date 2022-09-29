@@ -1,0 +1,10 @@
+
+When there is demand from glucose protein phosphorylation occurs, signalling the release
+        of glucose from glycogen in the liver. Therefore the phosphorylated state of glycogen
+        phosphorylase must be the active form of the enzyme so that glucose is released from
+        glycogen. To insure that both synthetic and degradative pathways are not active at the same
+        time we would expect that the phosphorylated state of glycogen synthase must be inactive.
+During periods of high blood sugar levels, hormonal signalling causes the storage of
+        glucose in glycogen by leading to dephosphorylation of enzymes in the cell. This
+        dephosphorylation activates glycogen synthase and inactivates glycogen phosphorylase, again
+        insuring that only one direction is active at a time.

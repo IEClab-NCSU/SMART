@@ -1,0 +1,5 @@
+During translation, the information in the mRNA is used to determine the order in which
+            to string together amino acids and build a particular protein. The sequence of bases in
+            the mRNA determines which amino acid will be used in the protein. Every three bases
+            codes for a single amino acid. These three bases are called codons or triplets. For
+            example, the mRNA codon UGG codes for the amino acid tryptophan.

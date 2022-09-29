@@ -1,0 +1,7 @@
+Scientists learn about species interactions first by direct observation. For example, it
+			is simple enough to discover a predator-prey relationship by watching a lion take down
+			an antelope, or by finding prey in a predator’s stomach. However, community ecologists
+			often want to go a step further and determine the consequences
+			of an interaction. How will a community change if a new species is added, or if an
+			existing population dies out? To find out, ecologists may do comparative observations or
+			experiments, as we will see in this module.

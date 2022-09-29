@@ -1,0 +1,4 @@
+For instance, in Labrador retrievers, the allele for black fur color
+                    (B) is dominant with regard to the allele for brown (“chocolate”) fur color (b).
+                    However, there are also yellow Labs. The coats of yellow labs are created
+                    through epistasis. Another gene, E/e, is in play. 

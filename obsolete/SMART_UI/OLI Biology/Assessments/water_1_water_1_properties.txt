@@ -1,0 +1,7 @@
+
+The polar character of water that results in its ability to form extensive hydrogen bonding networks give rise to several properties of water that are important to sustaining life. The following is a list of a few of these properties. For each of these properties, can you think of why they might be important to sustaining life?
+1. high surface tension of water,
+2. ice is less dense than water,
+3. high heat of vaporization (a large amount of heat is required to convert liquid water to a gas),
+4. high specific heat capacity (a large amount of heat is required to raise the temperature of 1 gram of water 1 degree C),
+5. a high dielectric constant (a measure of the polarity of the polar covalent bond)

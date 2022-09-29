@@ -1,0 +1,4 @@
+A stable population size. The maximum population size of a species
+                                that an environment can sustain over a long period of time, given
+                                the food, habitat, water and other necessities available in the
+                                environment. 

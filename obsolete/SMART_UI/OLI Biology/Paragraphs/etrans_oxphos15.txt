@@ -1,0 +1,5 @@
+Typical proton concentration differences across the inner membrane are approximately 10
+          fold, with the outside being more acidic. In addition to the concentration difference,
+          there is also an approximately 100 mV voltage difference across the membrane, with the
+          inside being more negative. Therefore, the Gibbs free energy change under these conditions
+          at 300 K is:

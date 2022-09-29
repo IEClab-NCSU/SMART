@@ -1,0 +1,7 @@
+Even when influenced by the environment, phenotypes have a normal range of
+                    expression. For instance, human height varies based on nutrition and genetics,
+                    but not many people are shorter than 4½ feet or taller than 7 feet. The range of
+                    phenotypic possibilities is called the norm of reaction. Hydrangeas,
+                    for example, may be blue, pink, or purple, but they are never naturally orange.
+                    Hydrangeas are blue in acidic soil with available aluminum, and they are pink in
+                    alkaline soil without available aluminum. 

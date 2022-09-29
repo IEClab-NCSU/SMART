@@ -1,0 +1,6 @@
+The three dimensional structure of ice is shown above. Place your cursor 
+						over the structure, left-click, hold, and move your pointer to rotate the 
+						molecule. Click on “Highlight Void” to show the empty volume generated due 
+						to the hydrogen bonds in ice.  Click on the "Spin on/off" checkbox to 
+						automatically spin or stop spinning the molecule.
+					

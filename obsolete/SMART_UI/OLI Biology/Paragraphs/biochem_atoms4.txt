@@ -1,0 +1,4 @@
+All elements are composed of a single type of atom. Atoms are the smallest unit of an
+			element that retains all of the properties of that element. Atoms are unimaginably
+			small. Even within a single microscopic cell, there is room for not just billions, but
+			trillions or even 100s of trillions of atoms. 

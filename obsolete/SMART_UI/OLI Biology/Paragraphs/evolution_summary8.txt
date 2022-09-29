@@ -1,0 +1,8 @@
+Macroevolution is the longer-term outcome of microevolution. It occurs at the levels of
+            species and higher-level groups (lineages). Speciation is the splitting apart of a
+            lineage into two or more new species. It can occur through isolation in space
+            (allopatric) or through behavioral or genetic mechanisms within a continuous habitat
+            (sympatric). After splitting, lineages evolve independently of each other. Over time,
+            changes accumulate and additional splits generate clusters of related species (clades).
+            Members of a clade share homologous features: inherited characteristics that can be
+            traced to an ancestor that they share.

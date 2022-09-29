@@ -1,0 +1,10 @@
+The process of DNA replication requires that the original DNA act as a template
+          for the newly formed DNA. How the new DNA acts as a template could occur in multiple ways.
+          As depicted below the double stranded DNA (anti-parallel strands indicated by the grey and
+          opposite polarity blue strand) could be completely copied leaving the original strands of
+          DNA intact (grey) and yielding a newly synthesized double strand DNA containing two new
+          strands (blue). This is referred to as conservative replication. The second model of DNA
+          replication starts with the same double stranded DNA but the products each contain one of
+          the original strands and a complementary newly synthesized strand. This is referred to as
+            semi-conservative replication. Biological organisms have been shown to
+          replicate their DNA by semi-conservative synthesis. 

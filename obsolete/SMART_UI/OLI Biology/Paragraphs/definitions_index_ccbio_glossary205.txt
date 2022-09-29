@@ -1,0 +1,9 @@
+A large and complex molecule formed by combining smaller subunits
+                                producing a larger unit consisting of many atoms with new
+                                properties. Biological macromolecules are special large
+                                macromolecules produced by living organisms that contain carbon
+                                atoms covalently bonded to hydrogen atoms. There are four main types
+                                of biological macromolecules (sometimes referred to as
+                                    biomolecules or biomacromolecules)
+                                that you will be learning about in this course: carbohydrates,
+                                nucleic acids, lipids, and proteins.

@@ -1,0 +1,6 @@
+In the last section, the action of an enzyme was described as taking place in two
+					parts. The first part involves the binding of substrate to enzyme in a
+					reversible equilibrium as modeled in the way of ligand binding. The second part
+					involves the conversion of the [ES] complex to product and the release of the
+					product from the enzyme. This step represents the catalysis step in the enzyme
+					catalyzed reaction. These parts are illustrated in the overall reaction below:

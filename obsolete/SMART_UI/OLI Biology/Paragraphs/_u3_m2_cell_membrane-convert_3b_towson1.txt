@@ -1,0 +1,17 @@
+Cells must be able to move large polar and charged
+					molecules across the lipid bilayer of the membrane in order to carry
+			out life processes. To allow these molecules, which are not soluble in the
+					lipid bilayer, to pass across the
+					hydrophobic barrier, it is necessary to provide ports,
+			channels, or holes through the membrane. The molecules will still move spontaneously
+			down a concentration gradient from high to low concentration. These channels can either
+			remain open at all times, allowing the molecules to move freely according to the
+			concentration gradient, or they can be gated channels that open and close in response to
+			the needs of the cell. In most cases these channels are very discriminatory and will
+			only allow specific molecules to pass. The process of moving impermeable molecules
+			across a membrane (down their concentration gradients) using channels or pores is
+			referred to as facilitated diffusion. Because the molecules are
+			moving down a concentration gradient, the process is driven by simple
+					diffusion and does not require the input of additional energy from
+			the cell. The following simulation depicts the facilitated diffusion of glucose across
+			the membrane using the glucose permease transporter.

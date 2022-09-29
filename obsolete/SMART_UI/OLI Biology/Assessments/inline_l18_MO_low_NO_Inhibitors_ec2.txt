@@ -1,0 +1,2 @@
+By what factor does the initial rate change
+                when [S] is changed from 2 to 4?

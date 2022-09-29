@@ -1,0 +1,1 @@
+The central image shows how the two pyranose forms of glucose that can be generated from the linear form.  You can manipulate either form in the Jmol window.

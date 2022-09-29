@@ -1,0 +1,13 @@
+Cells of all organisms make ATP by breaking down carbohydrates, fats, and proteins. ATP is a relatively
+			unstable molecule; consequently, it is never used for the long-term storage of energy in
+			the cell. This job goes to other more stable compounds, like fats and sugars. However,
+			ATP is specialized for direct and rapid transfers of energy. The bond between the second
+			and the third phosphates can be broken in a reaction producing ADP (adenosine diphosphate) with 'di'
+			indicating two phosphate groups. When the bond between the first and second phosphates
+			is broken, energy is released, and produces AMP (adenosine monophosphate)
+			with mono indicating one phosphate group. Energy is releaased
+			when ATP reacts with water to form ADP or AMP. The energy released in these reactions
+			can be used for chemical reactions (such as protein synthesis), molecule transport, or
+			cellular work (such as muscle contractions). Conversely, if there is a surplus of
+			energy, specialized reactions can produce ATP from ADP and a phosphate, storing the
+			energy temporarily before being used for other processes.

@@ -1,0 +1,3 @@
+
+ Restriction fragments cut with EcoRI (G/AATTC) and BamHI (G/GATCC)
+ 

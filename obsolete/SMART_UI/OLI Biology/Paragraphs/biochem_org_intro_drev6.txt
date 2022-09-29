@@ -1,0 +1,10 @@
+Polar functional groups contain electronegative atoms like nitrogen (N), oxygen
+					(O), and sulfur (S). The presence of electronegative atoms in a functional group
+					results in an unequal distribution of charges on the atoms, causing the bonds to
+					become polar. Because polar bonds interact favorably with water, compounds with
+					polar functional groups also interact favorably with water, making them
+					hydrophilic, or water-loving. Some compounds contain both non-polar and polar
+					functional groups; molecules of this type are referred to as amphipathic
+					molecules. In addition to interacting favorably with water, the polar atoms can
+					also participate in chemical reactions and polar functional groups are usually
+					responsible for the catalytic properties of enzymes. 

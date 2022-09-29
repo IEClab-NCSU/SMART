@@ -1,0 +1,3 @@
+As you’ve seen, there are many ways that atoms interact with each other and form
+                    chemical bonds. In the next module, we’ll take a closer look at water, which is
+                    one of the most biologically important molecules on the planet.

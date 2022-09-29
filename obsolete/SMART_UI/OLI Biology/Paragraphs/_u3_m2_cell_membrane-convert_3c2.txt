@@ -1,0 +1,8 @@
+Facilitated diffusion and active transport both require channels or ports in the membrane
+			through which the generally non-permeable molecules can pass. These protein transporters
+			contribute to the mosaic character of the fluid mosaic character of the biological
+			membrane. There are a variety of different structures associated with transport proteins
+			and at the same time many transport proteins that carry out similar functions (e.g. ion
+			channels) have structural similarities while maintaining their ability to discriminate
+			between molecules. Thus transport proteins have been classified both by structure and by
+			function. 

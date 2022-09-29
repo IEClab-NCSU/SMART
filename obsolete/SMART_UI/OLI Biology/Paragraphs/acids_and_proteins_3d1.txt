@@ -1,0 +1,5 @@
+In all chemical reactions, there is an initial input of energy that is required before the
+			reaction can occur. If this initial energy requirement (called the activation energy or
+			energy barrier) is small, then the reaction will happen quickly and easily. If the
+			activation energy is large, then the reaction will take longer to occur. Enzymes
+			function to reduce the activation energy required for a chemical reaction to occur. 

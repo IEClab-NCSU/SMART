@@ -1,0 +1,4 @@
+Functional groups that contain an electronegative atom rendering the
+                                functional group polar. Examples are the hydroxyl group (-OH),
+                                carboxylic acids, and amino groups(-NH3+).
+                            

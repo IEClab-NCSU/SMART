@@ -1,0 +1,7 @@
+Good work. You’ve cracked the mystery! There is a situation called heterozygote advantage
+			at work here. Why does a gene that alters red blood cells have anything to do with
+			malaria? The malaria parasite spends a large part of its life cycle in red blood cells.
+			The red blood cells of those with the Aa genotype are less
+			hospitable to Plasmodium than those of an average (AA) individual. For example, in an Aa person
+			the red blood cells may sickle in response to being invaded by Plasmodium. This will lead to the death of the newly invaded red blood cell,
+			and the parasites will die with it.

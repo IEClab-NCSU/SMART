@@ -1,0 +1,7 @@
+
+Three Na+ ions from inside the cell bind to the transporter.
+A molecule of ATP binds to the transporter, providing the energy needed to change
+				the shape of the transporter. This allows the Na+ to cross the membrane and exit the
+				cell, against its concentration gradient.
+Two K+ ions from outside the cell bind to the transporter.
+The transporter changes shape again, bringing the K+ into the cell.

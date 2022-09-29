@@ -1,0 +1,6 @@
+The dissolved butane is highlighted in yellow. It is surrounded by a cage of
+						water molecules, forming hydrogen bonds (purple) with each other. Place your
+						cursor over the structure left-click, hold, and move your pointer to
+						rotate the structure. Right-click to display a pop-up menu and select
+						zoom-in or zoom-out to examine the chemical bonds. (Source: pdb file modified from Udachin et al., J. Chem. Phys, 134,
+							121104 (2011). 

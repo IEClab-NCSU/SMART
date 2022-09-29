@@ -1,0 +1,10 @@
+ A third function for carbohydrates is that of cell recognition and
+						signaling. Just as we identified a peptido-glycan as a conjunction
+					(conjugation) of a peptide with a polysaccharide, other complex carbohydrates
+					are conjugated to other molecules to form glycoproteins (carbohydrates linked to
+					proteins) and glycolipids (carbohydrates linked to lipids). Because a very large
+					number of structures can be made from a few monosaccharides (simple
+					carbohydrates), a very large number of different structures can be made from a
+					few simple carbohydrates, as will be seen later. This large number of different
+					structures can therefore be used as unique signals for identification of
+					individual cell types. 

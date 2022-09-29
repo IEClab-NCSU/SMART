@@ -1,0 +1,6 @@
+In 1910, an American geneticist named Thomas Hunt Morgan made an observation that began
+            to shed some light on this question. One morning, when peering through a hand lens at a
+            male fruit fly, he noticed that it didn’t look right. Instead of having the normally
+            brilliant red eyes of wild-type Drosophila melanogaster, this fly had white eyes. Morgan
+            was particularly interested in how traits were inherited and distributed in developing
+            organisms, and he wondered what caused this fly's eyes to deviate from the norm.

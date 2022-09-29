@@ -1,0 +1,13 @@
+Welcome to OLI’s Introduction to Biological Principles!  We are happy you have joined us in our exploration of the 
+			fundamental principles of biology.  But before we begin, it is first necessary to consider what Biology actually is.  
+			In its most basic definition, biology is the scientific study of life.  That is to say biology is the branch of 
+			science that studies life, living organisms, and the way organisms interact with their environment.  As shown on 
+			the figure below, science can be broken down into two main branches - natural sciences and social and behavioral 
+			sciences.  Biology is a branch of natural sciences the encompasses all of the related sub-branches (e.g. ecology, 
+			biochemistry, and microbiology) that all study different aspects of living organisms.  The other branch of natural 
+			sciences is the physical sciences like chemistry and physics.  It is important to remember that even though science 
+			is broken down into branches and sub-branches of study all of science is interconnected.  For instance, to 
+			understand how a cell responds to a certain environmental signal, it is necessary to understand something of the 
+			chemical composition of that signal, so chemistry is important for biology.  Likewise, understanding how the brain 
+			functions (neuroscience) can aide in the understanding of certain behaviors, so  biology is important for the social 
+			and behavioral sciences.

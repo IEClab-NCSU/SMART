@@ -1,0 +1,5 @@
+A phylogenetic perspective can help us deal with threats. When there is an outbreak of
+            food poisoning, genetic analysis can show that the harmful bacteria came from a
+            particular farm. If we are attacked by a new virus, we can compare its genes to those of
+            known pathogens. Once we place the virus within a clade, we can quickly get a handle on
+            what we’re facing, how it is likely to affect us, and how we can best combat it.

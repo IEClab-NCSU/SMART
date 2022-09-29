@@ -1,0 +1,4 @@
+Collection of genes that are transcribed on the same mRNA from a
+                                single promoter. Usually, all of the genes code for enzymes in a
+                                single biochemical pathway, allowing coordinated control of the
+                                expression of all of the enzymes in one pathway. 

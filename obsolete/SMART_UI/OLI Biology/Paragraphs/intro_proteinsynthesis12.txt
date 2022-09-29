@@ -1,0 +1,11 @@
+The following animation describes the formation of the initiation complex, the elongation
+			of the peptide during synthesis and the termination of the synthesis at the termination
+			or stop codon. The process is fundamentally the same for prokaryotes and eukaryotes. The
+			one notable exception is in the binding of the mRNA with the small subunit of the
+			ribosome during formation of the initiation complex. Prokaryotes do not have a 5’cap to
+			identify the end of the mRNA but they do have a consensus sequence called the
+			Shine-Dalgarno-Sequence at the 5’ end of the mRNA. This sequence is used to align the
+			mRNA with the appropriate site on the ribosomal subunit. In eukaryotic organisms the
+			5’cap provides the alignment along with multiple initiation factors. Following formation
+			of the initiation complex, the synthesis of protein follows the same sequence in both
+			organisms.

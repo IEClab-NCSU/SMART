@@ -1,0 +1,5 @@
+A small organic molecule with the structure of an amino group, a
+                                carboxylic acid group, and an “R” group, which are all bonded to a
+                                single central carbon atom. The difference between the “R” group is
+                                what distinguishes one amino acid from another. Amino acids are the
+                                building blocks of proteins. 

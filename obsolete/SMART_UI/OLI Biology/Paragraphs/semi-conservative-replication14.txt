@@ -1,0 +1,2 @@
+The following diagram depicts the structural requirements for the operation of DNA
+          polymerase enzymes.

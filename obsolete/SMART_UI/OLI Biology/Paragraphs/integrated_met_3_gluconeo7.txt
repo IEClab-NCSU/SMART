@@ -1,0 +1,5 @@
+
+The enzyme pyruvate carboxylase catalyzes: pyruvate + HCO3- +
+            ATP → oxaloacetate + ADP + Pi
+The enzyme PEP carboxykinase catalyzes: oxaloacetate + GTP → phosphoenolpyruvate + GDP
+            + CO2.

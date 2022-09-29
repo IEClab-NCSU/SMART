@@ -1,0 +1,8 @@
+Speciation is the formation of new biological lineages. It occurs
+            when an existing species splits or branches into two or more new species that evolve
+            independently of each other. Over very long periods of time, repeated branching of a
+            lineage can create groups of related species called clades. A
+            clade is a complete group of all species that descend from some common ancestor. The six
+            species of Spoonbill form a clade; all of them share unique adaptive traits not found in
+            other birds, most notably the distinctive bill. They all likely descended from a single
+            ancestral species that possessed these unique features.

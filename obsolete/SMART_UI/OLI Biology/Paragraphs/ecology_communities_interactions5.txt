@@ -1,0 +1,10 @@
+Predation can be broadly defined as any win-lose interaction,
+			though it is most commonly used to describe situations where one species kills and eats
+			another. You are no doubt familiar with many spectacular examples, as when a pack of
+			wolves takes down a moose. More subtle examples of predation also exist. Sometimes the
+			predator will eat only part of the prey, allowing it to live another day. Though we
+			often use the term “herbivory” for the consumption of plants, the moose
+			might itself be considered a predator if it harms the plants on which it feeds. Many
+			forms of predation involve symbiosis. Such interactions are called parasitism 
+			and may involve animal or a plant hosts that provide both habitat and food to
+			their harmful symbionts.

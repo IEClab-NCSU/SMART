@@ -1,0 +1,9 @@
+The cell membranes found in both eukaryotic and bacterial cells
+			consist of a phospholipid bilayer that separates
+			the internal environment of the cell from its external environment and regulates the
+			materials that pass in and out of the cell. This enables the cell to maintain internal
+				homeostasis, regardless of changing external conditions. You already know
+			that cell membranes can be structurally different, to enable different functions. For
+			example, some bacteria live in the frozen Arctic Circle. They are able to maintain
+			membrane fluidity because of an increased concentration of unsaturated fatty acid tails
+			found within the membrane phospholipids.

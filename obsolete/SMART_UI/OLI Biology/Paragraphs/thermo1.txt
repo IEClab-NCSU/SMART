@@ -1,0 +1,8 @@
+Pathways accomplish the net conversion of the starting compounds to the final product of
+          the pathway. During the normal operation of a pathway there is a constant flux of material
+          through the pathway in one direction. Note that many pathways are reversible and operate
+          in the forward or reverse direction, depending on the needs of the organism. The direction
+          of a pathway depends on the energy difference between the starting compounds and final
+          product of the pathway. The pathway will be spontaneous in the direction that causes a
+          decrease in the free energy of the system. Reversing the direction of a pathway
+          requires changing the relative energies of the reactants and products

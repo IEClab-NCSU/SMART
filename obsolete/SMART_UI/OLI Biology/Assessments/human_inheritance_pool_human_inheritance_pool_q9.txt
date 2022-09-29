@@ -1,0 +1,3 @@
+Sickle cell anemia is an autosomal recessive disorder. If two heterozygous
+                individuals breed, what is the chance that their offspring will develop Sickle cell
+                anemia? 

@@ -1,0 +1,6 @@
+Information contained in DNA is used in two ways: it must be transmitted to the next
+			generation of cells and used to make proteins. Prior to cell division, all DNA must be
+				copied (DNA replication), so that the two daughter cells have
+			the same DNA as the original cell. Thus, the information carried in the DNA is precisely
+			duplicated to maintain consistency throughout the person’s body and throughout the
+			person's life. 

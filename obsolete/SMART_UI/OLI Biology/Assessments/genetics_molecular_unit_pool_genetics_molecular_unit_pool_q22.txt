@@ -1,0 +1,2 @@
+Which DNA sequences must a synthetic gene contain in order for the gene to be
+            inserted into the expression plasmid?

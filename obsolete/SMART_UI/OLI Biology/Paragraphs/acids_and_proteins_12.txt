@@ -1,0 +1,9 @@
+Amino acids are small organic chemicals that can be identified by their common
+			structures. All amino acids have a nitrogen containing amino group, a carboxylic acid
+			group, and and a single carbon between the amino and carboxylic acid groups. This carbon
+			is called the alpha carbon since it is directly attached to the carboxyl group. The
+			amino differ in the nature of the organic group that is attached to the central alpha
+			carbon. The different organic groups are referred to as “R-groups”. There are 20
+			different R-groups commonly found in nature. Thus amino acids are identical except for
+			the different R-groups attached to the alpha carbon. The properties of different
+			proteins depends entirely on the sequence, or arrangement of the amino acids.

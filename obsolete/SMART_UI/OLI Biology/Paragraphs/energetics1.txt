@@ -1,0 +1,3 @@
+ The operation of a metabolic pathway produces (catabolic) or consumes (anabolic) energy.
+      There are a number of different forms of energy storage that are found in metabolic pathways.
+      These include:

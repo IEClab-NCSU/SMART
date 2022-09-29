@@ -1,0 +1,5 @@
+
+First, the expression plasmid contains a section of DNA that is an origin of
+                replication. This ensures that when it is placed into a bacterial host cell, it will
+                be successfully replicated. The origin of replication on the plasmid is similar to
+                the origin of replication that is found on the bacterial chromosome.

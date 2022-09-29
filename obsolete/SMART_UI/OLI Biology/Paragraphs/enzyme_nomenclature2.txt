@@ -1,0 +1,2 @@
+There are thousands of different enzymes in any cell. Most enzymes bind a specific substrate,
+    perform a simple chemical change on that substrate, and then release a product.

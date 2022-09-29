@@ -1,0 +1,2 @@
+
+total number added per unit time = per capita rate of increase * starting N 

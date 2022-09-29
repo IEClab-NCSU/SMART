@@ -1,0 +1,5 @@
+The rest of this module will focus on the methods of scientific inquiry. Science often
+					involves making observations and developing hypotheses. Experiments and/or further
+					observations are often used to test the hypotheses, and the data gathered are
+					carefully interpreted. Methods and results are then communicated to other
+					scientists within peer-reviewed scientific journals.

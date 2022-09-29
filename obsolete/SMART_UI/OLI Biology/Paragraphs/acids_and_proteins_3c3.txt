@@ -1,0 +1,4 @@
+An example of an enzyme that is involved in catabolism is lactase. Lactase is produced in the
+				intestinal tract of mammals and breaks the sugar in milk, lactose, down into the
+				monosaccharides glucose and galactose so that they can be metabolized to produce
+				energy.

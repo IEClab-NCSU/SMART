@@ -1,0 +1,9 @@
+The next step in cellular respiration is the citric acid cycle (or “Krebs” cycle)
+					which happens in the inner space of the mitochondria. In this step
+					the 3 carbon pyruvate from glycolysis is broken down into a
+					2-carbon molecule called “acetyl CoA”. The extra carbon is released as carbon
+					dioxide (CO2). The 2-carbon acetyl CoA is bound to a 4-carbon
+					molecule called Oxaloacetate to make a 6-carbon molecule called Citric Acid (which is where the cycle gets its name). The 6-carbon
+					citrate is then broken back down into the 4-carbon oxaloacetate. The energy
+					released from this process is used to build 1 ATP, 3 NADH, and 1
+						FADH2. 

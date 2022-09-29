@@ -1,0 +1,4 @@
+The following table summarizes the major structures found in cells and the
+					primary function of each structure. In addition, it lists the types of cells in
+					which each structure is found. (There are many other important structures and
+					features of cells. The table below shows only the most important structures.) 

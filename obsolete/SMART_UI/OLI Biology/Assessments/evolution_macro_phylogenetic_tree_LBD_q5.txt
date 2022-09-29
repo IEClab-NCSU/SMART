@@ -1,0 +1,12 @@
+
+
+Now we can split off the Sea Turtle, Human, and House Mouse and place them in
+                    their own clade, the amniotes. The Salamander is a tetrapod, but it is not an
+                    amniote: like the Carp, it lays soft gelatinous eggs with no amniotic membrane
+                    around the embryo. This grouping can be shown as follows:
+
+The tetrapod ancestor was an animal unlike anything that lives today. It was a
+                    large fishlike animal whose stubby fins were partly modified to form grasping
+                    limbs. Based on fossils that have been discovered and on genetic studies, the
+                    first tetrapod lived over 400 million years ago. Based on the data we have
+                in our Table, which grouping of species do you think will be supported next? 

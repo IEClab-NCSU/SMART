@@ -1,0 +1,6 @@
+Metabolism is the sum of all chemical activity within a living
+                                organism; it is the sum of all of the metabolic pathways within an
+                                organism. A metabolic pathway is a series of chemical
+                                conversions, each of which is catalyzed (generally speeded up, but
+                                sometimes slowed down) by an enzyme (protein catalyst). 
+                            

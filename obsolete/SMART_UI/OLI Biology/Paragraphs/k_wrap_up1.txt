@@ -1,0 +1,9 @@
+ In the tutorial you learned that the equilibrium constant Ka is the
+					same for an acid regardless of the starting concentration. Ka
+					describes the relationship between the concentration of the protonated acid and
+					the charged dissociated species at equilibrium. You also saw that even though
+						Ka is constant, the values of the concentration of each species
+					was varying over time. After an initial rapid dissociation of the acid, an
+					equilibrium was reached. At equilibrium, the number of individual molecules will
+					fluctuate, but on average, a balance, or equilibrium mixture, is maintained. The
+					balance of products and reactants is defined by Ka. 

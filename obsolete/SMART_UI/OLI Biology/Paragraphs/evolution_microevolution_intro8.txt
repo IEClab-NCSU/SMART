@@ -1,0 +1,7 @@
+The pea plant example only looks at one trait of the plants, seed color, but there are
+			many other genes present in this population. A gene pool includes all of the genes and alleles in a population, not just
+			those for a particular trait. So the gene pool for this pea plant population actually
+			contains genes and alleles that influence thousands of different traits. Some of these
+			traits are visible, such as plant height and flower color. Other genes may determine how
+			resistant the plants are to diseases and pests, how they respond to drought or freezing,
+			and many more features that are important to peas - and to gardeners.

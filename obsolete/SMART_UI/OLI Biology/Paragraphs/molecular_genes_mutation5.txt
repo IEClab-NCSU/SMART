@@ -1,0 +1,3 @@
+
+Missense mutations. A missense mutation changes a letter in DNA and also
+				changes the encoded amino acid. It changes the meaning of the message as below:

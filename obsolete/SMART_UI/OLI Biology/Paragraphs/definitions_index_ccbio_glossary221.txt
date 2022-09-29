@@ -1,0 +1,5 @@
+ Methane is a small molecule composed of 5 atoms. Other molecules,
+                                such as polysaccharides or proteins, may be humongous containing
+                                thousands of atoms bonded together. Other characteristics of a
+                                molecule are the structure (three dimensional shape), chemical
+                                reactivitiy, and solvency. 

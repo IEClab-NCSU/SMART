@@ -1,0 +1,6 @@
+The central dogma of molecular biology describes the flow of information from DNA
+                    to protein. In this module you learned about transcription and translation. You
+                    also learned about mutations (changes in the DNA sequence) and how to predict
+                    their effects. At the end we discussed a real life example in which genes and
+                    environmental factors interact to produce an important health outcome (breast
+                    and ovarian cancer).

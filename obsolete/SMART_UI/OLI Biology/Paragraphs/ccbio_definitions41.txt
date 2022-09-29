@@ -1,0 +1,4 @@
+A characteristic of a subject that can vary from one subject to the next or
+                        over time. A variable may be a category to which a subject can be assigned
+                        (for example: male or female) or it may be measured precisely (for example:
+                        body mass).

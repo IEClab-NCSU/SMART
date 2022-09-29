@@ -1,0 +1,3 @@
+Now let’s imagine that the population is at 50% of its carrying capacity. How much
+                of an annual harvest could be sustained while keeping the population level
+                constant?

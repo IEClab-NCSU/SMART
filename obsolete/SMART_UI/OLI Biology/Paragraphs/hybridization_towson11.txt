@@ -1,0 +1,6 @@
+You measure a known amount of double stranded DNA at body temperature (37°C) and
+        get an absorbance reading indicated at point A on the graph below. You take that same
+        concentration of DNA and raise the temperature to 65°C, when you measure the absorbance
+        you get the reading indicated at point B. You take that same concentration of DNA and
+        increase the temperature once more to 95°C, when you measure the absorbance you get
+        the reading indicated at point C.

@@ -1,0 +1,5 @@
+In this unit, you will learn about the cell and all the parts that
+			make it functional. You will also focus on the cell membrane, which is the structure
+			that surrounds the cell and separates its internal environment from the external
+			environment. This separation enables the cell to maintain homeostasis and exhibit the
+			emergent property of life.

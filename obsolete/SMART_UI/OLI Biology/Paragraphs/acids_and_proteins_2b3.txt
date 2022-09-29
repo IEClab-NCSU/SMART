@@ -1,0 +1,4 @@
+Many folded proteins bind small organic molecules that assist the protein in
+					performing its function. For example, the heme group in myoglobin (colored
+					purple in the right image) is responsible for binding oxygen in muscles. The
+					oxygen transport protein, hemoglobin, also contains heme groups.

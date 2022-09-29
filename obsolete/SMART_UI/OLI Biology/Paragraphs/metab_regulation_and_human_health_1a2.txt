@@ -1,0 +1,8 @@
+Note that when “calories” are being discussed in reference to food consumption, the word
+			"calorie" actually refers to a kilocalorie. One kilocalorie is the amount of energy
+			required to raise the temperature of one kilogram of water by one degree Celsius. It is
+			the unit typically used when discussing human nutrition and energy balance. For your
+			reference, a typical adult male requires about 2,500 calories per day; a female of
+			average size might require 2,000 calories daily. The body’s calorie requirement declines
+			with age, and depends on many factors, including body size, sex, and physical
+			activity.

@@ -1,0 +1,5 @@
+Natural communities are home to thousands of species; each species may interact
+                    directly with hundreds of others. Moreover, species can also participate in
+                    indirect interactions; in such cases the two species do not contact each other
+                    directly, but they affect each other through a chain of cause and effect.
+                    Therefore ecological communities are exceedingly complex. 

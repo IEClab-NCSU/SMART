@@ -1,0 +1,6 @@
+This is how the cycling between photosynthesis and cellular respiration occurs: in
+					photosynthesis, carbon dioxide and water, in the presence of light energy, are
+					converted to make glucose and oxygen; while in cellular respiration, the
+					products of photosynthesis (glucose and oxygen) are metabolized to make energy
+					in the form of ATP and heat, releasing carbon dioxide and water. Because each
+					process starts where the other ends, they form a cycle. 

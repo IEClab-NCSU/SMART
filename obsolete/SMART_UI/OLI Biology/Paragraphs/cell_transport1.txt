@@ -1,0 +1,5 @@
+The cell membrane creates a physical barrier between the interior and exterior of the
+			cell. Only some small molecules and ions can cross the membrane freely. For all other
+			molecules there are specific proteins that allow molecules to cross the membrane. These
+			proteins are very specific to the type of molecule they transport, just as enzymes are
+			very specific for their ligands.

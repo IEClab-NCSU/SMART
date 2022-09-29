@@ -1,0 +1,4 @@
+A single stranded end on DNA. Produced by the activity of most
+                                restriction endonucleases. The bases on one single stranded segment
+                                can "stick" to another single stranded end by forming complementary
+                                hydrogen bonds between the bases on each strand. 

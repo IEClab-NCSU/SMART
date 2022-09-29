@@ -1,0 +1,7 @@
+Eukaryotes comprise plant and animals, but also fungi (singular fungus, for example molds and mushrooms) as well as
+				protists, a group of single-celled eukaryotes. One simplified but
+			useful analogy of a cell is that of a factory. Just as in a factory, cells have walls, a
+			planning center where the product blueprints are stored, a source of energy, an assembly
+			line for production, packaging and shipping facilities, storage facilities etc. In this
+			module we will explore the different components of the cells and examine their
+			specialized functions.

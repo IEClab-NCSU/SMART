@@ -1,0 +1,3 @@
+Mendel also coined the terms dominant and recessive to describe the expression of
+                    only one form of the gene when both are present in the same organism (that is,
+                    when an organism is heterozygous for the gene).

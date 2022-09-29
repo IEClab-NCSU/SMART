@@ -1,0 +1,8 @@
+Environmental conditions can also affect cellular homeostasis. If the cell’s surroundings
+            change quickly, conditions inside the cell may be temporarily disturbed. Organisms react
+            to these changes in a corrective way: they detect changes and do something to oppose
+            them. For example, when you get cold, your muscles start to contract in rapid bursts,
+            causing you to shiver. The process of shivering then generates heat that warms you back
+            up again. As a result of this and other adjustments, your temperature is maintained
+            close to 99 degrees F (Fahrenheit) [37 degrees C (Celsius)]. At this temperature, your enzymes work very
+            efficiently. 

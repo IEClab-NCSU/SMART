@@ -1,0 +1,4 @@
+Electrons fill up lower shells before moving to the next higher shell. The electrons that
+					occupy the outermost shell are called valence electrons and are the
+					electrons that are involved in chemical bonding. The chemical properties of an
+					element depend mostly on the number of valence electrons.

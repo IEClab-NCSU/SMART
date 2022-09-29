@@ -1,0 +1,4 @@
+
+When viruses infect cells, the viral DNA enters the cell and coerces the
+							cell’s machinery to make more virus particles. The newly synthesized
+							viruses then leave the cell and infect other cells. 

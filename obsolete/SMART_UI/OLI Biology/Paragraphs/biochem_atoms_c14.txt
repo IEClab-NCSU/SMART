@@ -1,0 +1,8 @@
+The units of atomic mass are Daltons, abbreviated Da, named after the British scientist John Dalton. One Da is equal to
+					1.66 x 10-27 kg, which is the mass of a single hydrogen (H) atom.
+					Helium (He) has a mass of 4 Da or 6.67 x 10-27 kg. Because the mass
+					of a single atom is so small, it is not a convenient unit for everyday use.
+					Typically, the atomic mass is multiplied by the number of atoms in
+					a mole to give the atomic weight in grams. A mole contains 6.022 x
+						1023 particles and is defined as the number of particles of
+					carbon (C) that give an atomic weight of 12 grams. 

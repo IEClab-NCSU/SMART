@@ -1,0 +1,5 @@
+Chirality: Because there are four different groups attached to the central carbon, the
+					–carbon is an asymmetric or chiral center. The chiral center gives rise to D and
+					L enantiomers for each amino acid. However, where bioselectivity dictated the
+					dominance of D carbohydrates, the same discrimination process for amino acids
+					gives rise to the dominance of the use of L amino acids in nature.

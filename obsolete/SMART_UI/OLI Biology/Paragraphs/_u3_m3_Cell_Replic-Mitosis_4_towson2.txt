@@ -1,0 +1,7 @@
+A healthy cell has many genes that produce proteins involved in the process of regulating cell
+				division. Some of these genes produce proteins that encourage cell division. These proteins would be
+				produced under circumstances where the cell should divide. For example, if you scrape
+				your knee, the cells in that area need to be replaced. Other genes produce proteins that
+				inhibit cell division. For example, healthy human cells grown on a petri dish would stop
+				growing when they filled the dish. This is also an essential component of regulation.
+				Cells that continue dividing when they should not can cause cancer.

@@ -1,0 +1,4 @@
+Two types of pathways can be distinguished based on how they change the complexity of
+			molecules: catabolic and anabolic pathways. Catabolic pathways break down large,
+			complex molecules into simple ones and release energy. Anabolic pathways build complex
+			molecules from simple building blocks.

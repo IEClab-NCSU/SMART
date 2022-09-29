@@ -1,0 +1,8 @@
+Atoms are tiny particles that are put together to build living organisms. While
+					atoms do not possess life, they are required for life. The atom is the smallest
+					organizational level that we will explore in this course, and you will learn
+					more about atoms in  Unit 2: Introduction to Chemistry. You will also
+					learn how atoms can be linked together by chemical bonds to form molecules. In
+						Unit 3: Biological Macromolecules, you will focus on the four
+					classes of carbon-based macromolecules that comprise living systems:
+					carbohydrates, fats, proteins and nucleic acids.

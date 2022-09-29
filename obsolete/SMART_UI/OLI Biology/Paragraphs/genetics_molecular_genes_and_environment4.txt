@@ -1,0 +1,9 @@
+Long-term heritable changes can be produced by the environment at the level of
+                    DNA. Any environmental influence that can damage DNA has the potential to create
+                    mutations that can result in changing amino acid sequence of a protein or
+                    regulatory information. For example, high-energy radiation causes
+                    double-stranded breaks in DNA that can lead to deletions. UV light causes single
+                    nucleotide changes in DNA. Environmental toxins and viruses also cause
+                    mutations. Cumulative DNA damage in somatic cells throughout an organism’s
+                    lifetime contributes to the aging process. Only mutations in germ cells result
+                    in heritable changes passed on to the next generation of offspring.

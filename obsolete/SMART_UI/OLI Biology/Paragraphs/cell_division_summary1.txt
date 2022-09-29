@@ -1,0 +1,6 @@
+Cell division is an essential life process that ensures the passage of genetic information from
+			one generation to the next. Mitosis results in two identical diploid cells and occurs in
+			somatic cells. Meiosis results in four unique haploid cells and takes place in the
+			gonads. Two different processes are necessary because they serve two different
+			functions. Mitosis allows for growth of an organism and replacement of cells. Meiosis
+			allows for sexual reproduction. 

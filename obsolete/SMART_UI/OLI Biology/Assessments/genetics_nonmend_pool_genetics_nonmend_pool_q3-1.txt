@@ -1,0 +1,6 @@
+Use the following information to answer the next three questions.
+In humans, there are three alleles for blood type: A, B, and O. A and B are codominant
+            over O. Suppose Jim, a man with type A blood, and Leah, a woman with type B blood, have
+            a child, Winnie. Jim’s parents both have blood type AB. Leah’s mother has type B, and
+            her father has type O. 
+Part 1 of 3: What is the probability that Winnie’s blood type will be AB?

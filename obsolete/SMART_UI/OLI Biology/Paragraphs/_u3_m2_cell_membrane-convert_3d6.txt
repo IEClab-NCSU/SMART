@@ -1,0 +1,6 @@
+People with cystic fibrosis have respiratory difficulties, usually caused by
+					unusually thick mucus in the respiratory tubes in the lungs. In the lungs, CFTR
+					transporters secrete chloride ions into the center of the respiratory tubes.
+					This increases the concentration of solutes in the mucus lining the tubes, which
+					in turn causes water to flow into the space inside the tubes (yellow). Under
+					normal conditions, this process allows for a runny mucus to line the tubes.

@@ -1,0 +1,5 @@
+Epigenetics is the study of heritable changes in gene expression or
+                                cellular phenotype that are not the result of changes in the
+                                underlying DNA sequence (i.e., mutations) but rather through
+                                different mechanisms (e.g., DNA methylation or histone remodeling).
+                            

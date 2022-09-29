@@ -1,0 +1,5 @@
+In this module, you will learn about how genetic information is stored in DNA and copied
+            for the next generation. You will also look at a practical application of the process of
+            DNA replication called the polymerase chain reaction (PCR). In the next module, you will
+            learn how the genetic information stored in genes is expressed, resulting in the variety
+            of traits and phenotypes of all organisms.

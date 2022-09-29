@@ -1,0 +1,6 @@
+The order of nucleotides in a gene (in DNA) is the key to how information is stored.
+                For example, consider these two words: stable and tables. Both words are built from
+                the same letters (subunits), but the different order of these subunits results in
+                very different meanings. In DNA, the information is stored in units of 3 letters.
+                Use the following key to decode the encrypted message. This should help you to see
+                how information can be stored in the linear order of nucleotides in DNA.

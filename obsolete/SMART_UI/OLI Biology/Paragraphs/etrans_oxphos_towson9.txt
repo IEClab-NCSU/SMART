@@ -1,0 +1,8 @@
+
+Electrons from NADH and FADH2 are transferred to oxygen, generating
+            water.
+Electron transport is spontaneous and releases energy. This energy is stored by
+            transporting protons across the inner membrane.
+Oxidation of NADH results in 10 protons transported across the inner membrane.
+Oxidation of FADH2 results in 6 protons transported across the inner
+            membrane.

@@ -1,0 +1,9 @@
+The dependence of the reaction velocity on the kinetics of substrate binding,
+					substrate release, and conversion to product is difficult to calculate under all
+					conditions. However, if steady-state conditions are assumed then a very
+					simple relationship can be found. Steady-state conditions imply that during the
+					measurement the concentrations of the various species, e.g. [ES] ,do not change.
+					Under steady-state conditions the following equation describes the relationship
+					between the measured rate (v) of the reaction and the initial concentration of substrate
+					(S) and the concentration of the enzyme. This equation is the Michaelis
+					Menton-Briggs Haldane equation.

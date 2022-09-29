@@ -1,0 +1,6 @@
+ In most biochemical redox reactions a total of two electrons are transferred. These
+          electrons are often transferred as hydrogen atoms, containing a proton and electron. Two
+          common electron acceptors are NAD+ (nicotinamide adenine dinucleotide) and FAD
+          (flavin adenine dinucleotide). They both can accept two electrons, giving the reduced
+          forms NADH and FADH2, respectively. The structure of the oxidized forms of
+          these compounds are shown below.

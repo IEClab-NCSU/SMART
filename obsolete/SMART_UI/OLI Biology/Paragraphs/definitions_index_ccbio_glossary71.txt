@@ -1,0 +1,3 @@
+A clade is composed of a common ancestor and all species that descend
+                                from this common ancestor. A clade forms a distinct branch on the
+                                tree of life.

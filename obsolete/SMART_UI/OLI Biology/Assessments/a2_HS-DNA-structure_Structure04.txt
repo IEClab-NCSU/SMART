@@ -1,0 +1,1 @@
+A pyrimidine base consists of a six member ring of C and N atoms fused to a 5-member ring of C and N atoms.

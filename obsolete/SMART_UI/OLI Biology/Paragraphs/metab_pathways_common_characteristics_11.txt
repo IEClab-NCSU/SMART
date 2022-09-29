@@ -1,0 +1,7 @@
+In the previous modules, you learned about metabolic pathways in cells — those “freeways”
+			that shuttle energy and carbon in different directions. Metabolic pathways can be either
+			anabolic or catabolic. Anabolic pathways build things up and catabolic pathways break them back
+			down again, sometimes as a source of energy, other times to obtain building materials.
+			Among the main pathways of the cell are photosynthesis and cellular
+				respiration, although there are a variety of alternative pathways such as
+			fermentation.

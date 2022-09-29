@@ -1,0 +1,12 @@
+ PCR is limited by the length of DNA that can be repeatedly replicated by DNA polymerase.
+          Different polymerases and different conditions are described to amplify DNA of varying
+          lengths. Routinely, segments of DNA from 500 to 1000 bp in length are easily replicated.
+          The segment of DNA to be replicated is defined by the position of the primers that define
+          the start of the replication on each strand. These are referred to as the forward
+            primer and the reverse primer. The double stranded DNA to be amplified is
+          melted by raising the temperature high enough to fully melt the DNA creating single
+          stranded DNA. The sample is cooled in the presence of the primers and each primer binds to
+          its complementary strand. The appropriate substrate conditions for DNA polymerase binding
+          and synthesis are now in place. DNA polymerase is added with the dNTPs and synthesis of
+          DNA proceeds for as long as the reaction is allowed to progress before either the time of
+          the reaction ends or the DNA polymerase falls off the substrate. 

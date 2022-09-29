@@ -1,0 +1,2 @@
+A gene codes for a protein that is 500 amino acids long. Which of the following
+            mutations is likely to be the most deleterious?

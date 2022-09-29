@@ -1,0 +1,3 @@
+Shared features/traits that were inherited from the same source and
+                                reflect common ancestry. Remember these features/traits are based in
+                                genes (not acquired through learning or the environment). 

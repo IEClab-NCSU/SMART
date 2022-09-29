@@ -1,0 +1,2 @@
+Based on these data, what was the annual per capita rate of birth? Round to two
+                decimal places.  births per deer per year 

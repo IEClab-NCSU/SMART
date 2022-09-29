@@ -1,0 +1,4 @@
+An ion is an atom or a molecule that carries a charge. Negatively charged ions, 
+                        called anions, form when a neutral molecule or atom gains one or more electrons.  
+                        Positively charged ions, called cations, form when a neutral molecule or atom looses one 
+                        or more electrons.

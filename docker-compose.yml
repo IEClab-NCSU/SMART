@@ -1,0 +1,11 @@
+version: "3.1"
+
+services:
+    smart-api:
+        build: .
+        image: smart-edx:latest
+        restart: always
+        ports:
+          - 9111:8080
+        env_file:
+          - ./smart.env

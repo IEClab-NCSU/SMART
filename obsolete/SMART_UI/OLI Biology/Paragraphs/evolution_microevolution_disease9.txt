@@ -1,0 +1,11 @@
+Now that we have learned how our understanding of evolution can be used to help fight
+			HIV, let’s see if we can apply that knowledge to an even more complicated infectious
+			disease: malaria. Malaria is an ancient disease that has been around for over 50,000
+			years! Malaria is caused by four parasites of the Plasmodium
+			genus: Plasmodium falciparum, Plasmodium vivax, Plasmodium
+				ovale, and Plasmodium malariae. These protists (eukaryotes) have complicated
+			life-cycles that require both a mosquito host and a human host, and the parasite
+			undergoes many developmental stages within these two hosts. Humans become infected with
+			the malarial parasites when they are bitten by an infected mosquito. Similarly,
+			uninfected mosquitoes can pick up the parasites when they ingest blood from an infected
+			human.

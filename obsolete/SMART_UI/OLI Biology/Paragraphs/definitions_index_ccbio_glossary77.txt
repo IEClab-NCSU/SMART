@@ -1,0 +1,5 @@
+Due to degeneracy in the genetic code, more than one codon can code
+                                for the same amino acid. Different organisms prefer one codon over
+                                another. The process of codon optimization is the use of prefered
+                                codons when designing a gene to be expressed in a certain organism.
+                            

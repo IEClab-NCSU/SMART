@@ -1,0 +1,5 @@
+Let’s look at the possible outcomes of mutations on the gene pool of a population.
+				There is a population of wild flowers in a field near your house. The center of the
+				flowers (where the pollen is located) is either white or orange. The orange color is
+				more prevalent in the population and is thought to be more attractive to pollinating
+				insects.

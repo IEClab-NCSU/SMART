@@ -1,0 +1,15 @@
+Cells may find themselves in three different sorts of solutions. The terms isotonic,
+			hypertonic, and hypotonic refer to the concentration of solutes outside the cell
+			relative to the solute concentration inside the cell. In an isotonic solution, solutes
+			and water are equally concentrated within and outside the cell. The cell is bathed in a
+			solution with a solute concentration that is similar to its own cytoplasm. Many medical
+			preparations (saline solutions for nasal sprays, eye drops, and intravenous drugs) are
+			designed to be isotonic to our cells. A hypotonic solution has a low solute
+			concentration and a high concentration of water compared to the cell's cytoplasm.
+			Distilled (pure) water is the ultimate hypotonic solution. If a cell is placed in a
+			hypotonic solution, it will tend to gain water. The solutes will "stay put" within the
+			cell, but water molecules will diffuse such that their net flow is toward the area with
+			a higher concentration of solutes. A hypertonic solution has a high solute concentration
+			(lower water concentration) compared to the cell cytoplasm. Very salty or sugary
+			solutions (brines or syrups) are hypertonic to living cells. If a cell is placed in such
+			a solution, water tends to flow spontaneously out of the cell. 

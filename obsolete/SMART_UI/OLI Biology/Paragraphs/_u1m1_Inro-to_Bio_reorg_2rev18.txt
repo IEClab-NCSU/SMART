@@ -1,0 +1,4 @@
+Genetic information contains the instructions for carrying out life
+							processes. In order for life to continue, organisms must pass
+							information to the next generation. This unit discusses how genetic
+							information is passed from one generation to the next.

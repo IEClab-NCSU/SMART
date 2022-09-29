@@ -1,0 +1,30 @@
+
+
+Silent mutation – Because of the degeneracy of the genetic code, multiple
+				triplet codes represent the same amino acid. Thus, a change in the sequence for a
+				code may not result in a change in amino acid. This particularly applies to the
+				wobble or third base in a triplet code sequence. Thermophylic bacteria that operate
+				optimally at high temperatures have optimized the use of the degeneracy to include
+				codons with high G and C content to increase the thermal stability (higher melting
+				temperature) of the resulting duplex DNA. 
+
+Missense mutation – Some mutations result in the changing of a codon to
+				represent a different amino acid. Missense mutations that change the amino acid can
+				have no effect on the structure of a protein or may have a dramatic effect on the
+				folding of a protein causing loss of function.
+
+Nonsense mutation – Another class of mutations may result in the changing
+				of a codon to one of the three termination or stop codons. This will result in
+				premature stop in the translation of a protein. Such a mutation at the beginning of
+				the translation sequence will generally result in total loss of function which some
+				nonsense mutations near the normal termination of the coding sequence may have
+				little or no effect on the function of the resulting protein.
+
+Frame-shift mutations – Occasionally a mutation will occur that results in
+				either the insertion or deletion of an extra base in the coding sequence. This type
+				of mutation results in a shifting of the “reading” frame for the triplet codes after
+				the insertion or deletion and production of a meaningless sequence of protein after
+				that point. Again depending on where the insertion or deletion occurs, the effect
+				can vary on the final product. It should also be noted that this reading frame shift
+				will also change the position of the termination codon giving either a premature
+				termination of the translation or an extended coding sequence.

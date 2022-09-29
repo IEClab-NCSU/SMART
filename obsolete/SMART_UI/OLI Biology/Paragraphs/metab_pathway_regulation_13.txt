@@ -1,0 +1,6 @@
+There are two major methods of pathway regulation. The first method involves changing the
+			amount of the enzymes in the pathway. Since the reactions are catalyzed by the enzymes,
+			if the enzyme is not present, the pathway is effectively shut off. Enzyme levels are
+			usually altered by controlling the amount of mRNA produced from the gene that
+			encodes the enzyme. You will explore how enzyme levels are regulated in the section on
+			transcription.

@@ -1,0 +1,11 @@
+Proteins spontaneously fold to form their functional three-dimensional shape, reaching the
+					lowest energy state, because this is the most stable state. The folding process
+					can be reversible, meaning that a folded protein can unfold and then refold.
+					However, unfolding can also be irreversible, where the unfolded protein chains
+					tangle with each other, forming an aggregate and precipitating out of solution.
+					This is often referred to as a denatured state. Conditions that
+					cause proteins to unfold and denature are extremes of temperature and pH.
+					Cooking denatures proteins by heating so they unfold and denature. The same
+					effect occurs when proteins are exposed to the low pH in your stomach. This
+					helps your body digest the proteins found in your food, and it helps kill
+					ingested bacteria and viruses.

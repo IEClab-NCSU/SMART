@@ -1,0 +1,2 @@
+When a protein with multiple chains, such as hemoglobin, is treated with SDS and heat: 
+        

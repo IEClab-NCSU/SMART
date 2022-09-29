@@ -1,0 +1,4 @@
+Enzymes catalyze many different types of chemical reactions. Some of the
+			reactions are synthetic and result in products that are more complex than the
+			original substrates. This is often done by binding two substrates together.
+			Synthetic metabolic pathways like this are called anabolic pathways.

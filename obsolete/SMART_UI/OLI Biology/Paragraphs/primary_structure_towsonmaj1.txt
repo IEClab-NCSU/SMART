@@ -1,0 +1,8 @@
+
+    		A protein is composed of amino acids attached in a linear order. This basic level of protein
+    			structure is called it's primary structure and derives from the formation of peptide
+    			bonds between the individual amino acids.
+    			The order of the amino acids is determined by information encoded in the cell's genes. An
+    			example of a protein sequence is shown below where the one letter abbreviations are used for each of the 20 amino acids used in cellular protein synthesis. 
+    			
+        

@@ -1,0 +1,17 @@
+If you look at people around you, you will probably notice a fairly large variation in
+            height. Some people are taller than you, while others are shorter than you. Consider
+            this trait as an example that you want to understand on the molecular level. What kinds
+            of molecules may be involved in determining a person’s height? If you and your parents
+            are relatively short (or tall), you may say that you inherited the short (or tall)
+            stature from your parents. What molecule is involved in the
+            transmission of information from one generation to the next? DNA. How does information
+            contained in DNA affect your height? One possible explanation is that your DNA contains a gene
+            encoding a protein called growth hormone. This protein is produced by the pituitary
+            gland, travels to other tissues, and delivers a signal for the cells to grow and divide.
+            Changes in the amount of protein produced or the sequence of amino acids in
+            the protein can affect the function. If bone and muscle cells receive only a small
+            number of signal molecules, the person will end up with a short stature. If they receive
+            a large number of signal molecules, the person may end up being very tall. For a
+            signaling protein (hormone) to deliver the signal, there must be a protein that can bind
+            the hormone and receive the signal (receptor protein). The variation in height will
+            result from any of the following:

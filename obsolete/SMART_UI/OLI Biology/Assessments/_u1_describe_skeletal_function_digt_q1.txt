@@ -1,0 +1,5 @@
+Anne Smith is a 38 year old Caucasian female who was recently diagnosed with
+                leukemia (cancer of the blood cells). She had undergone 2 rounds of chemotherapy and
+                has to have blood work done to check her levels of red blood cells, white blood
+                cells, and platelets. Her last results showed a decrease in her red cells and
+                platelets. Why might this have happened?

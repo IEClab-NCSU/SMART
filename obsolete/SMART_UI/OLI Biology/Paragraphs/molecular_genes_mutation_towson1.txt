@@ -1,0 +1,6 @@
+None of the processes discussed so far are free of errors. Errors can be made during
+			transcription if incorrect nucleotides are incorporated into the growing RNA strands.
+			Errors can happen during translation if incorrect amino acids are inserted into a
+			growing protein, or if translation is terminated too soon. Errors during gene expression
+			have generally short-lived effects and can be overcome by additional RNA or protein
+			synthesis. 

@@ -1,0 +1,7 @@
+Lactase breaks lactose into galactose and glucose by adding a water molecule to
+                    the bond between the two sugars. Without adequate lactase, ingested lactose from
+                    milk and cheese is not broken down, and therefore cannot be absorbed in the
+                    small intestine. Instead, the lactose goes to the large intestine, where it is
+                    eaten by bacteria that live there. After metabolizing the lactose, the bacteria
+                    produce large volumes of carbon dioxide (CO2) gas, which results in significant
+                    discomfort for the individual lacking lactase.

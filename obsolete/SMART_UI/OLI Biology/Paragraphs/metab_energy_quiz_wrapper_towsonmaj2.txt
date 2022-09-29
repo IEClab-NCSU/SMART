@@ -1,0 +1,5 @@
+Ultimately, energy for life comes from the sun. It is captured by plants through
+                    the process of photosynthesis (an anabolic process) and is stored in the form of
+                    glucose (a sugar). Living organisms can then go through the process of cellular
+                    respiration (a catabolic process) to transform the energy stored in the glucose
+                    into ATP, which is used to do work in the cell. 

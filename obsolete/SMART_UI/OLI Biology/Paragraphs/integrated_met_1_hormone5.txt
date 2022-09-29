@@ -1,0 +1,10 @@
+
+The signalling pathway that is activated by the hormones glucagon and
+          epinephrine begins with the activation of a G-protein by exchange of bound GDP
+        for GTP. The G-protein then activates adenyl cyclase, an enzyme that converts ATP to cAMP
+        (cyclic AMP). The cAMP then activates a protein kinase, leading to the
+        phosphorylation of a number of enzymes in the cell. 
+The binding of Insulin to its receptor also causes a conformational change in the
+        receptor. Subsequent signalling steps do not involve G-proteins and they ultimately lead to
+        the activation of a protein phosphatase, causing the dephosphoryation of enzymes in
+        the cell.

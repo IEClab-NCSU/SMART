@@ -1,0 +1,2 @@
+
+Organisms can tolerate environments that vary widely by maintaining stable internal conditions

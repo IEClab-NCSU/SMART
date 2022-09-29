@@ -1,0 +1,4 @@
+ Now we will build larger aldoses by adding one carbon at a time to the structure. In
+			doing this, two components will remain unchanged, the aldehyde group will always be the
+			number one carbon and the bottom or last two carbons will always represent the D form of
+			the carbohydrate (monosaccharide).

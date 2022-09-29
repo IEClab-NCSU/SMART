@@ -1,0 +1,5 @@
+Promoters can be characterized as being strong or weak promoters depending on their affinity
+      for RNA polymerase. The result of a strong promoter with a high affinity (tight binding) to
+      RNA polymerase is a greater frequency of starting transcription from that promoter. Therefore,
+      more product from transcription initiated at a strong promoter is possible compared to product
+      formation initiated from a weak promoter in the same amount of time.

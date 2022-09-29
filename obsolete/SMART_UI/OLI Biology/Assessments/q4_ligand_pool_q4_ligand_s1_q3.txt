@@ -1,0 +1,2 @@
+What is the binding affinity (Ka) for curve "A"?   
+    

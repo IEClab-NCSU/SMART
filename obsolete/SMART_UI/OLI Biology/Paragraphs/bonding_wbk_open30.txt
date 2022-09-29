@@ -1,0 +1,9 @@
+The hydrophobic effect does not involve direct bonding between the non-polar
+					molecules, it is an entropy driven process. You may recall that processes that
+					increase the disorder of a system are more favorable. When a hydrophobic
+					molecule is truly dissolved in water, the water forms a highly ordered ice-like
+					shell around the compound. When the hydrophobic molecules contact each during
+					separation of the aqueous and non-polar phases, the ordered water is released
+					and become highly disordered. The increase in disorder of the released water
+					molecules is responsible for the spontaneous assembly of many biological
+					systems, such as proteins and membranes.

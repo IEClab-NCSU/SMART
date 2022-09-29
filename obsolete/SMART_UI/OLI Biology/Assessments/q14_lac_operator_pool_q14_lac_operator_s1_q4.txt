@@ -1,0 +1,2 @@
+Binding of the lac repressor protein to the lac operator causes
+            

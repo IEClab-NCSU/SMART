@@ -1,0 +1,10 @@
+You have already learned that cells are made up of organelles, molecules, atoms, and
+			subatomic particles. These parts assemble into various structures to perform specific
+			functions within the cell. An organelle is a specialized structure
+			formed when a specific set of molecules bond, providing a subunit that performs a
+			particular function within the cell. Many, but not all, organelles are structures
+			enclosed by a membrane. Some structures are the same for both
+					prokaryotic and eukaryotic cell
+			types and some structures are different. The remainder of this page will focus on a
+			handful of structures that all cells have in common. Then, later in this module, you
+			will learn about the structures and characteristics of each cell type in more detail. 

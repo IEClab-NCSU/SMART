@@ -1,0 +1,9 @@
+
+Substrate availability. For many enzymes, the intracellular level of substrate is
+        below the level that half saturates the enzyme. Therefore, if the substrate concentration
+        increases the rate of the reaction will increase due to the formation of additional
+        enzyme-substrate complexes. If the substrate concentration is very low, the increase in the
+        rate of the reaction is almost equal to the increase in substrate concentration.
+Product inhibition. In this case the product of the reaction inhibits the enzyme
+        that generated it, preventing the accumulation of intermediates in a pathway. The product is
+        a competitive inhibitor of the enzyme that just created it.

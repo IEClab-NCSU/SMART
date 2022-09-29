@@ -1,0 +1,3 @@
+Prometaphase is the stage between prophase and metaphase. During this stage, the
+					nuclear envelope is fully broken down. This allows the microtubules to attach to
+					the centromeres of the chromosomes.

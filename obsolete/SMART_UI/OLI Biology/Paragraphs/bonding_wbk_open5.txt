@@ -1,0 +1,6 @@
+Double bonds: Two carbons attached by a double covalent bond can only
+					undergo 180 degree rotations and the atoms bound to these carbons are
+					constrained to lie in the same plane as the carbon atom.. Rotation about the
+					carbon-carbon bond has structural implications for molecules in which they are
+					found. For example, the type of bond can influence the fluidity of biological
+					membranes and restrict the folding of proteins.

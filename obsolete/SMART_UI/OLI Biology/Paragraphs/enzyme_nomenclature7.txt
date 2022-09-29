@@ -1,0 +1,3 @@
+ Alternatively, a kinase may be involved in regulation of enzymes by transferring a phosphate
+      from ATP to a Serine, Threonine, or Tyrosine on the enzyme that is being regulated. The
+      phosphorylated form of the enzyme may be active or inactive.

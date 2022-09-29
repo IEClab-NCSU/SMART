@@ -1,0 +1,5 @@
+A eukaryotic genome resides on multiple linear DNA molecules in the nucleus. Each of
+            these DNA molecules is called a chromosome. Eukaryotic cells
+            also contain DNA in mitochondria and chloroplasts; mitochondrial and chloroplast genomes
+            are circular like those of bacteria, and are typically considered separately from
+            eukaryotic genomes.

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<title>SMART</title>
+
+<head>
+		<link rel="stylesheet" href="static/styles/mystyle.css" type="text/css"/>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	</head>
+
+    <body>
+		<div class = "container">
+
+			<div  id = "loading"></div>
+
+			<div id="content">
+				<h1 class = header>
+
+					SMART<br>
+					(Skill Model mining with Automated detection of Resemblance among Texts)
+
+				</h1>
+
+				<div class ="space" id = "spaceafterhead"></div>
+
+				<form action="" method = "post" enctype="multipart/form-data">
+
+					<div id = "uploaddiv" class = "column center">
+						<div class = space></div>
+						<div class = space></div>
+
+						<label class = "btn btn-primary btn-file"> Upload Paragraphs File
+							<input hidden type="file" id = "uploadp" name="file[]" class = "inputfile">
+						</label>
+						<div class = space></div>
+						<div class = space></div>
+
+						<label class = "btn btn-primary btn-file"> Upload Assessments File
+							<input hidden type="file" id = "uploada" name="file[]" class = "inputfile">
+						</label>
+						  {% if fileerror %}
+							<p class=error><strong>Error:</strong> {{ fileerror }}
+						  {% endif %}
+
+						<div class="space"></div>
+						<p>Total Number of Text Items: {{ w }}</p>
+
+						<div class="space"></div>
+						<p>Total Number of Assessment Items: {{ a }}</p>
+
+					</div>
+
+					<div id = "optionsdiv" class = "column center">
+						<h2 id = "options">Options</h2>
+						<h3>Clustering</h3>
+
+						<div class="funkyradio">
+							<div class="funkyradio-default">
+								<input type="radio" name="clustering" autocomplete="off" id = "paragraph" value="Paragraph" checked>
+								<label for="paragraph">Paragraph Based</label>
+							</div>
+							<div class="funkyradio-primary">
+								<input type="radio" name="clustering" autocomplete="off" id = "sentence">
+								<label for="sentence">Sentence Based</label>
+							</div>
+						</div>
+
+						<div id = "Number of Clusters">
+							<h3>Number of Clusters</h3>
+							<input type="text" name="num_clusters" placeholder="50"/>
+						</div>
+
+						<div id = "Number of Iterations">
+							<h3>Number of iterations</h3>
+							<input type="text" name="num_iterations" placeholder="50000"/>
+						</div>
+
+						<div class = space></div>
+						  {% if error %}
+							<p class=error><strong>Error:</strong> {{ error }}
+						  {% endif %}
+						<div class = space></div>
+
+						<div id = "Run Button" class = "center">
+							<input type="submit" id = "run" value = "Run" class = "btn btn-primary btn-lg" onclick="loading()"/><br>
+						</div>
+					</div>
+
+				</form>
+
+				<div id = "downloaddiv" class = "column center">
+					<div>
+						<p>Assessment to Skill Mapping:</p>
+						<a href="/download1">
+							<button id = "downloadbutton" class = "btn btn-primary">Download file</button>
+						</a>
+					</div>
+
+					<div class = space></div>
+
+					<p>Text to Skill Mapping</p>
+					<a href="/download2">
+						<button id = "b" class = "btn btn-primary">Download file</button>
+					</a>
+
+					<div class = space></div>
+
+					<!--a href="/download3">
+						<button id = "d">Download file</button>
+					</a-->
+					<div class = "space"></div>
+					<p id = "skill model">Skill Model:</p>
+					{% for  skill in skills %}
+					<p>{{loop.index0+1}}. {{ skill }}</p>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
+
+		<div id="footer">Created by Abhishek Sharma<br> Contact: <a href="mailto:mailabhi098@gmail.com">mailabhi098@gmail.com</a></div>
+
+	</body>
+</html>

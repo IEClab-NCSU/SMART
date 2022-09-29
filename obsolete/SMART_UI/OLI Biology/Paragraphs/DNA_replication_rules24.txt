@@ -1,0 +1,9 @@
+Current methods of DNA sequencing rely on understanding the substrate requirements of DNA
+          polymerase and the concept of competition. To sequence DNA as with PCR it is necessary to
+          create single stranded DNA that will act as the template. It is generally required that to
+          ensure valid DNA sequence, a double stranded segment of DNA should be sequenced in both
+          directions using primers at each of sequence to be defined. These primers are the
+          equivalent of the forward and reverse primers of PCR. However, where PCR replicates both
+          strands simultaneously, DNA sequencing is performed on each strand individually. Starting
+          with the single stranded template and the bound primer with a free 3’ hydroxyl, the
+          conditions are set for DNA polymerase to replicate the DNA. 

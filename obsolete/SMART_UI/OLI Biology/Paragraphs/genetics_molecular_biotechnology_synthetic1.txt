@@ -1,0 +1,10 @@
+The first step in producing HuGH is to generate a synthetic gene whose nucleotide
+            sequence codes for the amino acid sequence of the growth hormone. This sequence would
+            contain the start codon, codons representing each amino acid in the growth hormone, and
+            a stop codon. To do this, the known amino acid sequence for human growth hormone must be
+            “back-translated” to a nucleic acid sequence. Since most amino acids can be coded for by
+            more than one mRNA codon, this process is ambiguous. Because the genetic code is
+            universal it would be possible to use the human codons to encode the sequence of amino
+            acids. However, the host organism (which is bacteria in this example) often prefer
+            certain codons over others, so the preferred codons must be used to optimize protein
+            expression.

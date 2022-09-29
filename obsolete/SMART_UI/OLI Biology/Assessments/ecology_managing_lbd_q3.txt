@@ -1,0 +1,4 @@
+Starting over, let’s imagine that no fishing is allowed and the population grows
+                nearly to its carrying capacity. Now that the fish are so abundant, managers decide
+                to allow an annual harvest. What level of harvest could be sustained while keeping
+                the population level constant at 90% of carrying capacity?

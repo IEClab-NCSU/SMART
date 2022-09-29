@@ -1,0 +1,8 @@
+Phospholipids are an important class of lipids found in the membranes of all cells and
+			organelles. A phospholipid contains only two fatty acids attached to a glycerol, which
+			in turn is bound to a phosphate group. Together, the phosphate and the glycerol make up
+			the “head” of the phospholipid. The fatty acids make up the molecule’s “tail.” The
+			phosphate group carries a negative charge and is therefore hydrophilic. The tail, on the other
+			hand, is made up of nonpolar fatty acids and, like other lipids, is hydrophobic.
+			Thus phospholipids, like fatty acids, are amphipathic. An amphipathic molecule has both
+			a hydrophilic end and a hydrophobic end.

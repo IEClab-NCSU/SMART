@@ -1,0 +1,9 @@
+Cell division (mitosis and meiosis) sorts the genetic material (DNA) of
+					a cell. This sorting of genetic material is essential, because most of the
+					essential information for life is stored in the DNA. Each newly formed daughter
+					cell must receive identical information; therefore the DNA in a cell must be
+					copied before cell division begins. The copied DNA strands remain attached near
+					their centers in a region called the centromere. Each copy of the DNA is called
+					a chromatid, and both copies are called a chromosome. The cell packages the DNA
+					so that it can be sorted between the new cells. The DNA is packaged by wrapping
+					it tightly around proteins called histones. 

@@ -1,0 +1,7 @@
+The equilibrium constant, Ka, is a property of the molecule and its
+					environment. The chemical nature of the molecule has the largest effect on
+						Ka. Secondary to this, the environment of the group can shift the
+						Ka. Therefore, every acidic group has its own Ka value.
+					For the purposes of this course, we will use the approximation that Ka
+					is the same for all molecules with the same functional group. The table below lists the
+						Ka values for several acids.

@@ -1,0 +1,2 @@
+
+The examples thus far imply hybridization between two separate strands of polynucleotides. Is it possible to have hybridization occur within a single strand of DNA or RNA? If so, how would you illustrate that intramolecular structure?

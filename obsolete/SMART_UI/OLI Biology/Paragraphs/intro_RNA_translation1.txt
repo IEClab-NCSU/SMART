@@ -1,0 +1,5 @@
+The final stage of the Central Dogma is translation, which is defined as RNA Directed Protein
+      Synthesis. This process is unique in that it takes information from one type of polymer (RNA)
+      and translates that linear information into the linear sequence of a totally different
+      polymer, a protein. This unit will describe that process and the elements that are required to
+      have it function. The discussion will be organized around,

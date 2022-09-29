@@ -1,0 +1,8 @@
+Use this information to predict how the average tail length within a
+						population of mice will change in the following scenarios. You are starting
+						with a population of whitefooted mice living in an old forest. The average
+						mouse has a medium-long tail, but there are a range of tail lengths in the
+						population (there is heritable variation). Note also that mice have short
+						gestation times (23-28 days) and mouse pups are weaned in about 28 days, so
+						the generation time for mice is very short. Female mice can have
+						approximately 6 litters a year.

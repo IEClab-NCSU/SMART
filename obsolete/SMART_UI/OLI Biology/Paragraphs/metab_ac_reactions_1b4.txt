@@ -1,0 +1,8 @@
+Technically, metabolic pathways are
+					ordered sets of chemical reactions that occur within a cell to modify an initial
+					molecule to form another product; enzymes catalyze (or
+					increase) the rate of reaction. Metabolic pathways are catabolic
+					(break-down molecules) or anabolic (synthesize or combine
+					molecules) and result in molecular products which can be used by the cell
+					immediately, used to initiate another chemical reaction, or stored in the cell.
+					You will explore catabolism and anabolism further in the next sections.

@@ -1,0 +1,12 @@
+There are many examples of proteins that require more than one peptide chain to be
+          functional. In the case of the estrogen receptor two identical peptide chains come
+          together to form the functional protein. This is called a homo dimer. Hemoglobin is
+          composed of four peptide chains; two identical alpha chains and two identical beta chains.
+          The individual peptides or sub-units of estrogen and hemoglobin are held together by all
+          of the non-covalent bonding types: 
+					hydrogen bonding, 
+					ionic bonding and 
+					
+					
+hydrophobic interactions
+          . 

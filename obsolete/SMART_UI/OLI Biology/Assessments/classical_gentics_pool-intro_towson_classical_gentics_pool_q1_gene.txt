@@ -1,0 +1,3 @@
+In humans tongue rolling (T) is dominant to non-rolling (t). Two heterozygous
+                individuals have a child. What is the probability that their child will be able to
+                roll its tongue?  

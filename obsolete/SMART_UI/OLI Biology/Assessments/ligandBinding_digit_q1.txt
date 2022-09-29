@@ -1,0 +1,4 @@
+
+A researcher measures the concentration of [MO] in a 1 nM solution of myoglobin at different times after the addition of oxygen for two different oxygen concentrations, 1 nM (curve B) and 10 nM (curve A),  obtaining the following data. The y-axis gives the concentration of [MO] in nM, the x-axis gives the time after addition of oxygen.
+
+Which of the following times would you consider the system to be at equilibrium.

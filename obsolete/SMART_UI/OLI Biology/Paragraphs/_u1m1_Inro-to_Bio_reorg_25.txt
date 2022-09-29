@@ -1,0 +1,5 @@
+Viruses create a unique challenge to the definition of life. Viruses show some of
+					the characteristics of life, but not all. Viruses contain genetic information in
+					the form of either DNA or RNA surrounded by a protein coat for some viruses and
+					a membrane coat for others. They lack the machinery for growth and
+					reproduction.

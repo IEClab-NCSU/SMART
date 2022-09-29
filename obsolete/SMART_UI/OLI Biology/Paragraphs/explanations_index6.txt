@@ -1,0 +1,2 @@
+Amino acids with polar side chains contain polar uncharged groups, for example 
+                    amide and hydroxyl.

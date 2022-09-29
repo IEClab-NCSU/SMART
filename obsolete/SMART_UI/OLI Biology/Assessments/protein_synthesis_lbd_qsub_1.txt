@@ -1,0 +1,2 @@
+During initiation of translation in prokaryotes, how does the ribosome know where
+                to bind the mRNA?

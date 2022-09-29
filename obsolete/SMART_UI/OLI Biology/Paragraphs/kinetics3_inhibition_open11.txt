@@ -1,0 +1,12 @@
+Non-competitive inhibition involves a second small molecule binding to the
+					enzyme. In this case there are two binding sites: one for the substrate and a
+					distinct one for the inhibitor. When the inhibitor binds to the enzyme, the
+					substrate binding pocket changes such that the substrate is no longer able to
+					bind. It may also be possible for both the substrate and inhibitor to bind the
+					enzyme at the same time but the enzyme is unable to complete the conversion of
+					substrate to product. Non-competitive inhibition results in a lower maximum
+					velocity for the enzyme when the inhibitor is present as can be seen in the
+					green curve. Inihibitors of this type are often referred to as
+					allosteric inhibitors because they cause the shape (steric) of the
+					enzyme to assume a different (allo) form.
+				

@@ -1,0 +1,7 @@
+A contrasting model of growth is linear growth. Here a quantity
+			grows by a constant number (not percentage) in each time
+			interval. A series of numbers with this growth pattern would be 2, 4, 6, 8, 10, 12, and
+			so on. Each time step the quantity increases by 2, no matter how big it might already
+			be. In a graph, linear growth appears as a straight line. A staircase is linear: the
+			risers are evenly spaced and you gain a set amount of height with each subsequent
+			step.

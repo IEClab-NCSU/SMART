@@ -1,0 +1,2 @@
+The rate, or velocity (v), of the reaction is usually determined by measuring the
+					amount of product (P) produced/unit time:

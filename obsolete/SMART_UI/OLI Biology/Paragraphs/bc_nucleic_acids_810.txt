@@ -1,0 +1,7 @@
+In eukaryotic cells, RNA molecules are transported from the nucleus to the cytoplasm,
+			where proteins are made. RNA that contains instructions for making proteins is called
+				messenger RNA (mRNA). The “message” contained in the order of
+			bases in the mRNA specifies the order of amino acids in a protein. The process of
+			protein synthesis is called translation because the information is
+			converted from one chemical form (nucleic acids) to another (amino acids), analogous to
+			translation from one language to another.

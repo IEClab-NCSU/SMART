@@ -1,0 +1,8 @@
+In general, eukaryotic genomes are much larger than prokaryotic genomes, and they contain
+            a lot more noncoding DNA. This presents a problem of packaging for eukaryotic -cells:
+            how are they to fit very large DNA into a small compartment? Although eukaryotic DNA is
+            supercoiled, this isn’t enough to solve the packaging problem. Eukaryotic cells use
+            special proteins (histones) to wind up DNA and fold it into nucleosomes, which are compact structures. DNA can be transcribed in this
+            state. Further packaging of DNA into highly compact fibers makes genes inaccessible for
+            transcription, leading to gene silencing. Gene silencing is an
+            important way of regulating gene expression.

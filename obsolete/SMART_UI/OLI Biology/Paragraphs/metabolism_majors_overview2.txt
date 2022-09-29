@@ -1,0 +1,4 @@
+
+Input and output compounds 
+Cellular location of a pathway
+Type of energy produced by a pathway 

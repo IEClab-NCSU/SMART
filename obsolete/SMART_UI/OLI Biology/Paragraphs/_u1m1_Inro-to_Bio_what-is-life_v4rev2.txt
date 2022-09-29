@@ -1,0 +1,6 @@
+Viruses contain genetic information in the form of either DNA or RNA. The genetic
+			information is surrounded by a protein coat called a capsid. Some viruses also have a
+			membrane structure surrounding their genetic information. Viruses are tiny particles and
+			they lack the machinery necessary for growth and reproduction. In order to reproduce, a
+			virus must infect a host cell and hijack the host cell’s machinery. In other words, a
+			virus cannot reproduce without using the tools of another cell. 

@@ -1,0 +1,5 @@
+
+			This is a graded quiz. While you are taking the quiz you may "Save" your answers and make
+			changes. When you are finished with the quiz you must click the "Submit" button for your answers
+			to be graded. If you close the browser unsaved work will be lost and nothing will be graded. 
+		

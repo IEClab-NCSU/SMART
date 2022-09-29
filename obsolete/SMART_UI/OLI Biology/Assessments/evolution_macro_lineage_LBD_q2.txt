@@ -1,0 +1,1 @@
+Why is the lineage “snapshot” given the shape of an arrow?  What is represented by the thin slices to the left and right of the generation shown?

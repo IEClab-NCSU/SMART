@@ -1,0 +1,7 @@
+Immune cells protect the organism by recognizing foreign matter (such as bacteria). The
+			bacteria are recognized by proteins (called receptors) on the surface of the immune
+			cell. The immune cell (also known as a phagocytic cell) will then engulf the bacterial
+			cells using the process of endocytosis. The vesicle that contains these bacterial cells
+			is called a phagosome (“eating” “body”). The phagosome then fuses with lysosomes (which
+			contain digestive enzymes). The digested bacterial products are then excreted through
+			the process of exocytosis.

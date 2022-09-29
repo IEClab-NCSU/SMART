@@ -1,0 +1,4 @@
+Note that certain abiotic entities such as viruses and prions
+			(infectious proteins causing diseases such as mad cow disease) are also studied in
+			biology. However, they are not cells, and while they may exhibit
+			certain characteristics of life, they do so only in certain conditions.

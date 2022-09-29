@@ -1,0 +1,10 @@
+Biologists assign species to clades based on homologous structures and genes.
+            Homologous features are detailed, genetic or genetically-based similarities that are
+            best explained as the outcome of shared ancestry. All species share a few basic
+            cellular features that were inherited from one or a few early cell types. More
+            closely related groups of animal or plant species have similar body structures such
+            as the limb bone arrangements seen in modern tetrapod (four-limbed) animals. Through
+            careful analysis of many different characteristics, biologists create phylogenetic
+            tree diagrams that represent hypotheses about how life’s clades have evolved over
+            time. DNA sequences are a particularly valuable and rich source of data that help in
+            building such trees.

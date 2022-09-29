@@ -1,0 +1,7 @@
+Representation of atomic composition of a molecule. Molecular formula
+                                tells us what atoms and how many of them make up the molecule, but
+                                does not tell us anything about arrangement of the atoms (see
+                                related term molecular/chemical structure). Examples: the molecular
+                                formula of water is H2O, carbon dioxide is
+                                CO2, and sugar glucose is
+                                    C6H12O6. 

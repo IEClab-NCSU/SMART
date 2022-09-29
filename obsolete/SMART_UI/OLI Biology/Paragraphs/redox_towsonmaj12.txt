@@ -1,0 +1,5 @@
+Oxidation of FAD. The oxidation of succinate to fumarate, using FAD as an
+          electron acceptor is another example of a redox reaction found in a metabolic pathway. Two
+          hydrogen atoms (= two electron plus two protons) are removed from succinate and placed on
+          FAD, producing fumarate and FADH2, oxidizing a carbon-carbon single bond to a
+          double bond.

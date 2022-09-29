@@ -1,0 +1,7 @@
+
+			As discussed previously, proteins bind and release their ligands. In this section we will
+			explore the reversible binding and the equilibrium state. We will use myoglobin, as an
+			example, to explore the equilibrium established between the bound protein ligand complex
+			and free reactants. Myoglobin is a single polypeptide chain protein that binds oxygen to
+			create an oxygen buffer in muscle cells. The reversibly binding of oxygen to myoglobin
+			can be expressed as follows:

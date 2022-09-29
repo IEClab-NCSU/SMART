@@ -1,0 +1,7 @@
+As you should recall, microevolution occurs at the population level. But a population is
+            only a part of a larger collection that we refer to here as a biological lineage. A lineage is a group of populations that evolves
+            independently of other groups. Members of the same lineage can move between its
+            populations. Mating may occur between members of different populations in the same
+            lineage. Lineages change as their member populations evolve and exchange genes and
+            individuals with each other. To get a clearer sense for the nature of a biological
+            lineage, do the Learn By Doing activity below.

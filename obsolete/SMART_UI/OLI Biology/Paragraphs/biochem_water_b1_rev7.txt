@@ -1,0 +1,3 @@
+Hydrophobic molecules lack the electronegative atoms that
+					are required to generate a polar bond. Thus, hydrophobic molecules are also
+					referred to as nonpolar.

@@ -1,0 +1,5 @@
+Even cells of the same type may express different genes and therefore produce different
+			proteins, depending on their needs or environmental conditions. For example, pancreatic
+			beta cells produce insulin when blood sugar levels are increased. Weightlifting
+			increases muscle mass because it increases the production of proteins in the muscle
+			cell. Sex hormones are not produced until the beginning of puberty.

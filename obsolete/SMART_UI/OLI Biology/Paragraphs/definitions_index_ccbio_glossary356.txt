@@ -1,0 +1,3 @@
+An acellular infectious particle, made of a nucleic acid surrounded
+                                by a protein coat and sometimes with an additional envelope. Viruses
+                                need to infect a host in order to replicate. 

@@ -1,0 +1,3 @@
+A single mutation results in the attachment of valine to all tRNAs that normally
+                carry leucine (there are up to 6 different tRNAs that normally carry leucine). Which
+                of the following most likely accounts for this?

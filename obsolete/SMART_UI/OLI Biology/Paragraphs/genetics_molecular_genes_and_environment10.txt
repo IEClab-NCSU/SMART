@@ -1,0 +1,5 @@
+
+Environmental signals can change gene expression by affecting regulatory
+                proteins.
+Environmental signals can change DNA packaging, which affects gene expression. 
+Environmental mutagens can cause mutations in DNA.

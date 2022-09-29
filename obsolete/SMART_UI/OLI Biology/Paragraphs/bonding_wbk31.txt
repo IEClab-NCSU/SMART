@@ -1,0 +1,5 @@
+Mixed Non-polar/polar molecules:  Of course, there are instances where
+					even molecules with electronegative atoms will not be water soluble. Computer
+					algorithms are currently used to predict water solubility based on structure.
+					For our purposes, we will balance the ratio of polar and non-polar elements in a
+					structure to estimate the chemical nature of any compound we are going to study. 

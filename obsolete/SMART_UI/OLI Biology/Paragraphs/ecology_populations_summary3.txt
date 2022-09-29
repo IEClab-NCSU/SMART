@@ -1,0 +1,7 @@
+Any exponential growth model eventually predicts population sizes that are
+                    impossibly large. In reality, limiting factors put the brakes on population
+                    growth by reducing birth rates and/or increasing death rates. Often these
+                    factors become particularly intense when populations are large and crowded. The
+                    result is logistic growth, a pattern in which populations rise quickly at first
+                    and then level off at carrying capacity. A graph of logistic growth resembles a
+                    lazy S-shaped curve.

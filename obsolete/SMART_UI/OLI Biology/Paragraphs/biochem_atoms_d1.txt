@@ -1,0 +1,5 @@
+The electron is the reactive part of the atom. The number and location of
+					electrons determines the interactions between atoms. As you recall, negatively
+					charged electrons are pulled toward the positively charged nucleus. But
+					electrons are kept in orbit by kinetic energy. Electrons that are close to the
+					nucleus are less energetic than those electrons farther from the nucleus. 

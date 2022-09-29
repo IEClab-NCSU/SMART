@@ -1,0 +1,9 @@
+Material used or consumed by humans that is nearing or at depletion
+                                and may not be replenishable. Currently, the average citizen of a
+                                developed nation consumes an average of 16 tons of minerals, ores,
+                                fossil fuels, and biomass per year. Shortages may result if humans
+                                use resources at an unsustainable rate. Wild plants and animals may
+                                be harvested to the point of extinction. Degradation of soil can
+                                lead to crop failures. Minerals and fossil fuels may be depleted to
+                                the point where their extraction becomes increasingly expensive and
+                                disruptive.

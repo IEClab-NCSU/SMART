@@ -1,0 +1,8 @@
+ While it is clear that many ketose structures are possible, only a few are used in
+			biological systems and the focus for this course will be on the hexose D-fructose. The
+			fructose structure has the ketone group as at the number 2 carbon and the D
+			designation based on the chirality at carbon number 5. Applying the principle that compounds
+			will spontaneously form stable ring structures, and using a mechanism
+			similar to that employed for the aldoses, fructose will spontaneously form a five-member ring
+			structure. These structures are depicted below and are in equilibrium with
+			each other through the free ketone structure.

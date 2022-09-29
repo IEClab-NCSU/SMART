@@ -1,0 +1,13 @@
+
+M + O <=> [MO] 
+	
+			This equation describes an association of
+			two molecules. In the previous analysis of weak electrolytes we wrote the dissociation
+			of a weak acid as the taking apart of a molecule that was bound by a weak covalent bond.
+			While there are no covalent bonds being formed during the association of oxygen and
+			myoglobin, there is the same type of equilibrium established between the association of
+			myoglobin and the dissociation of the weak acid. Thus, where we used a Kd (K) as a
+			constant that defined the strength of the weak electrolyte's ability to retain its
+			proton, it is also possible to define the affinity of the ligand for the protein by a
+			constant referred to as the equilibrium constant, Keq. For the association reaction as
+			it is written above, the equilibrium constant would be expressed as follows:

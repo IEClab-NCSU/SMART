@@ -1,0 +1,4 @@
+
+Click on this button  -script('isosurface surf1 off;isosurface surf2 off;select *:B;cartoon off;spacefill off;wireframe off;select *:C;cartoon on;color cartoon yellow;wireframe off;spacefill off;select EST:C;wireframe 0.3;spacefill 0.4;set windowcentered off;center atomno=5995;set windowcentered on;moveto 1 642 -725 249 108 400;select *:C;color cartoon translucent;select (394,353,524) and *:C;wireframe 0.4;set monitor 5;monitor 4689 5987;monitor 4347 5987;monitor 5722 6002;color monitor green') to highlight with green "bonds" some interactions between the protein and the bound estrogen.
+Click on these buttons to toggle the green "bonds" OFFscript('select all;monitor off')ONscript('set monitor 5;monitor 4689 5987;monitor 4347 5987;monitor 5722 6002;color monitor green')
+Question: The green bonds are indicating which of the following protein-ligand interactions?

@@ -1,0 +1,2 @@
+A hydropathy plot is used to:
+            

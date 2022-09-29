@@ -1,0 +1,17 @@
+
+The expression plasmid must also contain a promoter that is recognized by RNA
+                polymerase. This promoter is adjacent to the growth hormone gene and will enable
+                the transcription of the growth hormone gene into mRNA.
+The expression plasmid must contain a DNA sequence that allows a repressor protein
+                        to bind. The repressor protein can then act as an on-off switch for mRNA
+                        production. An on/off switch is important because the production of growth
+                        hormone can interfere with cell division and the production of the growth
+                        hormone should be off until a sufficient number of cells are obtained. The
+                        most common repressor protein that is used is the lac repressor. The lac
+                        repressor binds to a specific DNA sequence called the lac operator. You may
+                        want to review the properties of the lac
+                            operon. The addition of an inducer molecule, such as
+                        lactose, will cause the repressor to fall off of the DNA, allowing RNA
+                        polymerase to produce mRNA. It is important that the operator sequence is
+                        placed between the promoter and the DNA that encodes the mRNA so that mRNA
+                        cannot be made unless an inducer is added.

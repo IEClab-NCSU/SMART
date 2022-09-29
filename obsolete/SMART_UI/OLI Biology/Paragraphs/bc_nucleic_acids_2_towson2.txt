@@ -1,0 +1,5 @@
+There are five different nitrogenous bases that can be found in various
+					nucleotides. In DNA, you will find these nitrogenous bases: adenine (A),
+						guanine (G), cytosine (C), and thymine (T). In
+						RNA,
+					thymine is replaced by uracil (U).

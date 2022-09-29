@@ -1,0 +1,15 @@
+Hydrogen ion
+							concentration can vary over many orders of magnitude. To represent very
+							large differences in concentration levels a logarithmic mathematical
+							function is used to denote the pH scale. The pH scale is the -log of the
+							hydrogen ion concentration:  pH =
+								-log[H+]. The log conversion reduces a 10 fold
+							change in hydrogen ion concentration to a one unit change in pH. The
+							minus sign changes the negative numbers that would be obtained from
+							log[H+] to positive ones. Thus, starting at pH 7, a solution at pH 6
+							would have 10 times more H+ than a neutral solution. On the
+							other hand, a solution at pH 8 would have 10 times fewer H+
+							than the solution with pH 7. If you skip a few units, the differences
+							between solutions become very great indeed.
+							Lemon juice (pH 2) has 1 million times more H+ ions per unit
+							volume than seawater, which has a pH of about 8. 

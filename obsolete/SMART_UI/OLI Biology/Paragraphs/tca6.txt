@@ -1,0 +1,5 @@
+
+2 CO2, from oxidative decarboxylations.
+3 NADH, all from oxidation of alcohols to ketones.
+1 FADH2, from the oxidation of an alkane to an alkene
+1 GTP, from the hydrolysis of a thio-ester.

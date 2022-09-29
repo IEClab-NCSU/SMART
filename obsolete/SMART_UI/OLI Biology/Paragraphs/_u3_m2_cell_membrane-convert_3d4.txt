@@ -1,0 +1,7 @@
+Cystic fibrosis is caused by a malfunctioning transport protein called Cystic
+					Fibrosis Transmembrane Conductance Regulator (CFTR). CFTR is a
+			channel that allows for the passage of chloride ions (Cl-) into and out of
+			the cell. CFTR is located in the cells that line the respiratory tract, the pancreas,
+			and sweat glands. It allows for the movement of Cl- into or out of a cell. CFTR is an
+					active transporter and requires
+				energy in the form of ATP to function.

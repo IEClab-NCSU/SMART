@@ -1,0 +1,23 @@
+
+Promoter: Recall from the previous module that in order for
+                transcription to begin, RNA polymerase must bind to the correct site. The promoter
+                is the DNA sequence, upstream of the structural genes, to which RNA polymerase and other
+                initiation factors recognize and bind.
+Repressor Gene: Every operon contains a gene that encodes
+                one operon-specific repressor. This repressor molecule can bind specific sequences
+                in the DNA of the operon to block transcription of the structural genes. This is
+                called negative control of gene expression. 
+Operator: The operator is an operon-specific DNA sequence which is directly
+                downstream of the operon promoter. The operator is the DNA sequence to which the
+                repressor can bind to block transcription. A repressor’s interaction with the
+                operator is controlled by the binding of a small molecule to the repressor. The
+                small molecule is either the compound that enters the pathway (for catabolic, or
+                degradative pathways) or the compound that is produced by the pathway (for anabolic,
+                or synthetic pathways).
+CAP Site: The CAP site, found only in catabolic pathway
+                operons, is a DNA sequence that is a binding site for the CAP protein. The CAP site
+                and CAP protein are universal to all catabolic operons and not operon-specific. The
+                CAP site is located directly upstream from the promoter. The binding of the CAP
+                protein to the CAP site is regulated by the level of cyclic AMP (cAMP) in the cell.
+                When CAP is bound to the CAP site, transcription of the structural genes is turned
+                on. This is called positive control of gene expression. 

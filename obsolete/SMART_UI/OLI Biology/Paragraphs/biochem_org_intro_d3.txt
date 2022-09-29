@@ -1,0 +1,11 @@
+Functional groups in this category are also referred to as
+							hydrophobic (water hating) groups. They only
+					contain carbon and hydrogen, and lack electronegative
+						atoms such as nitrogen, oxygen, and sulfur. Non-polar functional
+					groups are often found on amino acid side chains of proteins and they also make
+					up a major part of most lipid molecules. The hydrophobic nature of non-polar
+					functional groups often affects the shape of molecules containing these groups.
+					For example, proteins will fold into unique shapes just to prevent non-polar
+					groups from being in contact with water. Some lipids bury the non-polar section
+					of the molecule by the forming lipid bilayers, which shape the boundary of all
+					cells

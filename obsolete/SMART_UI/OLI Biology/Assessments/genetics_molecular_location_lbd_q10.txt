@@ -1,0 +1,6 @@
+There is one more thing required by the DNA polymerase. It cannot just start making a
+                DNA copy of the template strand; it needs a short piece of DNA or RNA with a free
+                hydroxyl group in the right place to attach the nucleotides to (remember that
+                synthesis always occurs in one direction — new building blocks are added to the 3’
+                end). This component starts the process by giving DNA polymerase something to bind
+                to. What might you call this short piece of nucleic acid?

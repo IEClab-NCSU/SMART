@@ -1,0 +1,2 @@
+ Starch: The structure of starch has two components: amylose and amylopectin. Amylose is a linear polymer of glucose subunits linked end-to-end by alpha-1, 4 glycosidic bonds. 
+Amylopectin has the same backbone polymer structure as amylose, but also contains branches from the backbone linked by alpha -1,6 glycosidic bonds every 20-30 glucose subunits along the amylose backbone. This gives rise to a highly branched structure used in the storage of glucose in plants. 

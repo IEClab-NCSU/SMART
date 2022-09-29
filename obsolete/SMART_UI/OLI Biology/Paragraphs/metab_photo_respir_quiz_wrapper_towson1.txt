@@ -1,0 +1,9 @@
+Photosynthesis and cellular respiration are interdependent metabolic pathways. The
+            products of cellular respiration (water and carbon dioxide) are the precursors that feed
+            into photosynthesis. The products of photosynthesis (oxygen and glucose) are the
+            precursors that feed into cellular respiration. This interdependence is an excellent
+            illustration of how anabolic and catabolic reactions are also interdependent. Anabolic
+            reactions use energy to build complex molecules, while catabolic reactions harvest the
+            energy stored in the complex molecules by breaking them down into simple precursors.
+            Catabolic reactions produce the energy required for anabolic reactions. In the next
+            module, we’ll look at how metabolic pathways are regulated. 

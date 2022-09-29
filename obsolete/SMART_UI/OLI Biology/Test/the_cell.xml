@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps http://oli.web.cmu.edu/dtd/oli_workbook_page_1_0.sps?>
+<!DOCTYPE workbook_page PUBLIC "-//Carnegie Mellon University//DTD Workbook Page 2.0//EN" "http://oli.web.cmu.edu/dtd/oli_workbook_page_2_0.dtd">
+<workbook_page id="the_cell" created="10/18/2004" modified="$Date: 2006/06/12 14:29:30 $" version="$Revision: 1.5 $">
+	<head>
+		<title>The Cell</title>
+		<author>
+			<name first="James" last="Burnette"/>
+			<email>jbfc@andrew.cmu.edu</email>
+			<institution>Carnegie Mellon University</institution>
+			<department>Biological Sciences</department>
+		</author>
+	</head>
+	<body>
+		<flash src="../../../webcontent/cell_map/cell.swf" width="800" height="600" logging="true">
+			<params>
+				<param name="LoggingLibraryPath">../../../webcontent/CommLoggingLibrary.swf</param>
+				<param name="mypath">../../../webcontent/cell_map/</param>
+			</params>
+		</flash>
+		<p>To put the course in perspective, we begin by exploring the cell and the components of the cell called organelles. The focus of this course is to understand the components of the cell, how they interact with each other, how they are created, destroyed and how they regulate transport, growth and division of the cell. We will examine the controlled chemical environment a cell maintains and what restrictions
+this places on the types of chemical reactions it can perform. This background is vital
+			to understanding key processes such as how a cell releases energy from glucose, makes
+and folds proteins, and goes through growth and cell division.</p>
+		<p>Above is a caricature of a eukaryotic cell. Many of the cell components are hyper links that will
+provide you with an image showing these same structures in a living cell. This
+illustration highlights one of the goals of the course which is to expand your view of
+biology by bridging from classic simple illustrations to images generated from actual
+data. In addition, you will develop an understanding of the fundamental processes used
+in this imaging method.
+		</p>
+		<p></p>
+		<section>
+			<title>Practice</title>
+			<body>
+				<p> This exercise uses the Cell to let you test your knowledge
+					of the functions of the organelles. </p>
+				<activity idref="the_cell_quiz" type="x-oli-workbook_page" purpose="selfassess"/>
+			</body>
+		</section>
+		<!-- section>
+		<title></title>
+		<body>
+		<activity idref="overview" type="x-oli-workbook_page" objective="selfassess"/>
+		</body>
+		</section -->
+	</body>
+</workbook_page>

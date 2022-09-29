@@ -1,0 +1,2 @@
+The bound complex is surrounded by brackets, [ ], to indicate that the ligand is
+			physically associated with the macromolecule.

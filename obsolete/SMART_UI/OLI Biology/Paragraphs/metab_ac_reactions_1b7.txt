@@ -1,0 +1,5 @@
+Cellular respiration is catabolic because it takes glucose (a
+					complex molecule with 6 carbons) and reduces it to carbon dioxide (each with
+					only one carbon) and water (oxygen joined to two hydrogens). Some of the energy
+					released by this process is captured in ATP, which can be stored for later
+					use.

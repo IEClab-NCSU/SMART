@@ -1,0 +1,3 @@
+Electrons reside in the space outside the nucleus in regions called shells. There are
+					specific rules for filling up the shells of the atom. The first shell can hold
+					two electrons; the second and third shells can hold up to eight electrons. 

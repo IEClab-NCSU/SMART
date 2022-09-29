@@ -1,0 +1,4 @@
+Using modern computers and a variety of analytical techniques, biologists can now compare
+            vast amounts of genetic data among hundreds or even thousands of species. They can
+            sometimes even include DNA sequence data extracted from fossils! The result has been a
+            huge improvement in our ability to identify the clades within the tree of life.

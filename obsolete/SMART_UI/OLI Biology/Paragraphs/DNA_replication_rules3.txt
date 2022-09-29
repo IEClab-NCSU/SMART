@@ -1,0 +1,9 @@
+ The origin of replication has been described as a specific DNA sequence to
+          which initiator protein (DnaA) binds and initiates the process of creating the open
+          complex for synthesis. For a typical prokaryotic (bacterial) chromosome there is one
+          origin of replication and synthesis proceeds at a rate of approximately 500 bp(base
+          pairs)/sec. A bp or base pair is the unit of length of DNA measured in single
+          nucleotides or hydrogen bonded base pairs along the polymer chain. Thus if a typical
+          bacterial chromosome is 2x10e6 (two million) bp in length then the replication time of the
+          chromosome would be about 30 minutes which is consistent with the life cycle of the
+          typical bacterial being 30 to 40 minutes. 

@@ -1,0 +1,2 @@
+In this activity, we will demonstrate the mutations described above on a short
+				protein sequence.

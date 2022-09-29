@@ -1,0 +1,4 @@
+A population will grow if its rate of birth is greater than its rate of death. The
+			population will remain constant if the two rates are equal—that is, if births are
+			balanced by deaths. It will decrease if the rate of death is greater than the rate of
+			birth.

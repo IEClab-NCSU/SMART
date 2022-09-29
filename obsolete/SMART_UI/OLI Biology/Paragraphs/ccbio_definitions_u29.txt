@@ -1,0 +1,3 @@
+Molecules containing a carbon atom that is covalently bonded to a hydrogen
+                        atom (C-H bonds). Many organic molecules also contain oxygen, nitrogen or
+                        sulfur.

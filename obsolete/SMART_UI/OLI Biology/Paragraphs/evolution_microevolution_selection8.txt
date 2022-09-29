@@ -1,0 +1,3 @@
+General Hint: In natural selection, the traits that are best suited to a
+						given environment have a greater chance of being passed on to future
+						generations and should increase in frequency.

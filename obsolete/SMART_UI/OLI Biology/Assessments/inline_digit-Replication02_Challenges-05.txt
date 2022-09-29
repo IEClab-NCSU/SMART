@@ -1,0 +1,3 @@
+When PCR is completed, sequencing of the equal length fragments of newly
+                        synthesized DNA should contain the sequence of the forward and reverse
+                        primers.

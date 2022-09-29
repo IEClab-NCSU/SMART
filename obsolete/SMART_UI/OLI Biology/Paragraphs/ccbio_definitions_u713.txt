@@ -1,0 +1,2 @@
+States that the two alleles for each gene separate from each other when
+                        gametes form, so that each gamete contains one allele of each gene.

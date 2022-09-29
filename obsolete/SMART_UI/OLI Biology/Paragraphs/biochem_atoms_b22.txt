@@ -1,0 +1,9 @@
+The mass of an atom is called the atomic mass. When
+			calculating atomic mass, we pay attention only to the protons and neutrons; the
+			electrons have almost no mass. The atomic mass is the sum of the number of protons
+			and the number of neutrons. By summing the atomic mass of all the atoms in a molecule,
+			one can estimate the molecular mass of the molecule, which is expressed in atomic mass
+			units (called Daltons). Each of the heavy particles (neutron,
+			proton) weighs one atomic mass unit, so a Helium (He) atom, which has two protons, two
+			neutrons, and two electrons, weighs about four atomic mass units; that is, two protons
+			plus two neutrons.

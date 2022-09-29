@@ -1,0 +1,3 @@
+
+The glucose permease transporter illustrated in the simulation can allow the glucose molecules to either move in both directions or it can be unidirectional from outside to inside only.
+What will happen to the cell that has unidirectional transport of glucose to the inside of the cell? 

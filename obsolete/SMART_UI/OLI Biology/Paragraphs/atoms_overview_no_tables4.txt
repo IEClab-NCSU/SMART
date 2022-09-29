@@ -1,0 +1,13 @@
+These elements represent over 95% of the mass of a cell. Carbon is a major
+					component of nearly all biological molecules. Elements are characterized by
+					their atomic structure. While the subatomic structure of the atom is a major
+					topic of interest in chemistry, physics and biophysics, the basic structure
+					described below provides sufficient information for the construction of
+					molecules in the context of this course. Atomic mass, the sum of the number of
+					protons and neutrons in the atomic structure, is a particularly useful measure
+					of each element. By summing the atomic mass of all the atoms in a molecule, one
+					can estimate the molecular mass of the molecule, which is then expressed in
+					atomic mass units or Daltons. The masses of the six atoms of the elements listed
+					above are given in the following Atomic Properties TABLE. The masses
+					can be found in the upper right hand corner of the box for each element in the
+					periodic table. 

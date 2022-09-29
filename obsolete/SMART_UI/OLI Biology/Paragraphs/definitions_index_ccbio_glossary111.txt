@@ -1,0 +1,9 @@
+The tendancy of an atom to hold shared electrons more close to its
+                                nucleus. Atoms like oxygen have a high electronegativity. This means
+                                when oxygen forms a covalent bond with an atom of lower
+                                electronegativity, the shared electrons will stay closer to the
+                                oxygen atom than to the other atom. Strongly electronegative atoms
+                                bonded to weakly electronegative hydrogen atoms, in a molecule,
+                                result in hydrogen bonding. The most important strongly
+                                electronegative elements in biological systems are oxygen and
+                                nitrogen.

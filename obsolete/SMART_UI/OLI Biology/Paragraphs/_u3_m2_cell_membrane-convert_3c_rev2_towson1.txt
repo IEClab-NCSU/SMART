@@ -1,0 +1,11 @@
+In some cases it is necessary to move molecules against their concentration gradient. The
+					eukaryotic cell has many compartments within it, each
+			surrounded by a membrane. In most cases, the environment within the compartment is
+			different from the environment in the cytoplasm. An example is the
+					lysosome, an organelle whose
+			function is to digest macromolecules delivered either from outside
+			the cell or from other compartments within the cell. To carry out this function, the
+			lysosome maintains a very low internal pH compared to that of the
+			cytoplasm. Thus, there is a steep pH gradient across the lysosome's membrane. This
+			contrasts with the equilibrium state, in which the concentration of hydrogen
+					ions would be the same inside and outside the lysosome. 

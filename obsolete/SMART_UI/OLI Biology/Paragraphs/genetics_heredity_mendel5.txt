@@ -1,0 +1,3 @@
+So if we know the phenotype, and we know that those two varieties would always result in
+            same-color flowers, we can deduce that all individuals (plants) in that population
+            (purple or white) have the same alleles for the gene that determines flower color. 

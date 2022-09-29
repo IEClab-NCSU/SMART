@@ -1,0 +1,7 @@
+Eukaryotic cells appeared 1.5 billion years after prokaryotes. The main difference between
+			the two is that eukaryotes have a central control structure, called the
+				nucleus (plural form is "nuclei"), where DNA is housed. In prokaryotes,
+			the main DNA molecule (bacterial chromosome) is present in a region called the
+				nucleoid, but the nucleoid lacks a surrounding membrane. Smaller DNA
+			molecules called plasmids can be also found in prokaryotes. Prokaryotic DNA
+			is circular, in contrast to the linear structure of eukaryotic DNA.

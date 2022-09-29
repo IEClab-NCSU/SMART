@@ -1,0 +1,3 @@
+When a cell is getting ready to divide into two cells (during the process of mitosis),
+            which process must first happen so that the entire genome can be passed to the new
+            daughter cells?

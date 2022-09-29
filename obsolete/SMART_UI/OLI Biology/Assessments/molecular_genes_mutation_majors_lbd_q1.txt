@@ -1,0 +1,3 @@
+We will begin with a DNA strand. Use the DNA template strand shown, and write the
+                product of transcription from the 5’ to the 3’ end: 3’-G T T A C G G A A T A T C G A
+                C T C-5’

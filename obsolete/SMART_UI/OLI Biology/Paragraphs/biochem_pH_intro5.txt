@@ -1,0 +1,6 @@
+Notice that the two arrows point in opposite directions. This simply means that
+					the equation can move in either direction. In other words, hydrogen ions and
+					hydroxide ions can combine to form water, or water can break down into hydrogen
+					ions and hydroxide ions. These two reactions are in equilibrium, so at any
+					instant in a sample of pure water there are equal concentrations of H+
+					 and OH-. 

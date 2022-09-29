@@ -1,0 +1,13 @@
+Cells continually encounter changes in their external environment. Most cells have a similar
+			blend of solutes within them, but external fluids can vary dramatically, from pure water
+			to brine or syrup. What will happen if there is a strong concentration gradient between
+			a cell's interior and the fluid outside? As you know, molecules will tend to move down
+			their concentration gradients until equilibrium is reached. You might think that solutes
+			will flow into our out of the cell until the solute concentrations are equal across the
+			membrane. However, not all molecules can pass through the cell membrane. The plasma
+			membrane (lipid bilayer) is significantly less permeable to most solutes than it is to
+			water. Therefore the WATER tends to flow in a way that establishes an equal
+			concentration of solutes on either side of the membrane. The water flows down its own
+			concentration gradient, with a net movement toward the region that has a higher
+			concentration of solutes. This movement of water across a semipermeable membrane in
+			response to an imbalance of solute is called osmosis. 

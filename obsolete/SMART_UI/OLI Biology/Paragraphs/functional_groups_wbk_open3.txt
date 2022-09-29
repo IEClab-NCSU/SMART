@@ -1,0 +1,5 @@
+In the activity below, the radio buttons on the extreme left let you select a
+						property and highlight the functional groups that exhibit the selected
+						property. The [?] buttons display the definition of each of the properties.
+						The FUNCTIONAL GROUPS column shows the names and chemical structure
+						of important functional groups in biology. 

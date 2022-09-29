@@ -1,0 +1,7 @@
+The mechanism of ATP synthase is such that the enzyme generates one ATP molecule every
+          time 3 protons are transferred back to the matrix from the inter-membrane space. Since the
+          standard energy for the formation of ATP from ADP and Pi is +30 kJ/mol the transport of
+          three protons must release at least 30kJ/mol in order to provide enough energy to
+          synthesize ATP. The amount of energy that is stored in the protein gradient can be
+          obtained by calculating the Gibbs free energy. If the products are defined as the protons
+          that have been transported to the matrix, the formula is:

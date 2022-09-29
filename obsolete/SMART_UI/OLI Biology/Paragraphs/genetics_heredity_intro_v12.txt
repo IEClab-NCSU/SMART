@@ -1,0 +1,8 @@
+In the Cell
+                    Division unit, you learned that cells pass on a complete
+            set of genetic information (contained in the DNA), which is transmitted from parent
+            cells to daughter cells. This genetic information helps determine many of the
+            characteristics of the offspring. In humans, for instance, DNA is
+            responsible for a child’s height and skin pigmentation. It also helps determine the
+            overall health of the child by regulating many physiological characteristics, such as
+            the condition of the heart and lungs, as well as brain and blood chemistry.

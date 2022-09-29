@@ -1,0 +1,7 @@
+A common way of regulating enzyme activity is by increasing or decreasing
+					the amount of enzyme by regulation of the rates of synthesis in the cell.
+					If you recall, the rate of reaction is proportional to the concentration
+					of the enzyme-substrate complex ([ES]).  The concentration of this complex
+					can be increased in two ways: i) either by increasing [S], which you
+					explored on the previous page, or ii) by increasing the total amount of
+					enzyme in the cell.

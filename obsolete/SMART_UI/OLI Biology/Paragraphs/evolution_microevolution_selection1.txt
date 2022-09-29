@@ -1,0 +1,6 @@
+Now that we have a better understanding of what microevolution is, we must consider in
+			more detail how microevolution happens. What are the mechanisms
+			that allow for changes in the gene pool over time? In this page we will learn about
+			selection, a central process in evolution. Selection occurs whenever some genetic types
+			in a population reproduce more than others in a given environment. We will discuss three
+			types of selection: natural, sexual, and artificial.

@@ -1,0 +1,7 @@
+A cross section of a micelle is shown on the left. The white balls represent the 
+			hydrophilic part of the molecule; the yellow strings represent the hydrophobic part 
+			of the detergent. The Jmol on the right shows a micelle dissolved in water. You can 
+			remove the water to see the micelle by clicking on the "Water Removal" 
+			checkbox. Automatically rotate the molecule by clicking on the "Spin on" 
+			checkbox.
+		

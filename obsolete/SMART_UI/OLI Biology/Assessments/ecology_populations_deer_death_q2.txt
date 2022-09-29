@@ -1,0 +1,2 @@
+What was the annual per capita rate of death for the population? Round to two
+                decimal places.  deaths per deer per year 

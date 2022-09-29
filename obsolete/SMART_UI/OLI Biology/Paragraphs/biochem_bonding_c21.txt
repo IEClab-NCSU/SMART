@@ -1,0 +1,7 @@
+When two atoms are joined by a covalent bond, the new structure that forms is
+					called a molecule. This is in contrast to the structure formed when two atoms
+					are joined by an ionic bond, which is called an ionic compound. When drawing a
+					molecule on paper, covalent bonds are often drawn as lines between atoms. A
+					single covalent bond is drawn as one line; a double covalent bond is drawn as 2
+					lines. Each atom is represented by its element symbol. Thus a structural formula
+					of methane (CH4) would be drawn like this: 

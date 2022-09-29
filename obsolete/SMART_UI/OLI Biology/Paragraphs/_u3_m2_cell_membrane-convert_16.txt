@@ -1,0 +1,3 @@
+Selectively permeable membranes allow cells to keep the chemistry of
+					the cytoplasm different from that of the external environment. It also
+					allows them to maintain chemically unique conditions inside their organelles. 

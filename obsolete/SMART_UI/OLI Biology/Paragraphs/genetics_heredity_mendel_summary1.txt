@@ -1,0 +1,14 @@
+For centuries, humans observed traits in themselves and in the animals and plants
+                    surrounding them. They realized that they were passed on from one generation to
+                    another, although not in a completely unequivocal way. Breeders of plants and
+                    animals figured out ways to enhance their traits by selecting individuals with
+                    the desired characteristics and crossing them with each other. But it was not
+                    until the experiments of Gregor Mendel in the nineteenth century that patterns
+                    of inheritance started to become clearer. Based on a simple model, the pea
+                    plant, with easily observable phenotypes governing flower colors, seed shape,
+                    and so on, he proposed that hereditary information was passed along in discrete
+                    units he called genes (at that time DNA was not known), and that genes could
+                    have two alternatives or alleles. According to Mendel’s laws, alleles segregate
+                    during sexual reproduction, and combine independently from each other. We know
+                    now that genes are DNA sequences found in chromosomes, and the segregation is
+                    due to the process of meiosis you have already learned about. 

@@ -1,0 +1,16 @@
+Lucky for us, Earth has an atmosphere comprising gases that make our atmosphere
+                    act something like an insulating blanket. The atmosphere is a mixture of many
+                    different gases that are held close to Earth’s surface by gravity. The two most
+                    abundant gases in the atmosphere are N2,or nitrogen gas (78% of air
+                    by volume), and O2, or oxygen gas (21%). These gases are transparent
+                    to light and to heat radiation; that is, they do not interfere with sunlight
+                    energy coming into Earth or with the heat radiating back into space. Several
+                    much less abundant gases, however, do have a major effect on Earth’s energy
+                    budget. These greenhouse gases absorb and reemit heat
+                    waves (infrared radiation). Three important greenhouse gases are water vapor
+                        (H2O), carbon dioxide (CO2), and methane
+                        (CH4). Much of the heat (infrared) radiation that leaves Earth’s
+                    surface is absorbed by greenhouse gases and reemitted back toward Earth. As a
+                    result, these gases retain heat in the atmosphere. Instead of escaping
+                    immediately to space, heat is delayed near the Earth’s surface and continues to
+                    warm our atmosphere.

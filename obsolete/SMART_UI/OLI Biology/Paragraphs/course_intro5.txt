@@ -1,0 +1,5 @@
+The course is organized into units covering the areas of basic biochemistry, cell
+			biology, and molecular and cellular function. The first unit introduces the basic
+			chemistry of a cell. All other units will rely heavily on the concepts and background
+			introduced in this unit. You are encouraged to master this material before proceeding to
+			the other units. 

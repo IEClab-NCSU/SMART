@@ -1,0 +1,5 @@
+Although the HPV study suggests that the vaccine protects against infection by HPV, is the
+					finding significant? In science, as in life, things can happen for many
+					different reasons. A convincing study will rule out “luck” (random chance) as an
+					explanation for the results. Strong results are said to be significant: very
+					unlikely to occur by chance or random events.

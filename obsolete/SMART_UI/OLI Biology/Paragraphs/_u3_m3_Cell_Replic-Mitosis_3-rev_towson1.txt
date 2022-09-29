@@ -1,0 +1,4 @@
+Mitosis begins when DNA condenses into chromosomes visible under a light microscope. This packaging of the
+					chromosomes into condensed bundles makes them easier to sort, but it inhibits
+					protein synthesis. Therefore, it is essential that the cell has produced all
+					necessary proteins prior to the start of this process.

@@ -1,0 +1,5 @@
+ We start with an understanding that the cellular environment is essentially aqueous
+			(water) based, and thus, we will begin with a discussion of the chemistry of water as it
+			relates to bonding, pH and temperature control. The first two concepts (bonding and pH)
+			dictate why molecules are soluble in the cell, in what part of the cell they are
+			soluble, what charge molecules will carry and how that charge is controlled by pH. 

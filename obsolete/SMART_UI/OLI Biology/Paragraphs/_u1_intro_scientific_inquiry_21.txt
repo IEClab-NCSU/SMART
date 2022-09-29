@@ -1,0 +1,10 @@
+When conducting scientific experiments, researchers develop hypotheses to guide
+					experimental design. A hypothesis offers a testable and falsifiable explanation
+					of observations. For example, a scientist might observe that maple trees lose
+					their leaves in the fall. She might then propose a possible explanation for this
+					observation: “cold weather causes maple trees to lose their leaves in the fall.”
+					This statement is testable. The scientist could grow maple trees in a warm
+					enclosed environment such as a greenhouse and see if their leaves still dropped
+					in the fall. The hypothesis is also falsifiable. If the leaves still dropped in
+					the warm environment, then clearly temperature was not the main factor in
+					causing maple leaves to drop in autumn.

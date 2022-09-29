@@ -1,0 +1,7 @@
+In the diagram above, you see the physical behavior of two different triglycerides (with saturated and unsaturated fatty acids) at three distinct
+			temperatures. Figure 1 shows that at a temperature of 0oC (freezing), both
+			types of fatty acids stack neatly. At 16oC (Fig. 2), the unsaturated fatty
+			acids lose the tightly stacked formation and become more mobile. At 70oC, the
+			saturated fatty acids also become mobile (Fig.3). At 27oC (room temperature)
+			and at 37oC (body temperature), triglycerides with unsaturated fatty acids
+			are liquid oils, whereas saturated fats remain solid. 

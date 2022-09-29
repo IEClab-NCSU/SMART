@@ -1,0 +1,8 @@
+The trait of white eyes in fruit flies is a sex-linked trait. It is located on a
+            sex chromosome, so it occurs at different rates in males and females. Because it is
+            located on the X chromosome, it is more specifically called an X-linked gene. In
+            humans, the trait of color blindness results from a gene on the X chromosome. So do some
+            more serious diseases, including Duchenne muscular dystrophy, which causes progressive
+            muscle weakness. People with this disorder rarely live past the age of 25. A gene on the
+            X chromosome codes for a muscle protein that is missing in people with Duchenne muscular
+            dystrophy.

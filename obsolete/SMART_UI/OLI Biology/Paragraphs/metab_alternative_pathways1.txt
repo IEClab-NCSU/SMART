@@ -1,0 +1,5 @@
+Metabolic
+				pathways constitute a complex network of chemical reactions, with some
+			pathways functioning like central “freeways” to which many other pathways connect.
+			Pathways related to the harvesting of energy (chemical or solar) and biosynthesis of the
+			major cellular components are conserved in many types of cells and organisms.

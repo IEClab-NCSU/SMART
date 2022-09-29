@@ -1,0 +1,2 @@
+Describes a trait associated to alleles located on sex chromosomes,
+                                most commonly it is X-linked.

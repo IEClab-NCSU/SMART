@@ -1,0 +1,6 @@
+Life can be understood and studied at many levels of organization, from simpler to more
+			inclusive or complex levels. Organisms are made from a common set of building blocks,
+			atoms, which combine to form molecules. Small molecules are brought together to form
+			more complex biological macromolecules. The next level of organization is the organelle.
+			Organelles are working units within cells. Atoms, molecules, macromolecules and
+			organelles form cells, the smallest unit of life.

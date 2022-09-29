@@ -1,0 +1,3 @@
+Two enzymes catalyze the same reaction. Enzyme A converts substrate to product twice
+			as fast as enzyme B. Which enzyme has the lower activation energy or energy barrier: A
+			or B? 

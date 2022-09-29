@@ -1,0 +1,3 @@
+Red (R) flower color is incompletely dominant to white (r) flower color. Which
+                genotype(s) produce red flowers? Select all that
+                apply.

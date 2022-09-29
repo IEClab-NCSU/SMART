@@ -1,0 +1,11 @@
+As you have learned, shared characteristics can be used to organize species into groups,
+            with clades defined by unique inherited traits. Unfortunately, this procedure is often
+            quite difficult: there are millions of species to organize and an infinite number of
+            possible characteristics to compare! Many traits may be lost or reversed over time.
+            Consider the examples of tetrapods with one or both pairs of limbs reduced or missing
+            (snakes, some lizards, whales and dolphins, manatees, seals, etc.). Some changes also
+            occur quite predictably as adaptations to special environments. In the Arctic, foxes,
+            birds, mink, hares, bears, and more all have snow-white winter coats or feathers. They
+            are not closely related and did not all inherit their winter coloration from a common
+            ancestor. Instead, “snow white winter color” developed independently in each of these
+            lineages at different times and starting with different mutations.

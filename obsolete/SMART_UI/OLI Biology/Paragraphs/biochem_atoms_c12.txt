@@ -1,0 +1,12 @@
+ The first key characteristic that truly identifies an element is its
+						atomic number which is the number of protons in each atom. The
+					atomic number is constant and identical for all atoms of an element. For
+					example, hydrogen (H) atoms always have only one proton and have an atomic
+					number of one. If an atom has two protons, it has an atomic number of two, and
+					it is helium (He). For this reason, if you started with one hydrogen atom and
+					added a proton, the original hydrogen would now be helium. If an atom has three
+					protons in its nucleus, it is a lithium (Li) atom. Beryllium (Be) has four
+					protons in its nucleus, and so on. Based on their atomic numbers, elements can
+					be organized into a periodic table of elements like the one pictured below. The
+					number at the top of each box in the table is the atomic number of
+					the element.

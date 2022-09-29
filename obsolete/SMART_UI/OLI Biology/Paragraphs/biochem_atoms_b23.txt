@@ -1,0 +1,8 @@
+In addition to location and mass, each subatomic particle has a property called “charge.”
+			Charge can be “positive” or “negative.” Items with the same charge tend to repel each
+			other and items with opposite charges tend to attract each other. Protons have a
+			positive charge and neutrons have no charge, giving the nucleus a positive overall
+			charge. Each electron has a negative charge that is equal in strength to the positive
+			charge of a proton. Electrons and the protons of the nucleus attract each other, and
+			this is the force that keeps the atom together, much like the force of gravity keeps the
+			moon in orbit around Earth.

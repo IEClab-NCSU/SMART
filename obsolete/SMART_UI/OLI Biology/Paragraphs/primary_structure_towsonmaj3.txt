@@ -1,0 +1,5 @@
+
+    		Proteins take on structure in stages defined by the interactions of amino acids with each other in the primary sequence. The higher order stages of secondary, tertiary, and quaternary structure of the
+    		estrogen receptor are shown in the movie below. Although the exact structure of the protein was determined
+using biophysical methods employing sophisticated instruments and calculations, the ability to predict the three dimensional structure (tertiary structure) of a protein de novo is not yet possible. It is possible to make excellent predictions of secondary structure from primary structure and the use of measured constraints on structure based on the structure of the peptide bond and characteristics of individual amino acids is making it possible to approach predictive methods.
+			

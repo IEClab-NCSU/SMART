@@ -1,0 +1,4 @@
+The linear chain of amino acids will spontaneously fold into a three-dimensional shape, which
+				is usually the active form of the protein. For example, look at the drawing of the
+				three-dimensional structure of myoglobin (shown on the left). You can manipulate the
+				3D structure using the Jmol image on the right.

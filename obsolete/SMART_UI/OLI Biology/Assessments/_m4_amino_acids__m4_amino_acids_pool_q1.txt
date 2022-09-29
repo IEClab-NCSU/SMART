@@ -1,0 +1,3 @@
+The following structure is the amino acid glutamic acid. Four atoms (or groups of
+				atoms) are labeled (a,b,c,d). Which one of these atoms will be found on all amino
+				acids?

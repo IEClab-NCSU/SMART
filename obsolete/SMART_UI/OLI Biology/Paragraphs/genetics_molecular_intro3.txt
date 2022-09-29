@@ -1,0 +1,10 @@
+In the Classical Genetics unit, we considered the mechanisms of inheritance focusing
+            mostly on the organism and population levels in the hierarchy of life. In Molecular
+            Genetics, we will discuss the molecular basis of traits that characterize the organisms.
+            We want to understand on the molecular level how genetic information is organized and
+            used by living organisms. First, we will discuss the storage, transmission, and
+            expression of genetic information (central dogma of molecular biology) whereby the
+            information content in DNA sequences, called genes, are ultimately converted to a
+            protein. Then we will look at the structure of genes and genomes as well as the
+            interactions between genes and the environment. Finally, we’ll look at how humans are
+            able to manipulate genes through biotechnology.

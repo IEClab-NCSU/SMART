@@ -1,0 +1,7 @@
+You can recognize exponential growth as a pattern in which the numbers increase faster
+			and faster with each time step. A series of numbers with this property would be 2, 4, 8,
+			16, 32, 64, and so on. Visually, you can imagine exponential growth as a snowball
+			rolling down a hill, picking up snow as it goes: the bigger it gets, the faster it
+			grows. A wildfire spreading through dry grass might also grow exponentially. In a graph,
+			exponential growth shows up as a J-shaped curve.If you imagine the graph as a staircase,
+			each individual step is taller than the one that came before it.

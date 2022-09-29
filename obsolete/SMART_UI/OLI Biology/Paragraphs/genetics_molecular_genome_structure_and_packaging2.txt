@@ -1,0 +1,12 @@
+The prokaryotic genome resides on a circular piece of double-stranded DNA; there is no
+            membrane to separate DNA from the rest of the cell. Most bacterial genomes are several
+            million nucleotides long. The E. coli genome, for example, is
+            approximately 5 million nucleotides long. Although this is a relatively small genome,
+            the physical length of the DNA is longer than the length of the bacterial cell. In order
+            to condense the DNA into a smaller size, the DNA is supercoiled. In supercoiled DNA, the
+            double helix of the DNA contains additional turns beyond the normal one turn per 10 base
+            pairs. These additional twists introduce strain into the DNA that is relieved by
+            large-scale twists in the entire DNA molecule, or supercoils. A good model for
+            supercoiling is an old-fashioned spiral phone cord. If you form the cord into a circle,
+            and then rotate or twist one of the free ends relative to the other, you will introduce
+            supercoils into the cord.

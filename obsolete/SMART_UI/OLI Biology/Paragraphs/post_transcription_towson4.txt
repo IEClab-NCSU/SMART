@@ -1,0 +1,4 @@
+For transfer-RNA (tRNA), the RNA transcript has a segment of the 5’ end removed, a
+      trinucleotide that is common to all tRNAs (ACC) added to the 3’ end, and a short segment of
+      RNA spliced out of the middle of the RNA sequence. In addition, several of the bases in the
+      structure are chemically modified after the final sequence is generated. 

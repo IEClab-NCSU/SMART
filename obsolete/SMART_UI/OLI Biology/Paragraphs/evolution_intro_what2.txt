@@ -1,0 +1,8 @@
+Evolution can be divided into two levels: microevolution and macroevolution.
+                Microevolution is a process that occurs within a single population as
+            inherited traits become more or less common from one generation to the next. It is a
+            change in the genetic makeup of a population. Natural selection is the main process of
+            microevolution; it shapes populations such that they become better-adapted to local
+            conditions over time. For bacteria, viruses, insects, weeds, birds, small fish, and
+            other species with short generation times, we can sometimes directly observe
+            microevolution over periods of a few years or less.

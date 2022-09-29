@@ -1,0 +1,6 @@
+Groupings of species in a community based on their feeding
+                                relationships. These food based groupings are called trophic levels.
+                                Trophic level 1 is composed of producers that form the base of all
+                                ecosystems. Organisms in level 1 are eaten by organisms in level 2;
+                                organisms in level 2 are eaten by organisms in level 3; organisms in
+                                level 3 are by organisms in level 4, and so on. 

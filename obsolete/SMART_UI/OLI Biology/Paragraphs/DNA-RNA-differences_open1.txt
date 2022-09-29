@@ -1,0 +1,7 @@
+The tertiary structure of B-DNA has been described with a number of specific characteristics.
+      These characteristics describe what is referred to as the B-helix. It is the most common
+      structural form of double stranded DNA. RNA and hybrids of DNA with RNA have altered
+      characteristics resulting from the substitution of a ribose for a deoxyribose in the backbone
+      structure. The general characteristics found in the B-DNA are still present; however, slight
+      differences in the specific characteristics result in dramatic changes in the overall
+      structure of the helix.

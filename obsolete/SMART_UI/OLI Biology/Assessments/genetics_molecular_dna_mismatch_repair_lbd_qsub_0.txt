@@ -1,0 +1,1 @@
+During DNA replication a mismatch occurs such that a T is paired with a G.  If this mutation is missed by the DNA polymerase during replication, how do the nucleases responsible for mismatch repair recognize which of the two nucleotides needs to be replaced? In other words how does the enzyme know if the T should be replaced with a C, or if the G should be replaced with an A?

@@ -1,0 +1,2 @@
+Variations in the number of tandem repeats are detected by the polymerase chain reaction,
+            using primers that bind to unique sequences on the edges of the repeat.

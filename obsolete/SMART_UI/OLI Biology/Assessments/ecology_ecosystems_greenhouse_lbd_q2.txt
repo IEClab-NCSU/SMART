@@ -1,0 +1,10 @@
+So... When we total up the energy leaving the top of the atmosphere as reflected
+                light and as heat radiation, we account for less than 100% of the sunlight energy
+                that is coming in. This isn’t just a rounding error; it reflects the actual
+                situation as determined by many different investigations. Scientists look at heat
+                leaving the atmosphere using satellites; track the temperatures of the surface of
+                the Earth and of the oceans; and attempt to model how factors like clouds and the
+                atmosphere will interact with sunlight to generate the Earth’s climate. These
+                studies point strongly to a positive imbalance in the Earth’s energy budget. What
+                will happen if, over a year, the amount of energy coming into the Earth system is
+                greater than the amount flowing out? 

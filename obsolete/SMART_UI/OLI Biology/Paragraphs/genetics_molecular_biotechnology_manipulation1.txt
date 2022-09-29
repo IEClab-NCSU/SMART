@@ -1,0 +1,12 @@
+The step of inserting our synthetic DNA into the plasmid use two very important enzymes,
+            restriction enzymes and DNA ligase. Restriction endonucleases are
+                enzymes that recognize specific DNA sequences, such as GAATTC, and cut
+            both strands of the DNA within these sequences. Typically four or six bases are
+            recognized. Restriction enzymes are isolated from a number of bacterial
+            species and the name of the enzyme reflects the original species. For example, the
+            restriction enzyme EcoR1 was isolated from Escherichia coli. The
+            normal biological function of restriction endonucleases is to protect the bacterial
+            species from viruses by digesting the viral DNA as it enters the cell. Of
+            course, the bacteria shouldn’t digest their own DNA. Consequently, they have companion
+            enzymes called DNA methylases, which add methyl groups to the bacterial
+            DNA, protecting it from digestion.

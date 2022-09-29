@@ -1,0 +1,8 @@
+You can probably imagine other ways to use the shapes and materials at hand, building a
+            body that will help Structo overcome many different challenges. Environmental pressures
+            have led (and continue to lead) to the evolution of organisms with a virtually infinite
+            range of such combinations. In fact, one of the hottest areas of engineering right now
+            is biomimicry: looking at natural solutions to problems and using similar approaches to
+            build better technology. One of the earliest uses of this approach was the invention of
+            Velcro (hook and loop attachment) by Swiss engineer Georges de Mestral. He was inspired
+            by the burrs that got stuck in his dog’s fur!

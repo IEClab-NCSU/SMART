@@ -1,0 +1,4 @@
+Living cells grow and divide according to a series of timed events called the cell cycle.
+			Cells also maintain continuous communication with their surroundings while keeping their
+			individuality; this is facilitated by the particular structure and function of the cell
+			membrane.

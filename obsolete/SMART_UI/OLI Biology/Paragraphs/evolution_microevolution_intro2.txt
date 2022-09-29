@@ -1,0 +1,5 @@
+When you studied inheritance, you often were thinking about crosses: two individuals
+			mating to produce offspring. As we study microevolution, we will be backing up to think
+			about how inheritance works within larger groups. You will need to understand and use
+			the following terms: species, population, and gene pool. The illustration below shows an
+			example of how a species, population, and gene pool are related. 

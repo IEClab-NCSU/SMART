@@ -1,0 +1,5 @@
+For example, genes that inhibit cell division are classified as tumor suppressor
+					genes. If these genes are working properly, a cell will not divide
+				uncontrollably because these genes will stop the process. Genes that encourage cell
+				division are called proto-oncogenes. If these genes are working properly, a
+				cell will not receive the message to divide unless it should be dividing. 

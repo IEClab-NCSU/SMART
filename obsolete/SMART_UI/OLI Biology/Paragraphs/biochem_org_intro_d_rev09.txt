@@ -1,0 +1,3 @@
+Some compounds contain both nonpolar and polar functional groups; molecules of
+					this type are referred to as amphipathic molecules. Phospholipids
+					and soaps are examples of amphipathic molecules.

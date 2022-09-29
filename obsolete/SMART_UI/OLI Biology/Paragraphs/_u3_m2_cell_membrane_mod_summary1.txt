@@ -1,0 +1,8 @@
+Membranes are the defining characteristic of a cell in the same way that your
+					skin distinguishes what is "you" from what is "not you." Like your skin, the
+					membrane interacts with the environment and controls what gets in and what gets
+					out. However, additional features (such as eyes and a mouth) are necessary for
+					more complex interactions with the environment. Similarly, proteins in the
+					membrane further help the membrane control what enters and exits and regulate
+					environmental interactions. We’ll explore transport of things in and out of the
+					cell in more detail in the next module.

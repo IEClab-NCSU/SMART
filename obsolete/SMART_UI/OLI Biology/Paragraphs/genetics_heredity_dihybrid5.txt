@@ -1,0 +1,7 @@
+As you remember from the Meiosis module, during meiosis I, after crossing-over, the
+                    chromosome pairs separate randomly. This means that Y and y will separate, as
+                    will R and r. But which goes to which gamete is random. So the Y allele in a
+                    chromosome can be associated with a chromosome containing the R allele or the r
+                    allele, and the R allele can be paired with a chromosome containing the Y allele
+                    or the y allele. Therefore, there are four possible gametes in a dihybrid
+                    cross.

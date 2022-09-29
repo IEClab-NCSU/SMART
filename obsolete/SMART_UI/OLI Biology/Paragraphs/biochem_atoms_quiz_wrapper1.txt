@@ -1,0 +1,3 @@
+Atoms are the building blocks for all matter. Now that you understand the
+                    structure of the atom, you can use atoms to build more complex structures, like
+                    molecules. This is what you’ll learn about in the next module.

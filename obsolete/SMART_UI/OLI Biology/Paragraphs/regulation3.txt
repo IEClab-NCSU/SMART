@@ -1,0 +1,8 @@
+
+At least one step is regulated, often in multiple ways.
+Essentially irreversible steps, i.e. those with large energy changes, are regulated.
+        Consequently, once the pathway is turned on, metabolites that enter the pathway are
+        committed to complete the pathway.
+In synthetic and degradative pathways a common step is performed by different enzymes,
+        each of which are regulated in a coordinated fashion such that only one pathway is on at a
+        time.

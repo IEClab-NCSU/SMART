@@ -1,0 +1,3 @@
+
+The substrate requirements for DNA polymerase have been satisfied and synthesis
+            begins. Helicase continues to melt the DNA in front of DNA polymerase. 

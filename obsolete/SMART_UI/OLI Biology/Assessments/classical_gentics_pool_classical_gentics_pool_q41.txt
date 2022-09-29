@@ -1,0 +1,3 @@
+Huntington’s disease is an autosomal dominant disorder. A person with the disorder
+                and a person without the disorder mate. Both of these individuals are homozygous.
+                What is the chance that the offspring will develop Huntington’s?

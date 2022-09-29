@@ -1,0 +1,1 @@
+Table method used to assess probabilities of outcomes in genetics.

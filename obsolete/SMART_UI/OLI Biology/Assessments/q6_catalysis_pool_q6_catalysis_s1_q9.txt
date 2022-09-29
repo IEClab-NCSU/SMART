@@ -1,0 +1,2 @@
+An enzyme lowers the activation free energy by 5 kJ/mol. What relative rate enhancement is closest to that you would expect to observe (assume T=300K, RT=2.5 kJ/mol)?
+            

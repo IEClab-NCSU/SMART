@@ -1,0 +1,17 @@
+Three different conditions may exist in the relationship between the solute (ion)
+			concentration and solvent (water) concentration across a membrane. Isotonic, hypertonic
+			and hypotonic refer to the relative concentration of the solute (small molecules) in the
+			extracellular (outside) space surrounding the cell relative to the solute concentration
+			inside the cell. In an isotonic solution, the concentration of the solute and therefore
+			solvent water (water potential) is the same on both sides. A hypotonic solution is one
+			whose solute concentration is lower (water concentration is higher [i.e. high water
+			potential]) in the extracellular space than inside the cell. Because the water (the
+			solvent) can more easily pass through the membrane than can the solute (ions), the net
+			flow is spontaneous in the direction of the solvent (water) moving from its higher
+			concentration (high water potential) outside the cell to the inside of the cell.
+			Conversely, a hypertonic solution refers to an extracellular solution with a higher
+			solute concentration (lower water concentration [i.e. low water potential]) outside the
+			cell than inside the cell. In this case, the more permeable solvent, water, would flow
+			spontaneously out of the cell toward the low water potential to dilute the solute
+			molecules and create an equal concentration of solute molecules on both sides of the
+			membrane.

@@ -1,0 +1,25 @@
+ The enzyme consists of two separable subunits. The Fo subunit is within the
+          membrane and is responsible for the transfer of protons through the membrane. The
+          F1 subunit extends into the mitochondrial matrix and is responsible for the
+          synthesis of ATP. The F1 subunit is composed of three 
+
+ subunits and three 
+
+ subunits. These six subunits from a spherical structure where the 
+
+ and 
+
+ subunits alternate. The 
+
+ subunit extends from the Fo domain through the center of the 
+-
+ sphere. The 
+
+ subunit rotates 120 degrees every time three protons flows through the
+          Fo domain. The 
+-
+ sphere is prevented from rotating along with the 
+
+ subunit by the b-subunit, which anchors the 
+-
+ sphere to the membrane.

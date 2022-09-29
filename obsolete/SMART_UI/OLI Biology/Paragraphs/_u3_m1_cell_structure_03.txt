@@ -1,0 +1,9 @@
+In this module we will cover briefly the currently accepted hypothesis of how cells
+			evolved and discuss the pillars of the cell theory. We will explore the
+			different types of cells, and learn about their structures and functions. You will be
+			able to relate structural characteristics of the biomolecules studied before with the
+			structure and functions of the parts of the cell. While all cells have similar
+			structures, there are differences between the more ancient prokaryotic and
+			the more recent eukaryotic cells. Also, there are structures that are only
+			present in plant or animal cells. In multicellular organisms the specialization of cells
+			is striking, in both structure and function.

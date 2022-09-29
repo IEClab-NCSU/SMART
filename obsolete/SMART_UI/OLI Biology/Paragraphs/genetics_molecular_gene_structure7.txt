@@ -1,0 +1,3 @@
+Putting the regulatory signals associated with RNA production together with those signals
+            on the mRNA, we can represent the central dogma of molecular biology with the following
+            diagram:

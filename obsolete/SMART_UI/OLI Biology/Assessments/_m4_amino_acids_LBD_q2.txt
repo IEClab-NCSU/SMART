@@ -1,0 +1,5 @@
+The structure of two amino acids is shown, with the side-chain atoms (R group)
+					highlighted in yellow.
+
+Which of these amino acids has a polar (hydrophilic) side chain, such that it
+					would like to interact with water?

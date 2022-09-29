@@ -1,0 +1,13 @@
+
+As with any enzyme, DNA polymerase has a very specific set of requirements for
+            recognition of its substrate. For DNA polymerase the substrate is single stranded
+              DNA not double stranded DNA. Thus DNA polymerase is not able to bind to or
+            recognize an intact genome but
+            rather it uses each single strand of DNA as a template. 
+While DNA polymerase requires single stranded DNA as a template, it does not have the
+            ability to start anywhere on the strand and initiate de novo synthesis. The active site of the polymerase
+            requires a segment of DNA or RNA bound in a complimentary manner to the single stranded
+            template as an initiation point for the synthesis reaction. This segment of DNA or RNA
+            is generally referred to as the primer.
+If you examine the structure of either DNA or RNA there are two places that a new
+            deoxy-nucleotide can be added to extend the length of the complementary strand.

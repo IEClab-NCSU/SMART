@@ -1,0 +1,6 @@
+Many human traits are clear-cut and easy to test. These include the ability to bend back
+            the thumb nearly 90 degrees (known as “hitchhiker’s thumb”), to roll the tongue into a
+            U-shape, and to taste a bitter chemical called phenylthiocarbamide. While these traits
+            do not have considerable implications on human health and species survival, many others
+            do. Some of them are related to disorders such as sickle cell anemia, hemophilia,
+            Tay-Sachs disease, and Down syndrome, to name a few.

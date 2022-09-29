@@ -1,0 +1,11 @@
+ The resulting peptide chain is linear, defined by the mechanism that builds the
+					polymer, and has defined ends. Short polymers (< 50 residues or amino
+					acids) are usually refereed to as peptides, and longer polymers as proteins.
+					Because the synthesis takes place from the alpha amino group of one amino acid
+					to the carboxyl group of another amino acid, the result is that there will
+					always be a free amino group on one end of the growing polymer (the N-terminus)
+					and a free carboxyl group on the other end (the C-terminus). Note that the
+					potential exists for the formation of amide (peptide) links involving the
+					carboxyl and amino groups in the side chains, but bioselectivity directs the
+					synthesis to be linear, involving only the alpha amino and alpha carboxyl
+					groups.

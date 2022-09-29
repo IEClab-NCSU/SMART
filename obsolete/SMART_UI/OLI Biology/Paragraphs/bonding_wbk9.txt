@@ -1,0 +1,4 @@
+The overall shape of molecules depends on the geometry of the bonds that are
+					formed between atoms. The shape of a molecule can have a large effect on its
+					biological activity, often small changes in the shape of a molecule will make it
+					biologically inactive.

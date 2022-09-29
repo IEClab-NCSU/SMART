@@ -1,0 +1,9 @@
+ Both DNA and RNA are linear polymers. The components of the backbone of the polymer
+          include a set of furanose 
+          sugars linked together by bridging phosphate molecules in a synthesis between
+          the 3 position of one furanose and the 5 position of the next furanose. This linkage is
+          made through condensation synthesis formation of ester bonds by a bridging phosphate
+          molecule between two hydroxyl groups, one on each furanose ring. The resulting polymer is
+          a string of furanose molecules linked by phosphodiester bonds and having the 5 position
+          exposed on one end of the polymer and the 3 position exposed on the other end of the
+          molecule.

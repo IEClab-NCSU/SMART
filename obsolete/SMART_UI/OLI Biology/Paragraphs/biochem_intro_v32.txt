@@ -1,0 +1,8 @@
+The cell is the fundamental unit of life;
+			therefore, you might think that your study of biology should begin with the cell. In
+			fact, before you can truly understand how a cell functions, you must understand the
+			building blocks from which cells are made. In the Introduction to
+				Biology module, you learned that all life exhibits a hierarchical organization.
+			While cells are the first level of organization that displays all the properties of
+			life, their component parts (atoms and molecules) are not alive, as illustrated in the
+			inverted pyramid below.

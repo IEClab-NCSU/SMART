@@ -1,0 +1,3 @@
+Hydrophobic, or water-fearing, molecules do not dissolve in water. Hydrophobic molecules 
+                        have no (or very few) highly electronegative atoms.  In aqueous solutions hydrophobic 
+                        molecules are excluded from water (see hydrophobic interactions).

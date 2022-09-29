@@ -1,0 +1,6 @@
+Pigments are colored substances that absorb light energy. Different
+                                colored pigments absorb different wavelengths of light. The color of
+                                the pigment that we see is the wavelength that the pigment reflects
+                                (and does not absorb). The light energy absorbed by these pigments
+                                can be converted to chemical energy in the process of
+                                photosynthesis.

@@ -1,0 +1,3 @@
+Crossing over is a process in which genes swap positions on
+					matching chromosomes. The result is a new combination of genes on each
+					chromosome.

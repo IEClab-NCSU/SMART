@@ -1,0 +1,6 @@
+
+
+The complete structure of an antibody is shown on the left. The part of the
+				antibody that is circled is the antigen binding site of the antibody. Protein
+				(antigens) from the cell surface of four harmful bacteria (A, B, C, D) are shown on
+				the right. Which of the four will bind more effectively to the antibody?

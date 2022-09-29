@@ -1,0 +1,6 @@
+It is useful to provide shorthand notations and alternative ways of
+	representing the carbohydrates. Below are equivalent alternative representations of the
+	glucose and ribose. The form on the right is typically found in books and manuscripts. It
+	should always be remembered that while the structure on the right would appear to
+	represent carbon as having planar bonding, in fact each of the carbons has a tetrahedral
+	bonding structure.

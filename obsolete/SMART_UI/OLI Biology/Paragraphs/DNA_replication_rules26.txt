@@ -1,0 +1,10 @@
+If complete replacement of dATP with ddATP were made, then the first time a T were
+          encountered in the template strand, DNA polymerase would incorporate ddATP and all
+          synthesis would halt. If however, a mixture of dATP and ddATP were present, then when the
+          first T were encountered in the template, the dATP and ddATP would compete for the active
+          site of DNA polymerase. If dATP is incorporated, synthesis continues to the next
+          nucleotide and if ddTAP is incorporated synthesis halts for that one strand of DNA. Thus
+          in a population of template strands, a fragment of DNA starting at the primer and ending
+          at each T would be generated with the length of the fragment in nucleotide units defines
+          the location of the T in the template strand. If this experiment is performed for each
+          individual nucleotide, the complete sequence of the template can be accomplished.

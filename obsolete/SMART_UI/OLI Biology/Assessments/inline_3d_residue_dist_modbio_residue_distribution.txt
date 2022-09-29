@@ -1,0 +1,6 @@
+
+Based on the protein G Jmol , which of the following is the best description for
+                    the distribution of residues in a folded globular protein?
+Charged residues: 
+Polar residues: 
+ Non-Polar residues: 

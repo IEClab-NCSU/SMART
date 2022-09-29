@@ -1,0 +1,5 @@
+As you can see from the Fox population example, evolution is not determined by the
+			increase or decrease in the number of individuals within a population. Both populations
+			saw an increase in the total number of foxes from 1962 to 2202. Microevolution occurs
+			when there are changes in the genetic makeup of the population: when the frequency
+			(percentage) of each genotype changes over time.

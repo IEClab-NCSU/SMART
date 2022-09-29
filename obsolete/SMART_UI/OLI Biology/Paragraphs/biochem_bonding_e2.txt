@@ -1,0 +1,11 @@
+The degree of unequal electron sharing depends on the difference in electronegativity of the
+			atoms involved in the bond. For example, in carbon-carbon bonds, both atoms have the
+			same electronegativity, so the electrons are equally shared between the two carbons. In
+			contrast, a carbon-oxygen bond involves two atoms that have different
+			electronegativities. The less electronegative atom (carbon) will donate part of its
+			electrons to the more electronegative atom (oxygen), resulting in a partial positive
+			charge on the carbon (indicated by δ+) and a partial negative charge
+			on the oxygen (indicated by δ-). The size of the partial charges is
+			proportional to the difference between the electronegativities of the two bonded atoms.
+			Bonds in which electrons are unequally shared between the atoms are called polar covalent
+			bonds.

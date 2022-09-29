@@ -1,0 +1,6 @@
+In the experiment mentioned above, George Engelmann used bacteria to measure the
+				amount of photosynthesis achieved by algae. The bacteria he used in his study
+				require oxygen to live. In each zone along the length of the filament, there were
+				different wavelengths of light. So, some algal cells were photosynthesizing mainly
+				with red light, others with green light, etc. The amount of photosynthesis supported
+				by each wavelength was measured by how many bacteria were able to live in each zone. 

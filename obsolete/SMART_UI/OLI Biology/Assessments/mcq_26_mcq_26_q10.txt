@@ -1,0 +1,3 @@
+
+ A small 20 residue peptide will prefer to be found in a membrane if:
+ 

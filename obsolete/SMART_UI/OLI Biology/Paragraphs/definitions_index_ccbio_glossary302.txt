@@ -1,0 +1,2 @@
+Enzyme involved in transcription, build an RNA strand using DNA as a
+                                template.

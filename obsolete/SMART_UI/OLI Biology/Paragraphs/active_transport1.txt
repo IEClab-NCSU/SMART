@@ -1,0 +1,8 @@
+In some cases it is necessary to move molecules against a gradient. The eukaryotc cell, a
+			typical mammalian cell, has many compartments within the cell each surrounded by a lipid
+			bilayer membrane. In most cases the environment within the compartment is different than
+			that in the cytoplasm. An example is the lysosome, a degradative organelle (membrane
+			bound compartment within the cell) whose function is to digest macromolecules delivered either from the outside of the cell or from other compartments within the cell. To
+			carry out this function the lysosome maintains a much lower pH inside the lysosome
+			relative to the cytoplasm. At equilibrium, the concentration of protons would be equal on
+			both the inside and outside of the lysosome.

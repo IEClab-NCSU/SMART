@@ -1,0 +1,7 @@
+A and B are codominant, which means that if the individual has both A
+                    and B alleles, he will be of AB blood group, which expresses both proteins. On
+                    the other hand, O is recessive, so only the homozygous recessive individuals
+                    will have an O phenotype (blood group O). When representing the three different
+                    alleles for blood type we represent the codominant alleles by A and B for the A
+                    protein and B protein respectively. The recessive O allele is represented by
+                    lower case ‘i.’ 

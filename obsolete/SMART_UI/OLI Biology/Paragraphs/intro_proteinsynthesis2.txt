@@ -1,0 +1,10 @@
+Translation involves the conversion of a sequence of RNA to a corresponding sequence of
+			amino acids. To perform the conversion a code is needed to translate from the four
+			nucleotides (AUGC) of mRNA to the 20 naturally occurring amino acids. The question then
+			is what combination of nucleotides can code for at least twenty different amino acids?
+			Four nucleotides taken two at a time would generate 16 possible unique sequences. Not
+			enough to code for 20 different amino acids. However, four nucleotides taken 3 at a time
+			would generate 64 different unique sequences. Clearly this is enough to code for the 20
+			naturally-occurring amino acids. In fact, the abundance of codes means that there is
+			redundancy or degeneracy in the code with more than one triplet code representing a
+			single amino acid.

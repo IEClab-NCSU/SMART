@@ -1,0 +1,10 @@
+Although many factors stabilize the final shape of a protein, the most
+					importantfact is the hydrophobic effect. Amino acids with non-polar
+					(hydrophobic) sidechains are driven into the central core of the protein because
+					they are repelled by the water. This is known as the hydrophobic effect and it
+					results in proteins that have amino acids with hydrophilic sidechains on the
+					surface of the protein. The folded protein reaches the lowest energy state,
+					which is the most stable, by folding in a way to optimize the burial of
+					non-polar amino acid sidechains while still leaving the polar groups on the
+					surface. Therefore, the shape of the folded form of the protein depends on the
+					order of hydrophobic amino acids in the protein.

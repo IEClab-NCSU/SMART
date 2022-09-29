@@ -1,0 +1,1 @@
+That is, the per captita rate of increase multiplied by the starting population size (N).

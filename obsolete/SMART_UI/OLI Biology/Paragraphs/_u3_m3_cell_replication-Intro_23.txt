@@ -1,0 +1,3 @@
+After a chromosome has replicated, the two copies remain attached at a point
+			called the centromere. Each copy of the chromosome is called a
+			chromatid.

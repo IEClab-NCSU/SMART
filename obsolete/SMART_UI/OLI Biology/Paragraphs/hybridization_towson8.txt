@@ -1,0 +1,5 @@
+The midpoint of the transition from the double stranded to the single stranded form of the
+      DNA is called the melting temperature (Tm) for the DNA. In most organisms the Tm of the
+      chromosomal DNA ranges from 85-100 degrees C. It is possible to determine the composition of
+      the DNA experimentally from its Tm because the Tm of DNA is directly proportional to the GC
+      content of the DNA as graphically illustrated below.

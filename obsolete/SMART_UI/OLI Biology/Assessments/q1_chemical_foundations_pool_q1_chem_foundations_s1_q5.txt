@@ -1,0 +1,2 @@
+The enzyme fumarase catalyzes the reversible hydration of fumaric acid to l-malate, but it will not catalyze the hydration of maleic acid, the cis isomer of fumaric acid.  This is an example of:
+            

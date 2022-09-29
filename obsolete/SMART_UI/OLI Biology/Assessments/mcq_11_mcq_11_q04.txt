@@ -1,0 +1,3 @@
+
+ Once a ligand dissociation constant (Kd) has been determined it is possible to calculate
+ 

@@ -1,0 +1,6 @@
+
+Phosphate-ribose(deoxyribose)-phosphate-ribose(deoxyribose)sequence
+Linked by Phosphodiester covalent bonds
+3' position on one ribose(deoxyribose) linked to 5' position of adjacent
+            ribose(deoxyribose) through phosphodiester bridge
+chain has 3' end and 5' end

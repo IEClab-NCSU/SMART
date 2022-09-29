@@ -1,0 +1,4 @@
+A mutation occurs in the gene encoding the Cdk protein, preventing it from being
+                able to phosphorylate substrates. Which of the following choices would describe what
+                would happen to the cell cycle in that cell immediately following
+                cytokinesis?

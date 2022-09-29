@@ -1,0 +1,9 @@
+When referring to human blood groups, you may have heard references to “A
+                    negative” or “O positive.” The term “positive/negative” here refers to the
+                    presence or absence of a membrane glycoprotein called Rh. The Rh glycoprotein
+                    was named after Rhesus monkeys because some of the original studies on the Rh
+                    factor were done on these animals. The expression of this protein presents a
+                    simple dominance pattern, with the presence of the Rh molecule (Rh positive)
+                    being dominant over the absence (Rh negative). So a person's blood is said to be
+                    A positive (A+) if both A and Rh molecules are present on that person’s red
+                    blood cells.

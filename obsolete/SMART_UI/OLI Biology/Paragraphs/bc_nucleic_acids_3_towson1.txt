@@ -1,0 +1,5 @@
+Let’s examine the structure of a nucleic acid polymer. How are nucleotide
+					building blocks connected to each other? The alternating "phosphate - sugar -
+					phosphate" building blocks form a backbone of the linear polymer. Bases are
+					attached to the backbone via the sugars and are equivalent to the “side chains”
+					of amino acids in proteins.

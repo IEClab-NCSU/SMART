@@ -1,0 +1,7 @@
+ Within a biological lineage, evolution occurs as the component populations evolve. The
+            diagram shows evolution of a biological lineage starting at an arbitrary reference point
+            (“baseline generation”). Each chevron represents a snapshot of the lineage at one point
+            in time. Circles (A-F) represent populations of various sizes linked by gene flow (white
+            lines). Population (A) goes extinct. A mutation produces a new adaptive trait that
+            spreads first through population E, then moves through gene flow to the remaining
+            populations.

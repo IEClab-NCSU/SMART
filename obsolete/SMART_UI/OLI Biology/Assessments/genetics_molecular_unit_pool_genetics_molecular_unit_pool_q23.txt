@@ -1,0 +1,2 @@
+The following mRNA: ATG CAT CAT, codes for which of the following amino
+            acids:

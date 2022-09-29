@@ -1,0 +1,12 @@
+Fleming had discovered the first antibiotic. Antibiotics are
+					substances that are produced by one type of organism (usually bacteria or mold)
+					and used to kill or suppress other organisms (usually bacteria). Antibiotics
+					have a very specific way of working, which is called their “mode of action.”
+					Penicillin works by interfering with cell wall construction in bacterial cells.
+					The cell wall is a somewhat rigid “shell” that encloses a bacterial cell. In the
+					presence of penicillin, a bacterium’s cell wall cannot be built (or rebuilt) and
+					the cell wall eventually collapses, killing the cell. Cell walls are not present
+					around human cells, or those of any other animal. Therefore, penicillin does not
+					harm our cells — only those of bacteria. This is a general feature of
+					antibiotics. When taken in prescribed doses, antibiotics are usually harmless to
+					humans.

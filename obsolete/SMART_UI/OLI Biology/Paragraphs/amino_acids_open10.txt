@@ -1,0 +1,7 @@
+Proteins are polymers of amino acids. The amino acids are joined together by a
+					condensation reaction similar to that described for the formation of the
+					glycosidic bond in polysaccharides. Each amino acid in the polymer is referred
+					to as a residue. Individual amino acids are joined together by the attack of the
+					nitrogen of an amino group of one amino acid on the carbonyl carbon of the
+					carboxyl group of another to create a covalent peptide bond and yield a molecule
+					of water as shown below. 

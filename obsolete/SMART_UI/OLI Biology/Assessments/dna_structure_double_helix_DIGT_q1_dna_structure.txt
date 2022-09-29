@@ -1,0 +1,13 @@
+
+The two scientists credited with the discovery of DNA structure are  and . A key piece of data they used came
+                    from the x-ray crystallography data produced by  working
+                    in the lab of . This data showed that DNA has a  shape.
+Some of the key features of the proposed DNA structure were:
+1. The backbone of DNA strands is made up of alternating 
+                    molecules, which are held together through  bonds.
+2.  strands of DNA pair together through  bonds between  molecules.
+3. The DNA strands are oriented  to each other.
+4. In DNA adenine pairs with  through 
+ bonds.
+5. In DNA cytosine pairs with  through 
+ bonds.

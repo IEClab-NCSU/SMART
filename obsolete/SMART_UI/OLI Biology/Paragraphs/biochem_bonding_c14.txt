@@ -1,0 +1,7 @@
+Nitrogen, another example, has an atomic number of 7 (see the figure above). The outer
+			shell of carbon has 5 electrons. Nitrogen can share an electron with three other atoms.
+			Hydrogen has an atomic number of 1. It has a single electron in its outermost shell, and
+			can share this electron with one other atom. A nitrogen atom can form a covalent bond
+			with three hydrogen atoms to form a molecule called ammonia, NH3 . In an
+			ammonia molecule, nitrogen effectively has a “full” second shell (8 electrons) and each
+			hydrogen has a “full” second shell (two electrons). 

@@ -1,0 +1,7 @@
+This karyotype has an extra chromosome 21. This condition is called “trisomy 21” because
+            the cell has three ("tri") of these chromosomes instead of the usual two. This condition
+            is more commonly called “Down syndrome.” There are relatively few examples of such
+            large-scale chromosomal anomalies. Down syndrome results from an extra copy of one of
+            the smallest chromosomes. Extra or missing copies of sex chromosomes can also result in
+            viable embryos. Embryos with extra or missing chromosomes are often nonviable, and other
+            chromosomal anomalies are not generally seen.

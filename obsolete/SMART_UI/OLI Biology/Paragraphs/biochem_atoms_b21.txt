@@ -1,0 +1,5 @@
+Elements (atoms) are characterized by their atomic structure, which is made up of subatomic
+			particles: protons, neutrons, and electrons. Protons and neutrons reside in the nucleus
+			(center) of the atom and have a mass of one atomic mass unit (amu) each. Electrons are
+			found outside of the nucleus, in zones that are called “shells.” Electrons have almost
+			no mass.

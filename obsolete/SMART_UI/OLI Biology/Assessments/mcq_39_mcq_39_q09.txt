@@ -1,0 +1,3 @@
+
+ In prokaryotes, protein synthesis rates are limited by the rate of mRNA synthesis.  RNA synthesis occurs at about 50 nucleotides/sec. Therefore, protein synthesis occurs at about ___ amino acids/sec.
+ 

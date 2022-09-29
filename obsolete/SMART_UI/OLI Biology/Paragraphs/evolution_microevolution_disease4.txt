@@ -1,0 +1,10 @@
+
+Reverse transcriptase converts the HIV virus RNA into DNA
+				that can be recognized by the infected human cell’s DNA replication machinery as
+				well as human RNA polymerase.
+Integrase inserts the DNA made from the HIV RNA (using
+				reverse transcriptase) into one of the human chromosomes. In this way, the virus
+				(which is not living - see Application Spotlight: Viruses) tricks the human host cell into producing more viral RNA, which
+				the virus cannot do itself.
+HIV’s protease cuts the viral proteins that are manufactured
+				by the host cell into their functional forms.

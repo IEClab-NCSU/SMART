@@ -1,0 +1,7 @@
+All detergents are amphipathic molecules; they have a polar, water-loving (hydrophilic) part and a
+			nonpolar, water-hating (hydrophobic) part, which allows them to dissolve in both water and oils. The
+			chemical structure of a common detergent, dodecyl sulfate (DS), is shown below.
+			The hydrophilic part of DS interacts favorably with water by hydrogen bonding and
+			electrostatic (charge-charge) interactions between the negative charge on the DS and
+			the partial positive charges on the polar water molecules. The hydrophobic part has no
+			polar atoms to form favorable interactions with the water.

@@ -1,0 +1,2 @@
+Proteins begin with an amino group and end with a carboxyl group. In the case of
+			nucleic acids:

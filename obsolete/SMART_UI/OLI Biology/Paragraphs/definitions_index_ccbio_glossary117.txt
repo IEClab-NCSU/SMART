@@ -1,0 +1,4 @@
+Organisms that maintain internal body temperature using their own
+                                metabolism; for example animals that live in cold polar regions,
+                                like penguins, whales, and seals. These are all examples of animals
+                                with thick insulating “blubber” beneath the skin.

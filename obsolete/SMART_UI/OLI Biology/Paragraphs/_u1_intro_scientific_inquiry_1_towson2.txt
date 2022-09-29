@@ -1,0 +1,10 @@
+The rest of this module will focus on the methods of scientific inquiry. Contrary
+					to many science textbooks, there is no single, universal scientific method. Scientists
+					apply many methods to their research and there is no single, correct sequence of 
+					scientific activities. Some types of research require hypothesis testing and
+					strict, controlled laboratory conditions. Other types of research describe and 
+					categorize organisms living in an area and the types of habitats they prefer. The 
+					type of research being conducted by a scientist will determine research design, the
+					methods and tools used to gather and analyze data, and the ability of scientists
+					to generalize their findings beyond their study. Often this means scientists will
+					make observations before defining the problem or forming a hypothesis!

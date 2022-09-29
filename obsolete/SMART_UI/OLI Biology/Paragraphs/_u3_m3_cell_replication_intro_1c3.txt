@@ -1,0 +1,6 @@
+Examine the following image of the 23 pairs of chromosomes found in a single somatic
+				cell of a normal human. Notice that there are 22 pairs of chromosomes called
+					autosomes and there is one pair of chromosomes called sex
+					chromosomes. Males and females have different sex chromosomes. An image
+				like this is called a karyotype and can be used to diagnose genetic disorders in
+				humans. 

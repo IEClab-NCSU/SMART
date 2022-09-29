@@ -1,0 +1,5 @@
+More than one DNA polymerase enzyme is known and each carries out a specific function
+          depending on the situation. For example, DNA polymerase III is the enzyme used in
+          replicating a genome while DNA polymerase I is used in DNA repair. Even with clear
+          differences as to when each of the DNA polymerases is used during the replication of DNA,
+          the basic substrate requirements are the same. 

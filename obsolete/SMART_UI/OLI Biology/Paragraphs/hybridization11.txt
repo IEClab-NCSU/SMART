@@ -1,0 +1,11 @@
+
+ the chains are antiparallel
+ the two chains are held together by hydrogen bonding between bases
+ the stability of the DNA is directly proportional to the number of hydrogen bonds between chains
+ hydrogen bonding between strands of DNA and RNA follow the pattern
+        
+A hydrogen bonded through two bonds to T in DNA
+A hydrogen bonded through two bonds to U in RNA
+G hydrogen bonded through three bonds to C in both DNA and RNA 
+
+

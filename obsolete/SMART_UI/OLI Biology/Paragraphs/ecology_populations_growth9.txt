@@ -1,0 +1,6 @@
+The population is projected to grow at a constant annual rate of increase (0.39 deer
+			added per deer per year, or 39% annual growth). Each year, the starting N is updated to reflect the growth of the previous year. For
+			example, the starting population for 1986 (236) = the base population from 1985 (170)
+			plus the growth from 1985 (66). Although the per capita rate of
+			growth remains constant, the number added each year increases with the base
+			population.

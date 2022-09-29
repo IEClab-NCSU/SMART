@@ -1,0 +1,12 @@
+
+Feedback inhibitors.In this case, a compound that is further down the pathway, or
+        even a compound in a separate pathway, will inhibit a reaction. Again, this prevents an
+        accumulation of intermediates in a pathway. The binding of the feedback inhibitor usually
+        causes a change in the shape of the enzyme; a feedback inhibitor is an example of a
+        non-competitive inhibitor or an allosteric inhibitor.
+        
+Allosteric Pathway
+
+
+
+

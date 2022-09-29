@@ -1,0 +1,4 @@
+Meiosis I is often referred to as the reduction division, because it is during
+					this stage that the number of chromosomes in the parent cell are divided in
+					half. Meiosis II is extremely similar to Mitosis, except that there are half as
+					many chromosomes.

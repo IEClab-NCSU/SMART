@@ -1,0 +1,5 @@
+If there is a defect in either of the genes BRCA1 or BRCA2, that will result in increased
+			chances of DNA errors, which ultimately can increase the likelihood of cancer. BRCA
+			genes are therefore considered tumor suppressor genes. Mutations
+			in these genes produce a hereditary breast-ovarian cancer syndrome in affected
+			families.

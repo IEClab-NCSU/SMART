@@ -1,0 +1,14 @@
+Many bacterial genes are expressed at the same time as part of an operon. The expression
+            of the genes in the operon is controlled by a repressor protein. The repressor protein
+            will bind to the regulatory region at a DNA sequence. This sequence is the
+                operator. When the repressor is bound to the DNA, RNA polymerase cannot
+            transcribe the structural genes because it is blocked by the repressor protein bound on
+            the DNA; under these conditions, none of the enzymes required for the pathway is
+            produced. Whether or not the repressor binds to the operator is controlled by the
+            binding of a small molecule to the repressor. The small molecule is either the compound
+            that enters the pathway (for catabolic, or degradative pathways) or the compound that is
+            produced by the pathway (for anabolic, or synthetic pathways). The compound binds to the
+            repressor protein and causes the repressor either to bind to the DNA (this is called
+            positive control), turning off transcription, or to be released from the operator site
+            on the DNA (this is called negative control), turning on transcription. You will explore
+            both of these control mechanisms in the spotlight below.

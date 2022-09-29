@@ -1,0 +1,9 @@
+As discussed at the beginning of this unit, modern molecular biology has developed a Central
+      Dogma that describes a series of processes starting with DNA and ending with the production of
+      a protein using the genetic code. This Central Dogma is diagrammed in the figure below. The
+      initiation of this process is DNA Replication, highlighted in red, which describes the copying
+      of the information existing in DNA to new DNA. One of the most important processes that a cell
+      performs before it can divide is to faithfully replicate its chromosome. While there are
+      differences between prokaryotes
+      and eukaryotes, there are great similarities in the mechanism by which they replicate their DNA.
+      This unit will describe this mechanism of DNA replication

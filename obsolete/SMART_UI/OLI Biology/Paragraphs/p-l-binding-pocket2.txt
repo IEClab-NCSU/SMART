@@ -1,0 +1,2 @@
+ In the previous section the binding of oxygen to myoglobin was defined by the
+			equation:

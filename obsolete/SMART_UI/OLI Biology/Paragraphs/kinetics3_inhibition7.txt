@@ -1,0 +1,9 @@
+The pH of the environment a protein finds itself in can drastically affect the
+					proteins function and denaturation state. Have you ever put lemon and cream into
+					hot tea at the same time? The cream curdles because the low pH of the lemon
+					juice causes the proteins to denature. pH also affects the ability of a protein
+					to bind to its ligand. At low pH hydrogen bond acceptors such as carboxyl groups
+					become protonated. If they are protonated then they cannot form the critical
+					ionic bonds between the protein and the ligand. The graph below shows the
+					activity of a typical protein as a function of pH. This protein is most active
+					around neutral pH.

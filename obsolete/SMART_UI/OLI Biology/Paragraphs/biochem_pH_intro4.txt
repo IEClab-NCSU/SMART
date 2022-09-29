@@ -1,0 +1,2 @@
+To simplify things we will represent the hydronium ion as a hydrogen ion
+					(H3O+ = H+) in the following discussion. 

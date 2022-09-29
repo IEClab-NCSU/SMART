@@ -1,0 +1,2 @@
+Each of the RNA classes (rRNA, mRNA, and tRNA) is produced during transcription using a
+      different RNA polymerase.

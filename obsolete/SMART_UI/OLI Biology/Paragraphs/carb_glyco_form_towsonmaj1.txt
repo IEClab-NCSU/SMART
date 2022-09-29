@@ -1,0 +1,6 @@
+ While the monosaccharides can serve directly as sources of energy, as will be seen
+			elsewhere in the course, they are also the building blocks for many molecules that are
+			used for structure, energy storage and signaling. Here we will explore the process by
+			which simple carbohydrates are linked together using a condensation reaction. Time will
+			be spent on understanding this reaction since it is the same reaction that is used to
+			link amino acids together to make proteins and fatty acids to glycerol to made the components of biological membranes. 

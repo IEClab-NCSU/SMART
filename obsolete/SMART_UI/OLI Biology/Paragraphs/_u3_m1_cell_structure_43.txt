@@ -1,0 +1,7 @@
+The structures shown above are parts of a “generic” eukaryotic cell. While most eukaryotic
+				cells will present these structures, variations occur depending on the
+			function of the cell. Think about cars — while most cars have the same parts, there will
+			be differences between a sedan and an off-road vehicle. Among animal cells, extreme
+			examples of specialization include red blood cells (containers of hemoglobin to
+			transport oxygen; see picture on the left) and nerve cells (dedicated to transmission
+			and integration of signals; picture on the right).

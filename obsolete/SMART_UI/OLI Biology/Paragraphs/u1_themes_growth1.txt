@@ -1,0 +1,10 @@
+All organisms grow and develop. Growth is just an increase in size. In development, structure and function change in an
+            orderly way as an organism passes through its life cycle. An individual’s pattern of
+            development is partly determined by genetic instructions. DNA, the molecule of
+            inheritance, encodes proteins and other molecules that build cells and make them work.
+            You can think of genes as “recipes” for proteins. Each cell has a huge library of
+            thousands of recipes in its DNA. But most of the recipes don’t get used in any given
+            cell. Chemical controls tell the “cooks” whether to make a given protein, or ignore its
+            recipe and make something else. Therefore, even though your cells share the same DNA,
+            their activities change radically in different parts of your body and at different
+            stages of development.

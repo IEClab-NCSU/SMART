@@ -1,0 +1,6 @@
+A tabular categorization of all of the elements arranged in order of
+                                increasing atomic number. Also called the Periodic Table, the table
+                                is organized such that elements with similar properties are grouped
+                                in the same column (called a chemical group) and elements with the
+                                same number of electron shells appear in the same row (called a
+                                period). 

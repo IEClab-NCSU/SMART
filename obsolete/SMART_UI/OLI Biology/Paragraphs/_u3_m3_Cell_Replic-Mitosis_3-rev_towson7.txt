@@ -1,0 +1,6 @@
+The centromere is the region in the center of the X-shaped chromosomes. Each half
+					of the X is a copy of the same DNA strand. The centromere contains proteins that
+					hold together these two copies and can bind to the microtubules. The proteins on
+					the centromere are called the kinetochore, and the microtubules that attach to
+					them are called kinetochore microtubules. The microtubules that are not attached
+					to the kinetochores are called nonkinetochore microtubules.

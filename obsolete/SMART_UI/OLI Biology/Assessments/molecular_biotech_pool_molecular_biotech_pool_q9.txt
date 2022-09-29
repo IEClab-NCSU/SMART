@@ -1,0 +1,11 @@
+The following is the DNA sequence of the expression plasmid adjacent to the
+                ribosome binding site: -GAATTCGATATCAAGCTT
+(EcoR1)(EcoRV) (HindIII)
+You generated a synthetic gene for a human protein, but unfortunately you forgot
+                    to include the recognition sequences for EcoR1 at the beginning and for HindIII
+                    at the end of your synthetic gene, thus your gene looks like:
+AGT------TAA
+TCA------ATT
+Given the following recognition sites: EcoR1 G^AATTC, EcoRV GAT^ATC, Hind III
+                    A^AGCTT, can you still insert your synthetic gene into the expression
+                    plasmid?

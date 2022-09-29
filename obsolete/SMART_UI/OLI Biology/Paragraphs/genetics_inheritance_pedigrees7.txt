@@ -1,0 +1,4 @@
+Pedigrees can also be used to determine the genotype of individuals. Not all
+                individuals can be identified, however; so it is important to know when the genotype
+                is not identifiable. To determine the genotypes of individuals, one must first
+                determine if the trait is dominant, recessive, or X-linked.

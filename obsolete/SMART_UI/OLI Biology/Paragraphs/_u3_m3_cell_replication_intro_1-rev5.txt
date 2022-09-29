@@ -1,0 +1,9 @@
+Somatic cells produced through mitosis are diploid. “Di-” means “two”,
+					and diploid cells contain two copies of every chromosome. As you remember from
+					the cell structure module, chromosomes are the condensed form of chromatin, the
+					combination of DNA and proteins that fill the eukaryotic nucleus. Humans have a
+					total of 46 chromosomes in their diploid cells. One way to write this is
+						"2n=46." Humans who have more or less than 46 chromosomes sometimes
+					survive, but usually have life-altering conditions, such as Down Syndrome. (Down
+					Syndrome is caused by having three copies of chromosome 21, instead of the usual
+					two copies).

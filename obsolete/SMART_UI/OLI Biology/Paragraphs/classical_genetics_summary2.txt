@@ -1,0 +1,8 @@
+In this unit you learned, through some of the groundbreaking experiments and observations
+            of scientists such as Mendel and Morgan, the most common inheritance patterns. From
+            simple dominance to polygenic inheritance, there are many ways the discrete units of
+            inheritance Mendel called “genes” (without knowing precisely what they were), can
+            combine and influence each other. However, not everything is determined by genes.
+            Further studies have shown that the environment plays an important role in how those
+            genes are or are not expressed. In the next unit, you will learn about how genetic
+            information is inherited, expressed, and regulated at the molecular level.

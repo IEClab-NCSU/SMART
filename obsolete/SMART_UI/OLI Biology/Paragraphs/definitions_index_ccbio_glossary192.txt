@@ -1,0 +1,5 @@
+Diagrammatic representation of an organism's genome. An image of the
+                                chromosomes of a cell in metaphase where the chromosomes are
+                                arranged in pairs by centromere position and size. Karyotypes are
+                                used to count and analyze the chromosomes of an individual and can
+                                also be used in the determination of chromosomal abnormalities. 

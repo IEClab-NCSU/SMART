@@ -1,0 +1,7 @@
+Many metabolic pathways are reversible,
+					which means that certain chemical reactions can go “either way,” depending on
+					the needs of the cell. For example, some of the reactions that are part of
+					cellular respiration (which is a catabolic pathway) can become anabolic when
+					there is a surplus of energy. A small number of steps utilize different enzymes
+					in the forward versus the reverse direction. These enzymes are regulated in a
+					coordinated fashion such that a pathway operates in only direction at time.

@@ -1,0 +1,2 @@
+In a Hill plot, if the cooperativity increases, then the slope at log(θ/(1-θ))=0 will
+            

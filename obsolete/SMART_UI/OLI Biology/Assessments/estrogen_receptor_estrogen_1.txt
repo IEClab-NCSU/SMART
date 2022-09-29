@@ -1,0 +1,9 @@
+
+
+                    Click on this button  -script('select *:B;cartoon off;wireframe off;spacefill off;cartoon off;set windowcentered off;center atomno=5995;set windowcentered on;moveto 1 430 854 292 19.22 300;select *:C;wireframe off;spacefill off;color cartoon yellow;select EST:C;wireframe 0.4;spacefill 0.6;color cpk;isosurface surf1 select(EST:C) ignore(not EST:C) molecular;color $surf1 gray;color $surf1 translucent') to place a surface around the bound estrogen
+Click on these buttons to toggle this surface  OFFscript('isosurface surf1 off')ONscript('isosurface surf1 on')
+
+Now click on this button -script('select (384,404,383,387,349,525,425,421,388,343,391,428,346,424,540,524,347,521) and *:C;wireframe 0.4;define pocket selected;isosurface surf2 select(pocket) ignore(not pocket) molecular;color $surf2 yellow;color $surf2 translucent;select *:C;delay 0.5;moveto 1.0 782 -599 172 68 300;set defaulttranslucent 0.2;color cartoon translucent;delay 0.05;set defaulttranslucent 0.4;color cartoon translucent;delay 0.05;set defaulttranslucent 0.6;color cartoon translucent;delay 0.05;set defaulttranslucent 0.8;color cartoon translucent;delay 0.1;cartoon off;set defaulttranslucent 0.5;move 0 -20 0 0 0 0 0 0 2.0;delay 0.1;move 0 40 0 0 0 0 0 0 3.0;delay 0.1;move 0 -20 0 0 0 0 0 0 2.0') to place a surface on the protein (this will take a few seconds, be patient.
+Click on these buttons to toggle this surface  OFFscript('isosurface surf2 off')ONscript('isosurface surf2 on')
+
+Question: The contact between the bound estrogen and the protein is best described as:

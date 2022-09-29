@@ -1,0 +1,7 @@
+Another example is the peptidoglycan that makes up the cell wall structure of a
+			bacterium. Peptido refers to a peptide, which is a fragment of a protein or a short
+			polymer of amino acids, and glycan refers to a polysaccharide, a polymer of
+			carbohydrates. In this case the polymer of carbohydrates includes building blocks other
+			than glucose but the end result is the formation of a matrix. In both cases the
+			resulting fibers and matrices provide a scaffolding that gives rigidity (structure) and
+			protection to the organisms with which they are associated. 

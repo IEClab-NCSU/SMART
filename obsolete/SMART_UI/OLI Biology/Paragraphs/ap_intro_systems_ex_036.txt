@@ -1,0 +1,7 @@
+
+Nose
+Mouth
+Pharynx
+Larynx
+Trachea
+Lungs

@@ -1,0 +1,9 @@
+The information stored in the order of bases is organized into genes: each gene contains
+            information for making a functional product. The genetic information is first copied to
+            another nucleic acid polymer, RNA (ribonucleic acid), preserving the order of the
+            nucleotide bases. Genes that contain instructions for making proteins are converted to
+            messenger RNA (mRNA). Some specialized genes contain instructions for making functional
+            RNA molecules that don’t make proteins. These RNA molecules function by affecting
+            cellular processes directly; for example some of these RNA molecules regulate the
+            expression of mRNA. Other genes produce RNA molecules that are required for protein
+                synthesis, transfer RNA (tRNA) and ribosomal RNA (rRNA).

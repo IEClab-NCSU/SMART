@@ -1,0 +1,2 @@
+If N = population size at the beginning of a time period, the per
+			capita rate of some event is calculated as shown below for birth and death rates:

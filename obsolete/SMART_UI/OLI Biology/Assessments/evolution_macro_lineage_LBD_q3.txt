@@ -1,0 +1,5 @@
+
+                Okay, so the lettered circles each represent a population.  Below the diagram is expanded.  We revisit the same lineage 10 generations later.  Population “A” has died out, but the lineage lives on.  And something new has happened in population “E.”
+                
+                Assume the colors represent genetic traits of the populations.  What has happened in population “E” over ten generations?
+            

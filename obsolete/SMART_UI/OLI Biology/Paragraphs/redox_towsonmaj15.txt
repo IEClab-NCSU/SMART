@@ -1,0 +1,6 @@
+
+Make the number of oxygen atoms in the reactant and product equal by adding the
+            appropriate number of water molecules to one side of the reaction or the other.
+Use H+, or H+ + e-, or e- to balance
+            hydrogen atoms and/or charge.
+A redox reaction has occurred if electrons are consumed or released

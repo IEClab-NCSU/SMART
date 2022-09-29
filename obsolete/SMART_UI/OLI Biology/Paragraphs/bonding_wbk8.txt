@@ -1,0 +1,6 @@
+ Covalent bonds involving electronegative atoms often result in polar molecules.
+					As discussed earlier, the bonds between the hydrogen and oxygen atoms of water
+					are polar, due to the fact that oxygen is electron withdrawing and hydrogen is
+					willing to give up its lone electron. The double bond between carbon and oxygen
+					atoms in a carbonyl group is polar, for the same reason that the oxygen attracts
+					the electrons to itself. 

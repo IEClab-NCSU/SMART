@@ -1,0 +1,2 @@
+The shortest α-helix segment in a protein that will span a membrane bilayer has about _____ amino acid residues.
+            

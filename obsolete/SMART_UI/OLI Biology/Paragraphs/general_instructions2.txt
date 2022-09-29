@@ -1,0 +1,1 @@
+Many pages of this course contain formulas which require that your browser supports displaying MathML.  You should run "Test and Configure My System" from your My Courses page to make sure your browser supports the tools the course uses.

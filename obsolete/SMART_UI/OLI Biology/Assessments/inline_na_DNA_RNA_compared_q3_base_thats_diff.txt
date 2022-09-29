@@ -1,0 +1,1 @@
+DNA and RNA contain bases A, G, and C, but one of the bases is different between them: DNA contains  T, while RNA contains U (see figure).  How will this difference affect base pairing of RNA?

@@ -1,0 +1,8 @@
+The tendency of an atom to attract electrons to itself. Electronegativity
+                        increases as one moves from left to right, across the periodic chart.
+                        Because the electronegative atoms have the potential to attract electrons,
+                        i.e., the electrons spend more time on the electronegative atom, a molecule
+                        containing an electronegative atom will have partial negative charge
+                        associated with that atom (as indicated by δ-). The the
+                        bonding partner in the covalent bond becomes partially positively charged
+                        (as indicated by δ+ ). 

@@ -1,0 +1,5 @@
+A similar effect occurs in biological systems. As a protein folds to its final
+					three-dimensional structure, the hydrophobic parts of the protein are forced
+					together and away from the aqueous environment of the cell. Similarly,
+					biological membranes are stabilized by the exclusion of water between layers of
+					lipids as we will see later.

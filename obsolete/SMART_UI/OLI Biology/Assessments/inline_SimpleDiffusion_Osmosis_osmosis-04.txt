@@ -1,0 +1,1 @@
+Simple diffusion through a lipid bilayer is dependent upon the solubility of the molecule in hydrocarbons

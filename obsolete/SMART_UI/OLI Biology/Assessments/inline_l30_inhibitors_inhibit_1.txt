@@ -1,0 +1,6 @@
+Using the radio dials at the right, select
+                increasing concentrations of substrate to investigate how the concentration of substrate affects the reaction velocity, v. The reaction velocity is just the rate of product formation/unit time, under steady-state conditions.
+You can view the molecular events that occur in the upper animation and the velocity versus substrate is plotted on the lower graph.
+Select [S]=2, and mentally note how frequently the four enzyme molecules have substrate.
+Now make [S]=4. 
+<b>What happens to the average number of enzymes with substrate bound when [S] is increased from 2 to 4?</b> 

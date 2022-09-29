@@ -1,0 +1,5 @@
+
+The following molecule, methylamine, is an example of an amine containing an
+                    amino group (-NH2 ). Do you expect this molecule to be hydrophobic or
+                    hydrophilic?
+

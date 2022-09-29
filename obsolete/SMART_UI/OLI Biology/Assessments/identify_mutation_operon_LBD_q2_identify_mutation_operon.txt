@@ -1,0 +1,3 @@
+A single mutation causes the Trp operon to be "on" at all times, whether
+					tryptophan levels are high or low. Which of the following could cause
+				this?

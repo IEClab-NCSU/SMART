@@ -1,0 +1,5 @@
+ Amoxicillin, tetracycline, metronidazole, and clarithromycin are the four most
+				commonly used antibiotics to treat Helicobacter pylori infections. The bacteria have
+				been developing increased resistance to some of these drugs over the past 20 years.
+				The graph shows the percent resistance to these antibiotics over a twenty year span
+				for a hypothetical country.

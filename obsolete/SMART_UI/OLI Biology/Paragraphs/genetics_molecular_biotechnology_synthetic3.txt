@@ -1,0 +1,3 @@
+In addition to the codons, it is necessary to add additional sequences to the end of the
+            gene to facilitate the insertion of our synthetic gene into the expression plasmid.
+            These sequences are called restriction sites. Consequently the complete gene is:

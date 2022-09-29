@@ -1,0 +1,11 @@
+Fermentation is a very common metabolic pathway in
+					microorganisms such as bacteria and yeast, resulting in alcoholic beverages,
+					fermented milk products, and bread. In fermentation of alcoholic beverages,
+					yeast is added to sugary juices or malt syrups. The container is sealed to
+					exclude oxygen. Under these conditions, the yeast switches to fermentation and
+					generates ethanol, the intoxicating “active ingredient” of alcoholic beverages.
+					Eventually, however, ethanol concentrations reach a point where the yeasts
+					themselves are inhibited and fermentation grinds to a halt. In this way, wine
+					and beer are naturally limited in their alcohol content. High-alcohol liquors
+					can be produced only by distillation, a chemical process that concentrates the
+					alcohol.

@@ -1,0 +1,2 @@
+DNA is not hydrolyzed in basic solution, but RNA is. This occurs because
+            

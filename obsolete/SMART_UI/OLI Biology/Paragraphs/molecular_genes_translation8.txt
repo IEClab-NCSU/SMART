@@ -1,0 +1,3 @@
+To summarize, three types of RNA carry out distinct roles in translation: mRNA
+					encodes the protein, tRNA brings amino acids to mRNA, and rRNA is a component of
+					the ribosome required for catalysis.

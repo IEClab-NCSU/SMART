@@ -1,0 +1,5 @@
+
+The organization of the gene expression system into Operons,
+The initiation of transcription at special sequences called Promoters,
+The unidirectional RNA sythesis using RNA polymerase and how it differs from replication, and
+The post-transcriptional processing of the end products of transcription

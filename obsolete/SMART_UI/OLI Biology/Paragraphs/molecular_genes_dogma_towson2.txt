@@ -1,0 +1,13 @@
+In eukaryotic
+				cells, DNA stores the genetic information, which is passed from generation to
+			generation through the process of DNA replication. During replication,
+			the whole sequence of DNA is copied. In order for the information stored in DNA to be used by a
+			living cell, the information must be expressed (gene expression). First,
+			DNA is transcribed into one form of RNA called messenger
+			RNA, or mRNA, through the process of transcription;
+			then mRNA can be translated into an amino acid sequence forming a protein
+			through the process of translation. The ribosome translates the RNA
+			sequence into a protein sequence, using three nucleotide bases to encode each amino
+			acid. DNA also encodes two other RNA molecules, transfer RNA (tRNA) and
+				ribosomal RNA (rRNA). Although these RNA molecules do not directly
+			encode proteins, they are both required for protein synthesis. 

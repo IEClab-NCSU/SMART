@@ -1,0 +1,13 @@
+An important force in biochemistry is due to van der Waals interactions.
+					This interaction occurs between any two surfaces that are in contact. The force
+					is actually an electrostatic one that occurs as a result of a momentary
+					fluctuation in the charge on one surface.. This charge causes the other surface
+					to momentarily assume the opposite charge, leading to a net attractive force. If
+					one of the surfaces has a permanent dipole, due to the presence of
+					electronegative or electropositive atoms, then the attraction is stronger. The
+					strength of van der Waals forces depend on the contact surface area; the larger
+					the area the larger the interaction. At the molecular level, van der Waals
+					interactions can contribute 10s of kJ/mol of energy. At the macroscopic level
+					van der Waals forces can become quite large. For example, the common gecko
+					generates sufficient van der Waals forces due to the large surface area of its
+					foot pads to walk on the ceiling!

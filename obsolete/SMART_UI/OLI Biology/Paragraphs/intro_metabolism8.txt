@@ -1,0 +1,30 @@
+
+Sugars are degraded as follows: 
+Glycolysis is the first pathway used to degrade sugars and it is located in
+            the cytoplasm. The simple monosaccharide, glucose, is considered to be the
+            entry point to this pathway. The three carbon keto acid, pyruvate, is the final
+            product of glycolysis. Glycolysis generates a small amount of energy in the form of the
+            high energy compound ATP and high energy electrons, carried on organic electron
+            carriers. These electrons are brought into the mitochondria. 
+The citric acid cycle, or tricarboxylic acid cycle (TCA), is the second
+            pathway in the degradation of sugars. It is located in the matrix of the mitochondria.
+            Pyruvate enters the TCA cycle by loss of CO2 to produce a key metabolic
+            intermediate, acetyl-CoA. The remaining two carbons from pyruvate are lost as
+            carbon dioxide in the TCA cycle. The energy released by these oxidations is stored on
+            high-energy electron carriers.
+The electron transport chain consists of a number of proteins that exist as
+            four distinct complexes in the inner membrane of the mitochondria. This pathway takes
+            the electrons from the high energy electron carriers and deposits them on oxygen,
+            generating water. This releases energy, which is used to produce a high concentration of
+            protons, or a proton gradient across the inner mitochondrial membrane.
+ATP synthase, which is final step in energy generation, utilizes the proton
+            gradient to synthesize ATP. This multi-protein enzyme complex also resides in the inner
+            mitochondrial matrix.
+
+
+Amino Acids  are largely degraded by entry into the TCA cycle, followed by
+        electron transport, and finally ATP synthesis from the proton gradient.
+Fats, in the form of triglycerides, are first broken down into glycerol and fatty
+        acids. The fatty acids are oxidized by the beta-oxidation pathway, which coverts the carbon
+        in the fatty acid to Acetyl-CoA. The acetyl-CoA enters the TCA cycle, this is again followed
+        by electron transport, and then ATP synthesis. 

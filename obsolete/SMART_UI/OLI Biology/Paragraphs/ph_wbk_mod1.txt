@@ -1,0 +1,1 @@
+pH is the measure of the concentration of positively charged hydrogen ions in an aqueous solution. pH stands for -log[H+], where [H+] is read hydrogen ion concentration. Water molecules exist in an equilibrium between a complete water molecule and the dissociated proton H+ and conjugate base OH-.

@@ -1,0 +1,3 @@
+Regulation of gene expression by operons in prokaryotes is achieved through a balance
+            between positive and negative control. We explore how positive and negative control
+            interact below in the catabolic lac operon and the anabolic Trp operon. 

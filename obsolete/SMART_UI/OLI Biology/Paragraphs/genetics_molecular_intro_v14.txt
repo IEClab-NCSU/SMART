@@ -1,0 +1,8 @@
+ In Molecular Genetics, first you will learn about the storage, transmission,
+            and expression of genetic information (central dogma of molecular
+                    biology), whereby the information content in
+                DNA sequences, called genes, is
+            ultimately converted to a protein. Then you will look at the structure of genes and
+            genomes and at the interactions between genes and the environment. Finally, you will
+            examine how humans are able to manipulate genes through
+                biotechnology.

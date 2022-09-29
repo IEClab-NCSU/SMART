@@ -1,0 +1,4 @@
+The next step is to design an experiment that will test this hypothesis. There are
+			several important factors to consider when designing a scientific experiment. First,
+			scientific experiments must have an experimental group. This is the group that
+			receives the experimental treatment necessary to address the hypothesis.

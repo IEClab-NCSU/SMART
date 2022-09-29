@@ -1,0 +1,8 @@
+In many, but not all, cases it is possible to pinpoint a phenotype to one allele.
+            Remember, alleles are variants of genes, and genes code for proteins. In this example,
+            the purple color may be due to an enzyme that produces a purple pigment. If the allele
+            codes for a mutated enzyme that does not perform as expected, the resulting flower would
+            be white. A flower with BB or Bb genotype has the normal enzyme — purple pigment is
+            produced — and even the heterozygous flower, which has only one allele for the normal
+            enzyme, produces enough pigment for the flower to be purple. The bb flower, on the other
+            hand, has no functioning enzyme, so the flower remains white.

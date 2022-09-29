@@ -1,0 +1,6 @@
+In 2001, President George W. Bush instituted strict guidelines for federal funding of scientific research on hESCs. This policy required scientists
+                        essentially to halt the harvesting of hESCs for research and use only existing stem cell lines in their research. The policy slowed hESC research 
+                        but catalyzed the discovery of iPSCsfrom adult cells. In 2009, President Barack Obama signed an executive order revoking Bush’s guidelines, which 
+                        allowed scientists once again to pursue federal funding for research on hESCs, but only cell lines derived from unused embryos from fertility clinics.
+                        For more information, see “ Stem Cell Basics. In Stem Cell Information” and
+                         “Embryonic Stem Cell Research: A Decade of Debate from Bush to Obama.”

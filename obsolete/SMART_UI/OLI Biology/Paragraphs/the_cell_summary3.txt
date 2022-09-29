@@ -1,0 +1,8 @@
+All cells have a cell membrane that defines the boundary between the
+			cell’s interior and the external environment. The membrane mediates communication to the
+			external environment. The cell membrane has a unique chemical structure that enables the
+			passage of particles into and out of the cell. Some particles are able to simply diffuse
+			across the membrane. In other situations, special proteins are
+			required to help facilitate the movement. When particles move against a concentration
+			gradient, energy is required. In the Metabolism unit, you'll explore energy and
+			learn about out how cells generate and use this energy.

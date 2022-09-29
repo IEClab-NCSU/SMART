@@ -1,0 +1,10 @@
+To encode a protein, mRNA needs a protein-coding region and regulatory regions. The
+            coding region of the gene (and the coding region of mRNA) has to start with a start
+            codon: ATG in DNA and AUG in mRNA code for the amino acid methionine, Met. The coding
+            region of a gene always ends with a stop codon TAA, TAG, or TGA (in mRNA, these will
+            have a U instead of a T). The sequence between start and stop codons should contain
+            nucleotides in multiples of three, encoding the sequence of amino acids in the protein.
+            The untranslated regulatory regions (denoted by UTR) include a site for the ribosome to
+            bind before the start codon (5’ UTR) and a region after the stop codon (3’ UTR). Both 5’
+            and 3’ UTRs can bind specific proteins involved in regulation of translation (how fast
+            new protein product is built, how fast mRNA is degraded). 

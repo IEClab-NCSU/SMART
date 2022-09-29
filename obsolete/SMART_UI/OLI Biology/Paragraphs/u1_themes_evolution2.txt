@@ -1,0 +1,9 @@
+evolution is about how and why life changes over time. It happens
+            at levels greater than the individual: a single bird cannot evolve, but a
+                population of
+                    birds can
+                         evolve. It also occurs over generations of time, not within a
+                        single lifetime. A formal definition might be that evolution is a theory of how and
+                        why life changes in populations or higher-level groups over generations of time.
+                        Evolution is really just a long-term study of inheritance, shifting the focus from
+                        families to populations or even species.

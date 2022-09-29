@@ -1,0 +1,4 @@
+For the following graph indicate what the limiting rate factor is at each point
+                    (A and B).
+
+The above diagram shows enzyme activity in relationship to temperature. At point A enzyme activity is limited because:

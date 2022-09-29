@@ -1,0 +1,4 @@
+
+The Jmol model below is of the carbohydrate glucose.  Carbons 4, 5, and 6 are labeled, these correspond to carbons 1, 2, 3 respectively, in glyceraldehyde
+What is the chirality of carbon 5 in this molecule?
+

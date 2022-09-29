@@ -1,0 +1,2 @@
+Two heterozygous individuals have mated. How many different genotypes can be
+                present in the offspring?

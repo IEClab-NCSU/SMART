@@ -1,0 +1,6 @@
+There are two basic parts of the cell membrane. First there is the plasma
+					membrane that surrounds the cell and creates a barrier that separates the cell
+					contents from the outside environment. The plasma membrane is selective allowing
+					only specific molecules to cross. It selectively imports ions to control the
+					water balance of the cell. The cell membrane also provides a mechanism for
+					moving large molecules into and out of the cell. 

@@ -1,0 +1,3 @@
+Speciation is the formation of new species. We will assume in this course that a species
+            is a biological lineage, although there can be considerable debate among biologists
+            about how species are best defined in practice.

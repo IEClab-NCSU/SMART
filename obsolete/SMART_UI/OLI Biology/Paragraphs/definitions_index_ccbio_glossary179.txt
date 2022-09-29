@@ -1,0 +1,4 @@
+A type of community interaction where the effect of one species on
+                                another is exerted through one or more additional species acting as
+                                intermediaries. This is sometimes referred to as the "ripple
+                                effect". 

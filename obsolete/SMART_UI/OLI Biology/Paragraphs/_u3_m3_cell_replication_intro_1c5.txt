@@ -1,0 +1,5 @@
+Remember that germ cells, found in the ovaries and testes, give rise to gametes. In other
+			words, germ cells go through meiosis to produce gametes. Germ cells are diploid cells.
+			When they go through meiosis, the end result is four unique haploid daughter cells.
+			These haploid cells can be fertilized by other haploid cells to produce diploid cells
+			again. 

@@ -1,0 +1,5 @@
+There are two ways for organisms to reproduce: asexual and sexual. Many organisms, such
+			as bacteria, fungi, and even some plants and animals reproduce asexually. During
+				asexual reproduction, all of the genes in a cell are passed to its
+			daughter cells. This means that the resulting cells are 
+clones, or identical copies of the parental cell.

@@ -1,0 +1,11 @@
+Use this table as a quick reference for the major elements.
+           
+Atomic Masses of the major biological atoms
+AtomMassCovalent Bonds
+H11
+C124
+N143
+O162
+P315
+S322
+

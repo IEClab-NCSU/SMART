@@ -1,0 +1,7 @@
+In addition to providing information about each element’s atomic number, most
+					periodic tables also provide an atomic mass for each element. The atomic mass, also
+					known as the atomic weight,
+					(the mass of the nucleus) is the sum of the number of protons and the number of
+					neutrons. A hydrogen atom that has 1 proton and 1 neutron would have an atomic
+					mass of 2. A carbon atom which has 6 protons and 6 neutrons has an atomic mass
+					of 12.

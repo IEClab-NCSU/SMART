@@ -1,0 +1,11 @@
+Functional groups are parts of organic molecules that have specific
+			properties and functions. Organic molecules may contain more than one type of functional
+			group, and therefore, a particular molecule may have multiple properties. Biological
+			systems use only a small subset of the total number of elements (approximately 10 %)
+			found in the periodic table. This is due to the number of chemical reactions that can
+			occur under physiological conditions, and to the small number of chemical or functional
+			groups compatible in biological systems. The physical properties of functional groups
+			define how molecules behave in biological systems at various physiological pH levels and
+			temperatures. Identifying functional groups in molecules is an important skill, because
+			once you identify a molecule’s functional groups, you can predict its chemical
+			properties and many aspects of its biological behavior.

@@ -1,0 +1,19 @@
+
+The main-chain atoms of glycine are highlighted in yellow and its side chain (H)
+					is highlighted in green. All amino acids have the same main-chain atoms, but
+					differ in the side chains. For clarity, the hydrogen is omitted in the remaining
+					drawings. 
+Nonpolar amino acids
+					are highlighted in gray, 
+Aromatic amino acids
+					are highlighted in cyan,
+Polar amino acids are
+					highlighted in purple,
+Amino acids with acidic side
+						chains are highlighted in red, and
+Amino acids with basic side
+						chains are highlighted in blue. 
+The amino acids cysteine and proline, which are shown at the bottom of the page,
+					have unique properties. Cysteine can form covalent S-S disulfide bonds,
+					stabilizing the protein structure. In the case of proline, the side chain
+					attaches to its own nitrogen, making proline an amino acid.

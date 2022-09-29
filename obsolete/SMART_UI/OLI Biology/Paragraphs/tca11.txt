@@ -1,0 +1,4 @@
+If compounds in the TCA cycle are used to synthesize other compounds, such as amino acids, the TCA cycle will
+          eventually halt due to depletion of oxaloacetate.   Consequently it is necessary to "fill
+          up" the TCA cycle with an "anaplerotic" reaction. In this case, pyruvate is
+          converted to oxaloacetate by the enzyme pyruvate carboxylase:

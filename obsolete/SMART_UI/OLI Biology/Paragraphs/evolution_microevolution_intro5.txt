@@ -1,0 +1,6 @@
+You might wonder how a species and a population are different from one another.
+			Populations are subsets of a species. The dandelions in Boston, Massachusetts and those
+			in Annapolis, Maryland belong to separate populations. They are not likely to breed with
+			one another because their pollen doesn't travel that far. However, the Boston dandelions
+			and the Annapolis dandelions do belong to the same species. They could breed with one another if conditions allowed. For example, breeding
+			could occur if a human being carried dandelion pollen from Boston to Annapolis.

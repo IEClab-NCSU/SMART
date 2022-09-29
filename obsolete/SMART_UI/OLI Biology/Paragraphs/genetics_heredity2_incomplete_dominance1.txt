@@ -1,0 +1,6 @@
+Gregor Mendel’s experiments that you studied earlier involve simple dominance, in
+                    which the offspring will show a trait from either one parent or the other, not a
+                    blend of those traits. In a case of simple dominance, crossing a red flower and
+                    a white one will produce a red flower, not a pink flower. If you think about
+                    traits that children inherit from their parents, you will realize that this does
+                    not always happen. 

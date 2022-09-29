@@ -1,0 +1,4 @@
+Cytokinesis is the separation of the cytoplasm into two new daughter cells. Animal cells
+			divide when proteins pinch in the center of the cell until it separates into two. This
+			region is called the cleavage furrow. Plant cells divide when new cell wall components
+			are laid down in the center of the cell. This is called the cell plate.

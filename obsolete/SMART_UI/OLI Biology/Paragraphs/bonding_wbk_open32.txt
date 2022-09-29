@@ -1,0 +1,6 @@
+Amphipathic molecules are molecules that have a distinct non-polar, or
+					hydrophobic region, and a distinct polar region. These molecules do not form
+					true solution is water. Rather, the non-polar parts are forced together into a
+					non-polar aggregate, leaving the polar part of the molecule to interact with the
+					aqueous phase. Detergents and long-chain carboxylic acids are examples of
+					amphipathic molecules.

@@ -1,0 +1,2 @@
+A sequence of three nucleotides in an mRNA molecule that specifies which amino
+                        acid should be added to a growing polypeptide chain.

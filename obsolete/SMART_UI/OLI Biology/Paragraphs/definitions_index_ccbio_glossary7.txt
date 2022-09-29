@@ -1,0 +1,3 @@
+The amount of energy required by a chemical reaction in order for the
+                                reaction to occur. All chemical reactions require some amount of
+                                activation energy.

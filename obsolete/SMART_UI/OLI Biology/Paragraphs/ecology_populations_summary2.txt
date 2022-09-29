@@ -1,0 +1,11 @@
+If a population is closed (no immigration or emigration), it will change at a
+                    rate that is determined by the balance between births and deaths: the per capita
+                    rate of change = per capita birth rate - per capita death rate. If conditions
+                    are ideal, all populations have the tendency to increase, with the birth rate
+                    exceeding the death rate. Exponential growth is a pattern of increase in which
+                    the per capita rate of increase is constant and positive. As a result, the
+                    population grows faster the larger it gets. A graph of exponential growth
+                    resembles a J-shaped curve. For a short time, real populations can show bursts
+                    of growth that fit predictions of the exponential model. However, many different
+                    factors influence real populations and cause their numbers to vary over time in
+                    a somewhat unpredictable way.

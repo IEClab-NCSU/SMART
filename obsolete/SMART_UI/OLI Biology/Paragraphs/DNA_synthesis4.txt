@@ -1,0 +1,10 @@
+
+With formation of an open complex, one of the requirements for DNA polymerase is
+            satisfied: single stranded DNA is generated. At either end of the open complex where the
+            single stranded and double stranded DNA meet, a structure referred to as the
+              replication fork exists. From this point we will focus on the process of
+            replication at one of the replication forks. Remember that the replication will be occurring
+            simultaneously from both forks in opposite directions. To allow the binding of DNA
+            polymerase, a second requirement must be met for the structure of the substrate. An enzyme called Primase synthesizes a short
+            (approximately 10 nucleotides), complementary RNA primer on each strand of the DNA in a
+            5’ to 3’ unidirectional fashion. This complex of DNA and protein at the replication fork is referred to as the replisome. 

@@ -1,0 +1,11 @@
+In saturated fatty acids, all of the carbon-carbon bonds are single bonds and
+					each carbon is bonded to two or three H atoms; each carbon is “saturated” with
+					hydrogen. Because all the bonds are single, the entire fatty acid can adopt a
+					linear shape. Unsaturated fatty acids have one, two, or even three double bonds
+					along the carbon “backbone.” Notice in the diagram below that at each double
+					bond, the carbons involved are bonded to only one instead of two hydrogen atoms.
+					Thus these fatty acids have less hydrogen; they are “unsaturated” with respect
+					to hydrogen. The double bonds found in the unsaturated fatty acids have an
+					effect on the overall shape of a triglyceride: unsaturated fatty acids are
+					normally “kinked,” because the double bond prevents free rotation between the
+					two carbons involved.

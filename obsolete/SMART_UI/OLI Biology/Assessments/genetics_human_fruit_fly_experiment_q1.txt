@@ -1,0 +1,6 @@
+To practice the concept of sex-linked traits, let's call the normal X chromosome,
+                        X+; and, let's indicate the sex chromosome with the white-eyed phenotype,
+                        XW.  A true-bred red-eyed female will have the 
+                genotype, X+X+. A white-eyed male would have the genotype,
+                XWY. How can you figure out whether a red-eyed female is homozygous
+                or heterozygous for the red allele? 

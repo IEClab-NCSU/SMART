@@ -1,0 +1,11 @@
+A scientific experiment is a carefully organized procedure in which the scientist
+					intervenes in a system to change something, then observes the result of the
+					change. Scientific inquiry often involves doing experiments, though not always.
+					For example, a scientist studying the mating behaviors of ladybugs might begin
+					with detailed observations of ladybugs mating in their natural habitats. While
+					this research may not be experimental, it is scientific: it involves careful and
+					verifiable observation of the natural world. The same scientist might then treat
+					some of the ladybugs with a hormone hypothesized to trigger mating and observe
+					whether these ladybugs mated sooner or more often than untreated ones. This
+					would qualify as an experiment because the scientist is now making a change in
+					the system and observing the effects.

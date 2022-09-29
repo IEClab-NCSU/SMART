@@ -1,0 +1,2 @@
+6. Termination of translation occurs when release factors recognize stop
+                codons:

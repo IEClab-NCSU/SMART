@@ -1,0 +1,6 @@
+Skeletal Formulas: Chains of carbon atoms are very common in carbon-based
+							molecules. Sometimes such molecules are drawn using skeletal formulas,
+							also known as shorthand formulas. In these
+							diagrams, the carbon atom, typically indicated with the letter “C,” is
+							not shown. Instead, each C atom is drawn simply as a corner on the
+							diagram. 

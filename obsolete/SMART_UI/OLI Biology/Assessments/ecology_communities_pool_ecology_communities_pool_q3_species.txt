@@ -1,0 +1,5 @@
+A sample of insects and other invertebrates is collected from an urban stream. A total
+            of 244 individuals is collected from 2 m2 of stream bottom habitat. In this
+                sample there are 22 recognizably different types of invertebrate. The average total
+            length of the individuals is 6.7 mm. What is the best estimate of species richness based
+            on these data?

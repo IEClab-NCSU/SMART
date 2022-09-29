@@ -1,0 +1,3 @@
+Now, let’s mutate! What happens if we make the following mutation in the template DNA? (The base change
+                has been written in lowercase). 3’ G T T A C G G A A T A a C G A C T C  5’ What is the
+                protein sequence?

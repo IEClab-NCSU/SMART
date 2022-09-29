@@ -1,0 +1,4 @@
+The Punnett square below represents a dihybrid cross for Labrador retrievers,
+                        similar to the one that you saw in the previous module. Based on the given
+                        genotype of the offspring and that Labradors exhibit polygenic inheritance,
+                        drag the corresponding phenotype that goes with each genotype. 

@@ -1,0 +1,5 @@
+
+Primary Structure: The amino acid sequence of the protein, with no regard for the conformation of the amino acids.
+Secondary Structure: short range interactions involving only mainchain atoms  resulting in -helices and -sheets
+Tertiary Structure: long range interactions resulting in the 3-D Folding of a single polypeptide chain.
+Quaternary Structure: The interaction of two or more peptide chains to make a functional protein. The oxygen transport protein hemoglobin shows this level of structure. The functional protein is composed of four chains.

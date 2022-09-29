@@ -1,0 +1,4 @@
+
+Why does the process described in the last question need to be a continuous process?
+                    Why doesn’t the process just stop once the correct pH in the lumen is
+                    reached?

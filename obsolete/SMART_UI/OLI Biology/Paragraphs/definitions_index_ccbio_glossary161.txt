@@ -1,0 +1,3 @@
+Cells that contain only one set of chromosomes. Haploid cells are
+                                referred to as "1n". Gametes (sperm and eggs) are haploid. In human
+                                haploid gametes contain 23 chromosomes.

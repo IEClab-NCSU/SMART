@@ -1,0 +1,9 @@
+ Living organisms consume food, in the form of carbohydrates, fats, and amino
+					acids, to live. The process of metabolism breaks these
+					complex biomolecules into simple molecules with the release of energy. The most
+					common form of energy is adenosine triphosphate (ATP). This
+					high energy phosphorylated compound is used as a energy source in many cellular
+					processes and for bio-mechanical functions, such as muscle contraction or ion
+					transport across membranes. The resultant compounds and energy released from
+					food are used to synthesize complex molecules for the specialized needs of the
+					cell or organism.

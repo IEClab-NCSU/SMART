@@ -1,0 +1,10 @@
+How does DNA polymerase know in what order to add nucleotides?
+            Specific base pairing in DNA is the key to copying the DNA: if you know the sequence of one strand,
+            you can use base pairing rules to build the other strand. Bases form pairs (base pairs)
+            in a very specific way. The figure shows how A (adenine) pairs with T
+            (thymine) and G (guanine) pairs with C (cytosine). It is important to
+            remember that this binding is specific: T pairs with A, but not with
+                C. The molecular recognition occurs because of the ability of bases to form
+            specific hydrogen bonds: atoms align just right to make hydrogen bonds possible. Also
+            note that a larger base (purine, A or G) always pairs with a smaller
+            base (pyrimidine, C or T).

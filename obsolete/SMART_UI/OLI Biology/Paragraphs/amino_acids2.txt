@@ -1,0 +1,11 @@
+ Amino acids are the building blocks of proteins. The sequence of amino acids in
+					individual proteins is encoded in the DNA of the cell. The physical and chemical
+					properties of the 20 different, naturally occurring amino acids dictate the
+					shape of the protein and its interactions with its environment. Certain short
+					sequences of amino acids in the protein also dictate where the protein resides
+					in the cell. Proteins are composed of hundreds to thousands of amino acids. As
+					you can imagine, protein folding is a complicated process and there are many
+					potential shapes due to the large number of combinations of amino acids. By
+					understanding the properties of the amino acids you will get an appreciation for
+					the limits of protein folding and how to predict the potential higher order
+					structure of the protein. 

@@ -1,0 +1,3 @@
+In peas purple is dominant to white for flower color. A purple flower is crossed
+                with a white flower. All the offspring (over 100 plants) produce purple flowers.
+                What is the genotype of the purple flower?

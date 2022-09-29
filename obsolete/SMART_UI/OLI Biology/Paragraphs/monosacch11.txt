@@ -1,0 +1,3 @@
+ Add another carbon to the structure given above. How many possible structures result
+			from adding another carbon to this carbohydrate? What must remain constant in the
+			representation of these structures? 

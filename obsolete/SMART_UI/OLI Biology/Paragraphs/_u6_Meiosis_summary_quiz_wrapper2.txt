@@ -1,0 +1,7 @@
+Meiosis is divided into two phases. In meiosis I, homologous pairs of chromosomes
+					bind together and exchange pieces. This process is called "crossing over" and is
+					essential for generating diversity within a species. By the end of meiosis I the
+					homologous pairs of chromosomes have been sorted into separate cells. In meiosis
+					II, the individual chromatids of a chromosome are sorted into separate cells. By
+					the end of meiosis, a single diploid cell has divided into four haploid
+					cells.

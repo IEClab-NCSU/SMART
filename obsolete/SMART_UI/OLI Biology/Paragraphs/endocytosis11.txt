@@ -1,0 +1,9 @@
+Much as the channels and pores discriminate between specific molecules and their
+			transport through the membrane, specificity and discrimination are seen during
+			endocytosis using specific membrane bound receptors. This targeting defines the uptake
+			of specific molecules or assemblies by specific cells. The following animation
+			demonstrates the process of receptor mediated endocytosis for the Low Density
+			Lipoprotein (LDL) complex. The process is divided into the individual steps to emphasize
+			similarities and differences among general endocytosis, protein transduction and
+			receptor mediated endocytosis. Several general concepts are illustrated during the
+			process including bioselectivity and intermediate recycling. 

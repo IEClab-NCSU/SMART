@@ -1,0 +1,8 @@
+Two amino acids join to form a dipeptide. Longer chains of connected amino acids are
+			often called polypeptides. When polypeptides are synthesized, new amino acids are added
+			only to the carboxylic acid end of the existing chain. A completed polypeptide is
+			directional; it has two different ends. One end has a free amino group, while the other
+			end has a free carboxylic acid group. When amino acids in a protein are counted, the
+			numbering starts with the amino acid that has the free amino group. The last amino acid
+			is also the last one that was added when the chain was built: it has a free carboxylic
+			acid group.

@@ -1,0 +1,2 @@
+When [S] is much larger than KM, then the reaction velocity is
+                        highly sensitive to changes in [S]:

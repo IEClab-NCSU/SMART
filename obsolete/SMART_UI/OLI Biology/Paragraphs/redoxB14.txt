@@ -1,0 +1,4 @@
+It is often difficult to determine from the structure of an organic compound whether it
+          has been oxidized or reduced in a reaction. For example, the addition of a water molecule
+          to an double bond (alkene) appears to be a redox reaction because an -OH group has been
+          added .

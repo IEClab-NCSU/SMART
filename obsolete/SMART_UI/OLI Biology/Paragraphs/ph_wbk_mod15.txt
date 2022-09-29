@@ -1,0 +1,1 @@
+Substituting pH for -log[H+] and pKa for - log K we get,

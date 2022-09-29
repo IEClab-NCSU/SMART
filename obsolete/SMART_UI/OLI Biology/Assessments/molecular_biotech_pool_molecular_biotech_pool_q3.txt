@@ -1,0 +1,6 @@
+
+Examine the three base universal codon table below to answer this question. 
+
+The beginning part of the sequence of human insulin is Met-Ala-Leu-Trp. Which of
+                    the following sequences would be ideal for the production of human insulin in
+                    yeast? 

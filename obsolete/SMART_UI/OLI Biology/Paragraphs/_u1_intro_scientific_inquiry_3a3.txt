@@ -1,0 +1,9 @@
+Dependent variables
+            are known or hypothesized consequences; they are the effects that result from changes or
+            differences in an independent variable. In an experiment, the dependent variables are
+            those that the scientist measures before, during, and particularly at the end of the
+            experiment to see if they have changed as expected. The dependent variable must be
+            stated so that it is clear how it will be observed or measured. Rather than comparing
+            “learning” among students (which is a vague and difficult to measure concept), an
+            educational researcher might choose to compare test scores, which are very specific and
+            easy to measure.

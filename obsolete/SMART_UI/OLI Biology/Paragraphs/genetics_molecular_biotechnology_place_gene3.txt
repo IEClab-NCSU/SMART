@@ -1,0 +1,6 @@
+The expression plasmid would have two different restriction sites after the
+            ribosome binding site to facilitate the insertion of the synthetic gene. To
+            utilize these sites it would be necessary to include these restriction sites at
+            the end of our synthetic gene. The expression plasmid and the synthetic fragment
+            would be cut with the restriction enzymes, mixed, and then treated with DNA
+            ligase to re-seal the phosphodiester backbone:

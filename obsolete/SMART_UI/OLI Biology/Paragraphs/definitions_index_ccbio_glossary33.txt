@@ -1,0 +1,2 @@
+Describes a trait associated with alleles located on autosomes (non
+                                sex chromosomes).

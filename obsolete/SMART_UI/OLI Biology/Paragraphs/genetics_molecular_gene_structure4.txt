@@ -1,0 +1,3 @@
+Note that mRNA in the figure above starts with 5’ UTR, not with the start codon. The
+            start codon signals the start of translation, not transcription. Next, we will consider
+            DNA regions required for transcription.

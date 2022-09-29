@@ -1,0 +1,7 @@
+Temperature and pH represent environmental means of regulating the velocity of an
+					enzyme catalyzed reaction. However, in a typical organism (in vivo) the
+					temperature and pH are usually regulated and therefore cannot be used to control
+					enzyme activity. Consequently, the velocity of enzymatic reactions are usually
+					regulated by molecular interaction of a second molecule with the enzyme. These
+					are generally termed inhibitors if the binding of the second molecules causes a
+					loss of enzyme activity (reduced velocity at any given substrate concentration).

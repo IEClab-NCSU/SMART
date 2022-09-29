@@ -1,0 +1,1 @@
+Synthesis of a polypeptide from the information in an RNA sequence.

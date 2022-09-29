@@ -1,0 +1,5 @@
+Prokaryotes are an enormously diverse group of organisms. However, they can
+			be organized into two primary groups: bacteria and archaea.
+			While both bacteria and archaea are prokaryotes (both groups lack nuclei), the archaeans
+			have some interesting structural characteristics in the cell membrane that have unique
+			functional significance.

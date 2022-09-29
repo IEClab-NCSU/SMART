@@ -1,0 +1,4 @@
+Many proteins bind to small molecules called ligands. Some proteins are enzymes that bind
+      small molecules to convert them into other molecules. Some proteins act as transports by
+      binding small molecules and ferrying them throughout the organism, or by moving them across
+      lipid membranes. Other proteins act as small molecule buffers. 

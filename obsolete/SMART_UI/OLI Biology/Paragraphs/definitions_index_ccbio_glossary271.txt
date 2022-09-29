@@ -1,0 +1,2 @@
+An amino acid with polar side chains contain polar uncharged
+                                groups, for example amide and hydroxyl.

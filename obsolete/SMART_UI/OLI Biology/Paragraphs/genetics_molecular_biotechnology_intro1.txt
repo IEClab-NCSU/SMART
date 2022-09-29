@@ -1,0 +1,5 @@
+The ability to manipulate DNA has led to dramatic changes in medicine, agriculture, and
+            many other aspects of society. For example, genes from other species are transferred
+            into crop plants and livestock to provide them with desired traits. And many drugs are
+            produced by bacteria, yeast, or other organisms that have been engineered to express
+            human genes.

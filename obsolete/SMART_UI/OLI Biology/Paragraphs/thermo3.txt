@@ -1,0 +1,4 @@
+Consider the simple reaction [A] to [B]. If we start with a system that is pure [A] it
+          will spontaneously form some [B] until equilibrium is reached. When a system is at
+          equilibrium, the concentration of products and reactants are constant and it is possible
+          to write an equilibrium constant for the reaction:

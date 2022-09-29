@@ -1,0 +1,4 @@
+The dissolved butane is highlighted in yellow. It is surrounded by a cage of water molecules,
+							forming hydrogen bonds (purple) with each other (pdb
+								file modified from Udachin et al., J. Chem. Phys, 134, 121104
+								(2011).

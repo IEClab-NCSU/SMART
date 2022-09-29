@@ -1,0 +1,9 @@
+Cells continually encounter changes in their external ionic environment and will
+			spontaneously respond by attempting to equalize the concentration of ions on the inside
+			and outside of the cell. Because the plasma membrane (lipid bilayer) is significantly
+			less permeable to ions than water, the establishment of an equal concentration of the
+			ions on either side of the membrane is accomplished by the net movement of water toward
+			the higher concentration of ions to reduce the concentration. This movement of water in
+			response to an imbalance of solute (ion) is referred to as osmosis. This is illustrated
+			in the following simulation.
+		

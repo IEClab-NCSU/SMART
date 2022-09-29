@@ -1,0 +1,3 @@
+Amino acids with basic side chains contain basic nitrogen-containing groups. At 
+                    physiological pH, basic groups gain a proton (acting as a base) and become
+                    positively charged.

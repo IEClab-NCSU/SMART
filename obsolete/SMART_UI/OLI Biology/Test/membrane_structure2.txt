@@ -1,0 +1,18 @@
+The cell membrane must be a dynamic structure if the cell is to grow and
+							respond to environmental changes. To keep the membrane fluid at
+							physiological temperatures the cell alters the composition of the
+							phospholipids. The right ratio of saturated to unsaturated fatty acids
+							keeps the membrane fluid at any temperature conducive to life. For
+							example winter wheat responds to decreasing temperatures by increasing
+							the amount of unsaturated fatty acids in cell membranes. In animal cells
+							cholesterol helps to prevent the packing of fatty acid tails and thus
+							lowers the requirement of unsaturated fatty acids. This helps maintain
+							the fluid nature of the cell membrane without it becoming too liquid at
+							body temperature. The fluidity of the membrane is demonstrated in the
+							following animation. The lipids in the membrane are in random bulk flow
+							moving about 22 µm (micrometers) per second. Phospholipids freely move
+							in the same layer of the membrane and rarely flip to the other layer.
+							Flipping of phospholipids from one layer to the other rarely occurs
+							because flipping requires the hydrophilic head to pass through the
+							hydrophobic region of the bilayer.
+							

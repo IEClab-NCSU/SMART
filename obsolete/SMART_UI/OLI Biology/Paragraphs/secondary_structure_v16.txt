@@ -1,0 +1,5 @@
+Beta-Sheet The second predominant secondary structure element is the
+-sheet. When the  and  angles are close to 180 degrees the
+peptide chain is fully extended, the -strand conformation exists.
+A -sheet forms when several -strands run
+either parallel or anti-parallel to each other. The structures are stabilized by hydrogen bonds between the strands and the anti-parallel structure appears to be more stable due to maximization of the number of possible hydrogen bonds. The atoms participating in hydrogen bonding in a -sheet are the same as those for -helices: the carbonyl oxygen and the amide hydrogens. In the case of a -sheet the hydrogen bonds are in the plane of the sheet and perpendicular to the peptide chain. The side chains project above and below the plane of the -sheet.

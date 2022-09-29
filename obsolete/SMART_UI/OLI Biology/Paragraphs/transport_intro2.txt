@@ -1,0 +1,8 @@
+The cell membrane provides a semi-permeable barrier between the inside and the outside of
+			the cell. This barrier provides control for transport of nutrients, ions and signals
+			between the highly variable outside environment and the relatively well-defined interior
+			of the cell. This unit of the course will explore the ways in which molecules can pass
+			across the membrane (diffusion and active transport), can be transported into the cell
+			without passing across the membrane (endocytosis), and can send signals for actions
+			within the cell without actually passing across the membrane themselves (signal
+			transduction).

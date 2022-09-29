@@ -1,0 +1,6 @@
+More recently, proteins used for medical treatment are produced in yeast or cultured
+            mammalian cells that are grown in synthetic growth media. Protein production in yeast or
+            mammalian cells avoids the possibility of having toxic bacterial impurities in the final
+            product. The overall steps in producing the protein in yeast or mammalian cells are very
+            similar to the steps described here, however the overall cost of producing the protein
+            may be somewhat higher.

@@ -1,0 +1,6 @@
+DNA is the molecule
+			that stores and transmits inherited genetic information. This information includes the
+			directions that tell a cell how to make proteins. Information is stored in
+			DNA in segments called genes. In the diagram above, the ruler represents
+			the entire DNA molecule. The genes are represented as short segments of the ruler. You
+			will learn more about the structure and function of genes in the Molecular Genetics unit.

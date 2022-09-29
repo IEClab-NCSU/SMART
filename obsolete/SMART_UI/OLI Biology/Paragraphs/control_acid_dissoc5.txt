@@ -1,0 +1,3 @@
+The fraction of a group that is protonated: [HA]/{[HA]+[A-]}
+							can be calculated at any pH using the Hendersson-Hasselbach equation.
+							Such a plot is shown below for acetic acid. Note that:

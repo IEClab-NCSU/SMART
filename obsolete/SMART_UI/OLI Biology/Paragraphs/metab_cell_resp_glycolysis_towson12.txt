@@ -1,0 +1,4 @@
+The levels of NAD+ can be restored by using pyruvate as the electron acceptor.
+          In mammals, lactate is the product of this reaction. In yeast, it is alcohol and the
+          process of anaerobic glycolysis is referred to as fermentation. The reduction of
+          pyruvate will oxidize NADH to NAD+, allowing glycolysis to resume.

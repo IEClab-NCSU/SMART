@@ -1,0 +1,6 @@
+
+Every cell is surrounded by a(n)  which act as a barrier
+                    between the cytoplasm and the exterior of the cell. Another important structure
+                    common to all cells is the , which is used to synthesize
+                    proteins. The instructions needed to build these proteins are contained in a
+                    cell's .

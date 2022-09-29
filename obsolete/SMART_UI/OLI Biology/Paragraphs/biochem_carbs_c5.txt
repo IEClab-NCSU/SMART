@@ -1,0 +1,5 @@
+Deoxyribonucleic acid (DNA) and ribonucleic acid (RNA) are the molecules involved
+					with storing our genetic information (DNA) or the conversion of that information
+					into proteins (RNA). Sugars (deoxyribose in DNA, ribose in RNA) play a part in
+					the structure of these nucleic acid molecules. They alternate with phosphate
+					groups to make up the long backbone of nucleic acids, as shown below.

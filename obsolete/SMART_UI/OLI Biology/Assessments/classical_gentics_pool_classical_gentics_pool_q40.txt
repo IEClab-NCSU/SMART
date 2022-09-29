@@ -1,0 +1,3 @@
+Huntington’s disease is an autosomal dominant disorder. If two individuals who are
+            heterozygous at this locus breed, what are the chances that their offspring will
+            develop Huntington’s?

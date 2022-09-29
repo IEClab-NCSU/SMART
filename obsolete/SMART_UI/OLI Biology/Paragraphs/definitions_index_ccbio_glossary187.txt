@@ -1,0 +1,6 @@
+ An atom or molecule that has gained or lost one or more electrons
+                                and consequently has a positive or a negative charge. Negatively
+                                charged ions, called anions, form when a
+                                neutral molecule or atom gains one or more electrons. Positively
+                                charged ions, called cations, form when a
+                                neutral molecule or atom looses one or more electrons. 

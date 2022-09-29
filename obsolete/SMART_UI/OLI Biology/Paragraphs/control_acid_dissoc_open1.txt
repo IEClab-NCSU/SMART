@@ -1,0 +1,6 @@
+ Placing acetic acid in pure water establishes an equilibrium between the charged
+					and neutral forms according to the unique dissociation constant of the acid.
+					This occurs because acetic acid is the only proton donor in the solution. What
+					would happen if protons are added to the solution from another source, for
+					example a strong acid, or a biochemical reaction that releases protons? Answer
+					the question before continuing. 

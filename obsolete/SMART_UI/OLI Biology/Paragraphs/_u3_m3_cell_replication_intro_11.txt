@@ -1,0 +1,7 @@
+Why do cells divide? In the discussion about the cell cycle, you learned that
+					cells undergo different phases, during which they grow, duplicate their genetic
+					material, and then divide. In unicellular species, cell division results in the
+					reproduction of the entire organism. However, cell division in multicellular
+					species can serve two main purposes. Cells can divide into identical daughter
+					cells, enabling growth and repair, or gametes can be formed for use in
+					sexual reproduction.

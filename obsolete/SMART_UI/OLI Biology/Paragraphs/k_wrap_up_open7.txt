@@ -1,0 +1,4 @@
+For this course you do not need to memorize the pKa values for all of
+					the different groups. The values will always be given to you, or you can find
+					them in the Functional Groups Glossary. However, it is useful to remember the
+					following pKa values:

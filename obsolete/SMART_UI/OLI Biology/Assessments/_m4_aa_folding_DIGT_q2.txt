@@ -1,0 +1,4 @@
+A folded protein is shown on the right side of this image. The main-chain connections are not
+					drawn between the atoms. Which of the two sequences on the left, A or B, can
+					possibly fold into the shape on the right?
+

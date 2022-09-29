@@ -1,0 +1,7 @@
+ Each atom in a molecule will complete its outer shell of electrons,
+							which is 2 for hydrogen, and 8 for second row elements (e.g. C, N and
+							O). The valence shells for each of the biologically relevant elements
+							are highlighted in the periodic table below. The relationship between
+							the number of unpaired electrons in the valence shell and the number of
+							possible covalent bonds an element can form is given in the Atomic
+								Properties TABLE above. 

@@ -1,0 +1,28 @@
+
+ADP and inorganic phosphate bind to the subunits that have high affinity for these
+            compounds.
+A three protons flow through the Fo domain, causing a 120o
+            rotation of the 
+
+-subunit.
+The rotation of the 
+
+-subunit causes a conformational change in the 
+-
+ subunits.
+ ATP is more stable in the new conformation of the 
+-
+ subunits, consequently the bound ADP and inorganic phosphate is spontaneously
+            converted to ATP.
+Another three protons flow through the Fo domain, causing another
+              120o rotation of the 
+
+ subunit.
+This rotation causes an additional conformational change of the 
+-
+ subunits, generating the conformation that has low affinity for ATP and ADP,
+            thus the newly synthesized ATP is released.
+A three additional protons flows through the Fo domain, causing another
+            rotation of 
+
+ subunits. This restores the system to the starting conditions.

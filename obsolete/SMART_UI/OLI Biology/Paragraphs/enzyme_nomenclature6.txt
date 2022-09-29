@@ -1,0 +1,3 @@
+
+Kinase. A kinase transfers a phosphate group from ATP to the substrate. Kinases are
+      used when direct coupling is required to reduce the Gibbs free energy of the reaction.

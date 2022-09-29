@@ -1,0 +1,5 @@
+Now you see that a rate of increase predicts how much a population will grow, and that
+			all species tend to increase if given good conditions for growth. Below are a table and
+			a graph that continue the process of growth for the Valley Forge NHP deer population,
+			using our estimated annual per capita growth rate of 0.39 deer added per deer per
+			year.

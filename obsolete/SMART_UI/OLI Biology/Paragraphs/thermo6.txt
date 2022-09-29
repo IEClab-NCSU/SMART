@@ -1,0 +1,6 @@
+The standard energy change is the energy change when one mole of reactant is converted to
+          one mole of product, it is the energy difference between reactants and products: 
+
+Go=Gproductso-Greactantso.
+          The standard energy change defines the equilibrium position of a reaction through the
+          following equation:

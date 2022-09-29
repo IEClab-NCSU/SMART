@@ -1,0 +1,3 @@
+A segment of DNA containing the sequence -AAGCTT- is cut with an enzyme, Oli1
+                (recognizes AAGCTT). DNA treated with which of the following enzymes could be
+                ligated to this DNA? Select the best answer.

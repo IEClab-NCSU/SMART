@@ -1,0 +1,6 @@
+
+The location of phosphate, ribose, and bases with respect to the interior and exterior of the helix
+The location of the major and minor grooves.  The grooves are water and ion filled channels on the side of the double helix.  Proteins usually interact with the edges of the bases in the major groove.
+The tilt of the bases with respect to the axis of the helix.
+How the bases overlap with each other.  As a result of the greater tilt in the bases relative to the helix axis, the bases of the
+    A-helix slide past each other and do not exactly stack on top of each other as they do in the  B-helix.

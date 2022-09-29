@@ -1,0 +1,5 @@
+In contrast to the normal endocytic vesicle the PTD directed endocytic vesicle undergoes
+			retrograde transport. In this process the new vesicle fusses with the Golgi and is the
+			PTD containing proteins are transported back to the Rough Endoplasmic Reticulum where
+			they undergo post-translational modification and are transduced directly to the
+			cytoplasm. 

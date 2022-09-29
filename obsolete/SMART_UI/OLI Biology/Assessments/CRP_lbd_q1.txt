@@ -1,0 +1,3 @@
+
+Glucose regulation of the lactose operon requires another regulatory protein, CRP (cAMP receptor protein). This protein is also known as CAP (catabolite activator protein). When CRP is bound to the DNA, it helps recruit RNA polymerase to its promoter, multiplying the amount of transcription. If CRP is not bound to the DNA, very little mRNA is made. CRP recognizes a specific DNA sequence in the lac operon, called the CRP site.  Which of the following diagrams represents the correct location of the binding site on the DNA for  CRP?
+

@@ -1,0 +1,2 @@
+
+In goldfish, 2n = 104. How many chromosomes are in a goldfish egg?

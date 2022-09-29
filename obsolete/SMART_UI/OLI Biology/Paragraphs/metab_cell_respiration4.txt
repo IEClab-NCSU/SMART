@@ -1,0 +1,7 @@
+Nicotinamide adenine dinucleotide (NAD+) and flavin adenine
+					dinucleotide (FADH+) are enzymes found in most cells
+					of the body. These molecules have the ability to accept and donate electrons
+					resulting in the ability to shuttle (i.e., transport) electrons around the cell.
+						NAD+ and FADH+ accept electrons and H+
+					during the early stages of the cellular respiration process. When they have
+					accepted the electrons and H+, they become:

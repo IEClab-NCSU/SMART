@@ -1,0 +1,12 @@
+If an acid gives a hydrogen ion (H+) in solution and a base accepts a hydrogen ion
+			by giving a hydroxide ion (OH-), you may be wondering what will happen when
+			an acid and a base are combined. Let’s consider the combination of equal amounts of
+			hydrochloric acid (HCl), a strong acid, and sodium hydroxide (NaOH), a strong base. When
+			the hydrogen ion (H+) is released from hydrochloric acid, and the hydroxide
+			ion (OH-) is released from sodium hydroxide, the two ions combine to form
+			water (HOH). Water, as you know, has a neutral pH, so the process of combining an acid
+			and a base is called neutralization. Remember, in a neutral solution (like water) the
+			number of hydrogen ions equals the number of hydroxide ions. The remaining sodium ion
+				(Na+) from the sodium hydroxide and the remaining chloride ion
+				(Cl-) from the hydrochloric acid also stay in solution as dissolved table
+			salt (NaCl). This process can be written as it is below:

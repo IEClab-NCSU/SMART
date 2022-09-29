@@ -1,0 +1,4 @@
+Synthetase. These enzyme are responsible for the synthesis of more complex molecules
+      from simpler substrates. For example, ATP synthase generates ATP from ADP and inorganic
+      phosphate, a process that is driven by a proton gradient across a membrane. Citrate synthase
+      catalyzes the following reaction, which is the first in the citric acid (TCA) cycle.

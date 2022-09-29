@@ -1,0 +1,4 @@
+Synthetic, or anabolic, pathways generally consume energy. They usually consist of
+      an initial linear segment, followed by branching to complex compounds at the end of the
+      pathway. This strategy allows the use of common simple starting materials for the synthesis of
+      a number of complex molecules.

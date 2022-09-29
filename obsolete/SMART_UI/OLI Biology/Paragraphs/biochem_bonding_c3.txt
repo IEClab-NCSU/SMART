@@ -1,0 +1,7 @@
+Carbon, for example, has an atomic number of 6. The outer shell of carbon has 4
+			electrons. Carbon can share an electron with four other atoms. Hydrogen has an atomic
+			number of 1. It has a single electron in its outermost shell, and can share this
+			electron with one other atom. Carbon can form a covalent bond with four hydrogen atoms
+			to form a molecule called methane, CH4 . In a methane molecule,
+			carbon effectively has a “full” second shell (8 electrons) and each hydrogen has a
+			“full” second shell (two electrons).

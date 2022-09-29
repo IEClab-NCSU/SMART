@@ -1,0 +1,13 @@
+Different representations of methane, ammonia, and albuterol are shown in the
+					table below. Formula gives the chemical formula,
+						Molecular indicates how the atoms are bonded together,
+						2D-Structural  provides some information about the
+					three-dimensional structure using a two-dimensional drawing. The solid wedges
+					indicate that the atoms are above the plane of the page and the dashed wedges
+					indicate that the atoms are below the page. 3D-Structural images
+					are seen in the Jmol images at the right of each row. You can manipulate the
+					3D-structures by placing the cursor in the window and moving the mouse. You
+					should understand the relationship between the 2D-structural representation and
+					the 3D-structural representation. You should also take note of the standard
+					color coding in 3D representations: usually carbon is gray, hydrogen is white,
+					oxygen is red, nitrogen is blue, and sulfur is yellow. 

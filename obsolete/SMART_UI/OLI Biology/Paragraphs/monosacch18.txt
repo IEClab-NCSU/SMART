@@ -1,0 +1,10 @@
+ The drawing below shows not only the possible structures resulting from the ring closure
+			but also shows the more traditional representation of these structures in their ring
+			configuration. In all of these cases the structure is still ribose. The two new
+			structures created by the ring closure create two additional conformations of the number
+			one carbon: alpha with the hydroxyl on the right of the stick structure or pointing down
+			in the ring representation, and beta with the hydroxyl on the left of the stick
+			structure and pointing up in the ring structure. It should also be noted that as
+			represented in the drawing these structures are all in equilibrium with each other and
+			the alpha structure can be converted to the beta structure and visa versa as long as
+			each structure can be converted to the free aldehyde structure. 

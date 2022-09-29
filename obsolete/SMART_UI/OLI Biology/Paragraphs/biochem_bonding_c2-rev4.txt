@@ -1,0 +1,5 @@
+Molecules can be much more complex than methane. Carbon can form long chains
+						as each carbon forms covalent bonds with multiple other carbons. When
+						drawing molecules, it is important to make sure that each atom has a full
+						outer shell. In the case of carbon, this simply means that carbon will form
+						four covalent bonds.

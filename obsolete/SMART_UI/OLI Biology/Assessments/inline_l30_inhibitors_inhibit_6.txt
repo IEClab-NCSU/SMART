@@ -1,0 +1,2 @@
+The inhibitors (blue balls) are binding to the enzymes using the same binding site that would be used by the substrate.  The blue balls are <b>competing</b> for the substrate binding site, and are therefore will be <b>competitive inhibitors</b>. The black curve represents the velocity versus substrate obtained in the absence of any inhibitor.
+Using the radio dials at the right, select substrate concentrations of  [S]=2 or [S]=4. The observed decrease in the velocity for the reaction in the presence of the inhibitor is lowered because:

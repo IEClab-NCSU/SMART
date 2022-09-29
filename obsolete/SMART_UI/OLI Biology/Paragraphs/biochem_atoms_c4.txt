@@ -1,0 +1,13 @@
+Scientists have learned that isotopes have many useful properties. Some isotopes
+					can be used to trace chemical reactions. If a special isotope is placed in
+					fertilizer, for instance, that same isotope will later show up in the tissues of
+					plants, then animals and decomposers as the nutrient moves through the food web.
+					Some isotopes break down into others at a constant rate, allowing us to
+					determine the age of fossils or artifacts. When an isotope is radioactive, this
+					means that it emits some energy (radiation) when it breaks down to a different
+					isotope. Radioactive isotopes can be used to visualize certain tissues for
+					medical diagnosis. For example, radioactive iodine tends to concentrate in the
+					thyroid gland. It emits radiation as it breaks down to another isotope of
+					iodine. Special cameras can pick up this radiation and use it to create an image
+					of the thyroid gland. This can help determine if the patient’s thyroid is
+					normally active or to detect thyroid cancer.

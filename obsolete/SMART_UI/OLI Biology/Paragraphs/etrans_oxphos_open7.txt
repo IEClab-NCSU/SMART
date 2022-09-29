@@ -1,0 +1,7 @@
+NADH is oxidized by the electron transport chain by the transfer of the two
+          electrons from NADH to complex I. These electrons are then transferred to coenzyme Q,
+          followed by transfer to complex III. The electrons are then carried by cytochrome C to
+          complex IV, where the electrons are used to reduce oxygen to water. The energy that is
+          released by the transfer of electrons from NADH to water is used to transport a total of
+          10 protons across the inner membrane. For every pair of electrons, four protons are
+          transported by complex I, four by complex II and two by complex IV. 

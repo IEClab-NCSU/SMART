@@ -1,0 +1,7 @@
+summa==0.0.7
+numpy==1.13.0
+nltk==3.2.4
+Flask==0.12.2
+Web==0.6.0
+beautifulsoup4==4.6.0
+scikit_learn==0.18.2

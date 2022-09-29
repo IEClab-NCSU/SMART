@@ -1,0 +1,6 @@
+Cellular respiration is a complex, multistep process. Dozens of different enzymes
+					and intermediates are involved. Initial steps are accomplished in the cytoplasm,
+					and additional steps occur in the mitochondria. At various points along the way,
+					intermediates may be removed and used to synthesize fats and other molecules.
+					Similarly, different types of food molecules may “feed in” to cell respiration
+					at specific junctions in the process.

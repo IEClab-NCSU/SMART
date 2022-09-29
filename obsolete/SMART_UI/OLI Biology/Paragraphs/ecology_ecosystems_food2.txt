@@ -1,0 +1,9 @@
+The simple example above illustrates two transfers of energy: sunlight → tomato and
+			tomato → human. Every organism in an ecosystem must obtain its energy through one or
+			more such transfers. Some organisms are close to the source of energy (the tomato);
+			others are several steps down the line (a hawk that eats a bird that ate a caterpillar
+			that ate the tomato plant). We can break a community up into a series of food-based
+			groups called trophic levels. Trophic level 1 is composed of producers that
+			form the base of all ecosystems. Organisms in level 1 are eaten by organisms in level 2;
+			organisms in level 2 are eaten by organisms in level 3; organisms in level 3 are by
+			organisms in level 4, and so on.

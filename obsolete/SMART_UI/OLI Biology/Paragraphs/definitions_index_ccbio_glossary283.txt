@@ -1,0 +1,2 @@
+States that some traits are dominant and can mask recessive
+                                traits.

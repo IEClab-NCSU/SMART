@@ -1,0 +1,6 @@
+ A group of subjects in an experiment that receives the treatment to
+                                be evaluated. If the hypothesis is correct, the dependent variable
+                                will change in a predictable way within the experimental group. For
+                                example, in a study to test the effectiveness of a drug, a high
+                                proportion of those in the experimental group would be cured or
+                                helped by the treatment, if the hypothesis is correct.

@@ -1,0 +1,9 @@
+Patients homozygous for the defective allele have sickle cell anemia.
+                    Heterozygotes (having one “good” and one “bad” allele for hemoglobin) will
+                    present both types of hemoglobin. That condition is called sickle cell trait,
+                    where the individuals will present many red blood cells that become sickled
+                    under conditions of extreme physical exertion or low atmospheric oxygen. So
+                    while the phenotype can be considered intermediate, in fact it is actually a
+                    case of codominance. Interestingly, the sickle cell trait protects against
+                    malaria infection, and therefore remains prevalent in Sub-Saharan Africa, where
+                    malaria is endemic.

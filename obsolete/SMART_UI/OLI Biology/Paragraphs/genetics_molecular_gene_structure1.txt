@@ -1,0 +1,4 @@
+In the previous module, we mentioned different kinds of genes. Some genes produce
+            functional RNA (rRNA and tRNAs), but most genes code for proteins. Remember that a gene
+            is information residing in the order of bases in a DNA molecule. The general
+            organization of information of any gene can be represented as follows:

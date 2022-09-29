@@ -1,0 +1,4 @@
+
+A hydrogen bonded through two bonds to T in DNA
+A hydrogen bonded through two bonds to U in RNA
+G hydrogen bonded through three bonds to C in both DNA and RNA 

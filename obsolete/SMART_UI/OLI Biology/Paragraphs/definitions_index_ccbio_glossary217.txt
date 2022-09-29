@@ -1,0 +1,4 @@
+A type of cellular division in which a single, diploid, somatic cell
+                                is divided into two genetically identical daughter cells. Mitosis
+                                along with cytokinesis compose the mitotic (M) phase of the cell
+                                cycle. 

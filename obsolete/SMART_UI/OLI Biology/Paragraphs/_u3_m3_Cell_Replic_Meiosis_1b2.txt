@@ -1,0 +1,12 @@
+Meiosis achieves more than just halving the chromosome number. It also introduces
+					variability in the way the genes are distributed in the gametes. In diploid
+					cells, there are 23 pairs of homologous chromosomes. Each
+					pair of homologues has the same set of genes, though they can have different
+						alleles (or forms) of each gene. One homologue comes from your
+					mother and the other comes from your father. You may have inherited an allele
+					for straight hair from your mother and an allele for wavy hair from your father.
+					When meiosis takes place, the homologous chromosomes will separate, so one
+					gamete will carry the allele for wavy hair and the other for straight hair. Each
+					trait on each chromosome will segregate its two alleles in a completely random
+					way. There are also other additional ways of “shuffling the cards” of genes,
+					which explains why siblings from the same parents can be so different. 

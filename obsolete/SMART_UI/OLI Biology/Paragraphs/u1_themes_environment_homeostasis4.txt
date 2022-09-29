@@ -1,0 +1,6 @@
+ Structo is just a blob floating in the ocean, and it’s not functioning too well at
+                the moment. Structo needs a part that will allow it to exchange gases between its
+                blood and the surrounding water. It cannot breathe through simple diffusion of gases
+                across the surface of its body -- like a jellyfish or sponge is able to do. Instead,
+                it needs a specialized structure to get rid of a waste gas (carbon dioxide) and take
+                in oxygen gas. 

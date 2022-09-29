@@ -1,0 +1,5 @@
+This example of microevolution covers a few hundred years, but in organisms that have
+			shorter generation times, like bacteria, microevolution can be observed on an even
+			smaller time scale. Antibiotic resistance has become a major problem for the medical
+			community worldwide.
+		

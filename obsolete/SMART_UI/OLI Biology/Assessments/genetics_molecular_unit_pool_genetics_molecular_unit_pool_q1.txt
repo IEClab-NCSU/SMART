@@ -1,0 +1,2 @@
+The correct decoding of the following encrypted message: PQRMNO is?
+Key(MNO = h PQR = i)

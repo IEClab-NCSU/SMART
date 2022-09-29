@@ -1,0 +1,12 @@
+Through experimentation it was found that the universal start code or codon is AUG and
+			three stop codons (UAG, UGA and UAA) were identified. The remaining 60 codons
+			represented the 20 amino acids. Having elucidated the entire code it was found that for
+			many of the amino acids, the first two nucleotides in the sequence defined the amino
+			acid with the third nucleotide being any of the four nucleotides. For example the codon
+			for the amino acid leucine is CUX where the X represents any one of the four
+			nucleotides, and the codon for the amino acid valine is GUX. This third base then became
+			known as the wobble base signifying the flexibility the system has in identifying the
+			third base. This also demonstrates the fact that a single amino acid can be coded by
+			several triplet codes but a triplet code only represents a single amino acid. This
+			triplet code for converting the sequence of mRNA to a sequence of amino acids is
+			referred to as the Genetic Code.

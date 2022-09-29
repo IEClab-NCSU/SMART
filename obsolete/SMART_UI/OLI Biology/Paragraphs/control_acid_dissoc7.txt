@@ -1,0 +1,5 @@
+Weak acids can act as pH buffers when the pH is within approximately one
+							unit of the pKa for the acid. A buffer solution will resist
+							changes in pH as a strong acid or base is added to the solution. The
+							following shows the pH of a solution of a weak acid as a strong base,
+							e.g. hydroxide, is added or titrated into the solution.

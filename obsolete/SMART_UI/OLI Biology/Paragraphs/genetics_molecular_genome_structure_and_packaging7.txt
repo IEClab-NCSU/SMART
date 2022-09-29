@@ -1,0 +1,4 @@
+The shape of the chromosomes changes throughout the cell cycle. For example, when a cell
+            needs to divide, DNA is further compacted by the addition of scaffolding proteins that
+            help divide copies of the chromosomes equally. The most compact shape of the chromosomes
+            can be observed during cell division. 

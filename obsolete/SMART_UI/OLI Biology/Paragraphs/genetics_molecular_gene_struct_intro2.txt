@@ -1,0 +1,6 @@
+In this module, we will explore the connection between DNA and phenotype on the molecular
+            level. We will start by clarifying the distinctions between genes, genomes, alleles, and
+            other related terms. We will compare prokaryotic and eukaryotic genes and genomes, and
+            we will look at how DNA is packaged into chromosomes with the help of specialized
+            proteins. We will consider how gene expression can be regulated in the cell by
+            interactions with other genes and environment.

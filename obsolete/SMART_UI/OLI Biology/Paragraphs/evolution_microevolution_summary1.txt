@@ -1,0 +1,4 @@
+Microevolution is the process by which populations of organisms evolve. It is a
+                    change in a population’s gene pool over time, and is an ongoing process. Some of
+                    its processes are predictable, but the overall course of evolution cannot be
+                    known in advance.

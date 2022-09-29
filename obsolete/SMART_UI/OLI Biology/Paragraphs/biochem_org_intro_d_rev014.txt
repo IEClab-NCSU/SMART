@@ -1,0 +1,5 @@
+Properties: The radio buttons on the extreme left let you select a
+						property. The functional groups that exhibit the selected property will then
+						be highlighted. The [?] buttons enable you to display the
+						definition of each of the properties; click once to display the definition
+						and click again to return to the functional groups panel.

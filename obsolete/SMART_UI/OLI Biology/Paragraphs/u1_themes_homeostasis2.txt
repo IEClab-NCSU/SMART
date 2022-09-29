@@ -1,0 +1,7 @@
+In contrast to the extreme variability of the outside world, the interior of a cell is a
+            remarkably constant environment. For example, cells typically keep their internal pH
+            (acidity) within a narrow range. This is important because changes in pH can cause
+            molecules like enzymes to change their shapes. As you already know, a molecule’s shape
+            (or structure) determines its function. If its shape changes, it may lose function.
+            Because of this, many of the chemical reactions of life will not work properly if cell
+            conditions change too much. 

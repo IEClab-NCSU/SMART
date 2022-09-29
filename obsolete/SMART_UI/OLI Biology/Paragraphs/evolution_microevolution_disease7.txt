@@ -1,0 +1,10 @@
+By the late 1990s, doctors and scientists came to the conclusion that in order to
+			continue to treat HIV effectively, they needed to approach the problem from multiple
+			fronts - as you just discovered in the above Learn By Doing activity. New drugs were
+			developed that targeted different parts of the virus, current drugs were administered
+			together, and when it became clear that a drug was no longer working for a patient, the
+			patient was given a different one. The end result of all of this work was the
+			development of what is known today as Highly Active Antiretroviral Therapy or HAART. HAART generally consists of one protease
+			inhibitor given in concert with one or two other anti-HIV drugs that target different
+			aspects of the virus. To date, there are over 30 drugs approved for use in the treatment
+			of HIV.

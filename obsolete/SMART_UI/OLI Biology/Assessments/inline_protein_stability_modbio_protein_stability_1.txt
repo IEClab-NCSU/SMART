@@ -1,0 +1,3 @@
+
+Click on the checkbox "Show Van der Waals surface"  below the Jmol  before you attempt this question.  The second checkbox zooms in and removes the surface from one residue.
+Do the sidechains that comprise the core of the protein  (yellow highlight) contain polar atoms.

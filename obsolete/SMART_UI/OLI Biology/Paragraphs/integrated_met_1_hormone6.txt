@@ -1,0 +1,7 @@
+The phosphorylation of enzymes during periods of glucose demand or the dephosphorylation of
+      enzymes when there is surplus glucose results in the correct biological response of the liver
+      cell. Phosphorylation results in the activation of enzymes that cause the release of glucose
+      from glycogen and also results in the synthesis of new glucose by the anabolic pathway
+      gluconeogenesis. Dephosphorylation of enzymes causes the activation of enzymes involved in the
+      storage of glucose in glycogen and can also result in the activation of glucose oxidation for
+      ATP production.

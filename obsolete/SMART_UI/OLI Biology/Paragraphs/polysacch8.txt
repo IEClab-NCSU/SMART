@@ -1,0 +1,5 @@
+ In the case of sucrose, the composition is a molecule of glucose and a molecule of
+			fructose. The structure is described as glucose-alpha,beta
+1,2-fructose. In this structure it is instructive to identify the anomeric carbon on the
+glucose and the fructose molecules since they are both involved in the formation of the
+glycosidic bond. 

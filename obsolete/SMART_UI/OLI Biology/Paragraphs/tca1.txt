@@ -1,0 +1,7 @@
+The tricarboxylic acid (TCA) cycle, also known as the Krebs cycle or the citric acid
+          cycle, is a central pathway in the metabolism of all organisms. Not only is this pathway
+          the next step for the oxidation of glucose and fatty acids, it also plays a key role in
+          amino acid metabolism. All carbons that enter the TCA cycle, regardless of their source,
+          are fully oxidized to carbon dioxide. The electrons that are released from these
+          oxidations are stored on NADH and FADH2 for subsequent processing by the
+          electron transport chain.

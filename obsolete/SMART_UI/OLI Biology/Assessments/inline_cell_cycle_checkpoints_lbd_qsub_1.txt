@@ -1,0 +1,6 @@
+
+For each condition below, specify which checkpoint would be responsible for
+                halting the cell cycle.
+ 
+(1) Chromosomes have not properly attached to mitotic
+                    spindles:

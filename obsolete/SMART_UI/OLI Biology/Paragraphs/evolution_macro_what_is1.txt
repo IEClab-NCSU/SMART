@@ -1,0 +1,5 @@
+Thus far, we have been exploring how subtle changes can occur within a population. We’ve
+            seen that these changes can lead to adaptation. The genetic makeup of populations also
+            can change through migration and interbreeding (gene flow) and even through the vagaries
+            of chance (genetic drift). But how does this relate to macroevolution? For example, can
+            microevolution possibly explain the origin of new and different species?

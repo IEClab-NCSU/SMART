@@ -1,0 +1,2 @@
+The Chart Recorder at the bottom is recording the instantaneous number of MO.As the recording tape moves to the left, the right end of the tape is capturing the instantaneous number of MO. The grapher on the right averages [MO] over time.
+ <b>The instantaneous amount of [MO] ____________ </b><b>while the average amount of [MO]  _____________?</b> 

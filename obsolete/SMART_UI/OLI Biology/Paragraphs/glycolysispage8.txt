@@ -1,0 +1,6 @@
+ The levels of glucose in the blood vary considerably at times. We will discuss how
+          glucose levels are regulated in the section on integrated metabolism. The focus here is to
+          understand how the entry of glucose into the cell is spontaneous, even when the levels of
+          glucose in the blood can drop to low values. How is it possible to maintain a negative
+          Gibbs free energy for glucose transport into the cell, even if there are low levels of
+          glucose outside the cell? 

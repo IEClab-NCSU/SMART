@@ -1,0 +1,10 @@
+
+First the DNA must be opened by breaking the hydrogen bonds between the base pairs and
+            unwinding the DNA. This is initiated by n protein called the initiator protein or
+              DnaA that recognizes a specific DNA sequence called the origin of
+            replication, binds to the sequence and opens up the sequence to create a
+            replication bubble (open complex). An enzyme called a helicase binds
+            to the open complex and extends the melted region of the double stranded DNA to further
+            open the replication bubble. There now exists a single stranded segment of DNA exposed
+            on both chains of the DNA double helix. A small protein called SSB (Single
+            Stranded Binding protein) coats the open complex. 

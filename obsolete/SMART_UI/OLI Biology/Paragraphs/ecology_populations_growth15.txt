@@ -1,0 +1,4 @@
+The exponential model of growth predicts what will happen if this potential is realized
+			each generation for an extended period of time. The population will grow faster and
+			faster the larger it gets, producing a characteristic J-shaped curve on a graph of
+			population size over time.

@@ -1,0 +1,4 @@
+ It should be noted here that throughout the presentation of this course
+					approximations will be used for certain values so that estimations can be made
+					as we move to more complex systems. It is to be acknowledged that very precise
+					values for each of the measurements are not available. 

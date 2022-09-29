@@ -1,0 +1,5 @@
+(plural: cilia) A short hair-like appendage on the cell surface. It
+                                functions to move the cell from one place to another; or, to move
+                                fluids and particles across the cell surface. It can be found on
+                                certain eukaryotic cells, such as the cells of the respiratory
+                                system.

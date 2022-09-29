@@ -1,0 +1,8 @@
+ This Modern Biology course is built around several key concepts that provide unifying
+			explanations for how and why structures are formed and processes occur in a biological
+			system. Because it is not possible to cover the breadth of modern molecular biology in
+			one semester, an understanding of these key concepts will provide a basis for extension
+			of your knowledge to biological systems beyond the specific topics covered in this
+			course. One of the major goals of the course therefore is for you to not only learn the
+			fundamentals of the concepts but also to recognize how they can be applied in other
+			contexts. Several key concepts include: 

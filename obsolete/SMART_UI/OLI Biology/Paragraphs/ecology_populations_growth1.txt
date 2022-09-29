@@ -1,0 +1,5 @@
+Now that we know a bit about how to describe a population, how can we figure out how its
+			numbers will change over time? Let’s consider the relatively simple case of a closed
+			population, where there is no immigration or emigration. We can predict how a
+			population’s size will change over time simply by taking the difference between the
+			rates of birth and death:

@@ -1,0 +1,3 @@
+The type of RNA, directly involved in protein synthesis, that
+                                transports amino acids to ribosomes to be incorporated into an
+                                emerging protein. 

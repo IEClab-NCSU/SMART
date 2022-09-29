@@ -1,0 +1,4 @@
+ Second there is the endo-membrane system. This membrane runs through out the
+					cell as part of the endoplasmic reticulum and the golgi complex. Here membrane
+					proteins are inserted. The endo-membrane system also provides a mechanism to
+					create mirco-environments in the cytoplasm by making vesicles.

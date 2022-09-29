@@ -1,0 +1,5 @@
+The map of the world is a jigsaw puzzle of broken-up habitats (continents, oceans,
+            islands, mountain ranges, lakes, caves, river systems, forests, deserts...) occupied by
+            different regional or local species. Allopatric speciation helps us make sense of these
+            patterns: as Earth’s landscapes were reshaped and broken up by geologic processes,
+            living lineages also became separated and diverged into locally adapted species.

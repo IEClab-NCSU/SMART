@@ -1,0 +1,8 @@
+ Previously, water was described as having a high dielectric constant. This
+					property that is a measure of the polarity of the covalent bond within the
+					molecule accounts for the separation of ions by polar molecules such as water.
+					The force of attraction between two oppositely charged ions is inversely
+					proportional to the dielectric constant. Thus water with a high dielectric
+					constant decreases the attraction between opposite charges. This is physically
+					explained by the ability of polar solvents to form ordered hydration layers
+					around ions.

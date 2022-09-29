@@ -1,0 +1,1 @@
+   Secondary structure is generally defined by the interaction of amino acids adjacent to each other in the primary sequence. Elements of secondary structure include the -helix, the beta-sheet and the beta-turn. These structures involve short range interactions that involve hydrogen bonding between peptide bonds and do not involve the interactions of amino acid side chains.

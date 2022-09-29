@@ -1,0 +1,17 @@
+How can a simple molecule made of repeating nucleotides contain all instructions for
+			complicated living beings like ourselves? What component or feature of DNA can contain
+			this information? It has to come from the bases! The backbone of all DNA molecules is
+			the same. But there are only 4 bases found in DNA : G,A,C,T! The sequence of these 4
+			bases can provide all the instructions needed to build any living organism! It might be
+			hard to imagine that 4 different “letters” can communicate so much information. But
+			think about the English language, which can represent a huge amount of information using
+			just 26 letters. Even more profound is the binary code used to write computer programs.
+			This code contains only ones and zeros...and think of all the things your computer can
+			do! The DNA alphabet can encode very complex instructions using just 4 letters, though
+			the messages end up being really long. For example, the E. coli
+			bacterium carries its genetic instructions in a DNA molecule that is more than 5
+			million nucleotides long. The human genome (all the DNA of an organism) is around 3
+			billion nucleotides divided up between 23 DNA molecules. The 23 different DNA molecules
+			are known as chromosomes. 
+			
+			

@@ -1,0 +1,8 @@
+
+The following is a list of restriction endonuclease recognition sites. The
+                    cleavage position is indicated by the ^ symbol. Which pair of these enzymes can
+                    produce fragments that could be easily ligated to each other?
+a) BamH1 G^GATCC
+b) BglII A^GATCT
+c) DpnI GA^TC
+d) UnkI GG^ATCC

@@ -1,0 +1,17 @@
+The ability of a molecule to pass through the membrane depends on its polarity and to
+			some extent its size. Many non-polar molecules such as oxygen, carbon dioxide, and small
+			hydrocarbons can flow easily through cell membranes. This feature of membranes is very
+			important because hemoglobin, the protein that carries oxygen in our blood, is contained
+			within red blood cells. Oxygen must be able to freely cross the membrane so that
+			hemoglobin can get fully loaded with oxygen in our lungs, and deliver it effectively to
+			our tissues. Most polar substances are stopped by a cell membrane, except perhaps for
+			small polar compounds like the one carbon alcohol, methanol and water. Glucose is too large to
+			pass through the membrane unassisted and a special transporter protein ferries it
+			across. Certain types of diabetes are caused by misregulation of the glucose
+			transporter. Charged ions, such as sodium (Na+) or potassium (K+) ions seldom go through
+			a membrane, consequently they also need special transporter molecules to pass through
+			the membrane. The inability of Na+ and K+ to pass through the membrane allows the cell
+			to regulation the concentrations of these ions on the inside or outside of the cell. The
+			conduction of electrical signals in your nerves is based on the ability of cells to
+			control Na+ and K+ levels.
+		

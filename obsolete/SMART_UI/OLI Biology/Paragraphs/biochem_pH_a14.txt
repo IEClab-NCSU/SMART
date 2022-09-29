@@ -1,0 +1,6 @@
+ The log conversion reduces a tenfold change in hydrogen ion concentration to a one-unit
+					change in pH. Thus, starting at pH 7, a solution at pH 6 would have 10 times
+					more H+ than a neutral solution. On the other hand, a solution at pH
+					8 would have 10 times fewer H+ than the solution with pH 7. If you
+					skip a few units, the differences between solutions become very great indeed. Lemon juice (pH 2) has one million times more
+						H+ ions per unit volume than seawater, which has a pH of about 8. 

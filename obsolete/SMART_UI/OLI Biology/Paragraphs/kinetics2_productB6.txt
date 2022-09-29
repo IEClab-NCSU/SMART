@@ -1,0 +1,7 @@
+ In this equation, kcat is the rate at which the [ES] complex decays
+					to product. Vmax is kcat multiplied by the total
+					amount of enzyme, Et. It is therefore the maximum velocity at which
+					the reaction can occur under a fixed enzyme concentration. Km is also
+					a constant that reflects the affinity of the enzyme for the substrate and is an
+					approximation of the dissociation equilibrium constant. Both kcat and
+						Km depend on the particular enzyme and substrate.

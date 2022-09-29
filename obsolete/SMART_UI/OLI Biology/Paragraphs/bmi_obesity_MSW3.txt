@@ -1,0 +1,3 @@
+Insert your height and weight to have your body mass index (BMI) calculated. Then use the
+			BMI chart (Figure 8.1) below to place yourself within the category of “normal,”
+			“overweight,” or “obese.”

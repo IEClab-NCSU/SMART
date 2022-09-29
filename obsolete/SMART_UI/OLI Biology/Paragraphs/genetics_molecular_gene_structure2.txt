@@ -1,0 +1,5 @@
+In this module, we will focus on the structure of the protein-coding genes. A
+            protein-coding gene contains information for making the mRNA that is translated into a
+            protein. First, let’s consider what kind of information in the mRNA is required to
+            produce a protein during translation, and then we will step back and look at the
+            information in the gene that is required for transcription.

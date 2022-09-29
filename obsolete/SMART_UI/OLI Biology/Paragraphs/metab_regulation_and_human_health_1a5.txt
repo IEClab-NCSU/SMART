@@ -1,0 +1,6 @@
+First, consider what happens over the course of a typical day. After a meal, extra calories are
+			initially stored in the liver and muscles as glycogen (a complex carbohydrate). Glycogen
+			is broken down and used to supply glucose for intense exercise, and to provide glucose
+			while we sleep. Breakfast provides fuel to rebuild some of the body’s glycogen stores
+			that were depleted overnight. Thus, over short time scales, glycogen storage is an
+			efficient way to provide glucose when it’s needed between meals.

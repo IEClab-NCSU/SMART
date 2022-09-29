@@ -1,0 +1,2 @@
+Occurs when the type or frequency of the alleles and genotypes in a
+                        population change over one to many generations of time

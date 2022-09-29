@@ -1,0 +1,3 @@
+All metabolic pathways are regulated such that they are only active when the products of the 
+			pathway are required by the cell. In this way the organism is able to optimize the use of its 
+			carbon and energy resources. 

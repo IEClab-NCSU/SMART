@@ -1,0 +1,8 @@
+The genetic code is redundant; some amino acids are specified by multiple codons. This
+					redundancy will become important when we try to predict how changes in
+					nucleotide sequences affect the amino acid sequences of proteins. Remarkably,
+					the genetic code table is almost universal, meaning that most organisms, from
+					bacteria to humans, specify the same amino acids using the same codons. As a
+					result, genes from one type of organism can be transferred to, and expressed in,
+					the cells of another organism. You will learn more about these kinds of
+					technologies later in this unit.

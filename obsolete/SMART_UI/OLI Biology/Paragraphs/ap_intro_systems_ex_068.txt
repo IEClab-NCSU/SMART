@@ -1,0 +1,6 @@
+The heart is divided into four chambers. The two lower chambers, called
+                    ventricles, force blood out into the arteries. The two upper chambers of the
+                    heart, called atria, receive blood returning from the veins. The heart contracts
+                    as a unit, both atria (named right and left) contract together to move blood
+                    into the ventricles and then both ventricles contract at the same time to move
+                    blood out of the heart into the pulmonary artery and the aorta.

@@ -1,0 +1,2 @@
+ Characteristics of a system that do not appear in any one of its component
+                        parts alone, but that appear when all parts are combined. 

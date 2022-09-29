@@ -1,0 +1,6 @@
+Any variable in an experiment that is kept the same between the
+                                control and experimental groups. For example, in a study to test a
+                                drug, the control and experimental groups would each contain
+                                subjects (people) of similar ages and similar numbers of men and
+                                women. Additionally, scientists may also put all of the study
+                                participants on the same diet and exercise plan. 

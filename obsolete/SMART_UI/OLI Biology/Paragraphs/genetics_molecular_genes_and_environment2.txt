@@ -1,0 +1,7 @@
+How does environment exert its influence on phenotype? Recall that at the molecular and
+            cellular levels, phenotype depends on the molecules produced by the cell. Production of
+            all molecules is catalyzed by protein enzymes that are encoded by the genome of the
+            organism. Ultimately, if phenotype depends on protein function, then the environment
+            must have a way of modifying the amount and the activity of proteins. Using the central
+            dogma of molecular biology, we can deduce that environment may affect protein function
+            at the level of protein, mRNA, or DNA. 

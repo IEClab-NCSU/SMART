@@ -1,0 +1,7 @@
+ A group of subjects in an experiment that does not receive the treatment to
+                        be evaluated, but is otherwise similar to the experimental group. The
+                        control group provides a strong basis for comparison, demonstrating what
+                        happens in the absence of the factor being tested. For example, in a study
+                        to test the effectiveness of a drug, experimenters would predict that the
+                        control group subjects—those who did not receive the drug—would not be cured
+                        over the course of the study.

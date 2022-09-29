@@ -1,0 +1,4 @@
+In the F2 generation, Mendel observed the original phenotypes (yellow/round,
+                    green/wrinkled) and two additional phenotypes: green/round and yellow/wrinkled.
+                    The four alleles had combined with each other, independently of each other. This
+                    outcome demonstrates the law of independent assortment.

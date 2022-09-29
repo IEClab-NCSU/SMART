@@ -1,0 +1,2 @@
+
+ The initial velocity, vo, of an enzyme catalyzed reaction reaches Vmax

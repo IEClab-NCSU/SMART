@@ -1,0 +1,6 @@
+ In the Genetics unit,
+            you learned about the mechanisms of inheritance, focusing mostly on the organism and
+            population levels in the hierarchy of
+                life. In the Molecular Genetics unit, you learned about the
+            molecular basis of traits that characterize the organisms and how genetic information is
+            organized and used by living organisms at the molecular level.

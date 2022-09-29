@@ -1,0 +1,9 @@
+To illustrate the connection between information in DNA and an observable characteristic
+            of an organism, let’s consider a gene that provides the instructions for building the
+            hormone insulin. Insulin is responsible for regulating blood sugar levels. The insulin
+            gene contains instructions for assembling the protein insulin from individual amino
+            acids. Changing the sequence of nucleotides in the DNA molecule can change the amino
+            acids in the final protein, leading to protein malfunction. If insulin does not function
+            correctly, it might be unable to bind to another protein (insulin receptor). On the
+            organismal level of organization, this molecular event (change of DNA sequence) can lead
+            to a disease state — in this case, diabetes.

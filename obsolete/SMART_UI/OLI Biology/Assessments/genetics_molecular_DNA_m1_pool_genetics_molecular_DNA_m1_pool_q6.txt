@@ -1,0 +1,3 @@
+During DNA replication, it is possible for the T residue in the template strand to
+                form two hydrogen bonds with a T base on the new strand. This doesn’t normally occur
+                because: 

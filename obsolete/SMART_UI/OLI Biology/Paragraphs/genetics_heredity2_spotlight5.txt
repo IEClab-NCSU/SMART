@@ -1,0 +1,6 @@
+You already learned about PKU, a pleiotropic disorder caused by defects in a
+                    single gene coding for an enzyme that converts the amino acid phenylalanine to
+                    tyrosine. Newborns are tested for this defect very early in life, so that if the
+                    results are positive, they can be given a diet limiting phenylalanine ingestion.
+                    That way, the toxic buildup is prevented and the children can develop normally.
+                    PKU is an example in which environmental factors can modify gene expression.

@@ -1,0 +1,7 @@
+
+Select any one of these functional groups to see it's properties and to
+							view examples of this group. 
+The pull-down menu allows you to select different chemicals that contain
+							the selected functional group. 
+The functional groups are highlighted in both the 2D structure and the 3D
+							Jmol.

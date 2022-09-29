@@ -1,0 +1,6 @@
+Natural selection is a process by which nature (i.e. the environment and all of
+					its components) impacts the evolution of a population. Individuals vary in their
+					inherited traits. Those with inherited phenotypes that are better suited to the
+					environment will have a greater likelihood of passing on their genes to
+					subsequent generations. To put it another way, the driving force behind
+					evolution is the interaction of genes and the environment.

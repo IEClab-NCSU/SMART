@@ -1,0 +1,12 @@
+As you remember from the Meiosis 
+            module, of the 23 pairs of chromosomes found in a human
+            somatic cell, 22 are autosomes, and the 23rd pair are sex chromosomes. Sex chromosomes
+            are of two types: X and Y. Males have one X and one Y chromosome (XY), and females have
+            two copies of the X chromosome (XX). If the gene responsible for the disorder is present
+            on the autosomes, it is called an autosomal disorder. The term “autosomal” refers to
+            chromosomes that are not sex determining. On the other hand, if the responsible gene is
+            present on a sex chromosome, it is called a sex-linked disorder. Due to the fact that
+            the male Y chromosome is very small and contains only genes related to sex
+            determination, sex-linked disorders are due to defective alleles on the X chromosome.
+            The following table shows the inheritance patterns of some human genetic disorders and
+            abnormalities. 

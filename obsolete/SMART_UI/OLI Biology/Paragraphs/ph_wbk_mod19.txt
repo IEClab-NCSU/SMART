@@ -1,0 +1,2 @@
+
+        					Weak electrolytes buffer solutions against large changes in pH over a range of pKa + 1 pH unit or pKa - 1 pH unit. They do this by shifting the equilibrium of the charged to uncharged ratio. The pKa of a molecule is experimentally determined by titration. Strong base is added in small increments to a solution of a weak acid and the change in pH is recorded. In the tutorial you will explore how the pH changes and the relationship of pKa to pH. You will also explore the equilibrium established by a weak base.

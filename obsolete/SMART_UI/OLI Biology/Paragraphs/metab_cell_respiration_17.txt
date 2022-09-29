@@ -1,0 +1,12 @@
+The first step of respiration is glycolysis which happens in the cytosol (cytoplasm) of a cell. “Glyco” refers to
+					sugar and “lysis” means to breakdown or degrade. So,
+					this step is essentially the breaking of a sugar molecule in half. Glucose is
+					the most common sugar used in this process. Glucose is a six carbon sugar. In
+					glycolysis, glucose is split into two three-carbon molecules called
+							pyruvate. This metabolic pathway breaks down
+					glucose with or without oxygen. It is the first stage of cellular respiration
+					and fermentation (anaerobic respiration). Splitting the bonds of
+					glucose releases enough energy to make 2 ATP and 2 NADH molecules. NADH (and
+						FADH2) are electron carriers. You will see why these are
+					important in a moment.
+					

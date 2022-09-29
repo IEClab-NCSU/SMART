@@ -1,0 +1,19 @@
+The principle source of energy for all organisms on earth is the sun. This energy
+					is absorbed by photosynthetic organisms, such as plants and algae and used to
+					convert carbon dioxide (CO2) to glucose and oxygen
+					during photosynthesis. 
+					The end result is that the energy from the sun has been stored in glucose, a 
+					small six carbon carbohydrate. The oxygen and glucose are available to other 
+					living organisms. Humans (and all other organisms, including plants) use glucose 
+					as food, and release the energy in glucose through a process called  
+					respiration.  
+					The figure below illustrates this process of photosynthesis and respiration. During this process
+					the carbon atoms in glucose combine with oxygen to produce CO2; the
+					glucose is oxidized, releasing energy. The energy from the
+					oxidation of glucose is stored in a small chemical called 
+ATP (adenosine triphosphate) for immediate use by the cell. 
+					ATP is used for almost all of the energy needs of the cell, from the synthesis 
+					of other complex molecules to doing mechanical work, such as running. You will learn more of
+					these two pathways in “
+Anabolic and Catabolic
+							Reactions.”

@@ -1,0 +1,18 @@
+One way in which changes in pH are moderated is through the use of buffers.
+					Buffers are aqueous solutions that can resist changes in pH. When an acid or a
+					base is added to a solution containing a buffer, the pH of the solution will
+					only exhibit a very minor change. Blood is a buffered solution. The liquid
+					portion of blood contains carbonic acid (H2CO3). It
+					dissociates (breaks apart) to produce bicarbonate ions
+						(HCO3-) and hydrogen ions (H+). This
+					reaction is easily reversible. If acid enters the blood (H+
+					concentration goes up), most of the excess hydrogen ions will bond with
+					bicarbonate, restoring carbonic acid. If a base enters the blood, the H+
+					concentration will initially go down. But then carbonic acid will
+					dissociate to replace the “missing” hydrogen ions. Thus the easily reversible
+					reaction works to oppose any pH change in the blood. A buffered solution cannot
+					absorb an unlimited amount of acid or base. As acid or base is added, any
+					buffered solution will eventually reach a limit called the “buffering capacity.”
+					At this point, no additional hydrogen ions can be absorbed or produced, and the
+					buffer stops working. The solution’s pH will change rapidly if further acid or
+					base is added.

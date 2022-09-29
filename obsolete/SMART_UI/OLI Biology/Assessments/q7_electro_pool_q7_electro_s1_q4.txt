@@ -1,0 +1,2 @@
+In SDS gels, the electrophoretic mobility (distance migrated) for a protein
+            

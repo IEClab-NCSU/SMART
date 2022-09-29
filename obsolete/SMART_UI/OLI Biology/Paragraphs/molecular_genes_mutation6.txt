@@ -1,0 +1,3 @@
+
+Nonsense mutations. A nonsense mutation changes an amino acid codon to a
+				stop codon, terminating transcription:

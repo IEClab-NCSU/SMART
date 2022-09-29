@@ -1,0 +1,7 @@
+The amino acid asparagine is shown as a chemical drawing.
+(Note that there are NO carbon atoms represented by a “C” drawn in this figure.
+					However, you know that there is a carbon atom at every intersection that does
+					not have a letter.)
+One group of atoms is highlighted in yellow; the second group of atoms is
+					highlighted in pink. Which group of highlighted atoms represents the atoms that
+					are found in all amino acids?

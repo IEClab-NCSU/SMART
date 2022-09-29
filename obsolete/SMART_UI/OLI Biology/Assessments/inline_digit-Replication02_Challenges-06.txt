@@ -1,0 +1,3 @@
+If sequencing of a template using DNA polymerase, a primer, dATP, dGTP, dTTP
+                        and dideoxyCTP is perfomed, only one fragment will be produced that ends at
+                        what corresponding base in the template?

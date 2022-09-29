@@ -1,0 +1,7 @@
+ Enzymes and other catalysts lower the activation energy for converting a
+					specific substrate to product, as shown in the graph below. The activation
+					energy is the energy required for a chemical reaction to proceed to product. By
+					lowering the activation energy, a chemical reaction can proceed much more
+					quickly. Note that enzymes have no effect on the free energy of the reaction.
+					Enzymes are not consumed in the process, but are recycled for further
+					catalysis. 

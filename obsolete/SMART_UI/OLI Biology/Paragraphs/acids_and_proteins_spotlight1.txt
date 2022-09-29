@@ -1,0 +1,4 @@
+Lactase is an example of an enzyme that breaks large molecules down into smaller
+                    ones. Lactase is produced in the intestinal tract of mammals and breaks the
+                    sugar in milk, lactose, into the monosaccharides glucose and galactose. The
+                    monosaccharides can then be metabolized to produce energy.

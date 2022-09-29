@@ -1,0 +1,6 @@
+Fermentation breaks down organic molecules and stores energy as ATP.
+                                Fermentation reactions do not require oxygen, and they do not break
+                                down all glucose fully to carbon dioxide. Instead, they end with
+                                organic molecules that still contain considerable chemical potential
+                                energy. Such pathways produce only a tiny amount of ATP compared to
+                                aerobic cellular respiration.

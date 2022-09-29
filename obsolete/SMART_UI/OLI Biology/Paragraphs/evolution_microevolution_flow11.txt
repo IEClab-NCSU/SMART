@@ -1,0 +1,11 @@
+Genetic drift can also occur through the founder effect. In the
+			founder effect, a small number of individuals from a population settle in a new area.
+			This small group is not likely to contain all of the alleles of the original population,
+			just as is seen with the survivors in the bottleneck effect. Imagine a field of
+			dandelions. Dandelions are self-fertile, so they do not require cross pollination from
+			other dandelions to produce offspring. If just one of the white fluffy dandelion seeds
+			is carried by the breeze to a new location that does not have dandelions, the plant from
+			this single seed could start a new population. As a result of the founder effect,
+			however, the gene pool of the new population would be very limited. It would have only
+			those alleles that were found in the original seed, drawn at random from a much larger
+			source population.

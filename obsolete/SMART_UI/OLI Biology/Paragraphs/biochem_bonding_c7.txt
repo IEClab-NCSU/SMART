@@ -1,0 +1,2 @@
+ When drawing molecular formulas it is important to make sure that each atom
+						has a full outer shell. 

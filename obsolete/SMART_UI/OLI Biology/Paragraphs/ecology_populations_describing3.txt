@@ -1,0 +1,5 @@
+Population density is the total number of individuals of a species
+			per unit area or volume within a specified habitat or region. In many cases this number
+			can be pictured and measured more easily than population size itself. It also can be
+			used to compare populations that occupy areas of different size, allowing you to judge
+			where a population is more or less crowded.

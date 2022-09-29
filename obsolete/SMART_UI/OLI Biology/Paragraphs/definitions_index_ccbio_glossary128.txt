@@ -1,0 +1,4 @@
+A circular double stranded DNA molecule that contains all of the
+                                necessary DNA sequences to allow for maintenance of the plasmid as
+                                well as the production of mRNA from genes inserted into the
+                                plasmid.

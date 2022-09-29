@@ -1,0 +1,5 @@
+The genes for lactose metabolism are contained in an operon known as the lac operon. The lac operon is controlled by the lac
+                    repressor, which is produced from the lacI gene. The lacI gene has its own
+                    promoter; consequently, low levels of the lac repressor protein are present all
+                    of the time. Three structural genes in the operon, lacZ, lacY, and lacA, encode
+                    enzymes required for lactose metabolism.

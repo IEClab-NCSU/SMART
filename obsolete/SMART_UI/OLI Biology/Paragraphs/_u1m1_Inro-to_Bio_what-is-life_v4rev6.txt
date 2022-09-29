@@ -1,0 +1,4 @@
+
+Fact 1: When viruses infect cells, the viral DNA enters the cell and
+					uses the cell’s machinery to make more viruses. The newly synthesized viruses
+					then leave the cell to infect other cells.

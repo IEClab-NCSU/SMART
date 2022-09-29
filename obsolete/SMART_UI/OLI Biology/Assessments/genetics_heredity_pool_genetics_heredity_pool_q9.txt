@@ -1,0 +1,3 @@
+In peas, purple is dominant over white for flower color. Suppose a purple flower
+                is crossed with a white flower. Some of the offspring are purple, and others are
+                white. What is the genotype of the original purple flower?

@@ -1,0 +1,47 @@
+
+Substrate availability. If the substrate concentration increases, the
+				rate of a reaction will increase. Put simply, substrates must collide with enzymes
+				to initiate binding. Such collisions will occur more often if the substrate is
+				highly concentrated. Note that too much of the substrate can saturate the enzyme, so
+				above a certain amount of substrate, the reaction speed will not increase
+				anymore.
+Competitive inhibition. An inhibitor “competes” with the substrate for
+				the active site. If the inhibitor binds first, the substrate is blocked from
+				entering and the enzyme is inhibited (cannot complete any reactions). Competitive
+				inhibitors are often used as drugs to block an undesirable metabolic pathway. For
+				example, sulfa antibiotics are competitive inhibitors of the bacterial pathway that
+				produces folic acid, an essential molecule for nucleic acid synthesis. Products of a
+				reaction are often competitive inhibitors, because they bind to the active
+				site.
+Noncompetitive control. This mechanism is similar to competitive
+				control, except in this case substances bind to a site away
+				from the active site. Binding can either enhance or inhibit the enzyme’s function by
+				changing the shape of the active site. This is the example that you saw above with
+				glycolysis.
+Feedback inhibition. Both competitive and noncompetitive controls are often
+				set up so that a product inhibits its own production by inhibiting enzymes at an
+				early step in the synthesis process. This regulates the pathway: the product “turns
+				off” its own production by inhibiting an enzyme on its own “assembly line.” This
+				prevents the overproduction of a substance and also prevents the waste of resources
+				on unnecessary intermediate products. Feedback inhibition is observed
+				when a product inhibits an earlier step in the pathway. Product inhibition occurs
+				when the product inhibits the enzyme that was directly involved in making that
+				product. 
+Modification of the enzyme. Chemical modification of enzymes (such as
+				adding a phosphate group) can cause a change in the shape of the active site of the
+				enzyme. The change may either increase or decrease enzyme activity. This is similar
+				to noncompetitive control, except in this case the enzyme is chemically modified and
+				control does not involve the binding of a large molecule to the enzyme. 
+Changing enzyme concentrations. Enzyme levels can be increased by 1)
+				conversion of inactive forms of the enzyme to active forms, or 2) regulating the
+				synthesis of the enzyme. An example of the former is blood clotting, where inactive
+				precursors of clotting enzymes become activated, in a cascade, by blood vessel
+				damage. This permits a very quick response to bleeding: all the necessary factors
+				are present and require only an activating signal. Similarly, many digestive enzymes
+				are activated only when they reach their destination (for example, gastric fluid of
+				low pH). Elsewhere they are inactive — and thus do not digest the organ that
+				secretes them. It takes longer to adjust enzyme levels by regulating the activity of
+				genes that produce them. Such changes are most often seen in response to longer-term
+				changes in the environment. For example, bacteria turn genes for digestive enzymes
+				on and off depending on the nutrients that are available to them. Many animal genes
+				are produced only during certain stages of development.

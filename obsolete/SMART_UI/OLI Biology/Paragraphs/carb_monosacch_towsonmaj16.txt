@@ -1,0 +1,6 @@
+Examination of the result of this transformation, in which the total number of carbons,
+			hydrogens and oxygens between the two structures has not changed, shows that the number
+			one carbon has now become a new asymmetric (chiral) center where it wasn’t before the ring
+			closure. This new chiral center is called the anomeric carbon. You should examine this structure and
+				convince yourself that the four different substituents attached to the anomeric carbon are
+				unique, making it a chiral center.

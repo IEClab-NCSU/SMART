@@ -1,0 +1,4 @@
+A single mutation in E. coli results in a bacterium
+					being unable to utilize either lactose or cholesterol effectively, but the cells
+					are still able to utilize glucose. Which of the following best explains
+					this?

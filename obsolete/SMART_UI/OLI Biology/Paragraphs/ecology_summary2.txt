@@ -1,0 +1,9 @@
+We began with a study of population ecology. Population size and density increase with
+            birth or immigration and decrease with death and emigration. Populations tend to
+            increase if provided with good living conditions. Exponential growth occurs if the per
+            capita rate of increase remains constant; the bigger the population gets, the faster it
+            grows. Real populations face limiting factors that increase the death rate or decrease
+            the birth rate. If these factors intensify as a population becomes crowded, the result
+            is logistic population growth that levels off at a population’s carrying capacity.
+            Humans apply principles of population ecology in managing populations of endangered
+            species, fish, game animals, pests, and more.

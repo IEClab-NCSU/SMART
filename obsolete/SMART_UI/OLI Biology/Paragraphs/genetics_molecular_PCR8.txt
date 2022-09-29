@@ -1,0 +1,5 @@
+You might wonder how the DNA polymerase, as a protein, can resist such a high
+                    temperature. In fact, the DNA polymerases used for PCR are derived from
+                    organisms that can live at extremely high temperatures. The most common DNA
+                    polymerase used for PCR is called Taq, and it is found in the microbe Thermus aquaticus, which was first discovered in the
+                    Lower Geyser Basin at Yellowstone National Park.

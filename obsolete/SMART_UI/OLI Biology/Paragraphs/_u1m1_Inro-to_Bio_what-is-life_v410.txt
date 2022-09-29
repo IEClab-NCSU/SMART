@@ -1,0 +1,7 @@
+
+Cells are defined by a boundary called a membrane. This membrane is made from an
+					oily molecule (called a phospholipid) as well as proteins, carbohydrates, and
+					other molecules. The purpose of this boundary is to define the inside and
+					outside of the cell and to interact with the environment. Cells also contain all
+					of the machinery for growth and replication. Recall the structure of a virus and
+					decide if it meets the definition of a cell. 

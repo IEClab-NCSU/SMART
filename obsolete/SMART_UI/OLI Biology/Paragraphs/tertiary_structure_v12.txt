@@ -1,0 +1,10 @@
+ Proteins contain a mix of 
+					hydrophobic and 
+					hydrophilic amino acids.  
+					
+					Hydrophobic molecules contain no or very few highly electronegative atoms and do not 
+					form strong bonds with water. In aqueous solutions hydrophobic molecules are driven 
+					together to the exclusion of water. This is an example of the 
+					hydrophobic effect previously 
+					discussed. As a protein folds to its final three-dimensional structure, the hydrophobic parts of the 
+					protein are forced together and away from the aqueous environment of the cell. 

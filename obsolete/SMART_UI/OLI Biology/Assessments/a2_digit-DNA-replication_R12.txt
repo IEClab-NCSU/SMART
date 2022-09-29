@@ -1,0 +1,1 @@
+A closed circular prokaryotic chromosomes replicates from a single origin of replication. If the rate of DNA synthesis by DNA polymerase is 500 bp/sec and the chromosome contains a million bp, how long will it take to replicate the chromosome?

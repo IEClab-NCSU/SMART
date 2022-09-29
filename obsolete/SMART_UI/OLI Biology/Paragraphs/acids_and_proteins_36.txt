@@ -1,0 +1,6 @@
+
+Reversible — bound ligands can be released by the protein.
+Concentration dependent — the level of binding depends on the ligand concentration. As the
+				ligand concentration increases, so does the amount of protein bound.
+Limited — once all of the proteins are ligand bound, no additional ligand can bind and the
+				protein is said to be saturated.

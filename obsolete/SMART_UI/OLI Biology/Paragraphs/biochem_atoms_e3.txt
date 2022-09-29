@@ -1,0 +1,7 @@
+Another example of radioactive isotopes is positron-emission tomography (PET). In PET, a
+			patient ingests sugar that is marked with a radioactive isotope. Cells that are using a
+			lot of sugar (or need a lot of energy) will absorb more of the radioactive isotope. The
+			patient is then moved into a PET scanner, where the radioactive isotopes are visualized
+			and the machine translates the data into an image. This can help in a variety of
+			applications, from cancer and Alzheimer’s disease diagnosis to addiction research (see
+			image).

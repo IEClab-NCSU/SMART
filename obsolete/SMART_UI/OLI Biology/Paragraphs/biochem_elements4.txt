@@ -1,0 +1,7 @@
+In biological systems, the major elements are carbon (C), hydrogen (H), nitrogen (N),
+			oxygen (O), phosphorus (P), and sulfur (S). These elements represent more than
+			95% of the mass of a cell. Carbon is a major component of nearly all biological
+			molecules. Some elements are found in relatively small amounts and are called “trace
+				elements.” Examples include sodium (Na), potassium (K), chlorine (Cl), manganese (Mn),
+			and Zinc (Zn). Throughout the course you will see how atoms of these elements are very
+			important to the functioning of a cell. 

@@ -1,0 +1,7 @@
+
+Replication of DNA begins at specific nucleotide sequences called .
+As the DNA strands are separated, an open complex is formed with a  at either end of the replication bubble. 
+In prokaryotes, replication starts at  site(s) on the
+                    genome. 
+In eukaryotes replication starts at  site(s) on each
+                    chromosome.

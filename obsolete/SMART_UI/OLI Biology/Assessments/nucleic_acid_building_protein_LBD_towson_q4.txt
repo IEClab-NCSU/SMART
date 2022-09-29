@@ -1,0 +1,7 @@
+
+Given the following information:
+The triplet UAU codes for the amino acid tyrosine, or tyr
+The triplet UCC codes for the amino acid serine, or ser
+The triplet GGA codes for the amino acid glycine, gly
+
+Assume this mRNA sequence is from the middle of a gene 5’ GGAUAUUCC 3’, what would be the amino acid sequence? 

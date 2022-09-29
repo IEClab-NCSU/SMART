@@ -1,0 +1,7 @@
+
+Crossing over during prophase 1: crossing over introduces novel combinations of
+				traits among offspring.
+Segregation of chromosomes into gametes: the maternal and the paternal copy of each
+				chromosome pair will segregate to different gametes. However, which goes to which
+				cell is a random process. Thus, the possible number of combinations is astounding:
+				in the case of humans, with 23 chromosomes, it is 223 (8,388,608).

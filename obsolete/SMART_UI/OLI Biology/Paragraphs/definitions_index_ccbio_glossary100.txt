@@ -1,0 +1,4 @@
+Referring to cells that contain two sets of chromosomes (i.e. pairs
+                                of homologous chromosomes). One set of chromosomes is inherited from
+                                the mother and the other set is inherited from the father. Diploid
+                                cells are 2n. Somatic and germ cells are diploid. 

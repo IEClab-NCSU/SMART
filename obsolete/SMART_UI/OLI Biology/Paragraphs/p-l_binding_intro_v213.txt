@@ -1,0 +1,3 @@
+ In the following pages you will explore reversible binding and how we can determine the
+			strength of the interaction between a protein and its ligand by experimental
+			measurements.

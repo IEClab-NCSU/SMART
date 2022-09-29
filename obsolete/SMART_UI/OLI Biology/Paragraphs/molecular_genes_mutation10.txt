@@ -1,0 +1,4 @@
+There are many possible variations on the mutation types above. For example, three bases
+			may be deleted in a group corresponding to one existing codon. In this rare instance,
+			there would be no frame shift but a single amino acid would be missing from the encoded
+			protein:

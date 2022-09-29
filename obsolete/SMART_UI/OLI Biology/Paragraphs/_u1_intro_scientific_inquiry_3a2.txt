@@ -1,0 +1,10 @@
+To avoid this situation, experimenters make sure that their subject groups are as similar
+            as possible in all variables except for the variable that is being tested in the
+            experiment. This variable, or factor, will be deliberately changed in the experimental
+            group. The one variable that is different between the two groups is called the
+            independent variable. An independent variable is known or hypothesized to cause some outcome. Imagine
+            an educational researcher investigating the effectiveness of a new teaching strategy in
+            a classroom. The experimental group receives the new teaching strategy, while the
+            control group receives the traditional strategy. It is the teaching strategy that is the
+            independent variable in this scenario. In an experiment, the independent variable is the
+            variable that the scientist deliberately changes or imposes on the subjects.

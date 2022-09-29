@@ -1,0 +1,8 @@
+Metabolism is the sum of all chemical reactions within a living organism. A
+					chemical reaction is a chemical change in which new molecules are formed from
+					existing molecules. Reactions that release energy are called
+						exergonic (“exer” refers to “out” and “gonic” refers to
+					“energy,” so these are “energy out” reactions). Reactions that require energy
+					are called endergonic (“energy in”). Exergonic reactions can be
+					used to power endergonic reactions. For example, building ATP from ADP and a phosphate molecule
+					requires energy (it is an endergonic reaction). 

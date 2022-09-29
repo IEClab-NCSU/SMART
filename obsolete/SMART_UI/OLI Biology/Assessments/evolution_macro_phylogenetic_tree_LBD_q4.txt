@@ -1,0 +1,6 @@
+
+
+We’ve made some progress, but the tree is not really very informative yet. We
+                    would like to know how the remaining species are arranged. 
+Which remaining characteristic is most widely shared among the species
+                    listed?

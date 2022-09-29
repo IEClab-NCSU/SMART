@@ -1,0 +1,2 @@
+Individual cells are able to form tissues by participating in cell-to-cell
+			attachments with neighboring cells. 

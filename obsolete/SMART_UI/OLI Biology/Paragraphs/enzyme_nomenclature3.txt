@@ -1,0 +1,6 @@
+Each enzyme has a unique name.  Usually, the name of an enzymes is systematic, but many exceptions
+      exist.  Almost all enzyme names have the suffix ase, indicating that they are an enzyme, for
+      example kinase, lyase, phosphatase, etc. Usually, but unfortunately
+      not always, the name of the enzyme is derived from the nature of the chemical change that it
+      catalyzes. For example, an enzyme that oxidizes its substrate is referred to as a
+      dehydrogenase because it removes hydrogens atoms during the oxidation process. 

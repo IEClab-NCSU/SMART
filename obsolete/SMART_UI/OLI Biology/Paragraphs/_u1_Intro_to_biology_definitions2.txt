@@ -1,0 +1,4 @@
+
+The basic unit of an element that retains the properties of that element.
+                The diagram below represents an atom of lithium.
+

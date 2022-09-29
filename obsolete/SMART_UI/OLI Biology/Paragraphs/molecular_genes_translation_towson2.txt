@@ -1,0 +1,9 @@
+The genetic code table below shows all possible combinations of three bases and
+					the corresponding amino acids that the codons encode. For example, the mRNA
+					codon UGG encodes for the amino acid tryptophan. Note that there are 64 codons
+					and only 20 common amino acids. Three of the codons do not specify amino acids,
+					but instead signal the end of translation; these are called stop codons. The remaining 61 codons encode for 20 amino acids. Of
+					these, the codon for the amino acid methionine, AUG, has a dual role. It is used
+					to signal the start of most protein-coding regions in the mRNA; thus, it is the
+						start codon. The same codon is used if methionine
+					occurs at an internal position in the protein sequence.

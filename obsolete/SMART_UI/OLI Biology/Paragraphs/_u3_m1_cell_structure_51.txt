@@ -1,0 +1,5 @@
+As you recall from learning about the cell theory, every cell in your body comes from the division of a
+			previously existing cell. How do cells "know" when to divide? What factors control this
+			process? These are vitally important questions with implications for how we grow, heal,
+			and reproduce. They are also central to understanding cancer - and for developing cancer
+			treatments. 

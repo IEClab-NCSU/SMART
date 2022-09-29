@@ -1,0 +1,9 @@
+The story of acids and bases begins with water (H2O). Water in the
+					liquid state is highly dynamic. Not only are hydrogen bonds constantly forming
+					and breaking between water molecules, but individual water molecules are
+					breaking apart and then reforming again to make water. When they break apart, a
+					hydrogen ion (H+) is transferred to another water molecule to make a
+					hydronium ion (H3O+), leaving a hydroxide ion
+						(OH-) from the original water molecule. This dynamic reaction can
+					be represented by this chemical equation: H2O + H2O
+					 H3O+ + OH-.

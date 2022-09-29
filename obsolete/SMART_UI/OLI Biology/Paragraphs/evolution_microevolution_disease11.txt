@@ -1,0 +1,10 @@
+We have now explored two corners of the “Interactions in Malaria” triangle - the mosquito
+			vector and the malaria parasite. As you can see from the question above, there are
+			several ways in which malarial parasites can evolve resistance to anti-malarial
+			medications. This is a real world problem in the fight against malaria. Resistance to
+			almost every drug available to prevent or treat malaria has been reported, and the rates
+			of resistance are only increasing. Insecticide resistant mosquitoes are also
+			contributing to the problem because many areas where malaria is rampant rely heavily on
+			pesticide control of the mosquito populations to curtail the spread of malaria. If the
+			mosquitoes are no longer killed by the pesticide, then there will be more mosquitoes
+			around to transmit malaria.

@@ -1,0 +1,4 @@
+Notice in the diagram above that we start with one cell on the left side. This is called
+			the parent cell. It is called this because, like a human parent, it reproduces—it makes
+			new cells that are copies of itself. The parent cell goes through the five stages of
+			development in this order — G1, S, G2, M, and cytokinesis.

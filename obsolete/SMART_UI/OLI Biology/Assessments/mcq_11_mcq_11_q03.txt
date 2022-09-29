@@ -1,0 +1,3 @@
+
+ When binding data are analyzed in a Scatchard plot (Y/[L] vs [L]) the slope is used to estimate ___.
+ 

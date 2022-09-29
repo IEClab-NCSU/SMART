@@ -1,0 +1,11 @@
+Population models help officials manage fisheries for maximum benefits to commercial
+			fishermen and recreational anglers. However, this approach can be risky. Models are not
+			the same as reality. Outside factors such as weather events, disease epidemics, and so
+			on can sometimes unpredictablydecimate fish populations. With fewer adults in the
+			population, the population cannot rebound after a harvest that would normally be
+			sustainable. Even just one bad year can set up a series of events in which the
+			population dwindles over time. Because of this unpredictability, many fisheries managers
+			try to maintain populations at a level that is a bit “too high” (say, 75% of carrying
+			capacity) and limit harvest rates accordingly. This reduces the amount of fish that can
+			be harvested but it also reduces the risk that harvests will drive the population
+			downward.

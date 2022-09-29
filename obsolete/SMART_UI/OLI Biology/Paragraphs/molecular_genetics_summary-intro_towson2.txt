@@ -1,0 +1,13 @@
+The connection between genotype and phenotype of the organism was further discussed in
+            the Gene Regulation module. This module began with discussion of gene structure,
+            including the parts of the gene required for regulation of gene expression: coding DNA
+                sequence, untranslated regions, promoter, operator, and terminator. Comparison of eukaryotic
+            and prokaryotic genes and genomes revealed important differences. Many prokaryotic genes
+            with related functions reside next to each other on DNA (operons) and are expressed
+            together in a single RNA. Eukaryotic genes are often fragmented: exons are interrupted
+            by introns, which are removed from the final mRNA. The modular organization of
+            eukaryotic genes gives more flexibility in gene expression, because one DNA sequence can
+            give rise to different versions of RNA and protein in different cells. The module also
+            addressed the interactions between genes and environment. In addition to DNA damage by
+            mutagens, environment can affect gene expression directly via regulatory proteins, or
+            indirectly by changing packaging of DNA. 

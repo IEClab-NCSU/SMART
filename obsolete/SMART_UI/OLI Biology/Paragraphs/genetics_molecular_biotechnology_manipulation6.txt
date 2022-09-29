@@ -1,0 +1,3 @@
+Because cleavage does not occur in the middle of the recognition sequence, the products
+            have short single strand segments (highlighted). These sticky ends can “stick” to
+            complementary single-stranded DNA sequences using normal DNA basepairing (A-T, G-C).

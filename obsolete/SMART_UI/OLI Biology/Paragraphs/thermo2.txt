@@ -1,0 +1,12 @@
+ It is useful to have a quantitative way to predict the direction of a pathway given the
+          current environment in the cell. A method of predicting the direction of a reaction was
+          devised by J. Willard Gibbs in 1876 and the quantitative parameter that can be used to
+          predict the direction of a reaction is called the Gibbs free energy. This method
+          is particularly useful because it can be applied to reactions that are not at equilibrium,
+          which is the situation encountered during metabolism. Before we can discuss the Gibbs free
+          energy, we have to discuss standard energies and their relationship to equilibrium
+          positions of reactions. Keep in mind that these discussions relate to the
+            thermodynamic properties of pathways, more specifically the relative energy
+          differences between reactants and products under cellular conditions. The presence of
+          enzymes simply increases the rate of conversion from reactants to products, the enzyme
+          cannot alter the relative energies of these compounds. 

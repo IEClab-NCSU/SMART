@@ -1,0 +1,3 @@
+Imagine that the fishery is harvested very heavily for several years until its
+                size is just 10% of the carrying capacity. What level of harvest could be sustained
+                without decreasing the population further?

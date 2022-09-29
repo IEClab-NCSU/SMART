@@ -1,0 +1,5 @@
+Genes A and B do NOT sort independently (because they are in the same linkage
+                group; assume recombination does not occur between these two genes). An individual
+                is AaBb and has the A and the b alleles on one copy of the chromosome and the a and
+                the B alleles on the other chromosome. How many different gametes are
+                produced?

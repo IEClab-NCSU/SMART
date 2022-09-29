@@ -1,0 +1,3 @@
+The simulation below demonstrates how transmembrane protein structures from adjacent cells line up to
+			form Gap Junctions, channels between cells that act as size exclusion transporters.
+			While water molecules are small enough to move through the membranes, the Gap Junctions facilitate that movement and the movement of molecules up to 1500 daltons (approximately a 15 amino acid peptide) but not larger molecules.

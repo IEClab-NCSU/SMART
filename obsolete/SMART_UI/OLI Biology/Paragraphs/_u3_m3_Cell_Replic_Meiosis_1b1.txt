@@ -1,0 +1,9 @@
+Germ
+						cells are diploid cells that go through
+					the process of meiosis to form haploid gametes. This process
+					can happen at different times, depending on the organism. For example, in
+					humans, the male gametes (sperm cells) are formed continuously from germ
+						cells in the testes, starting in puberty. Female gametes (eggs or
+					oocytes), on the other hand, are formed in the ovaries during fetal life. They
+					remain in the ovaries, “stuck” in the final stages of meiosis, which is not
+					completed unless fertilization occurs.

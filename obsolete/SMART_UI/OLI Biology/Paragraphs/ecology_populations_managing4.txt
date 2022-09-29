@@ -1,0 +1,8 @@
+The general idea is that a population is like a bank account. Every so often, we can
+			remove the interest that has accumulated in a bank account. This
+			can continue indefinitely so long as we do not remove any of the principal that is earning the interest. Similarly, every so often we can
+			remove a population’s growth without causing the population to
+			decline: it will be reset to its beginning level and the harvested individuals will be
+			replaced by further reproduction and growth. Ideally, we should be able to find the
+			population size that provide the maximum level of growth (and harvest) each year.
+			Population modeling can help with this effort.

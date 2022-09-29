@@ -1,0 +1,3 @@
+One mechanism to control product formation rate is through temperature. Velocity of product formation increases as temperature increases until a critical temperature is reached. This is shown in the graph below of product formation as a function of temperature.
+
+            Product formation ceases beyond the critical point due to two effects of temperature. One effect is to decrease the hydrogen bonding between enzyme and substrate. Remember that hydrogen bonds are only 5 kcal/mol in strength. As temperature increases this small force is weak compared to the increase in molecular motion. Thus if the enzyme cannot bind the substrate, no product is formed.

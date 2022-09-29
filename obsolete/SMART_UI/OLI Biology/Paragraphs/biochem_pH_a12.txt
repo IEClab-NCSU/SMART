@@ -1,0 +1,4 @@
+Hydrogen ion concentration can vary
+							over many orders of magnitude. To represent very large differences in
+							concentration levels, a logarithmic mathematical function is used to
+							denote the pH scale. 

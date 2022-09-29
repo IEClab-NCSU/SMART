@@ -1,0 +1,4 @@
+When any two species are compared, biologists can find many detailed similarities
+            in their cell structures and genetic sequences. For example, a yeast cell (fungus)
+            has many genes and proteins that are a close match to similar structures found in
+            human cells. How do biologists interpret such similarities?

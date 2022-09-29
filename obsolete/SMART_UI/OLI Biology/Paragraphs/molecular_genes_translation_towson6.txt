@@ -1,0 +1,9 @@
+The genetic code table allows us to convert the information contained in a
+					nucleic acid into an amino acid sequence. How does the cell do this during
+					translation? Translation from one language to another requires a dictionary, a
+					book that connects words in two different languages. In the cell, we need a
+					molecule that connects codons and amino acids. That molecule is transfer RNA
+					(tRNA). Each tRNA contains three bases that can pair with a particular codon in
+					mRNA (complementary base pairing). Each tRNA also carries a specific amino acid.
+					The tRNA binds mRNA via base pairing and brings the correct amino acids to the
+					growing polypeptide chain.

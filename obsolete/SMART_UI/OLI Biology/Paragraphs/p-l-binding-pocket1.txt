@@ -1,0 +1,7 @@
+ The number of the contacts between a protein and its ligand and the environment of the
+			binding pocket determine how tightly the ligand binds to the protein. It is difficult to
+			predict how tightly a ligand will bind to a protein or to predict the structure of
+			ligands that will bind tightly a binding pocket of a known protein. There is intensive
+			research in this area and forms the basis for many computational studies used in drug
+			discovery laboratories. The tightness of the binding is a measurable parameter and
+			describes the affinity of a ligand for a protein. 

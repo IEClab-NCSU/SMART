@@ -1,0 +1,5 @@
+Each tRNA carries a particular amino acid and has a special recognition site comprised of
+			three bases that can bind to a specific sequence of bases on mRNA. Base pairing between
+			three bases on tRNA and three bases on mRNA ensures that the correct amino acid is added
+			to the growing protein chain. During translation, ribosome slides along the mRNA and
+			catalyzes formation of peptide bonds between amino acids positioned by the tRNAs.

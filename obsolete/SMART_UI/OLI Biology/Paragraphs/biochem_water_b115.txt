@@ -1,0 +1,4 @@
+You might be wondering why triglycerides are not amphipathic, given that they are similar to
+					fatty acids, with a polar group of atoms and a nonpolar group. The reason is
+					that the polar region of triglycerides interacts weakly with water because there
+					is no free -OH group.

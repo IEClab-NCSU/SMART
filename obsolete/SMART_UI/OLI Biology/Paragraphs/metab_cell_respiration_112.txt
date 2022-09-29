@@ -1,0 +1,14 @@
+The electron carriers NADH and FADH2 carry high energy electrons.
+					These electrons are passed to proteins on the inner membrane of the
+					mitochondria. These high energy electrons are passed from one protein to the
+					next. At each stage, the electrons lose energy. This loss in energy is used to
+					create a concentration gradient of protons (H+). This concentration
+					gradient is used to build ATP. The final electron acceptor in the electron
+					transport chain is oxygen. Oxygen binds with the electron and loose H+ to
+					produce water. Without the electron transport chain, NADH does not get broken
+					down to NAD+ and glycolysis would not be able to continue.
+					Fermentation uses the same pathway as glycolysis, but adds an additional step to
+					recycle NADH. This allows the process of fermentation to continue. While
+					glycolysis and the citric acid cycle produce a few molecules of ATP, the
+					electron transport chain can produce over 30 ATP molecules. This is the main
+					source of ATP for cellular respiration.

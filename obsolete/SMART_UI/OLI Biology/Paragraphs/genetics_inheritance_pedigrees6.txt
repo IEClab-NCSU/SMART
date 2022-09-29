@@ -1,0 +1,5 @@
+A trait that is significantly more common in males than females is likely to be X-linked.
+            Again, in a real-world situation a much larger sample size would be needed to be sure of
+            these conclusions. The X-linked traits used here are also recessive, so you will notice
+            that they show both characteristics of being X-linked (mostly males) and characteristics
+            of being recessive (child demonstrating a trait that neither parent has).

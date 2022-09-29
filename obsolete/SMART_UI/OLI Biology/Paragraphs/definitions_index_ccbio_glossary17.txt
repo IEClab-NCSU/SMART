@@ -1,0 +1,7 @@
+An amino acid with a side chain that contains a ring structure with
+                                conjugated double bonds. Conjugated double bonds refer to the
+                                alternating arrangement of bonds in a molecule: double-single-double
+                                bond. The benzene ring is the best known example of an aromatic
+                                group. Two amino acids, phenylalanine and tyrosine, contain the
+                                benzene ring. Aromatic rings can include atoms other than
+                                carbon.

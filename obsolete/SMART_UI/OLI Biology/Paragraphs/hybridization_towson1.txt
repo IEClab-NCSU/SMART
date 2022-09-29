@@ -1,0 +1,10 @@
+On the previous page you determined that the most stable complimentary base pairing takes
+          place between A and T with two hydrogen bonds and between G and C with three hydrogen
+          bonds in DNA. Combining that finding with the backbone information that described DNA as
+          containing A, T, G, and C as the possible bases and A, U, G, and C as the possible bases
+          in RNA, the complimentary base pairing in RNA would include A with U (examine the
+          difference in structure between T and U) with two hydrogen bonds and G with C as described
+          in DNA. In each case these comlimentary base pairings included a purine hydrogen bonded to
+          a pyrimidine. This means that the distance between the attachment sites for the sugar in
+          all the base pairs are identical giving uniform dimensions to the distance between the two
+          backbones along the length of two strands that are hydrogen bonded together.

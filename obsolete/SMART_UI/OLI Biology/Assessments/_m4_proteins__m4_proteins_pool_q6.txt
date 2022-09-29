@@ -1,0 +1,4 @@
+The sequence and folded form of three different proteins are shown below. Although
+				the sequences are different, the folded structures are the same (S shaped). 
+Which of the following three structures will be the least stable (white=polar
+			sidechains, black=non-polar sidechains).

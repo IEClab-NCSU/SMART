@@ -1,0 +1,3 @@
+
+For amino acids with neutral R groups, at any pH below the pI of the amino acid, the
+    population of amino acids in solution will have: 

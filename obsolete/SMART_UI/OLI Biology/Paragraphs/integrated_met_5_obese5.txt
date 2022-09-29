@@ -1,0 +1,1 @@
+Although the metabolism of most amino acids is a complicated multi-step process, a number of amino acids enter the main oxidative pathways by a single transaminase reaction.  In the transaminase reaction a ketone group is replaced by an amino group.  For example, the amino acid alanine is converted to pyruvate by the following  transaminase reaction:

@@ -1,0 +1,7 @@
+Metabolic pathways are either anabolic or catabolic. Anabolic pathways involve the use of
+			energy and simple organic building blocks to create more complex molecules. Catabolic
+			pathways convert complex molecules to simpler ones, releasing energy for use by the
+			organism. You will learn about the differences between catabolic and anabolic pathways “
+			in a  Anabolic and Catabolic Reactions 
+."
+		

@@ -1,0 +1,1 @@
+How many codons can encode for the amino acid arginine (Arg)?

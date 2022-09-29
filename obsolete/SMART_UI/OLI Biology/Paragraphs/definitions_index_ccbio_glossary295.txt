@@ -1,0 +1,6 @@
+Protein that binds to DNA near promoter sites, reducing the amount of
+                                mRNA that is generated from that promoter, and consequently the
+                                amount of protein that is translated from the mRNA. The ability of
+                                the repressor to bind to DNA is often controlled by small molecules,
+                                i.e. the lac repressor is released from DNA in the presence of
+                                lactose. 

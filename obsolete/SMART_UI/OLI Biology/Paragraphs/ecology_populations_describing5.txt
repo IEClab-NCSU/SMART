@@ -1,0 +1,7 @@
+As illustrated by the case of Valley Forge’s deer population, population size and density
+			are dynamic, or changeable, numbers. As humans we care about changes in the density and
+			sizes of other populations. We notice when the density of mosquitoes skyrockets after a
+			summer rain. We are concerned about the population sizes and densities of animals we
+			hunt, fish we harvest for food, and endangered species we seek to conserve. Much of
+			population ecology is directed toward predicting, understanding, and controlling changes
+			that occur in the populations of other species over time.

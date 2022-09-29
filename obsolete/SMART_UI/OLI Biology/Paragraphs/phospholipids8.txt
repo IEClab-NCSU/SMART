@@ -1,0 +1,17 @@
+ Phospholipids contain only two fatty acids attached to a glycerol head.
+							This occurs by a condensation reaction similar to the one discussed
+							above. The third alcohol of the glycerol forms an ester bond through
+							reaction with phosphoric acid. This is another example of a condensation
+							reaction between an acid and an alcohol with the release of water. As a
+							triprotic acid (i.e it has three acidic functions on the phorphorus
+							atom) the phosphate group attached to the glycerol has the potential to
+							form ester links with a variety of other molecules such as
+							carbohydrates, choline, inositol and amino acids. The phosphate group
+							along with the glycerol group make the head of the phospholipid
+							hydrophilic, whereas the fatty acid tail is hydrophobic. Thus
+							phospholipids are amphipathic:a molecule with a polar end and a
+							hydrophobic end. When phospholipids are in an aqueous solution they will
+							self assemble into micelles or bilayers, structures that exclude water
+							molecules from the hydrophobic tails while keeping the hydrophilic head
+							in contact with the aqueous solution. View the animation that
+							demonstrates the formation of micelles and bilayers. 

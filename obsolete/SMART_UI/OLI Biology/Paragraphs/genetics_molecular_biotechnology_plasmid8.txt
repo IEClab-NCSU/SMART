@@ -1,0 +1,7 @@
+
+The expression plasmid must have a DNA sequence that will encode a ribosome binding
+                        site on the mRNA. This sequence, which will be found at the beginning of the
+                        mRNA, will allow the mRNA to bind to the bacterial ribosome, initiating the
+                        process of protein synthesis. This segment must be part of the mRNA and it
+                        has to occur just before the start codon to position the mRNA correctly on
+                        the ribosome.

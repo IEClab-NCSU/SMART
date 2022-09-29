@@ -1,0 +1,43 @@
+
+Phosphorylated Compounds Nucleoside triphosphates, such as adenosine triphosphate
+        (ATP) are commonly used to store energy. The addition of an inorganic phosphate group to a
+        nucleotide diphosphate to form the triphosphate requires approximately 30 kJ/mol of energy.
+        The reaction showing the synthesis of ATP from ADP and phosphate is pictured below. 
+Phosphorylation of adenosine diphosphate (ADP) produces adenosine triphosphate
+            (ATP). This reaction requires the input of approximately 30 kJ/mol.  Formation of ATP occurs when the negatively charged phosphate group on ADP attacks the electropositive phosphate in inorganic phosphate, forming a phosphate anhydride bond with the release of water (red arrow).
+ 
+        
+        ATP can be used to phosphorylate other nucleoside diphosphates with essentially no
+        input of energy, for example:
+         
+The myth of high-energy phosphate bonds. When a phosphate is released from ATP to form ADP, about 30
+        kJ/mol of energy is released.  It is often stated, incorrectly, that the bond that is broken
+        is "high-energy". In fact, its energy is no different than any other phosphate bond of the
+        same type.   The release of energy is due to the fact that the products, ADP and inorganic phosphate, are lower in energy than
+        ATP by 30 kJ/mol.  One reason that ATP is higher in energy is due to charge repulsion between the negatively charged phosphate groups.  Once the phosphate group is removed, the unfavorable repulsion  disappears.
+Reduced redox carriers.The oxidation of metabolytes usually produces energy, If
+        this energy was not captured in some way, it would be lost as heat. The reduced form of
+        redox carriers, such as NADH and FADH2, are higher in energy than their
+        corresponding oxidized forms, capturing the energy that would otherwise be lost as heat. For
+        example, the oxidation of isocitrate to ketoglutarate releases approximately 70 kJ/mol, 60
+        of which is captured by converting NAD+ to NADH.
+High energy thioesters are often produced by oxidative steps. For example, the
+        energy released by the oxidation of an aldehyde is stored in both the reduced form of
+          NAD+ as well in a thioester. The hydrolysis of the thioester can be used to
+        synthesize nucleoside triphosphates or to facilitate the formation of carbon-carbon bonds,
+        as shown below. 
+The oxidation of the aldehyde to the thioester is highlighted in green. CoA is
+            coenzyme A, a nucleotide containing cofactor that is an essential co-substrate for many
+            reactions. Part of the energy of this oxidation, 60 kJ/mol, is captured by the formation
+            of NADH. The energy stored in the thioester can be used to either phosphorylate GDP to
+            form GTP, capturing another 30 kJ/mol. In the case of acetyl-CoA (lower diagram) the
+            thioester facilitates the attachment of the acetyl group to oxaloacetate to form
+            citrate, the first compound in the TCA cycle.
+
+
+Proton gradient The transfer of electrons from NADH and FADH2 to
+        oxygen to form water during the electron transport chain, provides energy for the pumping of
+        protons across the inner mitochondrial membrane. This is equivalent to pumping water up hill
+        to fill a reservoir. As the protons flow back through the membrane, the energy released is
+        used to generate ATP, in much the same way water generates electricity in a hydroelectric
+        plant.

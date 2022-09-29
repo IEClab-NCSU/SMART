@@ -1,0 +1,6 @@
+Throughout the genetics unit, we have been using the terms gene, allele, and DNA, along
+            with several other related terms. Before we go on, we need to clarify the relationships
+            among these terms. First, we need to distinguish between terms that relate to actual
+            molecules and terms that relate to the information content of those molecules. The
+            macromolecule that carries genetic information is DNA, which in
+            the eukaryotic cell binds specialized proteins to create compact structures called chromosomes.

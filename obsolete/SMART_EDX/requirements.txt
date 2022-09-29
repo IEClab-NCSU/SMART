@@ -1,0 +1,7 @@
+watson_developer_cloud==1.0.2
+Flask==1.0.1
+PyMySQL==0.8.0
+numpy==1.13.0
+sshtunnel==0.1.2
+beautifulsoup4==4.6.0
+scikit_learn==0.19.1

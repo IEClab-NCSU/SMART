@@ -1,0 +1,4 @@
+
+[Note: the segment in the animation that has formation of replisome should stop at
+            point where primase has laid down the red RNA primer and the DNA polymerase has arrived
+            but not started synthesis]

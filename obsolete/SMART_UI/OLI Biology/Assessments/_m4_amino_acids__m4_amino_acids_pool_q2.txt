@@ -1,0 +1,3 @@
+The amino acid
+				valine is shown with its sidechain atoms highlighted in yellow. Do you think this
+				amino acid is hydrophilic or hydrophobic?

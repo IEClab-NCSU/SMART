@@ -1,0 +1,2 @@
+Once a ligand binding constant (Ka) has been determined it is possible to calculate:
+   

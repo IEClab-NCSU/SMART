@@ -1,0 +1,3 @@
+For each of the following growth conditions indicate whether the gene
+					expression of the Chol operon would be on or off.Glucose
+					only:

@@ -1,0 +1,3 @@
+When bacteria are grown in lactose they produce enzymes required for lactose
+            metabolism. When placed in glucose, these enzymes are no longer produced. The
+            expression of these genes is likely due to:

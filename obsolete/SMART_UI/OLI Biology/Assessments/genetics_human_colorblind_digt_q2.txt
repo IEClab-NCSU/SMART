@@ -1,0 +1,3 @@
+In humans, colorblindness is X-linked and recessive. A male with normal vision and
+                a colorblind female mate. If their child is a girl, what is the chance that she is
+                colorblind?

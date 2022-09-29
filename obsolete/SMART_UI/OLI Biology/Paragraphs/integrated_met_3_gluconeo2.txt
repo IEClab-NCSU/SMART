@@ -1,0 +1,4 @@
+ During glycolysis glucose is oxidized to pyruvate. The reverse reaction, the synthesis
+          of glucose from pyruvate occurs in the gluconeogenesis pathway. The major source of
+          pyruvate in the liver is lactate that was produced by active muscle during anaerobic
+          metabolism.

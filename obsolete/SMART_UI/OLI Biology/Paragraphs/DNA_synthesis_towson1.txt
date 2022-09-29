@@ -1,0 +1,4 @@
+Having explored the requirements for DNA polymerase, it is clear that the prokaryotic and
+          eukaryotic genomes fail the first requirement of a single stranded sequence of DNA.
+          Therefore to initiate DNA replication it is necessary to create the conditions that will
+          allow DNA polymerase to carry out DNA synthesis.

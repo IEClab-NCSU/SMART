@@ -1,0 +1,4 @@
+Protein-ligand interactions serve several important functions in the cell. They may be
+			responsible for buffering the ligand concentration and the transport of ligands. Oxygen
+			binding to myoglobin is an example of buffering while the protein hemoglobin is involved
+			in the transport of oxygen from the lungs to the tissues.

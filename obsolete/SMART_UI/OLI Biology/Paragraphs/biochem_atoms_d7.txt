@@ -1,0 +1,4 @@
+As you recall, an atom is most stable when it has a full outer shell. Some atoms achieve this
+					endpoint by taking on extra electrons, or giving them up. When this happens, the
+					atom becomes an ion and it takes on an
+					overall charge. 

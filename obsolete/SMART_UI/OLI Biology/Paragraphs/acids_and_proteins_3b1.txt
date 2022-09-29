@@ -1,0 +1,5 @@
+Enzymes are proteins that have the ability to bind substrate in their active site
+			and then chemically modify the bound substrate, converting it to a different molecule —
+			the product of the reaction. Substrates bind to enzymes just like ligands bind to
+			proteins. However, when substrates bind to enzymes, they undergo an enzyme-induced
+			chemical change, and are converted to products.

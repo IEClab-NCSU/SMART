@@ -1,0 +1,12 @@
+
+Glucose, a six carbon hexose, is the input compound.
+Pyruvate, a three carbon keto-acid is the output. There is no loss of carbon in
+            glycolysis, so two pyruvates are produced/glucose. Pyruvate is further oxidized in the
+            TCA cycle.
+Two ATP molecules are produced/glucose. Note that the energy content of two ATP
+            molecules is required to initiate the pathway. Four ATP (2/pyruvate) are produced later
+            in the pathway. Consequently, the net yield is two ATP.
+Two NADH molecules are produced. A single oxidation step produces one molecule of
+            NADH/pyruvate. The energy stored in NADH is extracted during electron transport.
+The key regulatory step is the addition of the second phosphate to fructose, by the
+            enzyme phosphofructose kinase

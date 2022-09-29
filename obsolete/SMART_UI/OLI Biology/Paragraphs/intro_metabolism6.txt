@@ -1,0 +1,5 @@
+In this section of the course we will investigate in some detail the production of energy
+      from glucose and how this process is regulated to maintain homeostasis. Since the entire
+      process of metabolism is complex, it is useful to discuss the general features of the
+      metabolic pathways that are involved in converting sugars, amino acids, and fats to energy.
+      Important features of pathways include:

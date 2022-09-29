@@ -1,0 +1,2 @@
+Codon in the mRNA that signals the termination of the polypeptide
+                                chain. Three stop codons are UAG, UAA, or UGA. 

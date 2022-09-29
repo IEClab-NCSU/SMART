@@ -1,0 +1,4 @@
+In this unit we will start exploring a new level of complexity in biological systems: the
+			cell. As you have learned before, living or biotic cells and organisms possess a set of
+			characteristics that non-living or abiotic things do not. Life is considered an
+			emergent property, and the cellular level is the first to present it.

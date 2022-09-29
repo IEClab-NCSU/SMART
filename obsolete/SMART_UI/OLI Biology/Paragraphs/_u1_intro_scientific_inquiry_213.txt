@@ -1,0 +1,5 @@
+Moreover, if the doctor knows which group a patient is in, this can also bias the
+						results of the experiment. Subconscious non-verbal cues can alter the patient’s
+						experience and therefore the results of the experiment. Therefore, many clinical
+						studies are “double blind” where neither the doctor nor the patient knows which
+						group the patient is in until all experimental results have been collected.

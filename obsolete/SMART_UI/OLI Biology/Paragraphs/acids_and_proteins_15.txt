@@ -1,0 +1,8 @@
+There are many ways to represent an amino acid. Sometimes the carbon are indicated by
+			intersecting lines, instead of the letter C. Sometimes the chemical bonds are given
+			shapes that indicate the three dimensional structure of the molecule. Other times, the
+			entire molecule is represented in a diagramatic fashion, such as in the “building block”
+			representation. This model enables you to more easily visualize the important aspects of
+			the molecule, though information about structural form is lacking. In the next module,
+			you will use building block models of amino acids to figure out how proteins
+			areformed.

@@ -1,0 +1,9 @@
+Each of us began life as a single cell called a zygote. This cell
+					divided rapidly to produce a mass of genetically identical cells. These
+					identical cells then differentiated into specific cell types (such as blood
+					cell, liver cells, etc.) by turning certain genes on or off. Throughout our
+					lives we continue to produce more genetically identical cells. These somatic
+					cells are essential for growth and replacement of worn-out cells and
+					tissues. Multicellular organisms continue to produce somatic cells
+					throughout their lives using the process of mitosis, which will be
+					discussed in the next module.

@@ -1,0 +1,7 @@
+Microevolution occurs when the type or
+			frequency of the alleles and genotypes in a population change over one to many
+			generations of time. But what does that actually mean? Let's
+			look at a hypothetical example. We’ll observe two different populations of foxes, one in
+			Maryland and one in Wisconsin. We’ll narrow our focus to a single gene with two alleles
+			that determine coat thickness. And we will visit the populations at two different
+			times.

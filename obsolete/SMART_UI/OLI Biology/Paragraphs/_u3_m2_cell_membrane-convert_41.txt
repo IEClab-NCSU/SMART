@@ -1,0 +1,15 @@
+While facilitated diffusion and active transport account for a great deal of the specific
+			uptake of molecules and ions needed by the cell, other sources of external matter can
+			also be taken up by the cell. The channels and pores provide a means by which molecules
+			can pass directly through the membrane to the cytoplasm. Other mechanisms also exist by
+			which molecules are taken up by the cell but do not directly pass through the plasma
+			membrane. This mechanism is referred to as endocytosis. This
+			mechanism involves the engulfing of the matter by the plasma membrane and
+			internalization of the engulfed material inside a cytoplasmic vesicle. Non-specific
+			uptake of molecules occurs by phagocytosis (large particles and
+			macromolecules) and pinocytosis (water soluble
+			small molecules). Cells are also capable of recognizing specific particles and
+			internalizing them in the same way, a process called receptor
+					mediated endocytosis. In this case the particle first
+			binds to a membrane protein receptor on the surface of the cell and the binding which
+			induces the engulfment of the material bound to the membrane. 

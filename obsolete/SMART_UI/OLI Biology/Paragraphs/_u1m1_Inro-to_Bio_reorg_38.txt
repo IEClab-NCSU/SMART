@@ -1,0 +1,6 @@
+Perhaps an example would help clarify the nature of the levels between a cell and
+					an organism. You, as an organism, have a circulatory system (organ system) that
+					transports blood through the body. It is made up of organs such as the heart and
+					blood vessels. Each of the organs, in turn, is made of more specific tissues.
+					Your heart, for example, has muscle tissue for pumping and nerve tissue that
+					helps coordinate each heartbeat.

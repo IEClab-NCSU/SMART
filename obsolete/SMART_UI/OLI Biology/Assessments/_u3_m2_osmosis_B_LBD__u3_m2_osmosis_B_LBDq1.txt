@@ -1,0 +1,3 @@
+Let’s take a look at what would happen if the IV fluid had a two percent solute
+				concentration compared with a one percent internal solute concentration. What is the
+				relationship of the solute concentration of the IV fluid to the cell?

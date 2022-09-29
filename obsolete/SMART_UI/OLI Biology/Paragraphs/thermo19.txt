@@ -1,0 +1,6 @@
+In addition to predicting the direction of the reaction, the absolute value of 
+
+G, |
+G
+|, is the amount of energy released when the concentrations of reactants and
+          products change from their non-equilibrium values to their equilibrium values.

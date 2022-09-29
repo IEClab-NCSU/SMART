@@ -1,0 +1,20 @@
+Because the cell membrane is only semipermeable, the cell needs a
+									way to communicate with other cells and exchange nutrients with
+									the extracellular space. These roles are primarily filled by
+									proteins. Membrane proteins are classified into two major
+									categories, integral proteins and peripheral proteins.  Integral
+									membrane proteins are those proteins that are embedded in the
+									lipid bilayer and are generally characterized by their
+									solubility in non-polar, hydrophobic solvents. Transmembrane
+									proteins are examples of integral proteins with hydrophobic
+									regions that completely span the hydrophobic interior of the
+									membrane. The parts of the protein exposed to the interior and
+									exterior of the cell are hydrophilic. Integral proteins can
+									serve as pores that selectively allow ions or nutrients into the
+									cell. They also transmit signals into and out of the cell.
+									Unlike integral proteins that span the membrane, peripheral
+									proteins reside on only one side of the membrane and are often
+									attached to integral proteins. Some peripheral proteins serve as
+									anchor points for the cytoskeleton or extracellular fibers.
+									Proteins are much larger than lipids and move more slowly. Some
+									move in seemingly directed manner while others drift.

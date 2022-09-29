@@ -1,0 +1,7 @@
+The order of the amino acids in a particular protein is determined by information
+					encoded in the cell's genes and the order of amino acids is referred to as the
+					sequence of the protein. An example of aprotein sequence is shown below where
+					the one letter abbreviations are used for each of the 20 amino acids used in
+					cellular protein synthesis. By convention, the first first amino acid is at the
+					end with the free amino group and the last amino acid is at the end with the
+					carboylic acid group.

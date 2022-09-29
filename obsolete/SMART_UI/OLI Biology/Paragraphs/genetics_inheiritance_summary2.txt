@@ -1,0 +1,3 @@
+Some genetic disorders are caused by errors in the meiotic process leading to a
+                    lack of separation of chromosome pairs, called nondisjunction. These disorders
+                    can be visualized by using karyotypes.

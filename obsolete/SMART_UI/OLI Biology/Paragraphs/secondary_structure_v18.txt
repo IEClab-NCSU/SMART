@@ -1,0 +1,1 @@
+Proline is unusual among the amino acids and is technically referred to as an imino acid. It is a cyclic molecule forming a five member ring that closes the linear hydrocarbon side chain with the -amino group. Because of this there is no rotation about the  bond and therefore, proline terminates helix formation and places further constraints on the folding of the peptide chain.

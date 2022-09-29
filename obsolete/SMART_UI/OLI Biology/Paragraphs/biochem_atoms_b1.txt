@@ -1,0 +1,6 @@
+Protons and neutrons reside in the nucleus (center) of the atom. Electrons are found
+		outside of the nucleus, in zones that are called “shells.” The mass of an atom is called
+		the “atomic mass”. When calculating atomic mass, we pay attention only to the protons
+		and neutrons; the electrons have almost no mass. Each of the heavy particles (neutron,
+		proton) weighs one atomic mass unit, so a Helium atom (two protons, two neutrons, and
+		two electrons) weighs about four atomic mass units.

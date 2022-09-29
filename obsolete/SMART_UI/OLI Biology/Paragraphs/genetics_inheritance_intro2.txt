@@ -1,0 +1,12 @@
+In the previous module you learned about the inheritance patterns (Mendelian and
+            non-Mendelian) that were studied using models such as peas, snapdragons, or even dogs.
+            Another organism that is often used is the fruit fly Drosophila. Common to these
+            organisms is that the-y are relatively easy to breed and cross under controlled
+            conditions. They also have a relatively short lifespan, which allows the tracking of
+            traits for many generations. In the case of humans, genetic analysis is much more
+            complicated. We live under a variety of conditions, so the environmental influences are
+            much stronger. Humans choose their mates freely, families are usually smaller, and our
+            lifespan is the same as the geneticists’. Much information about transmission of human
+            traits comes from the study of pedigrees, a chart of genetic connections similar to a
+            family tree. In this module, we’ll learn how to read pedigrees. We’ll also look at the
+            different patterns and factors that affect human inheritance.

@@ -1,0 +1,5 @@
+Once the appropriate structural requirements for the synthesis of DNA are met, DNA
+          synthesis occurs continuously in a unidirection process from 5’ to 3’ along the template.
+          The following animation demonstrates the building of a complementary strand using the
+          components required by DNA polymerase. This process can take place wherever the initial
+          conditions for operation of DNA polymerase exist.

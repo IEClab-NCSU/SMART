@@ -1,0 +1,10 @@
+Like any polymer, nucleic acids are made up of repeating subunits or monomers.
+					The subunits of nucleic acids are called nucleotides.
+					Each nucleotide contains three building blocks: a phosphate,
+					a sugar, and a nitrogenous base. The
+						nitrogenous base is a type of organic
+						molecule that consists of one or two ring structures. Note that the
+					term “base” is used here to refer to a specific part of the nucleic
+					acid structure; the meaning is very different from the use of the term “base” in
+					the discussion of pH and 	acid-base chemistry. 
+				

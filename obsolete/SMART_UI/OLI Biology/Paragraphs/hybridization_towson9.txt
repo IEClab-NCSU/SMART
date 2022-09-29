@@ -1,0 +1,7 @@
+While the melting temperature does not tell us anything about the proteins that are coded by
+      the DNA, it does tell us something about the tolerance of the organism in which the DNA is
+      found. For example, thermophilic bacteria (those that survive at extremely high temperatures)
+      have DNA with very high Tm values so that their DNA does not melt at their normal
+      environmental temperature. As we will see later, this also has implications for how the same
+      proteins can be made in two different organisms using DNA with vastly different
+      compositions.

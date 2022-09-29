@@ -1,0 +1,6 @@
+The backbone structure of both DNA and RNA shows variability according to the composition
+          of X in the structure given on the previous page. X represents a set of nitrogenous bases.
+          The bases are divided into two fundamental ring structures: purines (2 fused aromatic
+          rings) and pyrimidines (a single aromatic ring). The differences in the bases, which are
+          only found attached to a sugar, give rise to the second major variation in the difference
+          between DNA and RNA.

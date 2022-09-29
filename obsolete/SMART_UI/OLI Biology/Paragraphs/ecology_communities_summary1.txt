@@ -1,0 +1,6 @@
+Community ecology deals with interactions among different species of living
+                    organisms. An ecological community is made up of all of the populations that
+                    live in an area and interact with each other. One statistic used to describe
+                    communities is species richness: the total number of different species that are
+                    present. Often high species richness is an indicator of a healthy community that
+                    is not very heavily altered or disturbed by human activities.

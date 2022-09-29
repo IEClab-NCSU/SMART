@@ -1,0 +1,10 @@
+Why do scientists think that the chemical similarities of cells reflect shared ancestry?
+            As with vertebrate limb structure, the genetic similarities among life forms are more
+            than a passing resemblance. DNA sequences are detailed, complex, and contain a great
+            deal of information. In a court of law, DNA evidence can be used to tie a suspect to a
+            crime scene sample: it is extremely unlikely that two long DNA sequences would show an
+            exact match unless they came from the same source. In evolutionary biology, the same
+            sort of reasoning applies: long chunks of DNA sequences match closely among species and
+            are evidence for shared ancestry. Thus we can now analyze inherited characteristics that
+            have been present for not just millions but billions of years.
+            In these ancient gene sequences we see the deepest roots of the tree of life.

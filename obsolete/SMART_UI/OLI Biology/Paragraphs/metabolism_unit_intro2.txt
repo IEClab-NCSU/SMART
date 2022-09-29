@@ -1,0 +1,17 @@
+Energy and carbon flow through the biosphere in a tightly coupled manner. The coupling
+			between energy and carbon is accomplished within an organism through the process known
+			as metabolism. Metabolism is the sum of all of the metabolic pathways within an
+			organism. A metabolic pathway is a series of chemical conversions, each of which are
+			catalyzed by an enzyme (protein catalyst). The compounds that are internal to the
+			pathway are referred to as intermediates in the pathway. A number
+			of pathways, such as those related to energy production, are essential to life and found
+			in all cells. Although specialized cells may possess different pathways, there are
+			common characteristics that apply to most pathways. These will be covered in the module “ 
+				
+Common characteristics of metabolic pathways
+.” In the modules dedicated to 
+Energy
+ and "
+ATP: The Universal Energy Carrier in Cells
+" you will learn, in more detail, how energy is transformed and
+			transferred during metabolic reactions.

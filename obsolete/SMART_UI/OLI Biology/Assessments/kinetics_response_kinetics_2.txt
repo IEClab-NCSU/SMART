@@ -1,0 +1,2 @@
+
+Over what substrate concentration (region of the curve) would you expect a cell to operate in order to have control over the rate (velocity) of an enzyme in the cell?

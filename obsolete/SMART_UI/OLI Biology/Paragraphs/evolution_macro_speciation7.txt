@@ -1,0 +1,4 @@
+In some cases many closely-related species all live in the same geographic area and there
+            is no known barrier that divides them today or in the recent geologic past. These
+            species likely formed through sympatric speciation, which occurs without help from a physical barrier to dispersal. The diagram below shows a
+            general model for sympatric speciation:

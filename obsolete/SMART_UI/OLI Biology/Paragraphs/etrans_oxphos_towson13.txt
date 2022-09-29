@@ -1,0 +1,5 @@
+where Z is the change on the transported particle, F is Faraday's constant (96,494
+          Coulomb/mol) and 
+
+
+ is the voltage difference across the membrane:

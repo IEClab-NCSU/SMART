@@ -1,0 +1,2 @@
+What was the per capita death rate in NYC in 2009? Round to three decimal places.
+                     deaths per person per year 

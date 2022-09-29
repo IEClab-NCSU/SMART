@@ -1,0 +1,4 @@
+There are two forms of coupling, both may be used to
+      ensure a negative Gibbs free energy, direct and indirect coupling. Direct coupling reduces the
+      standard free energy while indirect coupling reduces the second term of the equation. Both of
+      these methods are described in more detail below.

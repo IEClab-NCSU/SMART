@@ -1,0 +1,3 @@
+The substrate binds to the enzyme by interacting with amino acids in the binding site. The binding site on enzymes is often referred
+            to as the active site because it contains amino acids
+            that both bind the substrate and aid in its conversion to product.

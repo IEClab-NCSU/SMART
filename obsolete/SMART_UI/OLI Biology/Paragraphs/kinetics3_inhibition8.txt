@@ -1,0 +1,5 @@
+The cell can use pH as a mechanism to control enzyme action. Enzymes used in
+					digestion that destroy other proteins could be detrimental to a cell. However,
+					typically these enzymes are only active at low pH such as is found in the
+					stomach or in intracellular compartments such as the lysosome that is maintained
+					at lower pH than the cytoplasm. 

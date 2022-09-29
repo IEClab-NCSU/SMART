@@ -1,0 +1,4 @@
+
+Ribosomal-RNA (rRNA) is a large defined length of RNA that when processed is folded into a tertiary structure that is the scaffolding for the structure of the ribosome. The ribosome is a protein-RNA complex quaternary structure where protein synthesis (translation) takes place.
+Messenger-RNA (mRNA) is a variable length of RNA whose length is dependent on the length of the coding needed to produce a protein by translation. This RNA is the message that carries the information that codes for the synthesis of a protein. It has a relatively short lifetime in the cell.
+Transfer-RNA (tRNA) is a set of short RNA molecules generally 75-80 nucleotides in length. Each tRNA molecule is specific for transporting a specific amino acid to the ribosome during protein synthesis (translation). All of the tRNA molecules have a common, compact tertiary structure.

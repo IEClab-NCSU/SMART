@@ -1,0 +1,8 @@
+The four major classes of biologically-relevant organic molecules are: carbohydrates, proteins, nucleic
+				acids, and lipids. These molecules carry out a diverse
+			set of essential functions. Carbohydrates are essential for energy storage and cellular
+			communication. Nucleic acids (such as DNA) are essential for information storage within
+			a cell and passing on this information to the next generation. Lipids are essential for
+			energy storage and maintaining a boundary between the living organism and its
+			environment. Proteins are essential for carrying out most of the necessary functions of
+			life.

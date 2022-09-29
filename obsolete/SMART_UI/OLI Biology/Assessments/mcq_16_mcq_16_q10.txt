@@ -1,0 +1,3 @@
+
+ Chymotypsin hydrolyses these two substrates: Substratekcat (sec-1) KM (mM) kcat/KM Tyr-Ala8.010800 Phe-Ala4.020200 At low concentrations (<< KM) of both substrates the ratio of Tyr:Phe products will be:
+ 

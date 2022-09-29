@@ -1,0 +1,23 @@
+
+A synthetic gene is chemically synthesized using the known amino acid
+                        sequence of the target protein (HuGH) to determine the required DNA
+                        sequence. In cases where the genetic code is redundant (more than one codon
+                        specifies a single amino acid), those codons preferred by bacteria are
+                        selected when designing the synthetic DNA. 
+The synthetic DNA is inserted into an expression plasmid, using a
+                        combination of restriction endonucleases and DNA ligase. The expression
+                        plasmid contains DNA segments that are responsible for replication of the
+                        plasmid and a gene that confers antibiotic resistance to bacteria. The
+                        expression plasmid also contains the required signals for the initiation,
+                        regulation, and termination of mRNA from the inserted synthetic gene. 
+The expression plasmid is transferred into bacteria. Antibiotic is added to
+                        the culture medium so that only those bacteria containing the plasmid can
+                        grow.
+The bacteria are cultured under conditions that favor rapid growth. The
+                        production of mRNA is initiated by the addition of lactose to the culture.
+                        Useful quantities of the final product - human growth hormone - can now be
+                        extracted from the medium. 
+The process above can be used to produce human insulin or virtually any
+                        other protein in bacteria, simply by changing the DNA sequence of the
+                        synthetic gene. A similar process is used to produce proteins in yeast or
+                        mammalian cells for biomedical applications.

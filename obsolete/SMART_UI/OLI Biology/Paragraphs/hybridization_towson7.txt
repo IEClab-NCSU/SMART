@@ -1,0 +1,5 @@
+Experimentally it is possible to measure this stability by following the melting of DNA with
+      increasing temperature. Below is a graph of the melting of DNA that coincides with an increase
+      in the ultraviolet (UV) absorbance of the DNA at 260 nm. The increase in absorbance is
+      referred to as the hyperchromic effect and is a measure of the breaking of the hydrogen bonds
+      between the bases and the separation of the two strands.

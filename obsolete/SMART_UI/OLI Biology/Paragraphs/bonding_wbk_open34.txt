@@ -1,0 +1,7 @@
+ Each of the bond types represents a measurable amount of energy. To break a
+					bond, the equivalent amount of energy must be expended. In metabolism, bonds are
+					broken in molecules, such as glucose, to "release" the energy. The cell utilizes
+					this energy to drive other energy consuming reactions. The covalent bond has the
+					most energy associated with it, on average approximately 100 kilocalories/mole
+					(kcal/mol). The non-covalent bonds, ionic and hydrogen, and hydrophobic
+					interactions, have approximately 5 kcals/mol associated with each of them. 

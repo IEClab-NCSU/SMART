@@ -1,0 +1,4 @@
+
+The standard free energy change, ∆G0 of reaction is related to the equilibrium
+    constant. How large a change (in kJ/mol) is required for the equilibrium constant to change by a
+    factor of 10? (assume T=300 K). 

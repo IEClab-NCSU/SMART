@@ -1,0 +1,6 @@
+
+				The functional groups that are responsible for these interactions are those found in the
+			side chains of amino acids, the peptide bonds in the protein and the small molecule
+			binding partner. Following some simple rules it is possible to predict how two
+			molecules might interact.  In some cases It is also possible to predict how a cell might alter
+			physiological conditions to regulate that binding.   You will explore that interactions that stabilize bound estrogen to the estrogen receptor in the following activity:

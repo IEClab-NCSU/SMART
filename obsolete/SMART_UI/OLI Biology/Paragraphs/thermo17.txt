@@ -1,0 +1,13 @@
+
+ If 
+
+G less than 0 then the reaction is not at equilibrium and will proceed
+            spontaneously in the forward direction, A to B.
+ If 
+
+G greater than 0 then the reaction is also not at equilibrium, but will proceed
+            spontaneously in the reverse direction, B to A.
+ If 
+
+G=0 the reaction is at equilibrium and the concentrations of reactants and
+            products will not change.

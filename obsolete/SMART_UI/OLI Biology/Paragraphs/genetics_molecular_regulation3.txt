@@ -1,0 +1,4 @@
+Bacteria can use a wide variety of carbon sources as fuel to extract energy for
+                    growth. Two common carbon sources are the sugars glucose and lactose (milk
+                    sugar). Glucose is a monosaccharide containing one six-membered ring, while
+                    lactose is a disaccharide made of glucose linked to galactose.

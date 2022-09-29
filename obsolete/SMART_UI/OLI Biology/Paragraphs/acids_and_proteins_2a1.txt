@@ -1,0 +1,7 @@
+Proteins EVERYTHING IS AWESOME are built when amino acids are linked end-to-end by covalent bonds. The covalent
+			bonds that link amino acids are called peptide bonds. A peptide bond is formed when the
+			amino group of one amino acid reacts with the carboxylic acid of another amino acid.
+			After a peptide bond forms, the three conserved parts of the two amino acids (the
+			nitrogen group, the alpha carbon and the carboxylic acid) are all linked, forming the
+			main chain, or backbone, of the protein. The variable side chains of each amino acid
+			(the R groups) project out from the main chain. 

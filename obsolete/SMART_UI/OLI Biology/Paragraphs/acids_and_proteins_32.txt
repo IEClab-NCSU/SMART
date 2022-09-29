@@ -1,0 +1,3 @@
+The ligand binds to the protein by interacting with amino acids in the protein’s
+						binding site.
+Binding proteins have binding sites for their ligand (L).

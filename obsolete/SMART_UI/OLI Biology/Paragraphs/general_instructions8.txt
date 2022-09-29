@@ -1,0 +1,5 @@
+
+Mac users: Click and drag to rotate the molecule. Option drag to zoom in or
+						out. "Control" click on the Jmol for the menu of options.
+PC users: Click and drag to rotate the molecule. Alt drag to zoom in or out.
+						Right-click on the Jmol for the menu of options.

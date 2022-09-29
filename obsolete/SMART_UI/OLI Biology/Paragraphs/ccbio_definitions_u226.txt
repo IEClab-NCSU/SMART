@@ -1,0 +1,5 @@
+Substances that dissolve in or are attracted to water. Hydrophilic (from
+                        Greek meaning "water-loving") refers to molecules that are water soluble.
+                        Ionic and polar substances are hydrophilic. That is, hydrophilic molecules
+                        contain polar functional groups that can form hydrogen bonds or ionic bonds
+                        with water. 

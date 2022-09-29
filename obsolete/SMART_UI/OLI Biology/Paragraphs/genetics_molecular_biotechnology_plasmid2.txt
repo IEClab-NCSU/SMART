@@ -1,0 +1,3 @@
+An expression plasmid is a closed circular molecule of DNA that has several unique
+            properties associated with its DNA sequences. There are three general types of sequences
+            that are found on expression vectors:

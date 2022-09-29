@@ -1,0 +1,5 @@
+
+Dehydrogenase. As the name suggests, enzymes of this group transfer hydrogen atoms
+      from the substrate to an electron acceptor, such as NAD+ or FAD . Therefore they
+      are redox enzymes since removal of hydrogen atoms is the equivalent to removal of electrons.
+      The name is applied to both oxidation and reduction reactions.

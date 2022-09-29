@@ -1,0 +1,12 @@
+A variable is a characteristic
+            of a subject (in this case, of a person in the study) that can vary over time or among
+            individuals. Sometimes a variable takes the form of a category, such as male or female;
+            often a variable can be measured precisely, such as body height. Ideally, only one
+            variable is different between the control group and the experimental group in a
+            scientific experiment. Otherwise, the researchers will not be able to determine which
+            variable caused any differences seen in the results. For example, imagine that the
+            people in the control group were, on average, much more sexually active than the people
+            in the experimental group. If, at the end of the experiment, the control group had a
+            higher rate of HPV infection, could you confidently determine why? Maybe the
+            experimental subjects were protected by the vaccine, but maybe they were protected by
+            their low level of sexual contact.

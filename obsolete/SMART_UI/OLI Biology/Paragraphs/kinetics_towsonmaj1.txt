@@ -1,0 +1,4 @@
+ Previously, you explored how proteins interact with their ligands, using the example of
+			myoglobin and oxygen. Proteins are not only storage proteins, but can also act as
+			hormone receptors as seen with the estrogen receptor and many serve as enzymes that
+			catalyze processes in the cell.

@@ -1,0 +1,8 @@
+Before a cell can divide, it must first make a copy or replica of
+            its DNA through a process called DNA replication. This process occurs
+            during the S phase of the cell
+                cycle, so by the time the cell enters the mitotic
+                phase, there are two copies of the DNA molecule. This process of
+                DNA replication takes place in the nucleus of the cell in eukaryotes,
+            where the DNA molecule is found. It also occurs in the mitochondria in animal cells and
+                chloroplasts in plant cells.

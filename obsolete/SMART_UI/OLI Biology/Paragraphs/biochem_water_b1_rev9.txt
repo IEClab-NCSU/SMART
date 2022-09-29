@@ -1,0 +1,7 @@
+When a non-polar molecule dissolves in water it becomes completely surrounded by
+					water molecules. The water molecules cannot form hydrogen bond with the
+					non-polar molecule, however they do form hydrogen bonds with the other water
+					molecules that surround the non-polar molecule, forming a layer of hydrogen
+					bonded water molecules that cover, or form a cage, around the dissolved
+					non-polar molecule. A representation of these water molecules organized around
+					dissolved butane is shown in the following Jmol:

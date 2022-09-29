@@ -1,0 +1,3 @@
+Describes organisms that when bred only have offspring with the same
+                                phenotype as the parents; the organism is homozygous at the
+                                genotypes of interest.

@@ -1,0 +1,5 @@
+Solutions which resist changes in pH by acting as either an acid or a base.
+                        Blood is an example of a buffered solution. This means that if a small
+                        amount of acid or base is introduced to the bloodstream, components in your
+                        blood will neutralize the acid or base and the pH of your blood will change
+                        only very slightly.

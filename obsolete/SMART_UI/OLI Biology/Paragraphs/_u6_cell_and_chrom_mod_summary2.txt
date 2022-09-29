@@ -1,0 +1,8 @@
+
+Somatic cells are all the nonreproductive cells. Somatic cells are
+								diploid and reproduce using mitosis. Diploid
+						cells (2N) have two copies of each chromosome.
+Germ cells are immature reproductive cells. Germ cells are diploid
+						and divide using meiosis to produce gametes. Gametes
+						are haploid reproductive cells (sperm and eggs). Haploid cells (1N) have one
+						copy of each chromosome.

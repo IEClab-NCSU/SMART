@@ -1,0 +1,3 @@
+
+ Protein structure determination by NMR relies on (several fancy) techniques to determine a large number of
+ 

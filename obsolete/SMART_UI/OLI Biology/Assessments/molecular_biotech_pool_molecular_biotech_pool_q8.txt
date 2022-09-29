@@ -1,0 +1,8 @@
+
+The DNA sequence of the expression plasmid adjacent to the ribosome binding site
+                    is: 
+---GGATCCATCTGCAGATCT----
+---CCTAGGTAGACGTCTAGA----
+It contains a BamH1 site (G^GATCC) and a BglII site (A^GATCT). In order for the
+                    synthetic gene to be inserted between these two sites, it should be constructed
+                    to have which restriction sites at its beginning and at its end? Select all that apply.

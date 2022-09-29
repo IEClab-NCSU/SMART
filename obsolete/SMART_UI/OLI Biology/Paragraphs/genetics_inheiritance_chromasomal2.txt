@@ -1,0 +1,6 @@
+Karyotypes can be used to identify chromosomal abnormalities in cells or in developing
+            fetuses. Amniocentesis is a medical procedure used to sample fetal cells from a pregnant
+            mother. These cells, which are rapidly dividing, can be used to create a karyotype of
+            the fetus. This karyotype can then help identify potential chromosomal abnormalities in
+            the developing child. Abnormalities could include extra chromosomes, missing
+            chromosomes, and even extra or missing pieces of chromosomes.

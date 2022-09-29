@@ -1,0 +1,6 @@
+Aneuploidy is the condition of having too many or too few chromosomes, which results from
+            errors in meiosis. If crossing-over does not occur correctly, the chromosomes can have
+            extra pieces or missing pieces. If the chromosomes do not separate properly during
+            anaphase, the resulting cells can have extra or missing chromosomes. This improper
+            separation of chromosomes is called nondisjunction. Nondisjunction can occur in
+            either meiosis I or meiosis II. 

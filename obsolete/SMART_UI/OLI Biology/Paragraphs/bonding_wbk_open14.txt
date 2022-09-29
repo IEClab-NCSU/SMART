@@ -1,0 +1,7 @@
+Because the enantiomers have identical functional groups attached to the chiral
+					center they have identical physical and chemical properties - except for the
+					direction they rotate plane polarized light. Experimentally, the enantiomers are
+					distinguished by the direction of rotation of plane polarized light. The
+					enantiomer that rotates light to the right is designated as D (dextro) form of
+					the compound. The other enantiomer will rotate light in the opposite direction,
+					and is designated as the L (levulo) form of the compound.

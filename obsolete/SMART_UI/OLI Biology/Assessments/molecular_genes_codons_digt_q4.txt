@@ -1,0 +1,1 @@
+Given the following mRNA strand, identify the tRNA anticodons that bind: GCAUGCGAUAAC

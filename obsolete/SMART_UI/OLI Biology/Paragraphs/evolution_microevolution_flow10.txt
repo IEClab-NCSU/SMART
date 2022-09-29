@@ -1,0 +1,15 @@
+Genetic drift often reduces the diversity of a gene pool and has the biggest effect when
+			there is a low number of organisms in the population. In two different situations,
+			genetic drift can profoundly affect a gene pool. The first is known as the bottleneck effect. When events like fires, earthquakes,
+			hurricanes, and other disasters kill a large percent of the population, the surviving
+			population is unlikely to have the same gene pool as the original population. It is very
+			likely that some alleles will be underrepresented or overrepresented in the surviving
+			population as compared to the original. An analogy may help. Half the cards in a deck
+			are red (hearts and diamonds) and the other half are black (spades and clubs). But if
+			you draw six cards from the deck at random, will you always get 3 red and 3 black cards?
+			No. You might well draw six black or six red cards. Similarly, consider a grove of 1000
+			oak trees. If a flash flood washes away and kills 900 of the trees, the alleles of these
+			trees have been lost from the population gene pool. Compared to the original group, the
+			100 lucky survivors will have higher percentages of some genetic types, a lower
+			percentage of others, and some alleles might be entirely missing. The flood altered the
+			population’s gene pool in a random way.

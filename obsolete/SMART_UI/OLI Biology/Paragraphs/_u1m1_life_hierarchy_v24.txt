@@ -1,0 +1,11 @@
+When macromolecules are used as building blocks to form a membrane-bound sphere,
+					you have a cell, which is
+					the fundamental unit of life. A cell is essentially a tiny droplet of water and
+					other molecules enclosed by a fluid “skin” or membrane. The cell is the smallest
+					and simplest entity that possesses all the characteristics of life. There are
+					two main types of cells: prokaryotes and eukaryotes. The cells of prokaryotes
+					are relatively small and simple; they do not have any clearly defined
+					compartments inside of them. The cells of eukaryotes, by contrast, include
+					membrane-bound organelles: compartments inside the cell that contain specific
+					groups of macromolecules and carry out specific cellular functions. One of these
+					organelles is the nucleus; it encloses the DNA within the cell.

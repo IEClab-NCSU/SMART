@@ -1,0 +1,9 @@
+Characterization of large numbers of microorganisms, rapid screening for genetic diseases
+          and identification of individuals or species from very small amounts of tissues or cells
+          requires a means to amplify a specific sequence of DNA for further manipulation.
+          Previously this would have required growing large quantities of cells containing the DNA
+          or obtaining large quantities of the tissue. DNA replication is the process of doubling
+          the original amount of DNA. The polymerase chain reaction (PCR) is simply a method by
+          which DNA replication is repeated through many cycles. In the same way that doubling a
+          bacterial cell through 20 cycles will generate a million copies of the bacteria,
+          replication of DNA through 20 cycles will amplify the amount of DNA by a million fold. 

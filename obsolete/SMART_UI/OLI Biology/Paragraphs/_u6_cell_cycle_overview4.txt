@@ -1,0 +1,6 @@
+At the end of the development process, two new cells are produced. These cells
+			represent the next generation of cells in this lineage (just as your parents represent
+			one generation and you represent the next generation). Each of the new cells is called a
+			daughter cell. Do not be confused by the use of the word daughter—it does not mean that
+			these are female cells. Regardless of whether they are male or female cells, the newly
+			produced cells are called daughter cells.

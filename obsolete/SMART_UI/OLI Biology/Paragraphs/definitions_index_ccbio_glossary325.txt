@@ -1,0 +1,2 @@
+Codon in the mRNA that represents the first amino acid to be
+                                incorporated. It is almost always AUG.

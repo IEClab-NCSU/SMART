@@ -1,0 +1,9 @@
+Biology takes place over a huge range of scales in space and time. A complete
+			understanding of biology requires an interdisciplinary approach. In particular, concepts
+			from chemistry and physics are required to explain biological systems at many levels.
+			Each level takes on unique emergent properties that arise from complex interactions at
+			lower levels. Life itself is an emergent property: when atoms and molecules are
+			organized in a particular way, a living (biotic) cell is generated that is capable of
+			growth and reproduction. The properties of tissues and organs emerge from interactions
+			among cells; tissues and organs combine to form an organism; and multiple organisms give
+			rise to populations, communities, and complex ecosystems. 

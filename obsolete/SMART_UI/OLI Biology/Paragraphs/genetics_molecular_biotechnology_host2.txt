@@ -1,0 +1,6 @@
+The cells containing the plasmid would be grown in culture media to a high
+                    density of cells to produce a high yield of huGH. Lactose would be added to the
+                    culture to cause the lac repressor to come off the DNA. This allows RNA
+                    polymerase to begin transcription of the growth hormone gene on the plasmid. The
+                    mRNA would be translated on the bacterial ribosomes, producing human growth
+                    hormone.

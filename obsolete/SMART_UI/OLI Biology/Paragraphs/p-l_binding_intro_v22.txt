@@ -1,0 +1,9 @@
+In this module we will use all of the concepts previously introduced in the section on
+			biological chemistry to study the interaction, or binding, of small molecules to
+			proteins. If the small molecule binds to a protein, but undergoes no further changes,
+			then it is referred to as a ligand. If the molecule binds to the protein, and
+			then is changed by a protein-catalyzed chemical reaction, the small molecule is referred
+			to as a substrate, the resultant altered compound is the product, and
+			the protein becomes an enzyme. Although ligands and substrates are usually
+			small molecules, proteins themselves can be ligands and substrates for other
+			proteins/enzymes.

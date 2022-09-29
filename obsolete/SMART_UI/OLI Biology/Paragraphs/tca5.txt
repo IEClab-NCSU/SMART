@@ -1,0 +1,2 @@
+The remaining steps in the TCA cycle convert citrate back to oxaloacetate. This process
+          produces:

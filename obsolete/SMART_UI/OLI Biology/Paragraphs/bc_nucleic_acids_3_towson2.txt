@@ -1,0 +1,10 @@
+Just as with proteins, a DNA (or RNA) strand has directionality: one end is
+					different than the other. In the case of proteins, an amino group is found on
+					one end and a carboxylate group is found on the other end. Since it is the order
+					of bases that carries out the
+						function of DNA (information storage), we often represent
+					DNA as just a sequence of bases (GAGGCT) and do not bother representing the
+					backbone. By convention, the first letter is the base at the 5’ (five prime) end
+					of the DNA strand. Thus, the sequence GAGGCT is shorthand for 5’-GAGGCT-3’.
+					Determine how this directionally occurs in DNA in the following learn by
+					doing.

@@ -1,0 +1,3 @@
+Refer to the codon table above. Find the start codon and write the amino acid
+                sequence of the protein encoded by this mRNA, using single-letter
+                abbreviations.

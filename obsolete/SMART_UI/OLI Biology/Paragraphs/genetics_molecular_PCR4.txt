@@ -1,0 +1,4 @@
+Step 2: In order for the DNA to be copied, the primers must bind. 98°C is too hot
+                    for the hydrogen bonds between complementary bases to form. Therefore, the
+                    reaction is cooled to ~55°C. This allows the hydrogen bonds between the primer
+                    and the target DNA sequence to form.

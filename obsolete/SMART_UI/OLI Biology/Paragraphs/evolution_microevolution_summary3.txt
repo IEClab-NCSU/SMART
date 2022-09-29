@@ -1,0 +1,12 @@
+Mutation, gene flow, and genetic drift are additional ways in which evolution can
+                    occur. A mutation can add a new allele to a gene pool. Mutations can be useful,
+                    detrimental, or neutral (have no impact on fitness). If the environment changes,
+                    a particular mutation’s effect on fitness can also change. Gene flow occurs when
+                    two gene pools get intermixed due to the migration of individuals from one
+                    population to another. The ease of world travel has led to an increase in gene
+                    flow among human populations in recent years. Genetic drift is a random change
+                    in the frequencies of alleles in a single population’s gene pool. Genetic drift
+                    has a large effect when the population is reduced to a small number (survivors
+                    in the bottleneck effect, founders in the founder effect). The result is a
+                    limited gene pool where some randomly selected alleles will be more or less
+                    prominent than in the original gene pool.

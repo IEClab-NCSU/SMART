@@ -1,0 +1,3 @@
+This is the first stage of mitosis. In prophase, the nucleus is
+                                broken down, the chromosomes (duplicated during the S phase of the
+                                cell cycle) condense, and the mitotic spindles form. 

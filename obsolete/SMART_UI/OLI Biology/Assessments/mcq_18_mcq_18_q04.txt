@@ -1,0 +1,3 @@
+
+ When [S] = 10*KM, the velocity of an enzyme catalyzed reaction is about:
+ 

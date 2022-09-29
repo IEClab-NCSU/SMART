@@ -1,0 +1,12 @@
+Some elements readily take on one or more extra electrons. They become anions
+					that carry a negative charge, because they have more electrons than protons. On
+					the periodic table, elements to the right (with the exception of the last
+					column) are likely to take on extra electrons. For example, chlorine (Cl) has
+					seven electrons in its valence shell. It is likely to take on one extra electron
+					to fill its outer shell, becoming an anion with a charge of -1. The same can be
+					said for other elements in the same column with chlorine. Conversely, elements
+					on the left side of the periodic table tend to give up one or more electrons and
+					become cations with a positive net charge. For example, sodium (Na)
+					has one electron in its valence shell. It readily gives up this electron,
+					becoming a cation with a charge of +1. The same can be said for lithium (Li) and
+					other elements in this column.

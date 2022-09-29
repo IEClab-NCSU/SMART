@@ -1,0 +1,5 @@
+Chemical bonds are attractions between atoms that hold atoms and molecules together. There are
+			three types of chemical bonds that are important in biology: covalent bonds, ionic
+			bonds, and hydrogen bonds. Covalent bonds are very stable, while ionic and hydrogen bonds are less
+			stable. The relatively weaker ionic bonds and hydrogen bonds allow reversible interactions between different molecules in
+			biological systems.

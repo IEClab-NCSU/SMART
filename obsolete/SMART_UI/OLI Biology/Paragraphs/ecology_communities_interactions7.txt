@@ -1,0 +1,13 @@
+Whenever ecologists study species interactions, they try to get clear data answering
+			“what-if” questions. What happens to prey populations if a predator is removed from a
+			community, or if a new predator shows up? Do two species really
+			compete; that is, do they each do better if they are alone than if they are living
+			together in a habitat? Can a species and its mutualist live apart, or are the two
+			species entirely dependent on each other? Sometimes we can learn about these issues
+			simply by observing what happens when introduced species—species
+			brought into an area by human activity—establish themselves in a community. We can also
+			see what happens to the larger community if a particular population is eradicated by
+			human activity. On a smaller scale, ecologists sometimes carry out true experiments. In
+			these studies ecologists deliberately manipulate the presence or abundance of species in
+			enclosures or in natural environments and then track what happens to other species as a
+			result.

@@ -1,0 +1,4 @@
+A swarm of insects blows out to sea in a storm. They arrive at a tiny island and
+            form a new population. After many generations, they have diverged from the source
+            population on the mainland. The result is an island-specific (endemic) species with
+            a close relative on the mainland. This is an example of ____________.

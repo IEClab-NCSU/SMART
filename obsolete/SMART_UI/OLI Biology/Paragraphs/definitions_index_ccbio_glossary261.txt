@@ -1,0 +1,5 @@
+A measure of the concentration of hydrogen ions (H+) in a
+                                solution. Solutions with a pH less than 7 are acidic. Solutions with
+                                a pH of 7 are neutral. Solutions with a pH greater than 7 are basic.
+                                A one-point change in pH is equal to a ten-fold difference in the
+                                concentration of hydrogen ions (H+).

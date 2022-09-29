@@ -1,0 +1,12 @@
+The size, polarity, and charge of a substance will determine whether or not the substance
+			can cross the cell membrane by diffusion. The cholesterol was an example of a lipid, and
+			is highly soluble in the nonpolar environment of the lipid bilayer. You saw, in the
+			animation above, the cholesterol freely passing into the hydrophobic environment of the
+			membrane. Cholesterol distributes freely in the membrane and then some fraction will
+			dissolve in the aqueous environment of the cytoplasm. Water, on the other hand, while
+			polar, is small enough to cross the membrane at a slow rate. Note that specialized
+			transport proteins in certain cell membranes can provide a channel for the water,
+			greatly increasing its rate of crossing the membrane. The lipid bilayer is much less
+			permeable to the ion, because of its charge and larger size. As a general rule, charged
+			molecules are much less permeable to the lipid bilayer.
+		

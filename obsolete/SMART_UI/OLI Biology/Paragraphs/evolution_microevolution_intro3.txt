@@ -1,0 +1,6 @@
+In this course we will define a species as a group of organisms
+			whose members can and will breed with each other to produce fertile offspring. A population is all the individuals of the same species that occupy
+			the same area and are likely to breed with one another. Some examples of a population
+			might be all the people that live in your state, all of the frogs that live near a pond,
+			all of the grizzly bears that live in Denali National Park, or all the dandelions that
+			live in your hometown.

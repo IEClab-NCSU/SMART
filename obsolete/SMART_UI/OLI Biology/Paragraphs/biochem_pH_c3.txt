@@ -1,0 +1,2 @@
+Blue litmus paper turns red in the presence of an acid (it does not change color
+					in the presence of a base).

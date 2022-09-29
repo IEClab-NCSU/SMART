@@ -1,0 +1,7 @@
+
+Carbon-containing molecules used as cellular fuel are broken down and converted to
+              carbon dioxide (CO2).
+Electrons and hydrogen ions (H+) are produced as sugar is broken down and energy is
+              harvested; oxygen (O2) combines with these byproducts to produce water (H2O).
+The energy released when carbon-containing molecules are broken down is captured and
+              used to generate ATP molecules; some energy is also lost as heat.

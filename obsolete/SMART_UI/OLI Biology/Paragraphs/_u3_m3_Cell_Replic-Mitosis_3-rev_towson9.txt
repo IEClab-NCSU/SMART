@@ -1,0 +1,4 @@
+The kinetochore microtubules are used to orient the chromosomes in the center of
+					the cell. Each chromosome will be attached to two kinetochore microtubules. Each
+					of these kinetochore microtubules will be attached to one of the two
+					centrioles.

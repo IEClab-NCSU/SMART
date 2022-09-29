@@ -1,0 +1,3 @@
+The following is a Codon Table from a hypothetical organism that lacks the DNA
+                base G and uses only two bases for its codons. Which of the following DNA sequences
+                would represent a synthetic gene for the protein Met-His-Pro-Tyr? 

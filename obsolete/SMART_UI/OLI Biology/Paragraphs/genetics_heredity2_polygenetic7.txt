@@ -1,0 +1,8 @@
+Many single genes can have numerous different effects, rather than just
+                            two. This capability is called pleiotropy. In the 1930s, for
+                            instance, researchers found a gene in chickens that leads most obviously
+                            to feathers that curl out, but that also (and less visibly) leads to
+                            increased metabolism, blood flow, body temperature, and digestive
+                            capacity, as well as fewer eggs laid. This pleiotropic gene is called
+                            the “frizzle” gene because of its effect on the appearance of the
+                            chickens.

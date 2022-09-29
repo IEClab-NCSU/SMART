@@ -1,0 +1,6 @@
+Carbohydrates, proteins and nucleic acids are all examples of polymers. These polymers are very large molecules composed
+			of smaller units joined by covalent bonds using a common set of chemical reactions. Proteins are linear polymers of amino acids
+			all joined by peptide bonds. Polysaccharides are the carbohydrates joined through
+			glycosidic bonds in sometimes quite complex branched structures. Later in the course you will encounter DNA and RNA which are polymers of nucleic
+			acids linked by phosphodiester bonds. This unit includes a discussion of the structures of polymers of carbohydrates and of amino acids.
+		

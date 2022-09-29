@@ -1,0 +1,11 @@
+ Cells operate within the laws of chemistry and physics, and utilize only
+					chemical reactions that occur naturally.
+					Many of
+					these reactions are extremely slow, requiring years to eons to complete.
+					For example, your favorite book contains paper made of cellulose
+					from trees. This paper will take decades to degrade in the environment and
+					mammalian systems lack the enzyme that is specific to degrade cellulose,
+					however, a bacteria found in the stomach of cows and other ruminants have the
+					ability to digest cellulose and provide glucose to the cow. For a cow to survive
+					it cannot wait decades to digest a meal of hay. To meet the speed of life,
+					chemical reactions in cells are sped up by enzyme catalysts. 

@@ -1,0 +1,2 @@
+The first step of the TCA cycle utilizes the high-energy thioester in acetyl-CoA
+          to drive the addition of an acetate group to oxaloacetic acid to produce citrate.

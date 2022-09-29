@@ -1,0 +1,12 @@
+In general endocytosis, a molecule or particle encounters the cell surface and randomly
+			causes the membrane to create first a pit in the membrane, followed by a further
+			invagination of the plasma membrane and finally the pinching off of the plasma membrane
+			around the molecule or particle resulting in the formation of a vesicle in the cytoplasm
+			of the cell. Note that during the process the asymmetry of the membrane would be
+			apparent by the fact that the inside surface of the newly formed vesicle is the same as
+			the exterior of the cell. Thus the integrity of the cytoplasm and its exposure to only
+			the inside surface of the membrane is preserved. Exocytosis is just the reverse
+			of this process with the fusion of an internal vesicle with the plasma membrane thus
+			releasing its content to the outside. The balance of exocytosis and endocytosis
+			preserves the size of the plasma membrane and ensure neither growth nor shrinking of the
+			cell size.

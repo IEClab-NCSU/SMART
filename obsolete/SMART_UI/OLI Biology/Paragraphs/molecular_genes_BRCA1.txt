@@ -1,0 +1,5 @@
+In this module you learned about the role of DNA as the molecule that stores genetic
+			information. Any damage to the DNA molecule can have serious consequences for the cell.
+			There are many different cellular mechanisms to repair DNA damage or to stop a cell with
+			errors in its DNA from dividing. The BRCA genes code for proteins involved in
+			detecting and repairing double strand breaks in the DNA molecule.

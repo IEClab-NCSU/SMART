@@ -1,0 +1,9 @@
+Identify each organ from the above image.
+#1 points to the 
+#2 points to the 
+#3 points to the 
+#4 points to the 
+#5 points to the 
+#6 points to the 
+#7 points to the 
+

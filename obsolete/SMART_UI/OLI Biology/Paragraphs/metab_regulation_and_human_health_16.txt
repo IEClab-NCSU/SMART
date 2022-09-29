@@ -1,0 +1,8 @@
+Substances that inhibit enzymes in a central pathway can have deadly effects for
+					the cell or organism. For instance, the potent poisons cyanide and arsenic are
+					inhibitors of cellular respiration. Lack of regulation, or dysregulation, of
+					metabolic pathways can lead to serious diseases. Examples include
+					phenylketonuria (PKU), Tay-Sachs disease, galactosemia, and maple syrup urine
+					disease. Each of these is an inherited condition in which an altered gene
+					produces an enzyme that does not function normally. As a result, metabolism is
+					disrupted and health problems occur.

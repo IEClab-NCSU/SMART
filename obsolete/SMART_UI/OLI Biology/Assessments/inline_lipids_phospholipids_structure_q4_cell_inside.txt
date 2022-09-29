@@ -1,0 +1,5 @@
+
+Phospholipids Aqueous Solution Structures
+
+This sphere represents the membrane orientation in a cell. What can we conclude
+				about the inside of the cell?

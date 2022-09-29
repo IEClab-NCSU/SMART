@@ -1,0 +1,5 @@
+An effect; a variable that is thought to change as a result or consequence of
+                        some other variable. In an experiment, a dependent variable is used to
+                        describe the result, or outcome. For example, in a study to test a drug, the
+                        dependent variable might be the proportion of subjects that are cured at the
+                        end of the study.

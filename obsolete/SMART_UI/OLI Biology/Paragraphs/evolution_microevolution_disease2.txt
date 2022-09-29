@@ -1,0 +1,5 @@
+In our first example of microevolution and infectious disease, we will explore the Human
+			Immunodeficiency Virus (HIV), which causes Acquired Immune Deficiency Syndrome (AIDS).
+			In AIDS, HIV disables the human immune system by depleting CD4 T-cells. The HIV virus
+			prefers to infect these cells. HIV is an interesting virus in that it uses RNA to encode
+			its genetic material instead of DNA like most viruses.
