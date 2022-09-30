@@ -125,13 +125,5 @@ The [SMART-DataShop Extension](./SMART-CORE/README.md###SMART%20-%20DataShop%20E
 - summa (Keyword Extraction using TextRank)
 - Networkx (Building graph for TextRank)
 
-## Link to related documentations
-- [2022 SMART Keyphrase Extraction Documentation](https://drive.google.com/drive/u/1/folders/1ObRh6yqtMQmtJFDQdizrU-wcLkUMW1TG)
-- [JEDM 2022 SMART Documentation](https://drive.google.com/drive/u/1/folders/1OriTXMBe4QPuMBqPDdjP10Nrh5wTSQ7W)
-- [EDM 2020 SMART lessons learned](https://docs.google.com/document/d/1IUpGPZbAiocsBZWCqFNA9-3i_0H52WkIMIzrth4sGnY/edit#heading=h.qfn6lv678icv)
-- [Previous Major findings](https://docs.google.com/document/u/1/d/100j3Bzm2bLN1wZcH0mQ-1LT6WQNSeP47STRgBv7RAsI/edit)
-- [Jesse's journal](https://docs.google.com/document/d/1JSLpY9juMb0sb-3Z7HRC_dv-JB23QLhvkGr6tRYaZxg/edit)
-- [Raj's journal](https://docs.google.com/document/d/16HecXJUMYFKKqOrLphu41du-ODilw02TXjRT0_6dq_s/edit#)
-
 ## Acknowledgments
-We are really thankful to Dr. Norman Bier, Director of the Open Learning Initiative (OLI) at Carnegie Mellon University (CMU) for providing us with the database of this course. We are also thankful to him for sharing their Analysis data from DataShop. 
+This project has been supported by National Science Foundation Grant No. 2016966 and 1623702.  We are really thankful to Dr. Norman Bier, Director of the Open Learning Initiative (OLI) at Carnegie Mellon University (CMU) for providing us with the database of this course. We are also thankful to him for sharing their Analysis data from DataShop. 
