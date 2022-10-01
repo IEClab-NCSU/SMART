@@ -1,5 +1,0 @@
-The following animation depicts the complete process of DNA replication. In the animation
-          you should be able to identify each of the stages of synthesis on each of the strands. At
-          the end of the synthesis you will see that the leading strand has a continuous double
-          helix generated while the lagging strand has a discontinuous set of Okazaki fragments that
-          must be connected before the synthesis is complete. 

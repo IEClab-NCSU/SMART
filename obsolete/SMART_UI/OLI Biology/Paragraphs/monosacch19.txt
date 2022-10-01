@@ -1,1 +1,0 @@
-The central image shows how the two furanose forms of ribose are generated from the linear form.  You can manipulate either form in the Jmol window.

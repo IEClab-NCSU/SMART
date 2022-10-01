@@ -1,6 +1,0 @@
-Phenylketonuria (PKU) is a metabolic disease associated with defects in
-				the gene of an enzyme that converts the amino acid phenylalanine to tyrosine. In
-				homozygous recessive individuals, phenylalanine can accumulate to toxic levels over
-				time, causing a variety of effects, from reduced skin and hair pigmentation to
-				mental retardation. This disorder follows one of the non-Mendelian patterns reviewed
-				in this module. Which pattern do you think it is?

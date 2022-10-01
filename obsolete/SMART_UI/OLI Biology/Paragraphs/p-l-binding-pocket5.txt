@@ -1,6 +1,0 @@
- In general the affinity of the ligand will increase proportionately as the number of
-			specific interactions between the ligand and the protein increase. In the example of the
-			binding pocket of the estrogen receptor there are several hydrogen bond contacts and a
-			hydrophobic pocket for the mostly hydrophobic estrogen. Other protein ligand binding
-			interactions are based on fewer contacts, as in the case of oxygen binding to myoglobin
-			and thus the affinity is lower. 

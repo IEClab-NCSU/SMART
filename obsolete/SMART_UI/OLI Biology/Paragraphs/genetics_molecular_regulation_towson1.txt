@@ -1,6 +1,0 @@
-In this spotlight, we will explore in more detail changes in gene
-                expression (transcription) due to changes in the environment. Eukaryotes have
-            complex regulatory mechanisms; consequently, we will focus on gene regulation in
-            prokaryotes. However, common principles of regulation are used by both prokaryotic and
-            eukaryotic organisms, and an understanding of regulation in prokaryotes will help you
-            understand eukaryotic regulation in future studies.

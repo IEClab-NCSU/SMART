@@ -1,3 +1,0 @@
-
- To make a 1M buffer that has a pH that is one pH unit below the pKa of the acid, you would:
- 

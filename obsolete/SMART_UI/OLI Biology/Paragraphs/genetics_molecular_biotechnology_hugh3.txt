@@ -1,9 +1,0 @@
-The synthetic gene provides the information that specifies the order of the amino acids
-            in HuGH. The expression plasmid is a large closed circular piece of DNA. Various DNA
-            sequences on the expression plasmid are required for maintenance of the plasmid in the
-            cells. These sequences are present on all plasmids, regardless of the type of protein
-            that is being made. The plasmid also contains DNA sequences (promoter for RNA
-            polymerase, lac operator) that are required for the production of the mRNA that encodes
-            HuGH. The bacterial cell provides the protein synthesizing machinery so that the mRNA
-            can be translated to a protein. In order for the protein to be correctly made the mRNA
-            must contain a ribosome binding site, a start codon, and a stop codon.

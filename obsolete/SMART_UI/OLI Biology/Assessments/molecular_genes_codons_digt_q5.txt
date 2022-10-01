@@ -1,1 +1,0 @@
-Given the following mRNA strand, identify the amino acid sequence: GCAUGCGAUAAC

@@ -1,8 +1,0 @@
-Scientists have learned to use isotopes in many different ways. For example, stable isotopes can be used to
-			trace chemical reactions through a food web. For example, if a stable isotope is used in
-			fertilizer, that same isotope will later show up in the tissues of plants, then in
-			animals, and finally in decomposers as the nutrient moves through the food web. Other
-			isotopes are unstable and they tend to decay (or break down into other isotopes) at a
-			constant rate. Scientists have learned how to use unstable isotopes to determine the age
-			of fossils or artifacts. Finally, some isotopes are radioactive. Radioactive isotopes
-			emit energy in the form of radiation when they decay into different isotopes. 

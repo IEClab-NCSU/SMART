@@ -1,7 +1,0 @@
-For storage, glucose is added to the free 4-hydroxyl groups of the glycogen molecule,
-      elongating the linear chains. Since the release of glucose by phosphorolysis is spontaneous,
-      the direct addition of glucose to glycogen must be energetically unfavorable. Consequently,
-      the synthetic reaction requires coupling to an energy releasing reaction to become
-      spontaneous. The addition of glucose to glycogen proceeds in two steps. First,
-      glucose-1-phosphate reacts with UTP to produces a high energy intermediate, UDP-glucose, which
-      in turn is used by the enzyme glycogen synthase to add glucose to glycogen.

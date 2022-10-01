@@ -1,7 +1,0 @@
- In the same way that the larger aldoses were generated, single carbons can be added to
-			the structure of the dihydroxyacetone and an expansive tree of structures
-			result. If we examine the result of adding a single carbon, the result is the acquisition
-			of an new asymmetric center.  In the case of a four carbon ketose, which is formed by the addition of  
-			a C(H2O) group below the ketone group in dihydroxyacetone phosphate, the new chiral center 
-						can be either  D or  L. In general, only the D structures of the ketoses are used by biological
-			systems due to bioselectivity.

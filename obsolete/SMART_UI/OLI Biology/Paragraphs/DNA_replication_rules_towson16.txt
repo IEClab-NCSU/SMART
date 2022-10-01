@@ -1,6 +1,0 @@
-Two tools that have become integral parts of the study of modern biology were developed
-          through the simple understanding of how the DNA replication process works. At the
-          beginning of this unit three structural requirements for the substrate of DNA polymerase
-          were described. Satisfying those requirements is the basis for the polymerase chain
-            reaction (PCR), used to amplify segments of DNA, and the Sanger DNA
-          sequencing method used in sequencing the human genome as well as others. 

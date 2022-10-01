@@ -1,4 +1,0 @@
-The gene is the basic unit of inheritance. It is a segment of DNA
-                                with instructions for protein synthesis. Genes are located on DNA
-                                stands, and each gene is composed of a specific nucleotide sequence
-                                that codes for the amino acid sequence of a protein. 

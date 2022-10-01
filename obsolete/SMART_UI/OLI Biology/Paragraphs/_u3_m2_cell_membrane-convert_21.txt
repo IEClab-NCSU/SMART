@@ -1,9 +1,0 @@
-Both large and small molecules follow the same general principle of diffusion. Molecules
-			spontaneously move from areas of high concentration to areas of low concentration
-			following Brownian motion, or random movements. The classic example is the diffusion of
-			a drop of ink placed in a beaker of water. The concentrated drop of color slowly
-			disperses (diffuses) until at some point equilibrium is reached in which the beaker
-			appears to have a uniform color. The following animation depicts this simple diffusion
-			process. Add ink to the beaker and watch the diffusion process. After a period of time,
-			how has the distribution of the ink changed in the beaker? Follow the yellow ink for
-			some time. Does its behavior change as time passes? 

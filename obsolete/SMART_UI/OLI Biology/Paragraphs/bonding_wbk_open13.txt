@@ -1,9 +1,0 @@
- An important aspect of carbon bonding is the fact that
-					carbon can covalently bond to four groups and that the bonding geometry of the
-					carbon atom is tetrahedral. Therefore, if the four groups attached to the carbon
-					are different, then two unique arrangements of the groups around the carbon atom
-					are possible and this carbon is said to be an asymmetric center or a
-						chiral center. The two arrangements of groups about the carbon are
-					mirror images of each other and these two structures are referred to as
-						enantiomers. It is impossible to superimpose these two mirror
-					images, consequently they are distinct molecules.

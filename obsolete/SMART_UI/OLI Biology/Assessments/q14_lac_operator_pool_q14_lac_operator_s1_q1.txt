@@ -1,2 +1,0 @@
-The diagram below represents a hypothetical operon in the bacterium E. coli. The operon consists of two structural genes (A and B) that code for the enzymes A-ase and B-ase, respectively, and also includes P (promoter) and O (operator) regions as shown.  P - O - A - B  When a certain compound (X) is added to the growth medium of E. coli, the separate enzymes A-ase and B-ase are both synthesized at a 50-fold higher rate than in the absence of X (which has a molecular weight of about 200). Which one of the following statements is true of such an operon?
-            

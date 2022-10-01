@@ -1,8 +1,0 @@
-In sexual reproduction, two reproductive cells called gametes
-					fuse in the process of fertilization. In order to
-					avoid the duplication of the chromosome number, gametes are formed through a
-					special form of cell division, meiosis, which halves the
-					number of chromosomes. Cells with a single set of chromosomes are haploid (n), in contrast to the somatic (body) cells,
-					which are diploid(2n) . The fusion of the gametes during
-					fertilization restores the diploid chromosome number in the first cell of the
-					new individual, the zygote.

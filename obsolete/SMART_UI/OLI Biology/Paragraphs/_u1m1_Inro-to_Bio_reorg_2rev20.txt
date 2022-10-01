@@ -1,5 +1,0 @@
-Physical traits an organism displays are ultimately determined by the DNA
-							found within the organism’s cells. In this unit, we will connect
-							heredity to DNA, the genetic material of the cell. We will specifically
-							explore DNA function and figure out how DNA determines the heritable
-							traits that individual organisms can pass to their offspring.

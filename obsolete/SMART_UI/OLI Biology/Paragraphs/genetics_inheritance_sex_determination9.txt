@@ -1,7 +1,0 @@
-In a famous subsequent experiment, Morgan crossed white-eyed females with white-eyed
-            males, obtaining only white-eyed offspring. This cross confirmed that the eye color
-            trait was linked to the female sex chromosome. Because of this, the
-            males are what is called hemizygous for this trait: they have only one allele
-            present, which is in the X chromosome. The Y chromosome does not have the same genes as
-            the X chromosome. Males have no heterozygous option: they either have
-            the dominant allele (red-eyed) or the recessive allele (white-eyed).

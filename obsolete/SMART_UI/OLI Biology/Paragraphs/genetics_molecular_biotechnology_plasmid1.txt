@@ -1,5 +1,0 @@
-After you have generated your synthetic gene, you must insert the gene into an expression
-            plasmid so it can be placed inside a living bacterial cell and translated into the HuGH
-            protein. We will look at that step in detail on the next page. For now, let’s assume
-            that has been accomplished. Here we want to focus on the properties of the expression
-            plasmid.

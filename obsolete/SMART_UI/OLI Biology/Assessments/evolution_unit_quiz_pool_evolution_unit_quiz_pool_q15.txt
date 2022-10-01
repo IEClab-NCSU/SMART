@@ -1,3 +1,0 @@
-A population of Staphylococcus aureus bacteria infects an individual human being.
-            The allele frequencies in the population change over several weeks as the person is
-            treated with a powerful antibiotic. This is a good example of…

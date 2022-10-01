@@ -1,3 +1,0 @@
-The gene pool is all of the genes and alleles present in a
-			population at some point in time. Just as the genotype is the genetic composition of an
-			individual, the gene pool is the genetic composition of a population.

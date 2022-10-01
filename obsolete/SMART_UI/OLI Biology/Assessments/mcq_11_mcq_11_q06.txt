@@ -1,3 +1,0 @@
-
- The concentration of ligand required for half-maximal saturation (Y=0.5) is:
- 

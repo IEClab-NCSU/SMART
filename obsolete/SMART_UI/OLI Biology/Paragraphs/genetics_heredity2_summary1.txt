@@ -1,4 +1,0 @@
-The relationship between alleles is not always as simple as dominant/recessive.
-                    Sometimes the resulting phenotype is an intermediate of the dominant and the
-                    recessive phenotypes (as in incomplete dominance). Other times, two dominant
-                    alleles are expressed concurrently (as in codominance).

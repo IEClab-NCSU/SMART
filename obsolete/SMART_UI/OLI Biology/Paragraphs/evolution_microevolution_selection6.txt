@@ -1,9 +1,0 @@
-The length of the tail on the white-footed mouse is related to the habitat in
-						which the mice live. Longer tails provide a support and counterbalance for
-						climbing (as seen in monkeys). In populations of mice that live in forests
-						the average length of the tail is longer; in populations that live in
-						meadows, the average tail length is shorter. While a long tail may be useful
-						when the mice are climbing trees, a long tail on the ground may make it
-						easier for predators to catch the mice. Tail length is heritable in the
-						mice; on average, offspring have tails that are similar in length to those
-						of their parents.

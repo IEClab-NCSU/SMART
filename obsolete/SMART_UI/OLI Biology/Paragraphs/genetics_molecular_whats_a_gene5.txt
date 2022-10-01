@@ -1,9 +1,0 @@
-What is the difference between allele and mutation? Any change in
-            the DNA of an organism is called a mutation. Mutations can be
-            advantageous, harmful, or neutral (in which case they have no effect on the phenotype).
-            Mutations include large deletions and rearrangements in the DNA, but they can also be
-            changes in a single base. Mutation is a more general term than
-                allele because mutation does not necessarily involve a
-            specific gene, but can include deletion or rearrangement of multiple genes. Multiple
-            alleles of a gene arise by mutation, and they will be passed on to the offspring and
-            will persist in the population.

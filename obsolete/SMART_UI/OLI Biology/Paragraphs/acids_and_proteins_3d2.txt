@@ -1,9 +1,0 @@
-First, the enzyme binds to the substrate and slightly distorts its shape. The change in
-			shape activates the substrate molecule and decreases the total activation energy
-			required for the substrate to be turned into product. As the number of activated
-			substrate molecules increases, so does the conversion of substrate to product. An
-			analogy for this effect is a ski hill, with skiers at the bottom of one side of the hill
-			representing substrates, skiers on the top of the hill representing activated
-			substrates, and the products being the number of skiers that ski down the other side. If
-			the height of the hill is lowered (due to the presence of the enzyme), then more skiers
-			can make it to the top, increasing the number that ski down to become products.

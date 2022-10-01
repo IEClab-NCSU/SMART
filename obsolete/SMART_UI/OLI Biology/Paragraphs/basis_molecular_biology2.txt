@@ -1,6 +1,0 @@
-The structure of DNA (shown on the left below) is the molecule upon which the Central Dogma
-      of modern molecular biology is based. It contains the information necessary to code for the
-      RNA and proteins used by a cell or virus to replicate and produce the next generation. While a
-      virus does not satisfy one of the major tenets of the Cell Theory that the entity is able to
-      self-replicate, it still uses information from either its own DNA (RNA) or its host DNA to
-      replicate itself.

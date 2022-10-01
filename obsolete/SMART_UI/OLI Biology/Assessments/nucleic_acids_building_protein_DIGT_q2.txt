@@ -1,6 +1,0 @@
-Use the following information about mRNA codons and amino acids to
-			determine what amino acid will be coded for by the mRNA codon CCU.
-AAG = lys
-ACU = thr
-CCU = pro
-GAG = glu

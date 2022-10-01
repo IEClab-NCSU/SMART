@@ -1,6 +1,0 @@
-
-These are short DNA sequences that are recognized by restriction endonucleases, in
-                the case of this plasmid they are the EcoR1 and BamH1 sites. Restriction
-                endonucleases cut the DNA at these sequences, allowing the insertion of the
-                synthetic gene between the sites. The actual mechanism is discussed in the next
-                section.

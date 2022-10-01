@@ -1,7 +1,0 @@
-All of the bases have the common structural characteristic that they are planar
-            structures due to the aromatic (alternating double bonds in the rings) structure of
-          the molecules. This feature parallels that previously seen with the phenyl group [Refer to
-          the Functional Groups simulation in the Glossary to review the structure of the phenyl
-          group]. This aromatic character also gives rise to the ability of the bases to absorb
-          ultraviolet light at 260 nm. This latter feature provides a distinctive means for
-          identifying the presence of DNA and RNA molecules.

@@ -1,7 +1,0 @@
-The science of ecology starts at the population level. Populations are groups of
-                    organisms of the same species that live in a defined area. We can describe
-                    populations in terms of their number (population size, N) and their density
-                    (number per unit area or volume). Populations increase through the processes of
-                    birth and immigration; they decrease through death and emigration. When
-                    comparing processes like birth or death among populations, it is often useful to
-                    calculate per capita rates (number of events per individual per unit time).

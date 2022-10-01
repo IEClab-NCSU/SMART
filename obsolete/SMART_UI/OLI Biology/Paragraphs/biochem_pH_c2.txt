@@ -1,2 +1,0 @@
-Red litmus paper turns blue in the presence of a base (it does not chance color
-					in the presence of an acid).

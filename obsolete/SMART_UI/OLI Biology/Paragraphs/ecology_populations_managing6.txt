@@ -1,7 +1,0 @@
-As you have just seen, the logistic model indicates that a harvestable population should
-			be maintained at a moderate size of about half its carrying capacity. At this point
-			there is a large increment of growth each year and these individuals can be harvested.
-			This is the general framework used by fisheries managers as they seek to maintain and
-			improve the productivity of fish populations. They often set regulations and allowable
-			harvest limits to try to keep populations close to the “sweet spot” at about 50% of
-			carrying capacity.

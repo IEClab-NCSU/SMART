@@ -1,7 +1,0 @@
-Product formation ceases beyond the critical point due to two effects of
-					temperature. One effect is to decrease the non-covalent interactions between
-					enzyme and substrate. Remember that ionic and hydrogen bonds are weak
-					non-covalent bonds representing 5 Kcal/mole each.only 5 kcal/mol in strength.
-					When the temperature increase matches the energy of the bond, the energy cn be
-					used to break the bond. Thus if the enzyme cannot bind the substrate, no product
-					is formed.

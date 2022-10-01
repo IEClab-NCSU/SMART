@@ -1,8 +1,0 @@
-A specialized structure within a cell formed when a specific set of
-                                molecules bond, creating a subunit that has a specific function.
-                                Most, but not all, organelles are enclosed by a membrane. In
-                                eukaryotes, organelles are membrane-bound compartments that contain
-                                specific groups of macromolecules that carry out specific cellular
-                                functions. Although, prokaryotes are less complex than eukaryotes,
-                                they contain subunits (non-membrane bound structures) that perform
-                                specific functions, such as the flagellum and the ribosome.

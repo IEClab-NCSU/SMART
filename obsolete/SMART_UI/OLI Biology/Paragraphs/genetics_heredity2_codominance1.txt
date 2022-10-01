@@ -1,9 +1,0 @@
-So far, You've only learned about genes with two alleles — that is, two options
-                    for a gene coming from either parent — present in a chromosome pair. However,
-                    more than two alleles may be present in a population, resulting in what is
-                    referred to as a multiple-allele system. Human A, B, and O blood groups exist
-                    due to three possible alleles of the ABO gene, which codes for a protein that
-                    modifies carbohydrates present on red blood cells (Components of the
-                        Membrane). The A and B alleles code for two versions of the
-                    protein, while the O allele is mutated and does not code for a functional
-                    protein. 

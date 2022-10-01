@@ -1,5 +1,0 @@
-The nature of polar molecules is that they contain electronegative atoms,
-					consequently they are capable of hydrogen bonding with aqueous or polar
-					solvents. Because polar molecules are generally water soluble, they are referred
-					to as being hydrophilic, or water-loving. The one-carbon alcohol,
-					methanol, is an example of a polar molecule. 

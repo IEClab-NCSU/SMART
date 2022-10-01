@@ -1,4 +1,0 @@
- A large and complex molecule formed from combining smaller subunits, and
-                        consisting of many atoms. There are four main types of macromolecules that
-                        you will be learning about in this course: carbohydrates, nucleic acids,
-                        lipids, and proteins.

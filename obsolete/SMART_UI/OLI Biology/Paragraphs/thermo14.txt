@@ -1,2 +1,0 @@
-The formula for change in the Gibbs free energy in the reaction for the reaction
-          direction [A] to [B] is: 

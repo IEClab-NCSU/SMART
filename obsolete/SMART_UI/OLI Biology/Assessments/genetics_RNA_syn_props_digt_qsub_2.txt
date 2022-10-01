@@ -1,4 +1,0 @@
-In eukaryotes, scientists often use a long strand of U nucleotides (poly U) bound
-                to a surface to purify mRNA from all other nucleic acids in the cell. Why does this
-                work? Put another way, what is the property of mRNA in eukaryotes that other nucleic
-                acids lack?

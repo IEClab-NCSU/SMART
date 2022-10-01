@@ -1,6 +1,0 @@
-Science is based on empirical evidence. The word empirical refers to both qualitative and quantitative
-                    data that can be gathered through observation using the senses. In addition, technological tools such 
-                    as microscopes, telescopes and computers can be used to enhance scientists’ ability to make observations.
-                    An inference is a logical interpretation of a scientist’s observations.While some scientific concepts 
-                    may be theoretical in that they are derived primarily from logic and reasoning, ultimately all scientific
-                    ideas must conform to known observational or experimental data in order to be considered valid.

@@ -1,3 +1,0 @@
-
-This Jmol model is of the amino acid Threonine. This amino acid contains four carbons, labeled A, B, C, G. Which of the following carbons are chiral?
-

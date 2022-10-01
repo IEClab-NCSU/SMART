@@ -1,6 +1,0 @@
-
-The ability of CRP to bind to its site on the DNA depends on the glucose
-                    concentration. When glucose is present at high levels, CRP doesn’t bind to its
-                    site on the DNA. Which of the following diagrams represents the state of the lac
-                    operon when glucose is low and lactose is high?
-

@@ -1,5 +1,0 @@
-Let's assume that there are 125 pea plants in your garden. Seed color in peas is
-				determined by a pair of alleles: a dominant allele determining yellow seed color
-				(which we will designate as Y) and a recessive allele determining green seed color
-				(which we will designate as y). The features of your particular population can be
-				summarized in the table below:

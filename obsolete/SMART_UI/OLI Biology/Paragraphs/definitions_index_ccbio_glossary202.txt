@@ -1,7 +1,0 @@
-Organic marcromolecules that are largely nonpolar (electrons are
-                                evenly distributed amongst atoms in a molecule) and as a result are
-                                hydrophobic (“water-fearing”). Lipids perform many functions in the
-                                cell including: storage of energy for long-term use in the form of
-                                fats, insulation from the environment, and building blocks for
-                                hormones. Lipids include fats, oils, waxes, phospholipids, and
-                                steroids.

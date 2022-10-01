@@ -1,8 +1,0 @@
-You have probably seen Siamese cats--those graceful creatures with darker fur on their
-            faces, tails, and paws. This is an example of a phenotype dependent on the interaction
-            between genes and environment. Modern Siamese cats have a defective tyrosinase enzyme;
-            tyrosinase is involved in the synthesis of melanin, the dark pigment of the skin. This
-            defective enzyme is inactive at normal body temperatures, but it becomes active in
-            cooler areas of the skin. This results in dark coloration in the coolest parts of the
-            body, including the extremities and the face, which is cooled by the passage of air
-            through the sinuses.

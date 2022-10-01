@@ -1,7 +1,0 @@
-Mutations in genes are random and have the potential to change the gene pool of a
-			population. When parents produce sperm or eggs, errors (mutations) can occur so that the
-			gametes carry new versions (alleles) of existing genes. Fertilization, growth, and
-			development can result in an adult individual that carries a new allele and is able to
-			pass it on to offspring. Technically, the birth of a single individual carrying a new
-			mutation qualifies as microevolution: as soon as the new allele appears, the gene pool
-			has been altered.

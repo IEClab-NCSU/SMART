@@ -1,4 +1,0 @@
-In diploid cells (cells with two copies of each
-							chromosome) each chromosome has a homologue.
-							Homologous chromosomes have the same genes, but
-					they can have different versions of those genes.

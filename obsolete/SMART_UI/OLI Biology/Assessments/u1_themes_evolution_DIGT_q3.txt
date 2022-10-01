@@ -1,5 +1,0 @@
-A particular canola plant produces seeds that contain twice as much oil as seeds
-                from other plants of the same species. The seeds from the oil-abundant plant grow to
-                maturity and release their own seeds into the surrounding soil. These seeds also
-                contain more oil and have a better survival rate than the other seeds. After many
-                generations, a majority of the canola plants have extra-oily seeds.

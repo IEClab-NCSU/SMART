@@ -1,3 +1,0 @@
- You can see from the above equations that if the energy of the products are equal to the
-          reactants, then the equilibrium concentration of [B] will be equal to [A]. Mathematically,
-          this can be shown as follows:

@@ -1,8 +1,0 @@
-Note that there are exceptions to the central dogma. It is thought that during the dawn
-			of life, RNA was the
-			first molecule to store genetic information, and certain viruses still have RNA as their
-			nucleic acid component. In fact, certain viruses (among them the human
-			immunodeficiency virus, or HIV) have an enzyme capable of making DNA using RNA as a
-			template. However, you will recall that viruses are not cells, so it is safe to say that
-			cells use DNA as their genetic material, and the flow of information goes as
-			follows:

@@ -1,4 +1,0 @@
-
-When substrate levels are very high (saturating) the presence of the
-                              following inhibitor type will not affect the maximal velocity
-                                    (Vmax. 

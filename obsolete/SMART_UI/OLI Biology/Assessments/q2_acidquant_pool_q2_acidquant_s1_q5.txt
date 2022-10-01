@@ -1,2 +1,0 @@
-A 1.0 M solution of a compound with 2 ionizable groups (pKas = 6.2 and 9.5; 100 mL total) has a pH of 7.2.  If a biochemist adds 4mL of 10.0 M HCl to this solution, the solution will change to pH:
-            

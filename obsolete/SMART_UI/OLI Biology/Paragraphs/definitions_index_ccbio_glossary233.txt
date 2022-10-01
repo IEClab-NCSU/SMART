@@ -1,5 +1,0 @@
-A molecule that is one of the three components that make a
-                                nucleotide. There are five bases: adenine (A), guanine (G), cytosine
-                                (C), thymine (T), and uracil (U). The DNA structure consist of four
-                                bases: A, C, G, and T. The RNA molecule contains the bases: A, C, G,
-                                and U.

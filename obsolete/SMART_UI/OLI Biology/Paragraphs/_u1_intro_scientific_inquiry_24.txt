@@ -1,7 +1,0 @@
-Throughout the rest of this module, we examine the scientific process by
-					discussing an actual scientific experiment conducted by researchers at the
-					University of Washington to investigate whether a vaccine may reduce the
-					incidence of the Human Papillomavirus Virus (HPV). The experimental process and
-					results were published in an article titled, "A controlled trial of a human
-					papillomavirus type 16 vaccine" [1] , available for viewing online at the
-					National Institutes of Health's online database of publications: PubMed.gov

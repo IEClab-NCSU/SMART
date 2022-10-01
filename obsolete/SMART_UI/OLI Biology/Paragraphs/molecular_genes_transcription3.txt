@@ -1,2 +1,0 @@
-Note that the transcribed RNA has exactly the same sequence as the upper DNA strand, but with T replaced by
-			U.

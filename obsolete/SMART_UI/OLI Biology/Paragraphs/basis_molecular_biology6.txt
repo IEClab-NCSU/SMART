@@ -1,6 +1,0 @@
-Combining all of these roles together, the Central Dogma of modern molecular biology follows
-      the process outlined in this section and depicted below. DNA, with the aid of specific
-      proteins and enzymes is replicated (DNA Replication) thus providing a copy to be passed to the
-      next generation, the DNA is transcribed in sections (Transcription) into a RNA molecule that
-      codes for a protein or that can itself be used in the form of RNA, and the RNA can be
-      translated (Translation) into the primary sequence of a protein.

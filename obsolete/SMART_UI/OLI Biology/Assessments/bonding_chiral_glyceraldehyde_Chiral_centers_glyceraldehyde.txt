@@ -1,4 +1,0 @@
-
-The Jmol model below is of the carbohydrate glyceraldehyde.
-What is the chirality of carbon 2 in this molecule?
-

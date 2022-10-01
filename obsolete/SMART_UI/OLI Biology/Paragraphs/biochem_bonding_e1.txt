@@ -1,7 +1,0 @@
-Recall that in a covalent bond, the electrons are shared between two atoms. However, the two
-			atoms don’t necessarily share the electrons equally. Some atoms are more likely to draw
-			the shared electrons closer to themselves. Atoms have a high electronegativity if they
-			tend to draw the electrons towards them. Electronegativity increases as one moves from the
-			left to the right across the periodic table. Hydrogen is moderately electronegative,
-			with a value of 2.1, carbon is somewhat more electronegative, with a value of 2.5, and
-			fluorine is the most electronegative atom, with a value of 4.0. 

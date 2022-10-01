@@ -1,7 +1,0 @@
-Above is a caricature of a eukaryotic cell. Many of the cell components are hyper links that will
-provide you with an image showing these same structures in a living cell. This
-illustration highlights one of the goals of the course which is to expand your view of
-biology by bridging from classic simple illustrations to images generated from actual
-data. In addition, you will develop an understanding of the fundamental processes used
-in this imaging method.
-		

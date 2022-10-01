@@ -1,7 +1,0 @@
-The cell cycle is the "life cycle" of a cell. It is the set of stages that a
-			cell goes through during its lifetime. Cells go through five major stages of
-				development: G1, synthesis (S), G2, mitosis (M), and cytokinesis. The events that occur
-			during stages G1, S, and G2 are nearly the same in all types of cells. Together, these
-			three stages of the cell cycle are called interphase. The events that
-			occur during mitosis (M) and cytokinesis stages are different, depending upon the type of cell.
-			The diagram below shows an overview of the stages in a cell's life cycle:

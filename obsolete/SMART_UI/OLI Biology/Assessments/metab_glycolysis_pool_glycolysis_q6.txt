@@ -1,4 +1,0 @@
-
-The conversion of F-1,6-P to two three carbon sugars by the enzyme
-                aldolase has a standard energy change of +25 kJ/mol. This reaction is
-                sponaneous in glycolysis with a Gibbs energy of ~0 because:

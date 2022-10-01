@@ -1,4 +1,0 @@
-Amino acids are the building blocks of proteins. A protein is composed of a series
-			of amino acids attached end-to-end via covalent bonds. Consequently, a protein looks
-			like a string of beads, with each bead representing an amino acid. The bond between the
-			amino acids is referred to as the peptide bond.

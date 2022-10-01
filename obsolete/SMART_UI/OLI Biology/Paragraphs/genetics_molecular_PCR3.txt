@@ -1,3 +1,0 @@
-Step 1: The DNA template and primers must be converted to single-strand DNA. In
-                    DNA replication, DNA is separated by helicase. In the lab, we can accomplish the
-                    same thing by heating the DNA to 98oC (almost boiling temperature).

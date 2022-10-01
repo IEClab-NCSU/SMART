@@ -1,6 +1,0 @@
-It is the process through which a complementary copy of
-                                protein-coding mRNA is synthesized, using one strand of DNA as a
-                                template. The new RNA strand is identical to the complement of the
-                                single strand of DNA from which it was transcribed except that the
-                                base thymine (T) in the DNA strand is replaced by the base uracil
-                                (U) in the RNA strand.

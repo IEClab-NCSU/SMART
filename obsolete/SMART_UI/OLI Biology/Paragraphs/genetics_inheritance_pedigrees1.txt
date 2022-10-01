@@ -1,2 +1,0 @@
-Pedigrees are maps that can be used to trace genetic traits through generations of
-            individuals. Pedigrees use the following symbols: 

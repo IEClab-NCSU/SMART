@@ -1,5 +1,0 @@
-The introduction of a cell or liposome to the solution places a barrier to the molecules.
-			As three different molecules diffuse to equilibrium in the following simulation, they encounter the lipid bilayer
-			depicted by the horizontal membrane across the center of the stage. Note that one type of molecule passes freely through the lipid bilayer while
-			the second type of molecule only occasionally passes through the membrane and the lipid
-			bilayer is totally impermeable to the third type of molecule.

@@ -1,3 +1,0 @@
-and the bottom stand is used to produce the copy, the sequence of the RNA will be 5’
-			...AAUUGCG...3’. Note that it has exactly the same sequence as the upper DNA strand, but
-			with T replaced by U.

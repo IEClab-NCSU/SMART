@@ -1,2 +1,0 @@
-After separation by gel filtration a sample contains 250 mg of total protein and produces 10 umol of product per min, using a substrate that is highly specific for the target enzyme. The specific activity at this stage in the purification scheme is [Hint: Take care with the units in this question!]
-   

@@ -1,4 +1,0 @@
-Examine the diagram of the Calvin Cycle below. Each item labeled represents a stage
-				in the cycle, molecules used, and molecules produced. Identify each label by
-				selecting the name of the Calvin Cycle stage and the name of the molecules. (Note: The integer in front of the molecule names indicates the
-					number of that molecule used or produced.)

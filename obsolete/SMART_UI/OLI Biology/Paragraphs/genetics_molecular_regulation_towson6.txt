@@ -1,8 +1,0 @@
-It is less efficient for bacteria to use lactose as an energy source because they
-                    must take additional steps to convert lactose into a form that can be used to
-                    extract energy. Each of these steps requires the synthesis of an enzyme, which
-                    is costly to the bacteria. Consequently, bacteria prefer to use glucose rather
-                    than lactose as a fuel source when both sugars are present. However, when
-                    lactose is present and glucose is not, the bacteria “turn on,” or synthesize,
-                    the enzymes required for lactose metabolism, allowing the bacteria to use
-                    lactose for energy.

@@ -1,3 +1,0 @@
-
-Activates PFK - glycolysis is turned on to regenerate ATP
-Inhibits fructose bis phosphatase - therefore gluconeogenesis is turned off.

@@ -1,6 +1,0 @@
-Hydrogen bonds are not like the covalent bonds you just learned about. They do not join atoms
-			into molecules. Instead, they are the attraction of an electronegative atom to a
-			hydrogen that is covalently bonded to another electronegative atom. This involves the
-			attraction of the hydrogen with a partial positive charge to the electronegative atom
-			with a partial negative charge. Only hydrogen covalently bonded to an electronegative
-			atom can participate in hydrogen bonding.

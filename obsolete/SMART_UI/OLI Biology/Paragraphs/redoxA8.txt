@@ -1,6 +1,0 @@
-The above reaction is an incomplete description of a redox reaction because it does not
-      indicate the fate of the electrons that were obtained from iron. Since free electrons
-      generally cannot exist, all oxidation reactions must be coupled to a corresponding reduction.
-      Since the above reaction only describes one-half of the reaction it is referred to as a
-        half-reaction. The oxidation of iron could be coupled to the reduction of copper
-      ions, which is described by the following half-reaction:

@@ -1,2 +1,0 @@
-The substrate and enzyme exist together in solution and must collide to
-					interact.

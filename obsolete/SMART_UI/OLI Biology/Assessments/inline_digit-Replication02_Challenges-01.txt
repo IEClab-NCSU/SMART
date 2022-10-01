@@ -1,6 +1,0 @@
-DNA replication occurs at a rate of 50 bp/sec both on closed circular DNA
-                        and on linear chromosomes. A piece of closed circular DNA contains a million
-                        bp and a piece of linear chromosome has a thousand times more bp inits
-                        sequence. If the two chromosomes are to finish replicating in the the same
-                        amount of time, how many origins of replication are there in the linear
-                        sequence?

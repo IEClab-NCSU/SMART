@@ -1,2 +1,0 @@
-Many metabolic pathways involve multistep reactions. Consider the following pathway:   A --E1--> B --E2--> C --E3--> D      where A, B, C, and D are substrates and/or products of the three enzymes, E1, E2, E3.    Feedback inhibition of this pathway is usually associated with
-            

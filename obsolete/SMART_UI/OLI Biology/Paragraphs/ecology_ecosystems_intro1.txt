@@ -1,9 +1,0 @@
-Up to this point, we have focused on the living components of the environment. Consider a
-			suburban backyard that is home to diverse species, including robins, squirrels, ants,
-			oak trees, grass, rabbits, daisies, spiders, toads, mushrooms, and raccoons. These
-			living, or biotic, components together make up an ecological community. Its populations
-			affect each other directly and indirectly as we just explored. But each population also
-			interacts with a host of nonliving factors. A grass plant, for instance, requires light,
-			carbon dioxide gas, soil nutrients, and water. It is affected by temperature and by
-			factors like snow cover or fires. In turn, it influences nonliving factors as well. Its
-			roots, for example, hold soil in place. 

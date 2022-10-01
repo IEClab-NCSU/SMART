@@ -1,2 +1,0 @@
-molecules that make up the individual structural units of the nucleic acids
-                        RNA and DNA.

@@ -1,4 +1,0 @@
-Microevolution tracks how the genetic traits of a population (the gene pool) change over
-            several generations. New traits or characteristics are born by mutation, in a process
-            that is random and unplanned. However, various forms of selection sift through those
-            traits so that certain genetic types tend to flourish:

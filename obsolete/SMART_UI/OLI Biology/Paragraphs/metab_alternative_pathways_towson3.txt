@@ -1,9 +1,0 @@
-Many of the metabolic options do not require oxygen and are called anaerobic
-					(“an-” means without and “aerobic” refers to oxygen). Fermentation
-					breaks down organic molecules and stores energy as ATP. Although fermentation is
-					the only ATP-producing pathway for some microbes, it is also commonly used by
-					many organisms as a special-purpose pathway. For example, yeasts that decompose
-					fruit can switch between aerobic cellular respiration (used
-						when oxygen is abundant) to a form of fermentation that produces
-					ethanol (used when oxygen is depleted). This allows
-					yeast to continue to produce ATP even in rotten, oxygen-poor fruit.

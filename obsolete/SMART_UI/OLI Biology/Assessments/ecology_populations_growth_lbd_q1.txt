@@ -1,6 +1,0 @@
-At Valley Forge NHP, we estimated that the annual per capita birth rate for deer
-                in 1985 was about 0.65 births per deer. We also estimated the annual per capita
-                death rate at 0.26 deaths per deer. Based on the numbers above and assuming the
-                population was closed (no immigration or emigration), what was the annual per capita
-                rate of increase for the population?  deer added per
-                deer per year 

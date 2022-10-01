@@ -1,6 +1,0 @@
-Selection occurs whenever some genetic types in a population reproduce more than
-					others in a given environment. In natural selection, the types that succeed are
-					those that survive and/or grow the best. In sexual selection, mating success is
-					key. In artificial selection, humans
-					decide which types reproduce best: we deliberately breed certain
-					individuals with desired traits.

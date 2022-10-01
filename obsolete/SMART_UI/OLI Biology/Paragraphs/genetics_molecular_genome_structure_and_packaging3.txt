@@ -1,4 +1,0 @@
-Many bacteria contain smaller, circular DNA molecules, called plasmids, in addition to the large DNA molecule that is their chromosome.
-            Plasmids can replicate independently of the large DNA and can be transferred to other
-            cells. Some naturally occurring plasmids carry genes encoding toxins and proteins that
-            make bacteria resistant to antibiotics. 

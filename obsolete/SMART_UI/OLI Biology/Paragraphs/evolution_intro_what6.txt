@@ -1,6 +1,0 @@
-Evolution is a change in a population, not in the characteristics of one individual over
-            a single lifetime. As its body temperature, breeding status, and mood change, a lizard’s
-            colors may intensify or fade. But this has no effect on future generations of lizards.
-            We must broaden our focus to see evolutionary changes: in a population of thousands or
-            millions, what percentage of lizards inherit a light color pattern and what percentage
-            inherit darker colors? How does this inherited trait change over many generations?

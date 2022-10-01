@@ -1,5 +1,0 @@
- The major difference in the polymer backbones between DNA and RNA is the sugar used in
-          the formation of the polymer. In DNA (DeoxyriboNucleic Acid)
-          the sugar is the aldose deoxyribose with a hydrogen replacing the hydroxyl at the 2
-          position of ribose, a furanose. In RNA (RiboNuceic Acid), the
-          sugar is the monosaccharide ribose in the furanose conformation. 

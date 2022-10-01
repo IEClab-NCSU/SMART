@@ -1,3 +1,0 @@
-
- Each reaction in a metabolic pathway is:
- 

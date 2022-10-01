@@ -1,8 +1,0 @@
-
-The shape of the ligand matches the shape of the ligand binding pocket on
-						the protein. The better the match, the stronger the bond between the ligand
-						and the protein.
-Any charges on the ligand molecule can be aligned close to opposite charges on the
-				protein's binding site. Remember, opposite charges attract each other.
-Hydrogen bonds often form between the ligand and the protein binding site.
-Nonpolar ligands bind more favorably to nonpolar surfaces on the protein.

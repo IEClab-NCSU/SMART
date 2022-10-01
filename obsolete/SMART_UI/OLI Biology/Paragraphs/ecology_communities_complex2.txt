@@ -1,7 +1,0 @@
-One way to simplify the problem is to focus on a few particularly important species.
-			Species that are physically dominant (largest and/or most abundant) in communities are
-			sometimes called foundation species. They include the most abundant
-			trees within terrestrial forests, common grasses within grasslands, and reef-building
-			corals. Foundation species directly provide habitat and often food for most of the other
-			species in the community. Anything that threatens their well-being is likely to harm
-			many other species as well.

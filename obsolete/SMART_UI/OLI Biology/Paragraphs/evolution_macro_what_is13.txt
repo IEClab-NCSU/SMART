@@ -1,6 +1,0 @@
-How does this classification system relate to macroevolution? Today, biologists strive to
-            place closely related species (members of a clade) within the same taxonomic groups. We
-            hypothesize that the members of a genus had a recent common ancestor; members of genera
-            within a family can be traced to an earlier common ancestor; and so forth. Thus the
-            taxonomic system is not merely a convenient way to organize species. It partly reflects
-            our understanding of how biological diversity has evolved over time.

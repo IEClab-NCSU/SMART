@@ -1,8 +1,0 @@
-A substance that speeds up a chemical reaction, but is not itself
-                                chemically-altered in the process. A catalyst increases the rate of
-                                a reaction, by decreasing the activation energy required for the
-                                reaction to take place. Enzymes are biological catalysts that
-                                mediate the conversion of substrate to product, by lowering the activation
-                                energy of the reaction. Enzymes re not consumed or modified during the
-                                process. Enzymes are generally made of proteins but nucleic acid enzymes,
-                                ribozymes, have also been discovered. 

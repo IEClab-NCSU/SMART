@@ -1,7 +1,0 @@
-When needed, glucose is released from glycogen by a reaction catalyzed by the enzyme
-        glycogen phosphorylase. This enzyme breaks an 
-
--(1-4) linkage at the end of glycogen polymer by the addition of an inorganic
-      phosphate. The product of this reaction, glucose-1-P, can enter glycolysis after conversion to
-      glucose-6-P. Note that this entry point for glucose skips the first step in glycolysis,
-      avoiding the need to activate glucose using ATP.

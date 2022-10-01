@@ -1,6 +1,0 @@
-DNA synthesis in biological systems is a very directed process controlled by specific
-          enzymes that both dictate where synthesis begins and the exact structural conditions
-          required to undertake DNA synthesis. Knowledge of these conditions and the process
-          involved in DNA synthesis has become the basis for understanding other biological
-          processes involving DNA and in the design of a set of tools essential to the advancement
-          of the study of modern molecular biology. 

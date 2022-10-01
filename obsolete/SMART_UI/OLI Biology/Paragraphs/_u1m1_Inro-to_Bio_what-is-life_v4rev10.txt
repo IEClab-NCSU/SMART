@@ -1,4 +1,0 @@
-
-Fact 3: Many viruses use DNA as their genetic material. Other viruses
-					use a related molecule called RNA. Cells also use RNA as a helper molecule to
-					DNA. 

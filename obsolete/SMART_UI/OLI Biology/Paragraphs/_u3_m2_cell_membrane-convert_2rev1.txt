@@ -1,6 +1,0 @@
-The cell membrane determines what enters and exits the cell, and it is
-					how the cell interacts with its environment. As you have already learned, the
-					cell membrane is a phospholipid bilayer structure that
-					provides a semipermeable barrier between the inside and the outside of the cell.
-					In this module, you will explore the following three ways molecular substances
-					enter and exit the cell:

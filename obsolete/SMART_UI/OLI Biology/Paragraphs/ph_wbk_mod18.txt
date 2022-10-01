@@ -1,1 +1,0 @@
-The ratio of all weak acids is 1 when pH = pKa. Thus the above table would look similar for all weak acids with the difference being the pH would change in relation to the pKa for the acid.

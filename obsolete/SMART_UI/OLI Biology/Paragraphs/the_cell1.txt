@@ -1,4 +1,0 @@
-To put the course in perspective, we begin by exploring the cell and the components of the cell called organelles. The focus of this course is to understand the components of the cell, how they interact with each other, how they are created, destroyed and how they regulate transport, growth and division of the cell. We will examine the controlled chemical environment a cell maintains and what restrictions
-this places on the types of chemical reactions it can perform. This background is vital
-			to understanding key processes such as how a cell releases energy from glucose, makes
-and folds proteins, and goes through growth and cell division.

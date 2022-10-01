@@ -1,1 +1,0 @@
-Synthesis of DNA using DNA polymerase is unidirectional from 3' to 5'

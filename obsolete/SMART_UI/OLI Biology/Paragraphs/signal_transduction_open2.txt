@@ -1,5 +1,0 @@
-The animation below demonstrates the action of signal transduction through a G-Protein
-			coupled receptor. The ligand is the external signal and it binds the receptor. The G-Protein
-			complex is now able to bind to the receptor. This activates the G-protein by allowing the
-			exchange of GTP for GDP. When bound to GTP the G-protein is able to bind to Adenylate cyclase and
-		activate it. Adenylate cyclase generates the internal signal that is then interpreted by the cell.

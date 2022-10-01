@@ -1,7 +1,0 @@
-Enzyme catalysis is affected by many factors including substrate and
-					enzyme concentrations, pH, temperature, and the presence of inhibitors.
-					The learn-by-doing on this page will explore the effect of substrate
-					concentration.  The following page will explore the effect of enzyme
-					concentration, pH, temperature, and inhibitors on the velocity of the
-					enzyme catalyzed reaction.
-				

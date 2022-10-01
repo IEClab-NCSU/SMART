@@ -1,5 +1,0 @@
-
-The amount of signaling protein produced. 
-The amount of receptor produced in different tissues. 
-How tightly the hormone and the receptor bind to each other; small variations in
-                specific amino acids of either molecule can change the binding interaction.

@@ -1,6 +1,0 @@
-
- They contain multiple intermediates (e.g. compounds A, B, C, ....), with small molecular
-        differences between the intermediates. 
- Each step, or conversion between intermediates, is catalyzed by an enzyme (e.g.
-        E1). 
- The pathway is regulated to optimize the use of resources. 

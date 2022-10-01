@@ -1,5 +1,0 @@
-Refers to two chromosomes that are a matched pair in a diploid cell.
-                                A matched pair of chromosomes are the same length and contain genes
-                                for the same characteristics at the same position on them. For each
-                                homologous pair, one chromosome is inherited from the mother and the
-                                other is inherited from the father. 

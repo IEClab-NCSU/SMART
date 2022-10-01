@@ -1,5 +1,0 @@
-Identify each process depicted in the diagram.
-#1 points to 
-#2 points to 
-#3 points to 
-#4 points to 

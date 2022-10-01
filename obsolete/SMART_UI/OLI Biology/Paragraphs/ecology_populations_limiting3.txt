@@ -1,4 +1,0 @@
-A few things are evident in the graph. First, the population did not
-			increase to over 4500 by 1995 as predicted by the simple exponential growth model.
-			Instead, it increased to about 1400 until the early 2000s and then began to
-			fluctuate.

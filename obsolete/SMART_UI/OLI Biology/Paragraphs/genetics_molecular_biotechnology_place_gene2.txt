@@ -1,3 +1,0 @@
-Restriction endonucleases and DNA ligase are used to insert the synthetic gene
-            into the correct location in the expression plasmid, just after the ribosome
-            binding site. 

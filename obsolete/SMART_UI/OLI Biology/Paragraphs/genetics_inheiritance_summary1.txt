@@ -1,7 +1,0 @@
-This module explored the application of inheritance patterns to human
-                    characteristics and hereditary disorders. Many human conditions follow the
-                    Mendelian pattern, with a recessive allele being responsible for the diseased
-                    phenotype most of the time. In other cases, there may be a linkage of genes to a
-                    sex chromosome, most commonly the X chromosome. The traits for those genes are
-                    called sex-linked traits, and they were originally described by Morgan in his
-                    classical fruit fly experiments.

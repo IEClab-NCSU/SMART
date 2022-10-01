@@ -1,7 +1,0 @@
-During gene
-				expression, information stored in DNA is first copied (or transcribed)
-			into RNA in a process called transcription. Only one of the two DNA strands
-			is transcribed, and the order of bases in RNA is determined by the base pairing
-			of the ribonucleotides with the DNA. In RNA, the base T is absent and U is present
-			instead. As you know, A pairs with T, but because T is replaced by U in RNA, A pairs
-			with U in RNA. If the transcribed DNA strand has the sequence:

@@ -1,6 +1,0 @@
- You should convince yourself that it is not possible to superimpose the bottom two
-			structures. They are in fact different structures. For glyceraldehyde, where A is an
-			aldehyde, B is a hydrogen and X is the hydroxymethyl (CH2OH) group, the structure on the
-			left would be referred to as D-glyceraldehyde and the structure on the right would be
-			referred to as L-glyceraldehyde based on the orientation of the hydroxyl functional
-			group. 

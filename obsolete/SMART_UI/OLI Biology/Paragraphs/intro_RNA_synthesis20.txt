@@ -1,1 +1,0 @@
-Bioselectivity describes the discrimination of a specific RNA polymerase for a specific promoter yielding different RNA products. Equilibrium binding of the polymerase with the promoter explains the differential production of products using the same polymerase and different promoter sequences.

@@ -1,2 +1,0 @@
-There are many ways to represent an amino acid. Take a look at some of the representations
-			below. 

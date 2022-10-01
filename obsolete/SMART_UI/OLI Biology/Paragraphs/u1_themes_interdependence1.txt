@@ -1,7 +1,0 @@
-Have you ever played a game of Jenga, where you try to remove one block
-                            at a time from a tower structure without causing the entire tower to
-                            collapse? In this game, each block depends on the other blocks for
-                            stability, and if you’re not careful, the removal of a single block can
-                            cause the destruction of the entire structure. Life is much the same. At
-                            levels from the individual to the biosphere, the various parts of living
-                            systems are interdependent. 

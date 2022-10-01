@@ -1,9 +1,0 @@
-In competitive inhibition the second molecule binds in the active site
-					thus preventing the substrate from binding. The regulatory molecule competes
-					with the substrate for the active site. This decreases the rate at which the
-					enzyme can convert the substrate to product because the enzyme spends part of
-					the time unable to bind the substrate. This can be seen in the graph below
-					plotted as the dashed red line. The occupancy of the binding pocket is in
-					equilibrium between the binding of the substrate or the inhibitor. As you can
-					see from the curve the maximum velocity is unchanged, but the substrate
-					concentration required to reach maximum velocity is increased. 

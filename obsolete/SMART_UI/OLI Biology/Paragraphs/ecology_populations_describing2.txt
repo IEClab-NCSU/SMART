@@ -1,5 +1,0 @@
-Population size, often represented by the variable N, is the total number of individuals in a population at a
-			particular point in time. Population size can be an abstract concept, particularly for
-			small organisms whose numbers can be astronomical. A single species of mosquito in a
-			swamp might easily number in the millions or even billions of individuals. It is often
-			better and more practical to describe such populations in terms of their density.

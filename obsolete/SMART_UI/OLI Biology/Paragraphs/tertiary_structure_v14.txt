@@ -1,7 +1,0 @@
-Stabilization of the Folded State: The tertiary structure is 
-                	determined by non-covalent interactions that involve amino acid side chains 
-                	(side chain and backbone interactions, or side chain-side chain interactions).  
-                	Amino acid residues involved in these interactions can come from distant parts 
-                	of the polypeptide chain bringing the chain into a more compact shape.  The 
-                	non-covalent interactions between the side chains include the following: 
-                

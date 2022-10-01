@@ -1,4 +1,0 @@
-Mitosis results in identical daughter cells. However, sexually-reproducing organisms need a
-                    way to produce gametes, which are unique haploid cells that combine to form new
-                    organisms. In the next module, you'll learn more about meiosis, which is the
-                    process used to produce gametes.

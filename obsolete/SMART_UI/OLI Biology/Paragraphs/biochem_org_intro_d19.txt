@@ -1,2 +1,0 @@
-Display a chemical drawing for each of the above functional
-			groups.

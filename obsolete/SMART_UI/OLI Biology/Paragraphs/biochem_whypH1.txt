@@ -1,7 +1,0 @@
-Living organisms are quite sensitive to even small changes in pH. The chemical reactions of
-			life are tuned to a specific and often narrow pH range; outside this range, the
-			reactions will not proceed normally. Therefore, organisms have mechanisms that work to
-			maintain a constant pH level. This is true both at the cellular level and at the level
-			of the whole organism. Maintaining a stable pH in a living organism is an important part
-			of homeostasis. Homeostasis refers to the ability of an organism (or cell) to maintain
-			stable internal conditions despite constantly changing environmental conditions.

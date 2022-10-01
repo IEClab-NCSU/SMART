@@ -1,4 +1,0 @@
-Two ligands, A and B, bind to the same protein P. If the equilibrium constant
-                        for each binding is expressed as the association of ligand and protein, and
-                        A has a higher Keq than B, which ligand has the higher affinity for the
-                        protein?

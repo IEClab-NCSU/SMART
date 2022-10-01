@@ -1,8 +1,0 @@
-By reversibly binding oxygen, myoglobin acts as an oxygen buffer. When free oxygen is high
-			myoglobin binds oxygen and the equilibrium shifts to the right. If the oxygen
-			concentration falls the equilibrium shifts to the left to free oxygen and protein. The
-			change in equilibrium is only possible because protein ligand binding is reversible. The
-			direction of the equilibrium, either towards more complex or towards free reactants,
-			depends primarily on the amount of free oxygen in the cell. Oxygen supply is always
-			changing depending on activity level. Myoglobin supply is essentially constant in the
-			cell since protein synthesis is relatively a much slower process. 

@@ -1,6 +1,0 @@
-DNA replication is essential for the continuity of genetic information throughout
-                    generations. A cell that is preparing to divide will replicate its DNA, using a
-                    variety of enzymes working in concert. Our understanding of DNA replication
-                    machinery has opened the door for a variety of advances, including the process
-                    of PCR. PCR is used to make many copies of a small segment of DNA, and it can be
-                    used to identify individual DNA samples.

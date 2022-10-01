@@ -1,3 +1,0 @@
-
- In the chain-terminator method of DNA sequencing, a "G" will be read on a sequencing gel when
- 

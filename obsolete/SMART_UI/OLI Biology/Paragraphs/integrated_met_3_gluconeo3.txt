@@ -1,6 +1,0 @@
-Since the process of converting glucose to pyruvate via glycolysis is energy releasing,
-          the reverse reaction must require energy. Most of the steps in the gluconeogenesis pathway
-          have a Gibbs free energy of nearly zero, and are easily reversed by slight changes in the
-          concentrations of products and reactions. However, there are three steps in glycolysis
-          that occur with such a large decrease in energy that they cannot become spontaneous in the
-          reverse direction. These steps are:

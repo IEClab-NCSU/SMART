@@ -1,8 +1,0 @@
-Presently, we are facing a growing threat to human health; the overuse and misuse of
-					antibiotics has led to the evolution of “superbugs” — bacterial strains that are
-					resistant to many different types of antibiotics. Such infections are very hard
-					to treat, and can be deadly. Perhaps you have heard about methycillin-resistant
-						Staphylococcus aureus (MRSA), which can be picked up
-					in hospitals and places of close body contact (locker rooms, retirement homes).
-					It has evolved a resistance to the antibiotic methycillin. If it penetrates the
-					body, it may dissolve the skin and underlying muscle. 

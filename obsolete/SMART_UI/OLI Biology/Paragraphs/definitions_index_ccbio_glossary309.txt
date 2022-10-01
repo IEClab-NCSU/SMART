@@ -1,6 +1,0 @@
-Process in which characteristics of a population change predictably
-                                over many generations. Selection takes forms such as natural
-                                selection (favors traits that aid in survival to reproductive age),
-                                sexual selection (favors traits that boost mating success), and
-                                artificial selection (favors traits that are chosen by human
-                                breeders).

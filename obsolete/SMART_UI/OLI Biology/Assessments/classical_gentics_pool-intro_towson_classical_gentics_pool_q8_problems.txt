@@ -1,4 +1,0 @@
-In dogs, colored fur (E) is dominant to un-colored fur (e). Black fur color (B) is
-                dominant to brown fur color (b). The E gene is epistatic to the B gene. A brown male
-                dog is mated to a black female. Both the male and female are homozygous at all loci.
-                What percentage of the puppies will be black?

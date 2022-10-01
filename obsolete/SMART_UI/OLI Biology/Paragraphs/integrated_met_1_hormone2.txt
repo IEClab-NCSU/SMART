@@ -1,7 +1,0 @@
-The storage and metabolism of glucose is controlled at the organ level by hormones. The
-      hormones glucagon and insulin are secreted by the pancreas during periods of
-      low or high blood sugar, respectively. Glucagon causes the liver to produce glucose from the
-      storage polysaccharide glycogen or to synthesize glucose from pyruvate using the
-      pathway gluconeogenesis. The released glucose enters into the blood and travels to
-      muscle for oxidation by glycolysis leading to energy production. In contrast, insulin
-      instructs the liver cell to store the excess glucose in the blood.

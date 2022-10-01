@@ -1,5 +1,0 @@
-McClintock had discovered that when transposons where present, they controlled the expression or inhibition of neighboring
-                        genes on a chromosome. The presence of transposons determined whether a corn kernel was yellow, brown, purple, or speckled. 
-                        Although McClintock followed her creative intuition in making these discoveries in the 1950s, she didnot receive the Nobel 
-                        Prize for her work until 1983. Subsequent research has shown the presence of transposons in the genetic material of almost 
-                        all living organisms and these transposons serve as an important source of genetic variation.

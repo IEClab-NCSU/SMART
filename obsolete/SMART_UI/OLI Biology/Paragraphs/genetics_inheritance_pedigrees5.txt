@@ -1,5 +1,0 @@
-If there is no case where a child expresses the trait but neither parent does, then the
-            pedigree is likely to be dominant. In a real-world situation, researchers would need to
-            look at hundreds of individuals to be sure that this conclusion is statistically
-            significant. But for the purposes of this activity, you will look at only a few
-            individuals.

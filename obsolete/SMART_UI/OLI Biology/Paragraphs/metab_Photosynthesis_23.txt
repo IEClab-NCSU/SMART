@@ -1,5 +1,0 @@
-Pigments are colored substances that absorb light energy. Why does a pigment look red,
-			green, purple, or blue? A given pigment absorbs only a limited set of light wavelengths.
-			For example, a red pigment absorbs green and blue wavelengths. Red light, by contrast,
-			is NOT absorbed: it is either reflected or transmitted through a solution containing the
-			pigment. 

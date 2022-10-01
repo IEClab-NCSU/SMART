@@ -1,2 +1,0 @@
-Jmol is an open-source Java viewer for chemical structures in 3D. Jmol returns a
-					3D representation of a molecule that may be manipulated in a number of ways. 

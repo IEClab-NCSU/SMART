@@ -1,2 +1,0 @@
-In what type of cell do genes contain exons which are interrupted by introns, that are
-            spliced out after transcription.

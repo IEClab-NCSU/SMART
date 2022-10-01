@@ -1,4 +1,0 @@
-The phospholipid bilayer is the main fabric of the membrane. The
-					bilayer's structure causes the membrane to be semipermeable. The hydrophobic core blocks the diffusion of hydrophilic ions and polar molecules. Small hydrophobic
-					molecules and gases, which can dissolve in the membrane's core, cross it with
-					ease. 

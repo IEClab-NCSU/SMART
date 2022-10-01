@@ -1,7 +1,0 @@
-The last type of RNA molecule that is critical for translation is ribosomal RNA
-					(rRNA). rRNAs are components of the ribosome. The ribosome is a large
-					macromolecular complex composed of rRNA and ribosomal proteins. The ribosome
-					catalyzes the formation of peptide bonds between the amino acids. Some ribosomes
-					are located in the cytosol and translate cytosolic proteins. Some ribosomes are
-					attached to membranes; these ribosomes translate proteins destined to be
-					inserted into the membrane or secreted outside the cell.

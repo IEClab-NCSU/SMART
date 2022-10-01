@@ -1,7 +1,0 @@
-Reproduction occurs when an individual organism passes on its genetic information to a
-            newly independent organism, or offspring. Individual organisms have a limited life span.
-            All are subject to extreme events that bring death, such as being eaten by a predator.
-            Even if they avoid such a fate, most organisms decline in health and die toward the end
-            of their typical life span. Reproduction maintains genetic information by passing it to
-            new individuals. Offspring resemble their parent(s) and reproduction maintains the
-            continuity of life over time.

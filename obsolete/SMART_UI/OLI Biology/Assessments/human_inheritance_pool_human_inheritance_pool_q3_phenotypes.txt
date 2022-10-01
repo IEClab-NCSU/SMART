@@ -1,4 +1,0 @@
-Use the following information to answer the next two questions. 
-            In humans, the condition for normal blood clotting (H) is dominant to hemophilia (h).
-            Suppose William, who has hemophilia, and Linda, who is a carrier for hemophilia, have a
-            son, Mark. What is the probability that Mark will have this condition?

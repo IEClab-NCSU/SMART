@@ -1,4 +1,0 @@
-The products of transcription, rRNA, tRNA and mRNA, are each used for different functions
-      within the cell but are all essential to protein synthesis. They each also undergo change or
-      modification before they are used to carry out their specific function. This process of change
-      after transcription from DNA to RNA is called post-transcriptional modification.

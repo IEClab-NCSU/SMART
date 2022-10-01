@@ -1,6 +1,0 @@
-By calculating rates we can make fair comparisons between
-			populations regardless of their size. The simplest way to do this is by using per capita
-			(literally “per head”) rates where population size is included in the denominator of a
-			rate calculation. Per capita rates can be calculated for events like birth and death or
-			even occurrences like murders or car accidents. In each case, the calculation is
-			equivalent.

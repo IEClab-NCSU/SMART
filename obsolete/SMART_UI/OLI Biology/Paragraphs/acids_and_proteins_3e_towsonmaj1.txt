@@ -1,3 +1,0 @@
-The activity of an enzyme (its ability to convert substrate to product), depends on a
-			number of parameters that are listed below. Many of these parameters can help control
-			the activities of enzymes to optimize the utilization of cellular resources.

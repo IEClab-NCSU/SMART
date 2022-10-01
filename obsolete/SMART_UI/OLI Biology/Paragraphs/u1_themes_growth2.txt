@@ -1,8 +1,0 @@
-In this time-lapse video, a few days of development are sped up for your viewing
-            pleasure. In the earliest frames you can see large cells dividing. With each division
-            the individual cells get smaller. Chemical signals in each cell are passed to its
-            descendants and to nearby cells. As a result, DNA is turned “on” or “off” in each cell,
-            leading to different shapes and structures. Toward the middle and end of the video,
-            individual cells are much too tiny to see. Specialized cell types form. Cells move from
-            place to place, grow, die to create gaps, and divide to create bulges. In this way, body
-            structures begin to emerge.

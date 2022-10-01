@@ -1,6 +1,0 @@
-Human chromosomes are numbered from largest to smallest. Each of the 22 pairs of
-                autosomal chromosomes have an identifying number, from 1 to 22; chromosome
-            1 is the biggest and chromosome 22 is the smallest. As you already know, the pair of sex
-            chromosomes are named either X or Y. The chromosomes of a cell can be visualized using a
-            process that takes a picture of the cell during mitosis, when chromosomes are easily
-            visible. The picture that is produced is called a karyotype.

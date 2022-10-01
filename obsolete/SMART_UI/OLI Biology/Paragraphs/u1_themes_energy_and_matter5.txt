@@ -1,7 +1,0 @@
-In biology, chemical potential energy is a key form of
-                    energy. It is measured in units called calories. When we’re talking about
-                    energy, we’ll say “the calories stored in ...” or “the chemical potential energy
-                    of ...” a substance. We are talking about what the substance can do if it is put
-                    through a chemical reaction, like burning, that will release its stored energy.
-                    Returning to the breakfast cereal example, nutrition labels indicate the
-                    chemical potential energy of food by listing the calories per serving. 

@@ -1,8 +1,0 @@
-Charged functional groups are acids, meaning that they form ions by the release
-					of hydrogen ions (H+), which are also called protons. Depending on the specific
-					functional group, these groups of molecules lose a hydrogen ion (or deprotonate)
-					and become either charged or neutral as a result. Charged functional groups play
-					key roles in biological systems. For example, many proteins bind to DNA (or RNA)
-					by utilizing the electrostatic interaction between positive charges on the
-					protein and negative charges on the DNA or RNA. Note that when these groups are
-					in their uncharged state they can be considered to be polar functional groups. 

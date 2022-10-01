@@ -1,7 +1,0 @@
-The nucleus is the control center of the cell and
-							it stores the DNA, which contains the instructions
-							for how to build all the protein products required by the cell. The
-							nucleus is like the factory command center, which stores the
-							instructions needed to build its product. A single molecule of DNA is
-							called a chromosome. The chromosomes are like the
-							different books in the factory’s control center. 

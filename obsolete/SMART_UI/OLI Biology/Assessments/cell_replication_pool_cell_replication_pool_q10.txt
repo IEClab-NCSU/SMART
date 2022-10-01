@@ -1,5 +1,0 @@
-A substance, such as glucose, will enter a cell following its concentration
-            gradient, from the blood and tissues, through the membrane, and into the
-            cytoplasm. Such movement of glucose has a maximal capacity, does not require
-            energy, and is specific only for glucose. How is the entry of glucose into the
-            cell occurring?

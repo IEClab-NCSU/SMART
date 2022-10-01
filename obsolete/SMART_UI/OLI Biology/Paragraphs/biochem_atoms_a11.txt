@@ -1,8 +1,0 @@
-In this module, you will learn about the basic structure of the atom, the fundamental unit
-			of  matter. Living things are
-			made up of atoms arranged in a complex and nonrandom way. This is one of the common
-			features of all living organisms. The atom is the smallest level in the  hierarchy of life that we will
-			explore in this course. Understanding the properties of atoms allows us to predict and
-			understand how atoms interact with one another to build molecules, such as hormones and
-			DNA. In addition, an understanding of atoms allows us to predict how cells will react to
-			different therapeutic drugs and toxins in the environment.

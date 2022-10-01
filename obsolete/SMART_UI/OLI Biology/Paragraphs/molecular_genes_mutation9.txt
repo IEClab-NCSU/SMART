@@ -1,1 +1,0 @@
-Deletion of three nucleotides removes information, but no frame shift.

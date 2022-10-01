@@ -1,7 +1,0 @@
-To test the effectiveness of an allergy drug, scientists begin with a pool of
-				12,000 allergy sufferers. One randomly selected group of 6,000 subjects is given the
-				drug, and the other 6,000 are given a pill without the active ingredient. They are
-				asked to report their allergy symptoms after 1 week, 1 month, and 3 months of
-				treatment, and samples are also taken to measure the levels of histamines
-				(allergy-related compounds) in the blood. What group is receiving the experimental
-				treatment in this study?

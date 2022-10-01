@@ -1,9 +1,0 @@
-The electrical charge of an atom governs its behavior when it comes into contact
-					with another atom; that is, how the atom reacts with other atoms. Atoms with
-					unlike charges (+/-) will attract each other and connect, binding to form a
-					molecule. Atoms with like charges repel each other. That means two atoms both
-					positively charged (+/+) or both negatively charged (-/-) will resist or reject
-					contact. The changes in the atomic composition of a substance that occur as a
-					result of the attraction or repulsion of two or more atoms is called a
-						chemical reaction. A chemical reactions produce one or more products 
-					resulting from a chemical change that transforms a set of molecules.

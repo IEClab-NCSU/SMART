@@ -1,5 +1,0 @@
-Homologous features are the key sources of information for the construction of phylogenetic trees. A phylogenetic tree, or phylogeny, is a
-            diagram that shows how a biological lineage may have branched and formed clades over
-            time. A tree diagram is a hypothesis about how different species are related and is
-            subject to change as more data are gathered and as analysis techniques improve. To get a
-            feel for how phylogenetic trees work and what they mean, do the following activity.

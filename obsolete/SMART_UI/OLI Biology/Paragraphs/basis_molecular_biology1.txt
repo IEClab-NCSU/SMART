@@ -1,4 +1,0 @@
-Modern molecular biology is built upon our understanding of the structure and function of DNA
-      (deoxyribonucleic acid) and RNA (ribonucleic acid) and the enzymes and proteins that interact
-      with these structures. In this section of the course the structures of RNA and DNA will be
-      explored along with the processes by which they are used to transmit information.

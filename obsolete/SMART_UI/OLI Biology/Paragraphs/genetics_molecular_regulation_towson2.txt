@@ -1,7 +1,0 @@
-In bacteria, groups of proteins that are expressed together to execute the same
-            biochemical pathways, are often encoded together in a region of DNA called an operon.
-            Operons allow the cell to control gene expression based upon environmental conditions,
-            such as nutrient availability. In addition to the structural genes (the genes that
-            encode the proteins necessary to execute the specific pathway), operons contain
-            regulatory genes and sequences. Below are the regulatory genes and sequences found in an
-            operon: 

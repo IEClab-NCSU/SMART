@@ -1,3 +1,0 @@
-One mechanism to control the rate of product formation is through temperature.
-					Velocity of product formation increases linearly as the temperature increases
-					until a critical temperature is reached as indicated in the following graph.

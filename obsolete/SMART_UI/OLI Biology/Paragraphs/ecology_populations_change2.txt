@@ -1,8 +1,0 @@
-Researchers studying populations usually describe birth and death in terms of rates so
-			that they can compare different populations to each other on a similar basis. According
-			to Federal Bureau of Investigation Uniform Crime Report statistics, in 2010 there were
-			roughly 530 cases of murder in New York City and about 180 murder cases in New Orleans,
-			Louisiana. Think New York City is more dangerous? Raw numbers don’t tell the full story.
-			In 2010, New York City had a population of over 8 million people compared to New
-			Orleans’ population of about 350,000. Therefore the rate of
-			murder was almost 8 times greater in New Orleans than in NYC.

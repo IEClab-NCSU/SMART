@@ -1,9 +1,0 @@
- Molecules are made up of atoms covalently bound to each other. For example, a
-					molecule of methane is a carbon atom covalently bonded to four hydrogen atoms;
-					and water is composed of an oxygen atom covalently bonded to two hydrogen atoms.
-					Molecules can also be complex containing many atoms covalently bonded to each
-					other, for example, cholesterol. Note that cholesterol also contains bonds that
-					involve the sharing of more than one valence electron between two atoms creating
-					a double bond indicated by C=C. In this case, each carbon still only
-					participates in making four bonds. This will be discussed later in the section
-					on bonding.

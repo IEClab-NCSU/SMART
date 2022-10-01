@@ -1,2 +1,0 @@
-Instructions: Drag the model with your mouse to rotate it in 3D space. Use your right mouse
-      button or control click to select menu for exploring the model.

@@ -1,8 +1,0 @@
-At the smallest level, the structure of molecules determines their
-				function within cells. For example, enzymes are critically important proteins that
-				speed up the rate of chemical reactions that support life. Enzymes break down food
-				molecules, help build a muscle proteins, help destroy toxins, and much more. An
-				enzyme’s ability to function depends directly on its three-dimensional shape. If
-				exposed to excessive heat or harsh chemical conditions, enzymes unravel and change
-				in shape. When this occurs, the enzymes stop working and the chemical reactions of
-				life slow down or cease.

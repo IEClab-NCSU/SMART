@@ -1,5 +1,0 @@
-However, you must be careful when dealing with BMI. A BMI score alone is not enough for a
-			diagnosis. BMI does not distinguish between bone/muscle weight and excessive body fat.
-			Some people with heavy bone structure or highly developed muscle may be rated as
-			overweight or obese, despite having little body fat. However, for people of average
-			stature and fitness, the BMI is a reasonable indicator of body fat.

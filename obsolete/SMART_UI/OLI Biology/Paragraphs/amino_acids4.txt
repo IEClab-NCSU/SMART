@@ -1,3 +1,0 @@
-The amino group has a pKa value of ~9, thus it is protonated at pH 7.0. The carboxylic acid group has a pKa of	2.0, 
-			and thus it is deprotonated at pH 7.0.  Each of the 20 amino acids has a different  sidechain(R group), 
-			which is attached to the –carbon.  Use the exercise below to identify these important functional groups in an amino acid.

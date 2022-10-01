@@ -1,9 +1,0 @@
-Photosynthesis and cellular respiration are the most common metabolic pathways. Together
-			they form a cycle comprising the general flow of energy through the biosphere. Sunlight provides the
-			essential source of energy. Plants and other photosynthetic organisms capture this
-			energy, and through a chemical reaction with carbon dioxide and water, the photosynthesis
-			process converts the light energy to chemical energy, and produces glucose and oxygen.
-			Organisms ingest the glucose and oxygen, and through the process of cellular respiration
-(i.e., aerobic respiration), break down these large molecules producing carbon dioxide
-			and water. The outputs of cellular respiration then become the raw materials for
-			photosynthesis.

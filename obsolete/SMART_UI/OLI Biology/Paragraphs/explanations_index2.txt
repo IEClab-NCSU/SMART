@@ -1,3 +1,0 @@
-Amino acids with acidic side chains contain a carboxyl group on the side chain. 
-                    At physiological pH, acidic groups loose proton (act as an acid) and become 
-                    negatively charged.

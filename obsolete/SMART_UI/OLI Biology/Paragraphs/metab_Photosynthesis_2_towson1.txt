@@ -1,6 +1,0 @@
-We know that plants require light. But “light” is a complex form of energy. Visible light
-			is just a small part of a much broader spectrum including many forms of electromagnetic
-			radiation. In many ways, light behaves as a wave. Different colors of light have
-			different wavelengths. In a given period of time, short wavelengths deliver more energy
-			to a surface than longer wavelengths. Thus blue light is higher in energy than red
-			light.

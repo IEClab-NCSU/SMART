@@ -1,6 +1,0 @@
-Consider a short 12 amino acid protein consisting of polar (white) and non-polar
-					(black) amino acids. This polypeptide will fold to bury most of the non-polar
-					amino acids, removing them from contact with water, giving the lowest energy
-					state. Other structures are possible, but these will be higher energy (and
-					consequently less stable) because they expose more non-polar amino acid
-					side-chains to water.

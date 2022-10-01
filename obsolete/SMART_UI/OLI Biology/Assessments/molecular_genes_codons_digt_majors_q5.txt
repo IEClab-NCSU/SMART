@@ -1,4 +1,0 @@
-
-
-                Identify the amino acid sequence, given the following entire mRNA sequence: 5’ GCAUGCGAUAAC 3’
-            

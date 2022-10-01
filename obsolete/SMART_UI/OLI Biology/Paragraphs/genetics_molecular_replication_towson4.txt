@@ -1,2 +1,0 @@
-The “Learn More…” activity that follows illustrates the Meselson-Stahl experiment that was performed to
-            prove the mechanism for DNA replication within biological systems.

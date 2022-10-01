@@ -1,6 +1,0 @@
-Because of its complex life cycle and the eukaryotic nature of this organism, malaria has
-			been a difficult disease to combat. However, this complexity also means that there are
-			more potential ways to intervene, prevent, and treat this disease. The parasite could be
-			targeted with anti-malarial drugs in the human host. Other methods could be used to
-			prevent the parasite from surviving in the mosquito host. Or measures can be taken to
-			prevent the human host from being bitten by mosquitoes.

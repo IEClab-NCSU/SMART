@@ -1,9 +1,0 @@
-Ecosystem ecology broadens the scope to include nonliving factors. Energy flows through
-            ecosystems, starting with sunlight and leaving every living thing as heat. Organisms
-            form complex food webs consisting of producers and consumers, some of which
-            (detritivores and decomposers) consume dead material. Species occupy different trophic
-            levels based on their place within food chains. An energy pyramid pattern results from
-            the loss of about 90% of the energy with each trophic transfer. Unlike energy, matter is
-            constantly recycled in ecosystems. Individual atoms take countless trips through
-            biogeochemical cycles, passing through living things, air, water, and/or rocks and soil.
-            Bacteria act as decomposers and/or nutrient transformers in some cycles. 

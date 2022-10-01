@@ -1,5 +1,0 @@
- Under anaerobic (oxygen limited) conditions, which occurs in the muscle tissue during
-          vigorous activity, the NADH produced in glycolysis cannot be reoxidized to NAD+
-          by electron transport because there is insufficient oxygen to accept electrons. Under
-          these conditions, the cell runs out of NAD+ and glycolysis will halt and the
-          cell can no longer produce ATP. 

@@ -1,7 +1,0 @@
-There are four classes of biological macromolecules that we will study in this course:
-				carbohydrates, lipids, proteins and
-				nucleic acids. These macromolecules are probably already familiar to
-			you, because they make up the nutrients you ingest every time you eat. In this way, you
-			provide your cells with the building materials and energy necessary to sustain life. In
-			the next unit, we will use these fundamental building blocks to form the cell, the first level
-			of organization that shows all the characteristics of life. 

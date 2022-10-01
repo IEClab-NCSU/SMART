@@ -1,3 +1,0 @@
-
- If the substrate concentration is less then its KM then doubling the substrate concentration will:
- 

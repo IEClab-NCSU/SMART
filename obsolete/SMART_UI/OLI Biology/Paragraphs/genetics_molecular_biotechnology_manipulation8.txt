@@ -1,7 +1,0 @@
-At this point, the two fragments are not firmly held together by covalent bonds; the
-            sugar-phosphate backbone is still broken on both strands. DNA ligases can be used to
-            rejoin DNA after it has been cut with the restriction enzyme. This reaction requires
-            energy (usually ATP) and requires that the two pieces of DNA that are being
-            joined are close to each other. Since the sticky ends hold the two ends close together
-            it is easy for DNA ligase to join the fragments, reforming the phosphodiester bonds on
-            both strands. 

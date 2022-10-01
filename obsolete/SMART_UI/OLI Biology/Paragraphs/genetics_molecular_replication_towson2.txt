@@ -1,5 +1,0 @@
-Think about this: it is critical that the copies of the DNA are exactly like the original, so
-            the daughter cells are identical to the parent cells. There may be changes to DNA
-            sequence by mutations (as you will see in another section), and meiosis introduces some genetic
-            variability when gametes are produced. But for unicellular organisms or for somatic
-            cells, DNA replication is a process that requires high fidelity.

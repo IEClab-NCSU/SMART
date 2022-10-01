@@ -1,8 +1,0 @@
-The conformation of the 
--
- subunits is affected by the relative position of the 
-
- subunit. Since the gamma subunit rotates 120o, there are three
-          possible conformations of the 
--
- subunits:

@@ -1,5 +1,0 @@
-Hydrogen bond (H-bond) is an interaction between a partially positive hydrogen atom and a 
-                                partially negative atom with unshared (lone) pair of electrons. In order for hydrogen to have 
-                                sufficient partial positive charge, hydrogen must be covalently attached to a very 
-                                electronegative atom (O, N, P).  Partially negative atom with lone pair of electrons must 
-                                also be a highly electronegative atom like oxygen or nitrogen.

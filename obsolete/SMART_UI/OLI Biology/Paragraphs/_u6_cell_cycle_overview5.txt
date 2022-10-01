@@ -1,6 +1,0 @@
-Notice that the parent cell no longer exists—but the parent cell did not die. Rather, the
-			contents of the parent cell have been split into two new cells. Each of the new cells
-			contains a portion of the original parent cell. Previously, we compared the cell cycle
-			to the phases of human development. Notice here a very important difference between the
-			two: The far end of human development is marked by the death of the individual. The end
-			of the cell cycle, however, results in the formation of new cells.

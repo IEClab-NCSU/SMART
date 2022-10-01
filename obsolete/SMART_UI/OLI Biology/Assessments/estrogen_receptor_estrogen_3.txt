@@ -1,4 +1,0 @@
-
-Click on this button  -script('select all;monitor off;wireframe off;select (404,421,391,346,EST) and *:C;wireframe 0.4;select est:C;spacefill 0.5;select (404,421,391,346) and *:C and sidechain;define hphob selected;isosurface surf3 select(hphob) ignore(not hphob) molecular;color $surf3 orange;color $surf3 translucent;moveto 1 827 -555 90 78 400","isosurface surf3 off;select all;wireframe off;select EST:C;wireframe 0.3;spacefill 0.4') to highlight with an orange surface some amino acid sidechains that are in close contact with the bound estrogen. 
-Click on these buttons to toggle the surface OFFscript('isosurface surf3 off')ONscript('isosurface surf3 on')
-Question: The highlighted sidechains are involved in which of the following protein-ligand interactions? (Hint: the functional groups on the sidechains is the important consideration.)

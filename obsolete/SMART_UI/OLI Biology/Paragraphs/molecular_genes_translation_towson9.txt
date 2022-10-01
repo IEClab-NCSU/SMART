@@ -1,2 +1,0 @@
-In the exercise below, you will simulate the process of transcription and translation
-			and build a small protein.  Complete the activity and then answer the questions below.

@@ -1,4 +1,0 @@
-An example of linked traits in humans is human hair and skin color. You may have
-                    noticed that red hair and fair skin are often inherited together. This is
-                    because the genes for these traits are very close to each other on the same
-                    chromosome, and they rarely recombine. 

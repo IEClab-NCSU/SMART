@@ -1,7 +1,0 @@
-The most stable situation for an atom is to have its outer shell completely filled with
-			electrons. It is not easy to explain why this is true, but it is a rule of thumb that
-			predicts how atoms will react with each other. Recall from the discussion on electrons, in the
-				Atoms module,
-			that the first electron shell is full with two electrons, and the second and third
-			shells are full with eight electrons. Atoms tend to bond to other atoms in such a way
-			that both atoms have filled outer shells as a result of the interaction.

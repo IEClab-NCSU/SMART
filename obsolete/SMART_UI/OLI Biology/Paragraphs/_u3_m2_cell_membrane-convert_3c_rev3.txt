@@ -1,3 +1,0 @@
-Molecules can also be moved across the membrane in bulk. Additionally, larger items (such
-			as entire cells) can also be taken into a given cell. These processes are types of
-			endocytosis and exoctyosis and will be discussed next.

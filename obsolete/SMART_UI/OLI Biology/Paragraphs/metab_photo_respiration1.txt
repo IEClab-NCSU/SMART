@@ -1,9 +1,0 @@
-As you may recall, photosynthesis occurs in some bacteria; in eukaryotes it occurs in
-			cells that contain chloroplasts. Such cells are found in algae and in the leaves and
-			stems of plants. Photosynthetic organisms use light energy and simple building blocks
-			(carbon dioxide and water) to make their own food. Cellular respiration is very
-			widespread. It is completed in mitochondria, bacteria-like organelles that are found in
-			protists, fungi, plants, and animals. Although the details of the two pathways are
-			different, the overall reaction of cellular respiration is photosynthesis running in
-			reverse. Cellular respiration extracts the stored energy from food molecules, uses it to
-			“charge up” ATP, and releases carbon dioxide and water as wastes.

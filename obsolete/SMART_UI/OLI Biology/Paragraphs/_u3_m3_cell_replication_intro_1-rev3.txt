@@ -1,9 +1,0 @@
-You might be wondering how a single cell can grow into a complex adult organism
-					containing many different cell types simply by mitosis. This happens through a
-					process known as differentiation, in which certain genes found in a
-					cell’s nucleus are turned on or off. Even though every single somatic cell in
-					your body contains identical DNA, these cells were able to differentiate into
-					specific cell types (such as blood cell, liver cells, etc.) simply by turning
-					certain genes on or off. Throughout our lives we continue to produce more
-					genetically identical cells through the process of mitosis. These somatic cells
-					are essential for growth and replacement of worn-out cells and tissues.

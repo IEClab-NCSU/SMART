@@ -1,7 +1,0 @@
-
-Prophase and Prometaphase: The cell
-						prepares to sort the chromosomes.
-Metaphase: Chromosomes are moved to the center of the
-						cell.
-Anaphase: Chromosomes are sorted.
-Telophase: The new nuclei are formed.

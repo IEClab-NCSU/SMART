@@ -1,6 +1,0 @@
- Covalent bonds are the strongest. One atom fully shares one, two or three
-					electrons with another atom., forming a single, double, or triple bond,
-					respectively. The bonds can be between the same element (e.g., C-C bonds) or
-					between different elements (e.g., C-O, C-N, H-O). The nature of the covalent
-					bond is determined by the number of electrons shared and the nature of the two
-					elements attached.

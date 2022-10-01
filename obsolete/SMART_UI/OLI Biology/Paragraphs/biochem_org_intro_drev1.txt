@@ -1,5 +1,0 @@
-Functional groups are parts of organic molecules that have specific properties or
-			functions. Because organic molecules can contain more than one type of functional group,
-			a particular molecule may have multiple properties. Identifying functional groups in
-			molecules is an important skill because once you identify a molecule’s functional
-			groups, you can predict many aspects of its biological behavior.

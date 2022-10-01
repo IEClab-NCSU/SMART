@@ -1,1 +1,0 @@
-Assume that the EcoR1 site on your expression plasmid was replaced by KpnI (GGTAC^C) and that the BamH1 site was replaced by HindIII (A^AGCTT).  Which of the following would be the correct sequence for the synthetic gene?

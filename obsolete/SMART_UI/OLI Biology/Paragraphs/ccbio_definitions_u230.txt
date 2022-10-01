@@ -1,6 +1,0 @@
- Two atoms with the same atomic number (because they are the same element and
-                        have the same number of protons), but different atomic mass (because they
-                        have different numbers of neutrons). Carbon-12 (the number after the hyphen,
-                        12 in this example, indicates the atomic mass), which has 6 protons and 6
-                        neutrons and Carbon-13, which has 6 protons and 7 neutrons are two isotopes
-                        of carbon.

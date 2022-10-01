@@ -1,6 +1,0 @@
-Cells live in dynamic environments. Therefore, it takes work to keep conditions stable in a
-			cell. Precise regulation enables the cell (or body) to establish consistent internal
-			conditions. Factors like pH, ion concentrations, and levels of various substrates and
-			products are held within narrow bounds. This unique environment allows a diverse set of
-			reactions to take place. Many of these chemical reactions are essential for life and all
-			of them help maintain overall health.

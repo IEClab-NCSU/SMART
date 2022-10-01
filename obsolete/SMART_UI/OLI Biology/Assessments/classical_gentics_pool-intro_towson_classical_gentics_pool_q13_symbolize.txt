@@ -1,5 +1,0 @@
-
-
-How many individuals on this pedigree have a genotype where both alleles cannot
-                    be determined with certainty? (That is, how many individuals have a genotype
-                    with a “_”?)

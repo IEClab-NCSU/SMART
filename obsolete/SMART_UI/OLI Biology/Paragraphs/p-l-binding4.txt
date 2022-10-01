@@ -1,2 +1,0 @@
- In the Learn By Doing below, you will explore the equilibrium between free protein,
-			ligand, and the complex, and how ligand concentration affects the equilibrium.

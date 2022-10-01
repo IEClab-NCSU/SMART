@@ -1,9 +1,0 @@
-The bases do not occur as free bases in nature but are always bound to a furanose ring.
-          Since the bases are always associated with a sugar in nature, they take on specific names
-          according to their structure. The base by itself has a specific name and the base attached
-          to a sugar (a nucleoside) has a distinct name. The following table gives the names of the
-          purines and pyrimidines as the free base and as the nucleoside with their one letter
-          abbreviation. The naming of the nucleotidesA component of nucleic acids consisting of a sugar, usually ribose or deoxyribose, a purine or pyrimidine base, and a phosphate group attached either at the 5 prime or 3 prime position of the sugar ring. is analogous to the 
-          nucleosideA component of nucleic acids consisting of a sugar, usually ribose or deoxyribose, and a purine or pyrimidine base. A compound obtained by hydrolysis of a nucleic acid.
-          with the added specification of the location of the phosphate group. An example
-          of this nomeclature is given below the table with the structures.

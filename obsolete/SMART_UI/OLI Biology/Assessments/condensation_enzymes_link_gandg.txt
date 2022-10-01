@@ -1,3 +1,0 @@
-
-Assuming that all possible enzymes are available, how many different glycosidic bonds can be formed by linking a molecule of glucose with a molecule of galactose?
-

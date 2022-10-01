@@ -1,8 +1,0 @@
-The Ka is a small number, usually much less than 1, and can vary by
-					several orders of magnitude from compound to compound. For example, acetic acid
-					has a Ka of around 0.0001 or 1.0 x 10-4 while the
-						Ka of ammonia is 105 fold smaller. Due to the wide
-					range of Ka, it is more practical to represent the Ka on a
-					minus log scale, in the same way as the hydrogen ion concentration.
-					Consequently, the negative log of the Ka is used to represent acidity
-					constants:

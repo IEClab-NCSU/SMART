@@ -1,9 +1,0 @@
-Prokaryotic cells have a simpler structure than eukaryotic cells, and they range in diameter
-			from 0.1 to 5.0 µm (micrometers). Most prokaryotes have a protective layer called the
-				cell wall that is made of peptidoglycan, which is a
-			combination of polysaccharides and amino acids. Prokaryotes also have a cell membrane
-			and cytoplasm. Many prokaryotes also have external appendages such as a flagellum. The cytoplasm contains the DNA and the ribosomes, where protein synthesis takes place. Several types of RNA are
-			involved in the process of protein synthesis, and ribosomal RNA (rRNA) is the main
-			component of ribosomes. Both prokaryotes and eukaryotes have ribosomes, but they are
-			different. Prokaryotic ribosomes are smaller and lighter than their eukaryotic
-			counterparts.

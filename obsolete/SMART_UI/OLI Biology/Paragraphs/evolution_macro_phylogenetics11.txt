@@ -1,9 +1,0 @@
-Every cell has ribosomes, but each organism’s ribosomes are built
-            according to a slightly different set of specifications. Here, then, is a characteristic
-            that we can compare and contrast among every single living species. That is just what
-            Carl Woese, a microbiologist at the University of Illinois, set out to do in the 1970s.
-            He obtained gene sequences for ribosomes of a wide range of species. He focused on part
-            of the small subunit, shown above for one species of heat-loving bacterium. Amazingly,
-            he could line up matching gene sequences (long series of the nucleotide bases A,G,C,T)
-            among various microbes, plants, animal, and fungi. This was painstaking work, done
-            without the aid of modern computers and software.

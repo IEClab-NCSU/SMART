@@ -1,4 +1,0 @@
-Did the Maryland fox population evolve from 1962 to 2202 with respect to the
-                genotypes that determine the type of coat? 
-            
-            

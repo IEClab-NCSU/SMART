@@ -1,4 +1,0 @@
-The process above can be used to produce human insulin or virtually any other
-                    protein in bacteria, simply by changing the DNA sequence of the synthetic gene.
-                    A similar process is used to produce proteins in yeast or mammalian cells for
-                    biomedical applications.

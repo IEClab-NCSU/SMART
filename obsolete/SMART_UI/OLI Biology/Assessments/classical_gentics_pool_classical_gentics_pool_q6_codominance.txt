@@ -1,3 +1,0 @@
-In humans, there are 3 alleles for blood type: A, B, O. A and B are co-dominant
-                over O. A male with O type blood mates with a female with AB type blood. What is the
-                chance that their child will be type A?

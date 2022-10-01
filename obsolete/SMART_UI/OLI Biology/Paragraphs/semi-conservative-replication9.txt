@@ -1,4 +1,0 @@
-DNA polymerase is an enzyme that has very specific substrate requirements and
-          thus controls where the synthesis of DNA can take place. An understanding of the basic
-          mechanism of this enzyme will make the understanding of how DNA replication works become
-          clear. 

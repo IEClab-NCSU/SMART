@@ -1,6 +1,0 @@
- Left alone, enzymes would deplete a cell of all the substrates. In some cases, this may
-			be desirable, such as enzymes that degrade old, worn-out proteins. In other cases, there
-			may be multiple uses for a substrate and depletion, by one enzyme, may be detrimental to
-			the working of a cell. In some cases, such as the digestion of food, the enzyme needs to
-			be functional in the gut but not in the cell. Thus, several types of regulations have
-			evolved that the cell can use to control enzyme rate. 

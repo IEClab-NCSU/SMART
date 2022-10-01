@@ -1,4 +1,0 @@
- Describes a property of matter in which particles tend to stick together.
-                        Liquid water is cohesive and forms spherical droplets because of its
-                        hydrogen bonds which attract the individual water molecules to each
-                        other.

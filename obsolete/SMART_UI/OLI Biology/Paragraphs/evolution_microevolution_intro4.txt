@@ -1,7 +1,0 @@
-There are two defining aspects to a population. A population is strictly composed of
-			members of the same species. For example, a population would always consist of people
-				or of grizzly bears, but never of both people and grizzly bears. Second, the members of a population occupy
-			the same area. Scientists define the area based upon the problem they are studying. In
-			evolutionary studies, biologists try to define populations based on actual patterns of
-			breeding, so that individuals most often breed within their population groups; migration
-			and mixing between populations is less frequent.

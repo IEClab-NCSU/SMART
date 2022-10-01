@@ -1,1 +1,0 @@
-The log<sub>10</sub> of 5 is 0.7. Therefore, the log<sub>10</sub> of 2 is ____; and the log<sub>10</sub> of 1/5 is ____.

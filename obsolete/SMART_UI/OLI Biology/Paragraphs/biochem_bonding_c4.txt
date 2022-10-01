@@ -1,3 +1,0 @@
-When drawing a molecule on paper, covalent bonds are drawn as lines between atom.
-					A single covalent bond is drawn as one line; a double covalent bond is drawn as
-					2 lines.

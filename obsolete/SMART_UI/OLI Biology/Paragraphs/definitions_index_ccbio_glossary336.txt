@@ -1,4 +1,0 @@
-This is the final stage of mitosis. In telophase, new nuclear
-                                envelopes form around the separated chromosomes at each pole of the
-                                cell, the chromosomes unfold back into chromatin, nucleoli reappear,
-                                and the cell continues to elongate. 

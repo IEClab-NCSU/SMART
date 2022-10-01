@@ -1,5 +1,0 @@
-The structure of the 20 common amino acids is shown in the table. Click on any of
-					the 2D drawings of an amino acid below and the 3D structure will be
-				presented in the Jmol window on the right. (Note: you may need to click twice the
-				first time you use this tool.) Initially, a 2D drawing of the simplest amino acid,
-				glycine, is shown in the upper left and its 3D structure is shown on the right.

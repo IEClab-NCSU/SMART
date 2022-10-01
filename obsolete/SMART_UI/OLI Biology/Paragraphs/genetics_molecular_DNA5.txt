@@ -1,7 +1,0 @@
-Structure of DNA double helix.  On the left: Sugar-phosphate backbone is shown
-                        in yellow, specific base pairings via hydrogen bonds (red lines) are colored in
-                green and purple (A-T pair) and red and blue (C-G). On the right: Three-dimensional
-                        structure of DNA double helix. Click on the checkboxes to highight the A-T and C-G 
-                        basepairs. Click on 'Spin On' to automatically rotate the DNA helix structure. 						
-                        Graphic by Madeleine Price Ball (DNA chemical
-                    structure) CC-BY-SA-2.0

@@ -1,3 +1,0 @@
-Although most of the time DNA fragments are joined using sticky ends, it is possible to
-            join fragments that are blunt ended. This is more difficult however because there are no
-            hydrogen bonds to hold the DNA fragments together.

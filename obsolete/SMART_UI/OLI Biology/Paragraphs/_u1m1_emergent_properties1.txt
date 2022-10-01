@@ -1,9 +1,0 @@
-Life is organized into hierarchical levels of increasing complexity. The study of
-					biology involves all these levels, from single atoms or molecules up to global
-					relationships among organisms and the environment. As we ascend through this
-					hierarchy to more and more complex levels, emergent properties appear. These are
-					characteristics of a system that are not present in any of its component parts.
-					Take, for example, an automobile. The separated parts of the automobile amount
-					to a heap of junk. Only when properly assembled, with gas, the right key, and a
-					human driver, does the car fulfill its function, which is to transport us from
-					place to place. 

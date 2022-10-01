@@ -1,9 +1,0 @@
-In this module, we looked at the deer population in Valley Forge National
-                    Historical Park as a case study in population ecology. When the Park was
-                    established and closed off to hunting, the population initially shot up in a
-                    pattern resembling exponential growth. It then leveled off when the deer
-                    population reached its carrying capacity in the absence of hunting,
-                    demonstrating logistic growth. Unfortunately, this produced a density of deer
-                    that was harmful to the Park’s plant populations. To protect the Park’s plant
-                    diversity, managers used sharpshooters to increase deer mortality and limit the
-                    population size.

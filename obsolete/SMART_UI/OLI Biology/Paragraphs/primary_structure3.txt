@@ -1,3 +1,0 @@
-Proteins do not exist as linear threads in the cells but rather as spontaneously folded higher order structures. The higher order structure is determined by the amino acids in the
-primary structure. The function of a protein is determined by its higher order structure. 
-    		

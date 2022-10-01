@@ -1,7 +1,0 @@
-The experimental group receives the vaccine, but how can we know if the vaccine made a
-			difference? Many things may change HPV infection rates in a group of people over time.
-			To clearly show that the vaccine was effective in helping the experimental group, we
-			need to include in our study an otherwise similar control group that does not get the
-			treatment. We can then compare the two groups and determine if the vaccine made a
-			difference. The control group shows us what happens in the absence of the
-			factor under study.

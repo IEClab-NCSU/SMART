@@ -1,5 +1,0 @@
-After his first experiment with crossing involving one trait, Mendel conducted
-                    experiments looking at the inheritance of two traits. For example, he crossed
-                    true-breeding plants that had yellow, round seeds with true-breeding plants that
-                    had green, wrinkled seeds. The resulting F1 generation plants all produced
-                    yellow, round seeds.

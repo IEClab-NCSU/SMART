@@ -1,2 +1,0 @@
-[insert screen shot of replisome at one fork from DNA replication simulation stopped at
-        point where Primase has added the RNA primer but DNA polymerase as not yet arrived.]

@@ -1,7 +1,0 @@
-Molecules that contain a very polar part and a very nonpolar part are called
-							amphipathic. The polar part interacts with water,
-					forming strong interactions, while the nonpolar part doesn’t interact with water
-					because of the hydrophobic effect. In order to accomplish this, amphipathic
-					molecules usually undergo spontaneous self-assembly into structures that expose
-					the polar part to water and keep the nonpolar section away from water. One
-					example of amphipathic molecules are fatty acids. 

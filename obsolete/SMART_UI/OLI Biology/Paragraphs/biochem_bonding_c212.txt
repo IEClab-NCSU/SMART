@@ -1,5 +1,0 @@
-These conventions simplify diagrams of molecular structures. The cholesterol
-					molecule, shown below, looks much cleaner than if we had to draw each carbon and
-					hydrogen atom. You may also notice that this image has different looking bonds.
-					These solid and striped triangle-shaped bonds describe the 3 dimensional shape
-					of the molecule.

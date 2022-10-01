@@ -1,8 +1,0 @@
- Atoms differ from one another in their number of protons, electrons, neutrons, and chemical properties
-			which affect the ability of atoms to combine to form substances. An atom is the smallest
-			unit of an element that retains all of the properties of that element. So, an
-				element is a substance that is composed of a single type of atom. But,
-			how do you know what kind of atom you have? It is easy! Count the number of protons in the
-			atom’s nucleus, and that will tell you what kind of element that atom is.
-			The number of protons in an atom is denoted by the atomic number displayed
-			for each element in the periodic table. 

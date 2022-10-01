@@ -1,4 +1,0 @@
-Look at the trinucleotide above. Notice that the carbons on one of the sugar molecules are
-				labeled 1’ (one prime) to 5’ (five prime). The “primes” are used to distinguish the
-				number of carbons on the ribose versus those on the base. Which carbon is linked to
-				the nitrogenous base?

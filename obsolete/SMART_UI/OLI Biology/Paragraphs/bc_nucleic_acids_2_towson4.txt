@@ -1,4 +1,0 @@
-Finally, nucleotides can differ in the number of phosphate groups they contain.
-					DNA and RNA nucleotides contain just one phosphate. But a very common nucleotide
-					used for energy adenosine triphosphate (ATP) contains three phosphates.
-					We will look at this molecule in greater detail in the Metabolism unit.

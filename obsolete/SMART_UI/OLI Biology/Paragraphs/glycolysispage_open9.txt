@@ -1,2 +1,0 @@
-Instructions: Compare the behavior of the two simulations to see how the Hexose Kinase 
-            molecule changes the concentration of glucose inside and outside of the cell.

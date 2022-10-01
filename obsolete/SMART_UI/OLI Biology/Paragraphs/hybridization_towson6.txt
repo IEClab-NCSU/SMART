@@ -1,7 +1,0 @@
-The stability of double stranded DNA is due to two factors, hydrogen bonds and base
-          stacking. Hydrogen bonds provide an attractive force between the strands while base
-          stacking (van der Waals) stabilizes the helical structure. The Jmol below shows the
-          stacking of the bases and illustrates the hydrogen bonding pattern for a GC basepair. The
-          stability of the DNA is to some extent determined by the number of hydrogen bonds holding
-          the two strands together. Thus DNA with more GC base pairs is likely to be more stable
-          than one with more AT base pairs.

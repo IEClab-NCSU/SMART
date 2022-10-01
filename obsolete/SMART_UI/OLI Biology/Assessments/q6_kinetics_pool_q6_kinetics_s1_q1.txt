@@ -1,2 +1,0 @@
-The initial rate of an enzymatic reaction is usually measured experimentally so that
-            

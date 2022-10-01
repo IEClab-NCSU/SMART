@@ -1,3 +1,0 @@
-This short duplex structure is anti-parallel and has 15 hydrogen bonds holding the two
-          strands together. As written this is a duplex of two strands of RNA. The figure below
-          shows the same structure as a duplex of DNA.

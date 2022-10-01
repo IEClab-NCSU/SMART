@@ -1,3 +1,0 @@
-To this point, you have learned much about how pathways work. They proceed as a series of
-			steps catalyzed by enzymes. They are regulated by factors that modify enzymes or alter
-			the expression of genes.

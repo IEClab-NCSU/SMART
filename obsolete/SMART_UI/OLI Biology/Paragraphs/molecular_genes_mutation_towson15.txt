@@ -1,8 +1,0 @@
-Below you are given a sequence in the middle of the DNA template for the normal
-				(wild-type) hemoglobin gene. Also given is the amino acid sequence and the amino
-				acid position; notice how each is aligned to the DNA template sequence. In humans, a
-				mutation can occur in this gene resulting in a change in the hemoglobin amino acid
-				sequence, and ultimately, a change in the protein shape and function. This mutation
-				caused a disease called sickle cell anemia. You are shown the same sequence of
-				template DNA for the mutated, sickle cell, sequence. Analyze both sequences and
-				answer the questions below.

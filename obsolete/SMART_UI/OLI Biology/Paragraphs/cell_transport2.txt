@@ -1,4 +1,0 @@
-Transport proteins can either be energy requiring, that is active, or passive. Passive
-			transport is possible when the transport molecule is moving a molecule down its
-			concentration gradient. When the cell needs to move molecules against a concentration
-			gradient then it must expend energy. 

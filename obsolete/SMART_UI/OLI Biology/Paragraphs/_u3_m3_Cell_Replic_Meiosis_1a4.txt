@@ -1,4 +1,0 @@
-Humans have 23 pairs of chromosomes (2n = 46). Of those 23 pairs, 22 are autosomes, and
-			the 23rd pair are sex chromosomes. Sex chromosomes can be of two types: X
-			and Y. Males have one X and one Y chromosome (XY), while women have two copies of the X
-			chromosome (XX).

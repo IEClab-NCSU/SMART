@@ -1,3 +1,0 @@
-The net movement of molecules is from high concentration to low concentration.
-				But, if you watch a single dye molecule, would it always be moving down its
-				concentration gradient?

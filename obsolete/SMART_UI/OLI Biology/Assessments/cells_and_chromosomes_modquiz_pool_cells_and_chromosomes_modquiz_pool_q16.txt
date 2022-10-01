@@ -1,3 +1,0 @@
-Imagine a hypothetical organism (critter). A DIPLOID cell from this organism has
-            20 chromosomes. How many chromosomes would be found in a HAPLOID GAMETE of this
-            organism?

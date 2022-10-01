@@ -1,8 +1,0 @@
-Look at the drawing below. The box is a “stock” - usually the body of an organism
-				- containing stored chemical energy. The arrows represent “flows” of energy in and
-				out. If energy flowing in is greater than energy flowing out, energy will accumulate
-				in the box and the organism will grow. If energy flowing out is greater than intake,
-				the organism will decline in size and perhaps die.
-
-Which of the following would be
-					correct for the "Energy In" box? 

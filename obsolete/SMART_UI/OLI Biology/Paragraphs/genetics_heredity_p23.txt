@@ -1,8 +1,0 @@
-For example, protein enzymes in plants catalyze production of the pigments, resulting in
-            flowers of different colors. The color of the flower is one of the observable traits, or
-            the phenotype of the plant. The genetic information that produces these traits
-            is called the genotype of an organism. Depending on the pigment production,
-            the flowers can have a variety of different colors. Flower color is determined by specific
-            genes in the cells. The variations in the same gene are called alleles. In
-            our example, different alleles of the pigment-producing gene can result in more or less
-            pigment, and, consequently, in darker or light flower color. 

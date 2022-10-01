@@ -1,4 +1,0 @@
- When two amino acids are joined a peptide bond is formed through a
-condensation reaction. The carbonyl electrons are partially shared by the
-carbon nitrogen peptide bond giving the carbonyl carbon/amide nitrogen bond a slight double bond character. Because of this partial double bond character, rotation around the C-N peptide
-bond is prevented and thus the peptide bond is planar. This is the first and a major constraint placed on protein folding. The figure below depicts the six atoms that are included in the planar peptide bond: the carbonyl carbon, the carbonyl oxygen, the alpha carbon attached to the carbonyl carbon, the amide nitrogen (of the second amino acid), the hydrogen attached to the amide nitrogen, and the alpha carbon of the second amino acid.   Two possible orientations of the planer peptide bond are possible, the trans from and the cis form.  Although both are planer, the trans form is more stable and this form is shown in the diagram below.

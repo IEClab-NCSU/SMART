@@ -1,5 +1,0 @@
-
-Fatty acids and steroids from acetyl-CoA.
-Amino acids aspartate, asparagine, lysine, isoleucine, methionine from oxaloacetate.
-Amino acids glutamate, glutamine, proline, arginine from alpha-ketoglutaric acid
-Porphyrin, a precursor to heme, from Succinyl-CoA

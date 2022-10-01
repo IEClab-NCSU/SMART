@@ -1,7 +1,0 @@
- During both replication and transcription errors can be made in the incorporation of the
-			correct bases during the complementary copying of the DNA. In a previous section a
-			discussion of the methods used by the system to minimize these errors has been
-			presented. However, even with editing functions, some errors are generated and result in
-			changing of the reading code used during translation to a protein sequence. These
-			changes are referred to as mutations and can be categorized into four different
-			categories described by the end result of the mutation or change.

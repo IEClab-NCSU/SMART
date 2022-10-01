@@ -1,2 +1,0 @@
-If the dissociation constant for the binding of a ligand to a protein increases 10 fold, the x-intercept on the Hill plot will:
-            

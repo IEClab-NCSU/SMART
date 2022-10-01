@@ -1,3 +1,0 @@
-A segment of DNA that is recognized by the lac repressor protein.
-                                When the lac repressor protein is bound to the operator, no mRNA is
-                                made from the genes that encode lactose metabolism. 

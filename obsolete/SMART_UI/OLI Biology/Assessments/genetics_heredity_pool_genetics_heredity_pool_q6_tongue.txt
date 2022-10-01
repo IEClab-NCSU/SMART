@@ -1,8 +1,0 @@
-
-The next three questions are based on the following information.
-In humans, the ability to roll the tongue (T) is dominant over the inability to
-                    do so (t). Suppose Mike, who can roll his tongue, and Jeannie, who cannot roll
-                    her tongue, have a child, Benjamin.
-Part 1 of 3: If Mike’s mother was able to roll her tongue but his father was not
-                    able to roll his, then what is the probability that Benjamin will be able to
-                    roll his tongue?

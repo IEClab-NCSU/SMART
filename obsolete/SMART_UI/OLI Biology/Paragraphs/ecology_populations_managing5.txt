@@ -1,3 +1,0 @@
-Many harvestable populations grow in a way that is fairly close to the logistic
-				growth model predictions. In the graph above, tangent lines are used to illustrate
-				how quickly a population is growing at three different population sizes.

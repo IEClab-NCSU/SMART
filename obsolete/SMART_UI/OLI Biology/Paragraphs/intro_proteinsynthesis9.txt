@@ -1,7 +1,0 @@
-
-
-Ribosomes are quaternary complexes of rRNA and proteins. When they are not
-				translating RNA to protein, the ribosomes exist as two separated subunits: a large
-				(50S) subunit and a small (30S) subunit as depicted in the figure below. During the
-				formation of the 70S initiation complex that starts translation, the two subunits
-				come together to form the complete ribosome.

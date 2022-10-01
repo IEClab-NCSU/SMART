@@ -1,7 +1,0 @@
- Weak electrostatic attraction that occurs between the partial positive
-                        charge on the hydrogen atom of one polar molecule and the partial negative charge
-                        in some region of another polar molecule. The separation of charge within a
-                        molecule (required for hydrogen bonding between molecules) usually occurs
-                        where an electronegative element (usually oxygen:O  or nitrogen:N) is bonded to a hydrogen
-                        atom.
-                    

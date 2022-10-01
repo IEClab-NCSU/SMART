@@ -1,7 +1,0 @@
-In the early 1700s, Carolus Linnaeus established the modern system for naming and
-            classifying organisms. In it, species are placed in nested groups based on their shared
-            characteristics. Species correspond to biological lineages. Higher levels of
-            classification are the genus, family, order, class, phylum, and kingdom. Each level is
-            nested within the next higher level; all members of a genus, for example, are members of
-            the same family, order, and so on. Below, the Linnaean hierarchy is shown for the
-            Roseate Spoonbill.

@@ -1,6 +1,0 @@
-The plasma membrane is a very selective barrier. We have seen how some small molecule pass
-			freely, but most molecules are selectively brought into the cells using transporter proteins.
-			Most of these small molecules are metabolites or ions used in the general metabolism of the cell.
-		The cell also needs to transduce information across its membrane. Cells receive signals from the
-			surrounding fluids and other cells. These signals may tell the cell to divide or prevent division
-			and promote growth.

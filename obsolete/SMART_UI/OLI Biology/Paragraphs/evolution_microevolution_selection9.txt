@@ -1,3 +1,0 @@
-Selection occurs whenever some genetic types in a population reproduce more than
-					others in a given environment; in natural selection, the favored types do best
-					because:

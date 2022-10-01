@@ -1,5 +1,0 @@
-Let’s begin with a diploid cell that is 2N = 4. This cell has two copies of each
-					of its two chromosomes. During the S phase of interphase, the cell
-					replicates its DNA. This results in two sister chromatids that are attached to each
-					other at the centromere. The chromosomes have not condensed enough at this point
-					to be visible with a microscope.

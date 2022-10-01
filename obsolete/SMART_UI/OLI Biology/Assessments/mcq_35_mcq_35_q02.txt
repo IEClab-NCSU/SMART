@@ -1,3 +1,0 @@
-
- DNA with a GC content of 50% will melt at approximately ____ degrees C under typical conditions for PCR
- 

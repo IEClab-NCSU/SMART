@@ -1,2 +1,0 @@
-A substrate the has numerous interactions with its enzyme will show a lower
-                              KM than a substrate that has few interactions.

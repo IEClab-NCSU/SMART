@@ -1,4 +1,0 @@
-In a clinical setting, it is very important that IV (intravenous) fluids are isotonic
-				to the patient’s blood cells. This will ensure that blood cells maintain their
-				physical integrity because they neither shrink (due to hypertonic fluids) nor swell
-				(due to hypotonic solutions).

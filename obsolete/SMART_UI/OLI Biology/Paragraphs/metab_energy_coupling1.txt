@@ -1,6 +1,0 @@
-A reaction will be spontaneous in the forward direction if the Gibbs free energy for that
-      reaction is less than zero. The same reaction, if run in the reverse direction, will have a
-      positive Gibbs free energy and will therefore be non-spontaneous. If it is necessary to
-      reverse the direction of this reaction to reverse the direction of the pathway, then the sign
-      of the GIbbs free energy for the reverse reaction has to become negative. If you recall, the
-      Gibbs free energy:

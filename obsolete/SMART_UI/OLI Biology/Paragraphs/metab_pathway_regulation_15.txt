@@ -1,8 +1,0 @@
-Let’s look at an example of a metabolic pathway and explore one mechanism that
-				regulates it. You may remember that cellular respiration is an essential
-					catabolic
-					pathway. Cellular respiration starts with a pathway called
-					glycolysis, which degrades three-carbon glucose into a three-carbon
-				molecule called pyruvate. Glucose can come from ingested carbohydrates,
-				or from degradation of glycogen, a polysaccharide. When there is an excess of
-				carbohydrates, they are stored as glycogen in an anabolic pathway.

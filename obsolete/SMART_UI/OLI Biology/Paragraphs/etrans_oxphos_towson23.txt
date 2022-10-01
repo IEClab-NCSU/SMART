@@ -1,8 +1,0 @@
-Complete rotation of the 
-
- subunit requires the transfer of 9 protons across the membrane. This generates a
-          total of 3 ATP molecules since there are three ADP/ATP binding sites on the F1
-          domain, one associated with each 
--
- subunit. Consequently, only three protons are required to synthesize one
-          ATP.

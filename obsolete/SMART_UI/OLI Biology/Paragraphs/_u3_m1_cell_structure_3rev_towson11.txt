@@ -1,9 +1,0 @@
-Factories often have assembly lines that put together the company’s
-							product. In the cell, proteins and other cellular
-							components are put together, or assembled, by the endoplasmic
-									reticulum (ER), a series of sacs and tubes. In
-							eukaryotes, ribosomes are associated with the
-							"rough ER," which gets its name from the beaded appearance that the
-							ribosomes give it. The smooth ER (without ribosomes) can have different
-							functions depending on the cell type, but it is often the site for the
-							synthesis of lipids. 

@@ -1,4 +1,0 @@
-The ability of an atom to draw shared electrons closer to itself. Strongly
-                        electronegative atoms bonded to weakly electronegative hydrogen atoms, in a
-                        molecule, result in hydrogen bonding. The most important strongly
-                        electronegative elements in biological systems are oxygen and nitrogen.

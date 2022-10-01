@@ -1,2 +1,0 @@
-The double-reciprocal transformation of the Michaelis-Menten equation, also called the Lineweaver-Burk plot, is given by 1/V0 = Km /(Vmax[S]) + 1/Vmax. To determine Km from a double-reciprocal plot, you would:
-            

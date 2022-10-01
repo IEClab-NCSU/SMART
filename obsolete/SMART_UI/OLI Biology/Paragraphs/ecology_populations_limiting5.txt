@@ -1,8 +1,0 @@
-Sometimes limiting factors act in an unpredictable way to reduce population sizes. Hard
-			freezes, fires, droughts, and floods are all examples of factors that could act to
-			quickly reduce a population. These factors most strongly affect small-bodied organisms
-			that are easy to kill such as insects, microbes, and weedy plants. Their populations
-			often show an erratic boom-and-bust pattern: population sizes shoot up when times are
-			good and crash when conditions are bad. Ecologists agree that it is difficult to predict
-			or model the changes in such populations, except by taking into account the weather or
-			other outside factors known to control them.

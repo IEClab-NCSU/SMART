@@ -1,4 +1,0 @@
-Aromatic Compounds: Involve the sharing of electrons between atoms that
-					form a ring. The shared electrons form a partial (1/2) double bond between each
-					atom in the ring structure. Aromatic compounds have unique geometrical
-					properties and absorb ultraviolet light .

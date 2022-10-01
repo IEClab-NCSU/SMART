@@ -1,6 +1,0 @@
-Chemical bonds that form molecules and are a result of sharing of
-                                electrons; electrons can be shared equally (non-polar covalent) or
-                                unequally (polar covalent). In the diagram below that illustrates
-                                the formation of a methane molecule, the carbon atom shares each of
-                                its four (4) valence electrons with one hydrogen atom, which in turn
-                                shares its one valence electron with the carbon atom. 

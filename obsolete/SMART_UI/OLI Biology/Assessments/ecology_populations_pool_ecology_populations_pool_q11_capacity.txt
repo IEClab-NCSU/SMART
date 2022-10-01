@@ -1,3 +1,0 @@
-At a certain population size called the _______________, a self-limiting population
-            will tend to stay at the same size because the birth rate is equal to the death
-            rate.

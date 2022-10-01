@@ -1,6 +1,0 @@
-In addition to providing information about each element’s atomic number,
-					most periodic tables also provide an atomic mass for each element. The atomic mass, also
-					known as the atomic weight, reports the mass of the nucleus. The mass of the
-					nucleus is the sum of all protons and neutrons found in the nucleus. A hydrogen
-					atom has one proton and would therefore have an atomic mass of one. A carbon
-					atom, which has six protons and six neutrons, would have an atomic mass of 12. 

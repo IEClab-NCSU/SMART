@@ -1,4 +1,0 @@
-Much of our DNA contains a number of short DNA segments that are repeated over and over
-            again at different locations in our genome. The number of these tandem repeats at each
-            location in the genome can differ from individual to individual, with 5 to 20 percent of
-            individuals having the same number of tandem repeats at the same location.

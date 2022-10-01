@@ -1,4 +1,0 @@
-Entry of fatty acids into the TCA occurs directly into acetyl-CoA. During the
-          process of fatty acid oxidation (beta-oxidation) which also occurs in the mitochondrial
-          matrix, two-carbon fragments are progressively released from fatty acids and incorporated
-          into acetyl-CoA.

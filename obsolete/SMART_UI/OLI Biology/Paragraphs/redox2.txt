@@ -1,3 +1,0 @@
-Oxidation-reduction reactions, or Redox reactions are common in metabolic pathways.
-      Generally, degradative (catabolic) pathways cause the net oxidation of compounds, releasing
-      energy. In contrast, synthetic (anabolilc) pathways, are generally reductive pathways. 

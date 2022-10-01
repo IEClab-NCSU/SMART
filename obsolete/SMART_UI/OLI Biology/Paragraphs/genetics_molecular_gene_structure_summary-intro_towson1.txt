@@ -1,6 +1,0 @@
-Manipulation of DNA has opened an incredible array of possibilities for humanity.
-                    From the industrial production of biological molecules in bacteria, to gene
-                    therapy, biotechnology has brought dramatic changes to medicine, agriculture,
-                    forensics, and many other disciplines. In this module you revisited how a gene
-                    can be inserted and expressed in a bacterium. making possible the large scale
-                    production of an important hormone.

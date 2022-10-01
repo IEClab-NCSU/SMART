@@ -1,7 +1,0 @@
-A change in the pKa from 5 to a pKa 4 is the change by a
-					factor of 10 in the Ka. The table below will help you see the
-					relationship between Ka and pKa. The pKa is a
-					convenient scale for comparing the dissociation constants of weak acids because
-					the pKa scale is similar to the pH scale. The relationship between the two will
-					be explained in the next few pages. Remember that the pKa is
-					a property of the acidic group while pH is a property of the solution.

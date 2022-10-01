@@ -1,4 +1,0 @@
-One simplified but useful analogy of a cell is that of a factory. Just as in a factory,
-			cells have a wall or membrane providing a protective enclosure, a planning center where
-			the product blueprints are stored, a source of energy, an assembly line for production,
-			packaging and shipping facilities, storage facilities, etc. 

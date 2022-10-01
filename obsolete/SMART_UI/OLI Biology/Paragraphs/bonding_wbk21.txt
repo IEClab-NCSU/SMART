@@ -1,2 +1,0 @@
-Instructions: Try to identify the chiral center(s) of a more complicated molecule - the amino acid threonine,
-						one of the building blocks of proteins.

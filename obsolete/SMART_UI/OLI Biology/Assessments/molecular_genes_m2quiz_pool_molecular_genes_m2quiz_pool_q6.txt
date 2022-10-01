@@ -1,2 +1,0 @@
-A gene codes for a protein that is 500 amino acids long. A nonsense mutation occurs at
-            the 6th codon. What is the result?

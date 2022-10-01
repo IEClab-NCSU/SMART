@@ -1,5 +1,0 @@
-In the Mendelian pattern, it is possible to pinpoint a gene/allele coding for a
-                    specific protein to a particular trait. There are, however, more complex
-                    patterns to consider as well, such as epistasis, in which genes can influence
-                    each other’s expression, and polygenic inheritance, in which more than one gene
-                    is responsible for a particular trait. 

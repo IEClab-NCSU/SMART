@@ -1,2 +1,0 @@
-Given the above information, your task is to deduce the series of reactions that convert
-          citrate back to oxaloacetate using the following  learn-by-doing activity. 

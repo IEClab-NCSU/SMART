@@ -1,4 +1,0 @@
- The synthesis of ATP utilizing the proton gradient as a source of energy is an example
-          of direct coupling. The energy released as the protons flow through the enzyme cause a
-          conformational change in the protein that causes the formation of ATP from bound ADP and
-          inorganic phosphate. 

@@ -1,3 +1,0 @@
-The state in which unfolded protein chains become entangled with one
-                                another. Extreme temperature and pH are two causes of protein
-                                denaturation. 

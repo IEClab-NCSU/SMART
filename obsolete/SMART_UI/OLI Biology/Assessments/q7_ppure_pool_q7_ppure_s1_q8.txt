@@ -1,2 +1,0 @@
-You are using anion exchange chromatography to separate your target enzyme from a complex mixture of proteins. Your protein does not bind to the column and is washed through along with many other contaminating proteins. Do you expect the specific activity of this material to be
-   

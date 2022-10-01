@@ -1,6 +1,0 @@
-Synthesis of a new DNA double helix. It is the process by which a
-                                cell, when dividing, makes a copy of its DNA by an enzyme-catalyzed
-                                reaction. Each strand in the existing double helix is used as a
-                                template strand to build a new DNA strand. The result of DNA
-                                replication is that the daughter cells produced in cell division
-                                have the same DNA as the original cell. 

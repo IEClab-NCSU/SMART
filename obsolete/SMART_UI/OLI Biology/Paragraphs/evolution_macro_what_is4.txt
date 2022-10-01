@@ -1,3 +1,0 @@
-To recap, a lineage is a group of populations that can exchange genes and individuals and
-            that evolves as a unit as shown in the Figure below. The lineage evolves through changes
-            that occur in its component populations.

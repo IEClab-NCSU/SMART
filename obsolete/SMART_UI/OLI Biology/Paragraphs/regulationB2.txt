@@ -1,3 +1,0 @@
-It is essential that biochemical pathways are regulated, otherwise the cell would waste
-      resources. Some general properties associated with the regulation of metabolic pathways are
-      listed below

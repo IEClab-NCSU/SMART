@@ -1,5 +1,0 @@
-Hydrogen bonding is the attraction of an electronegative atom for a hydrogen that is
-					covalently bonded to another electronegative atom. This involves the attraction
-					of a hydrogen with a partial positive charge to an atom with a partial negative
-					charge. However, only hydrogen covalently bonded to an electronegative atom can
-					participate in hydrogen bonding.

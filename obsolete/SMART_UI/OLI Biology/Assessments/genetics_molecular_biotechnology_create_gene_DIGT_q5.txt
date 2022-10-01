@@ -1,3 +1,0 @@
-You want to make a synthetic gene that will encode the protein Met-Phe-Cys. You
-                need to design this gene so that it will be expressed in bacteria. The correct DNA
-                sequence is:

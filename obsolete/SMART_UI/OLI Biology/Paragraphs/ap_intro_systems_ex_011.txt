@@ -1,9 +1,0 @@
-Every cell needs to take in nutrients and get rid of waste products. This is accomplished
-            via processes that exchange molecules across the cell membrane. For a single-celled
-            organism, this is accomplished through direct exchange with the environment. It gets
-            more complicated with larger organisms where cells are not in direct contact with the
-            “outside” environment. In such organisms, including humans, there are specialized organ
-            systems that serve as interfaces with the environment, moving things into, and out of,
-            the body to keep it functioning. The two major organ systems that serve to exchange
-            nutrients and waste with the environment are the digestive system (food and
-            feces) and respiratory system (oxygen and carbon dioxide).

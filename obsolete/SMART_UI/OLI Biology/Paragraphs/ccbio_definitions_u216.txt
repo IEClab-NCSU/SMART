@@ -1,2 +1,0 @@
-Mass of an atom. Can be approximated by adding the number of protons and the
-                        number of neutrons.

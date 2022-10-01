@@ -1,1 +1,0 @@
-Instructions: The right hand Jmol shows the 3D structure, with one of the monosaccharides highlighted. When answering the questions below the Jmol, keep in mind that the orientation of the two rings in the 3D structure may differ from the 2D line drawing on the left.

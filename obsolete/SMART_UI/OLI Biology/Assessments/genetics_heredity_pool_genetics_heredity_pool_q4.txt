@@ -1,2 +1,0 @@
-List all possible gametes that can be produced from a cell that has the following
-                genotype: AaBBDd.

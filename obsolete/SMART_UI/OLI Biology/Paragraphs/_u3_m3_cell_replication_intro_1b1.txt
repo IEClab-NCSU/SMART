@@ -1,6 +1,0 @@
-Chromosomes are thread-like structures located inside cells. In eukaryotic
-				cells, the chromosomes are contained inside an organelle called a nucleus. In prokaryotic
-				cells, they are located in a particular area of the cytoplasm.
-			Chromosomes are made up of two major parts: DNA and proteins. Both DNA and proteins are
-				large molecules. Envision the general makeup of a
-				chromosome, as shown in the following diagram.

@@ -1,6 +1,0 @@
-Since the first two reactions use ATP to drive an otherwise unfavorable reaction, the
-          phosphorylation of sugars, the simpler reverse reaction, hydrolysis, will be favorable and
-          spontaneous. Consequently, in gluconeogenesis these two steps are catalyzed by
-          phosphatases instead of kinases. The third reaction in glycolysis, phosphoenol pyruvate
-          (PEP) to pyruvate, has such a large decrease in energy that it cannot be easily reversed
-          and must be accomplished by a different method.

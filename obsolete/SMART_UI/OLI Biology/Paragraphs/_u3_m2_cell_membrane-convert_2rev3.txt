@@ -1,3 +1,0 @@
-This module will discuss how the cell membrane controls the transport of nutrients, ions and
-					signals between the highly variable outside environment and the relatively
-					well-defined interior of the cell.

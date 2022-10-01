@@ -1,8 +1,0 @@
-In summary, metabolic pathways are dynamic processes, continuously changing in response
-			to environmental changes and cellular (or organismal) needs, while avoiding waste of
-			resources. How much substrate or enzyme is available will determine the rate of
-			reactions. Moreover, extreme “fine-tuning” of metabolism is possible through changes in
-			enzyme activity due to the binding of inhibitors. This is a prime example of
-			the relationship between structure and function. Underscoring the importance of metabolic regulation, in
-			the next module you will learn about medical conditions caused by structural changes in
-			enzymes that in turn affects the metabolic pathways they are involved.

@@ -1,5 +1,0 @@
-The cell membrane provides a semi-permeable barrier between the inside and the outside of
-			the cell. This barrier provides control for transport of nutrients, ions, and signals
-			between the highly variable outside environment and the relatively well-defined interior
-			of the cell. Here we will explore the ways in which molecules can pass across the
-			membrane.

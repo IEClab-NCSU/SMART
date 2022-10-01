@@ -1,7 +1,0 @@
-What is the connection between genes and traits? We must now consider alleles, which are observed variations in the sequence of bases for a
-            particular gene. Two alleles of a gene may differ by a single base. On one end of the
-            spectrum, an allele may refer to a total deletion of a gene. A diploid organism has two
-            alleles of each gene, one from the organism’s mother and one from its father. The
-            combination of the two alleles of a particular gene is the genetic determinant of the
-            phenotypic traits of the organism. Note that in addition to genetic factors, environment
-            also contributes to traits. We will consider environmental effects in a later section. 

@@ -1,6 +1,0 @@
-As you can see, 100 percent of the offspring have the Bb genotype, but 100 percent also
-            show the purple phenotype. You might expect the offspring to show a phenotype that
-            somehow blends the parental phenotypes. Sometimes this happens, but in the case of these
-            pea plants' flower color, the purple allele (B) is dominant over the white
-            allele (b). Stated another way, the white allele (b) is recessive to the purple
-            allele (B).

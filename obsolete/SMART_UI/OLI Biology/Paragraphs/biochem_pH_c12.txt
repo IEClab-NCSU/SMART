@@ -1,7 +1,0 @@
-
-Red litmus paper turns blue in the presence of a base (it does not change color in the
-				presence of an acid).				
-			
-Blue litmus paper turns red in the presence of an acid (it does not change color in the
-				presence of a base).				
-			

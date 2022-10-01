@@ -1,5 +1,0 @@
-The central anabolic pathway enabling most life on Earth is photosynthesis. Photosynthetic organisms (plants, algae, and cyanobacteria)
-			use light energy to build sugar molecules from carbon dioxide and water. In this way,
-			they effectively convert light energy from the sun into the chemical bond energy of
-			sugar molecules. Sugar is a good medium-term energy storage molecule, but is not
-			directly useful for doing work in cells. 

@@ -1,9 +1,0 @@
-You may have another question about the skeletal diagrams: what happened to the hydrogen
-					atoms attached to the carbon atoms? It looks like some of the carbons only have
-					two or three covalent bonds! 
-					The skeletal diagrams are often drawn to be simple,
-					not to show every atom. It is understood that carbon must have four bonds, and
-					in any carbon-based molecule there are often one, two, or even three hydrogen
-					atoms bonded to each carbon. To clean up the diagram, the H atoms are not drawn.
-					It is assumed you will understand that any “missing” bond is actually provided
-					by a hydrogen atom.

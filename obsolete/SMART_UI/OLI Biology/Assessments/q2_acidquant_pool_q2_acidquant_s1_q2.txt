@@ -1,2 +1,0 @@
-A buffer with a pKa of 6.0 is at a pH of 5.0. What is the ratio of [A-] to [HA]?
-            

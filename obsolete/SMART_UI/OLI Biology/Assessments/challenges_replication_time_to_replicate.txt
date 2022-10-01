@@ -1,8 +1,0 @@
-
-A
-
-B
-
-The length of DNA sequence in B is three times longer than that of A. Assuming
-                    the rate of replication is the same, how much longer will it take to replicate
-                    the DNA in B?

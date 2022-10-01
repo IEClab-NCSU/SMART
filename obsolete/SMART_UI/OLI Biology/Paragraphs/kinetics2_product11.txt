@@ -1,2 +1,0 @@
-This simulation will demonstrate the effect of substrate on the reaction
-				velocity.

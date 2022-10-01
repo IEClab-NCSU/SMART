@@ -1,5 +1,0 @@
-A small organic molecule that may bind chemically to other molecules
-                                to form a polymer. A monomer is a repeating structural unit of a
-                                polymer. For example, glucose is a monomer that makes up
-                                polysaccharide starch, and amino acids are monomers that make up
-                                proteins. 

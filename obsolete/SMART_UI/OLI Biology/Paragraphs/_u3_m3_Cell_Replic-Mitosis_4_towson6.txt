@@ -1,6 +1,0 @@
-The development of cancer requires mutations in BOTH proto-oncogenes and tumor suppressor
-					genes. A malfunctioning proto-oncogene is called an oncogene because it promotes the
-				development of cancer. The root “proto-” refers to "before" and the root “onco-” refers
-				to "cancer." A defective tumor suppressor gene can no longer suppress tumors. Cancer is
-				the result of numerous mutations in multiple genes involved in regulating the cell
-				cycle.

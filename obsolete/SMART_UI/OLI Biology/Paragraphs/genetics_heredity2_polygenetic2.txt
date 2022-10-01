@@ -1,2 +1,0 @@
-In some instances the polygenic effect is rather straightforward. This situation
-                    is called epistasis. In epistasis:

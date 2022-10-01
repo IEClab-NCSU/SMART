@@ -1,5 +1,0 @@
-Many folded proteins bind small organic molecules that assist the protein in performing its
-				function. For example, the heme group in myoglobin (colored gray in the right image)
-				is not part of the protein chain, but fits within a pocket in the myoglobin protein.
-				Myoglobin is responsible for binding oxygen in muscles. Heme groups also are present
-				in the oxygen transport protein, hemoglobin.

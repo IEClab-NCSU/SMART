@@ -1,7 +1,0 @@
-The endoplasmic reticulum (ER), a series of sacs and tubes, is the assembly line for
-			synthesis of proteins and other cellular components. In eukaryotes, ribosomes are
-			associated with the ER, forming the rough ER due to its beaded appearance. The smooth ER
-			(without ribosomes) can have different functions depending on the cell type, but it is
-			often the site for synthesis of lipids. The Golgi apparatus is the packaging and
-			shipping center of the cell, where structural components are delivered to different
-			parts of cells. 

@@ -1,6 +1,0 @@
-All the hereditary information contained within an organism is called a genome. The genome includes genes and noncoding DNA sequences. The human
-            genome, for example, contains the DNA sequence (information) of 22 autosomal
-            chromosomes, as well as the two sex chromosomes X and Y. The field of study that focuses
-            on the properties of genomes is called genomics, which is related
-            to but distinct from genetics, which focuses on individual genes
-            or a group of genes.

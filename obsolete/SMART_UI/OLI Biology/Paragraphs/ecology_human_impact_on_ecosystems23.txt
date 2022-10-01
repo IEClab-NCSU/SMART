@@ -1,8 +1,0 @@
-Changes in species distributions. Many species’ geographic
-                    ranges are shifting, following climate conditions toward historically cooler
-                    areas as their existing habitats get warmer. Species are shifting toward the
-                    poles: further north in the Northern Hemisphere and further south in the
-                    Southern Hemisphere. In mountainous regions, species’ distributions are shifting
-                    upward to higher elevations. Range shifts may lead to endangerment of species,
-                    loss of species that provide economic resources, and northward spread of
-                    tropical pathogens and their vectors (particularly mosquitoes).

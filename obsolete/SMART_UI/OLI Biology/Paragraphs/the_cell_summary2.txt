@@ -1,6 +1,0 @@
-Two types of eukaryotic cells are plant cells and animal
-					cells. Because they are both eukaryotes, both cell types have
-					nuclei. However, there are several structures that
-			distinguish the two types of cells. For example, plant cells have
-					chloroplasts and a cell wall. Animal
-			cells lack both of these structures. 

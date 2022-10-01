@@ -1,9 +1,0 @@
-This course has looked closely at the water molecule because it is vital to life.
-					Water covers 70 percent of the Earth’s surface and the cell, the fundamental unit of life, consists
-					of 70 to 95 percent water. In this module, we will examine one very small (and
-					simple) substance that, when dissolved in water, can have an enormous impact on
-					life: the hydrogen ion (H+). Hydrogen ions are hydrogen atoms that
-					have had their electrons removed. What remains is only a single proton. The
-					simplicity of this ion, however, is quite misleading. In this module, we will
-					investigate the dynamics of H+ and learn more about the effects
-						H+ can have on solutions. 

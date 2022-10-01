@@ -1,8 +1,0 @@
-DNA replication is the process by which DNA is copied resulting in a faithful replicate
-          of the original double stranded DNA. Key to the inheritance of the code for materials
-          produced and used in a cell, DNA replication must be faithful thus not allowing or
-          minimizing errors during the process and it must generate new DNA that can be transmitted
-          to the next generation. Because DNA replication generates a copy of the original, it is
-          referred to as DNA dependent DNA synthesis. It is dependent on DNA because it
-          must have a template to use in making the copy and the result is a new strand of double
-          stranded (duplex) DNA.

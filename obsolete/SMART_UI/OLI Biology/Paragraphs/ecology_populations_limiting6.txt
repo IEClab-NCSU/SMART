@@ -1,9 +1,0 @@
-Other types of limiting factors act more gradually and have their greatest effects when
-			populations are crowded. Scarce resources, limited space, and infectious diseases are
-			important examples. These factors often play the greatest role in limiting large-bodied
-			organisms with extended life spans such as large animals and woody plants. For example,
-			deer survive frost well but are more likely to starve in a hard winter if there are many
-			mouths to feed. Over time, populations of such species limit
-				themselves: they remain close to a stable size called the carrying capacity. When a population is at its carrying capacity, it does not
-			tend to increase or decrease but tends to stay essentially the same over many
-			generations.

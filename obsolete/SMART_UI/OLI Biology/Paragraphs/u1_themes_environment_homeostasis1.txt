@@ -1,6 +1,0 @@
-Organisms detect and respond to external conditions. In response to threats and
-            opportunities, they may move or change their activities. For example, plant stems can
-            grow toward a source of light. Over time, the trunks of trees strengthen when they are
-            flexed by the wind. Animals, of course, respond to stimuli with a huge range of
-            behaviors from the hibernation of bears to your own development of “goosebumps” on a
-            chilly day.

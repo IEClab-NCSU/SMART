@@ -1,4 +1,0 @@
-The researchers found that, of the 1,200 women in the control group, nine were infected
-				with HPV at the end of the study. Of the 1,200 women in the experimental group, zero
-				were infected with HPV. Does this result support the original hypothesis, that the
-				HPV vaccine would reduce HPV infection?

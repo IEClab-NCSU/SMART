@@ -1,6 +1,0 @@
-The table below represents a Punnett square — like the one seen on the
-                        previous page — used to describe the results of Mendel’s first experimental
-                        set of pea plants, designated F1. The gametes from the F1 generation, Bb,
-                        are filled in at the top and on the sides. Fill in the center of the Punnett
-                        square to see the possible offspring genotypes and phenotypes for the next
-                        generation, F2.

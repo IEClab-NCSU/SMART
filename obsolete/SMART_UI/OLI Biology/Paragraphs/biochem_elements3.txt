@@ -1,4 +1,0 @@
-All hydrogen atoms contain one proton and one electron. In contrast, all carbon atoms
-			contain six protons, six electrons, and six neutrons. It is the number of protons found
-			in the nucleus of the atom that determines the kind of element designated by the
-			atom.

@@ -1,5 +1,0 @@
-A structured and active process used to test a hypothesis. In an
-                                experiment, the scientist has some form of control over the
-                                variables at work in the system under study. Typically some variable
-                                is deliberately changed by the experimenter and other variables are
-                                monitored to see if they change as a result.

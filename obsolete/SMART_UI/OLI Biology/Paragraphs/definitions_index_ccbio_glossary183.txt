@@ -1,7 +1,0 @@
-The stage of the cell cycle when division (mitosis) does not occur.
-                                During interphase, the cell grows, acquires nutrients, and
-                                replicates both its chromosomes as well as its organelles.
-                                Interphase consists of the G1 (chromosomes condense),
-                                    S (DNA duplicates), and G2 (DNA integritiy
-                                checked and repaired) phases of the cell cycle. Cells spend the
-                                majority of their time in interphase. 

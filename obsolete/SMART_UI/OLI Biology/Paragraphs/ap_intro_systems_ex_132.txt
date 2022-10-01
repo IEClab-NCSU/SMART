@@ -1,6 +1,0 @@
- The nervous system transmits signals to different parts of the body to
-                    coordinate function. Electrochemical signals are processed in the brain and sent
-                    down the spinal cord, which runs the length of the back. From the spinal cord,
-                    peripheral nerves send signals out to the extremities. Return signals come in
-                    through sensory nerves and either return to the spinal cord for processing or
-                    back to the brain. The spinal cord processes reflexes and repeated patterns.

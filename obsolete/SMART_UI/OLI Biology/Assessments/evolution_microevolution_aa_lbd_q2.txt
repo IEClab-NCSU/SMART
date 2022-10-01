@@ -1,5 +1,0 @@
-You have already established that the fitness of aa homozygotes, those who suffer
-                from sickle cell anemia, is very low. Such individuals usually do not reproduce
-                under conditions of poor health care. If this is the case, how could the sickle cell
-                allele persist in populations where malaria is highly prevalent? The answer involves
-                natural selection.

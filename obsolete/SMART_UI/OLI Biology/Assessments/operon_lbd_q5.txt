@@ -1,5 +1,0 @@
-
-If lactose is present, it can bind to the lac repressor, forming a complex, as
-                    shown below. After lactose binds to the lac repressor, what do you think
-                    happens?
-

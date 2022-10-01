@@ -1,6 +1,0 @@
-The concentration of hydrogen ions in solution can have important effects on
-                    biological systems. Changes in the hydrogen ion concentration in your body can
-                    result in disease and even death. Changes in the hydrogen ion concentration of
-                    the oceans can have dramatic impacts on life in the sea, affecting all levels of
-                    the food chain. Even something as simple as soil pH can affect the kinds of
-                    plants that can live in an area.

@@ -1,5 +1,0 @@
-Not every similarity between two species is homologous. We are looking for features that
-            were inherited from a common source. Therefore the features should be based in genes
-            (not acquired through learning, for example). Homologous features will also be similar
-                in their details; there should be more than a passing
-            resemblance.

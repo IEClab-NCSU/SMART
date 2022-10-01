@@ -1,6 +1,0 @@
-To accomplish this mending of the DNA, a separate DNA polymerase binds to the ‘nick’ left
-          in the DNA between the 3’ end of the newly synthesized DNA and the 5’ end of the RNA
-          primer. The substrate requirements for DNA polymerase are met even though there is no
-          apparent single stranded DNA present. The DNA polymerase removes the RNA primer and a few
-          nucleotides of DNA in front of it while simultaneously synthesizing DNA on the 3’ end of
-          the existing DNA. This process is referred to as nick translation. 

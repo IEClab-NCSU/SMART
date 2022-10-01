@@ -1,4 +1,0 @@
- In the previous tutorial you calculated the K and pKa of acetic acid and found K
-					≈ 0.0001 and pKa ≈ 4. In this tutorial you will explore
-					the relationship between K and different acids. Reference these equations if you
-					need to: 

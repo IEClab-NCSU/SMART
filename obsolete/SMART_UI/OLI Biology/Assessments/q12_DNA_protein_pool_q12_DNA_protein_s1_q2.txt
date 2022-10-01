@@ -1,2 +1,0 @@
-The restriction endonuclease BamHI recognizes the following DNA sequence: GGATCC and the endonuclease EcoRI recognizes GAATTC. Which of the following statements are true?
-            

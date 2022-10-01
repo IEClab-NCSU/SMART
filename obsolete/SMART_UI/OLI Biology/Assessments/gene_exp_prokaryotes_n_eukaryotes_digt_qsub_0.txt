@@ -1,5 +1,0 @@
-
-For each gene expression property below, specify whether it occurs in prokaryotes
-                    only, eukaryotes only, or both. 
- 
-1. Co-transcriptional translation: 

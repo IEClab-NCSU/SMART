@@ -1,8 +1,0 @@
-PCR is essentially DNA replication, and just like DNA replication, PCR relies on
-                    the enzyme DNA polymerase. Because DNA polymerase requires a primer before it
-                    can start building a new strand of DNA, this is the first thing scientists must
-                    find (or design). These primers will provide a starting point for the DNA
-                    polymerase. In DNA replication, the primers are made of RNA nucleotides. In PCR,
-                    the primers are short DNA molecules consisting of a specific sequence that
-                    flanks the right and left ends of the target DNA sequence. The PCR product will
-                    contain the DNA sequences of the primers and the DNA between the primers.

@@ -1,8 +1,0 @@
- This equation can also be represented graphically by the hyperbolic curve
-					illustrated below. This curve can be dissected into two parts: a region at the
-					beginning where the velocity of the reaction increases proportionately with the
-					amount of substrate present initially in the reaction, and the later region of
-					the curve, at high substrate concentration, where the rate of the reaction is
-					independent of the substrate concentration. This latter region defines
-					saturation of the enzyme by substrate and the velocity approaches the value of
-						Vmax.

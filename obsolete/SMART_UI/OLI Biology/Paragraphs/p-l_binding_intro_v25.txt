@@ -1,5 +1,0 @@
- The estrogen receptor binds to estrogen and this causes estrogen receptor to bind to DNA
-			and turn genes on and off. The result in some cells is the commencement of cell division. When estrogen
-			falls off, estrogen can no longer bind DNA and division may stop. If estrogen did not
-			dissociate from the estrogen receptor then cell division could not be controlled and
-			cancer could result.

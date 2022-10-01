@@ -1,1 +1,0 @@
-Given that one of the codons for the amino acid Phe is UUC, what is the most likely sequence for the anticodon of tRNAPhe. Remember that all nucleic acid sequences are written 5' to 3'.

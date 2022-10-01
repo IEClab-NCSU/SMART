@@ -1,6 +1,0 @@
-Glycolysis is the first pathway that occurs in the metabolism of carbohydrates. This
-          pathway occurs in the cytosol of all cells, i.e. it is a highly conserved and ubiquitous
-          pathway. Although many different disaccharides are broken down into monosaccharides and
-          enter the glycolysis, we will focus on how glucose is metabolized in this section. The
-          entry points of other sugars will be discussed in the module on integrated
-          metabolism. 

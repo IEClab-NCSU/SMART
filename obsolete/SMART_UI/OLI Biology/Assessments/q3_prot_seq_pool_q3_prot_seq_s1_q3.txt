@@ -1,2 +1,0 @@
-The following peptide was subject to Edman degradation   Ala-Val-Leu-Arg-Phe-Gly-Tyr-Asp-Ser-Gly-Leu    and it was only possible to identify the first four amino acids. It was not possible to identify any additional amino acids because:
-            

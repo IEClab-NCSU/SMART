@@ -1,4 +1,0 @@
-A mutation occurs in the isomerase enzyme that catalyzes the conversion of
-                        dihydroxyacetone phosphate (DHAP) to glyceraldehyde-3-phosphate (G3P) and
-                        inactivates (inhibits) its activity. The resulting effect on glycolysis
-                        is: __________________  

@@ -1,6 +1,0 @@
-The Gibbs free energy consists of two terms. The first indicates the energy change due to
-          the difference of proton concentration across the membrane. Its form is analogous to the
-          formula give for the transport of glucose across the membrane in glycolysis. The second
-          term accounts for the fact that the energy of a charged particle depends on the voltage.
-          If there is a voltage difference across the membrane then the energy of the proton will
-          depend on its location.

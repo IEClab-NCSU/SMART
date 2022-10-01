@@ -1,5 +1,0 @@
-An increase or decrease in the density of a chemical substance within
-                                a given region. Cells often maintain concentration gradients of
-                                hydrogen ions across their membranes. When a gradient exists, the
-                                ions or other chemical substances involved tend to move from where
-                                they are more concentrated to where they are less concentrated. 

@@ -1,2 +1,0 @@
-The concerted and sequential models for the behavior of allosteric enzymes differ in that
-            

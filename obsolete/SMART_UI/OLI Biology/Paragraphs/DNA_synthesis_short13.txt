@@ -1,4 +1,0 @@
-Once only DNA is present, the DNA polymerase releases from the DNA leaving a nick in the
-          DNA between two DNA segments. DNA polymerase does not have a function to join the two ends
-          of the DNA together and thus a separate enzyme, DNA Ligase, recognizes the nick in the DNA
-          and links the 3’ end of the one segment to the 5’ end of the next segment. 

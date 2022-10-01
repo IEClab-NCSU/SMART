@@ -1,4 +1,0 @@
-We have just learned how natural selection, sexual selection, and artificial selection
-			can change the gene pool of a population and result in evolution. In this section we
-			will consider other processes that can change the gene pool of a population: mutation,
-			gene flow, and genetic drift.

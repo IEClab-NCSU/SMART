@@ -1,2 +1,0 @@
-Instructions: The base-paired ladder shown on the left coils into a double helix which is represented by either a 2D image (middle) or a 3D Jmol (right). 
-						Use the buttons to explore the various features of the DNA Structure.

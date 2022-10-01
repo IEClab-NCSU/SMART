@@ -1,7 +1,0 @@
-All cells share a similar chemistry. Cells consist of an aqueous solution, containing
-                    ions and small organic molecules, larger macromolecules such as carbohydrates, proteins,
-                    and nucleic acids, and closed compartments defined by lipid membranes. We first
-                    discussed how some atoms will form ions in water while others, in particular carbon,
-                    nitrogen, oxygen, and hydrogen, form covalent bonds with each other in organic
-                    chemicals. Two important small organic molecules that you should be familiar with are
-                    the carbohydrate glucose and the nucleic acid ATP. Can you describe the role of ATP and glucose in biology?

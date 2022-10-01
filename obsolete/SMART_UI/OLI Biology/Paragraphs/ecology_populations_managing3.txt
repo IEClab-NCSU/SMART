@@ -1,4 +1,0 @@
-The situation is more complicated when the goal is to manage a resource so that it can be
-			harvested. Consider a population of fish that supports a commercial fishery. Here, the
-			goal is to maximize the harvest rate while maintaining a healthy population size. How
-			can principles of population ecology help in choosing the best rate of harvest?

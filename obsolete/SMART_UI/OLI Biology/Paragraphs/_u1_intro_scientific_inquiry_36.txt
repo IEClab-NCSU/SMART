@@ -1,8 +1,0 @@
-Both placebo treatments and double-blind procedures are designed to prevent bias. Bias is any
-			systematic error that makes a particular experimental outcome more or less likely.
-			Errors can happen in any experiment: people make mistakes in measurement, instruments
-			fail, computer glitches can alter data. But most such errors are random and don’t favor
-			one outcome over another. Patients’ belief in a treatment can make it more likely to
-			appear to “work.” Placebos and double-blind procedures are used to level the playing
-			field so that both groups of study subjects are treated equally and share similar
-			beliefs about their treatment.

@@ -1,6 +1,0 @@
-Mapping or charting of a family history, showing the occurrence of a
-                                trait or characteristic. Mated individuals are connected by a
-                                horizontal line, and children are connected to them by vertical
-                                branches extending down from the line. Individuals expressing a
-                                genetic trait are shaded; and, individuals not expressing the trait
-                                are not shaded. 

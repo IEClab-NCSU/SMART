@@ -1,4 +1,0 @@
-Isomerase. This class of enzymes rearrange functional groups on their substrates,
-      releasing a product that has the same number of atoms as the substrate, but is an isomer of
-      the original substrate. Unfortunately, the descriptive word "isomerase" is often omitted from
-      their name.

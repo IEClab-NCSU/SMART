@@ -1,4 +1,0 @@
-A condition due to the presence of a plasmid in a cell that contains
-                                a gene that encodes a protein that inactivates an antibiotic. Cells
-                                containing this plasmid will be resistant, and therefore able to
-                                grow, in the presence of the antibiotic. 

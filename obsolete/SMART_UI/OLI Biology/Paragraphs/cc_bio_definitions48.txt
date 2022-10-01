@@ -1,6 +1,0 @@
- A cause or factor; a variable that is thought to cause another variable to
-                        change. In an experiment, an independent variable is deliberately changed in
-                        one group at the beginning of the study. For example, in a study to test a
-                        drug, one group might be given the drug and another group would not; the
-                        independent variable in this example would be whether patients were given
-                        the drug.

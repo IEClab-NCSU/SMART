@@ -1,5 +1,0 @@
-The DNA sequence, Protein sequence, and AA position lines need to be reformatted. In
-				particular the position numbers need fixing so that there are consistent spaces
-				between the numbers; each should be a single digit. One good way to do this is to
-				use a Table so that all the codons, amino acids, and position numbers are aligned in
-				consistent columns. The end result should look something like this:

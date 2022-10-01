@@ -1,6 +1,0 @@
-The peripheral nervous system can be subdivided into two subdivisions:
-                            the somatic and autonomic divisions. The somatic nervous system includes
-                            sensory neurons that send sensory information from sensory receptors of
-                            the skeletal muscle, skin and special senses (including smell, taste,
-                            sight, hearing and equilibrium) to the central nervous system and motor
-                            neurons that control skeletal muscle.

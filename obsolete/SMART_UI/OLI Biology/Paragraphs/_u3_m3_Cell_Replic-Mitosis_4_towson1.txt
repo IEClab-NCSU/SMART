@@ -1,4 +1,0 @@
-The cell cycle is highly regulated. There are many checkpoints that are used to determine
-				if the cell should or should not continue through the stages of the cell cycle.
-				Many different environmental and internal signals are involved in determining whether or
-				not a cell will complete division.

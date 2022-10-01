@@ -1,4 +1,0 @@
-Pedigrees can be used to determine if the trait being studied is dominant, recessive, or
-            X-linked. A trait is recessive if a child anywhere in the family has the trait and both
-            parents do not. This must be the case because if the child has the trait and the parents
-            do not, the only possible genotype option is:

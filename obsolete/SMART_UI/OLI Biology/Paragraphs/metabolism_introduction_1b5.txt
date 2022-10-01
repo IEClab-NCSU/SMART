@@ -1,5 +1,0 @@
- The first part of the process of respiration is called
-						glycolysis. It consists basically of the breakdown of glucose into a smaller
-						compound called pyruvate. Pyruvate can then go on to either cellular
-							respiration or fermentation, depending on the
-						availability of oxygen. Glycolysis will occur if the cell requires energy. 

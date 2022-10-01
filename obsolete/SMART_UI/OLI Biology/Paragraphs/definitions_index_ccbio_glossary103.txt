@@ -1,3 +1,0 @@
-An enzyme that will bind to DNA fragments held together by sticky
-                                ends and reform the phosphodiester bond between the two DNA
-                                fragments. 

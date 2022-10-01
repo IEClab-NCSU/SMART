@@ -1,6 +1,0 @@
-A key characteristic of atoms is that they are most stable when they have full
-					outer electron shells. Helium (He) has a full outer shell with two electrons;
-					directly below it in the periodic table is Neon. Neon (Ne) has an inner shell with
-					two electrons and a full second shell with eight electrons. In fact, all of the
-					elements in that column of the periodic table have full outer shells, are
-					stable, and do not react with other elements.

@@ -1,5 +1,0 @@
-The molecular mass or weight of a molecule is the sum of the individual atomic weights. As
-					with atomic weights, it is convenient to use the weight of a mole of molecules.
-					For example, the molecular mass of a single methane molecule is 16 Da (12 from
-					the carbon, 4 from the hydrogens). The weight of a mole of methane molecules is
-					16 grams. 

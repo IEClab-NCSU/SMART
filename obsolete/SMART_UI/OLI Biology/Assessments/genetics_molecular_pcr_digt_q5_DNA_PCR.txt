@@ -1,1 +1,0 @@
-Require(s) DNA polymerases that are stable at higher temperatures.

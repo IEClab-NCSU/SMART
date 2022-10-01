@@ -1,3 +1,0 @@
-Assume that the dominant allele F produces a thick coat, while the recessive allele f
-				produces a thin coat. Therefore, an FF fox has a heavy coat while an ff fox has a
-				thin coat.

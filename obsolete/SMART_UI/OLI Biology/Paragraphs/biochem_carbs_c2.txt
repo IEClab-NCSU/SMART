@@ -1,6 +1,0 @@
-In animals, excess glucose molecules are linked together (through an anabolic
-					pathway) to make a long branching polysaccharide called glycogen. Glycogen is primarily stored in the liver, with small
-					amounts being stored in the muscles. Once glycogen stores are filled, the body
-					begins storing excess food calories as fat. Conversely, when food intake is
-					insufficient to keep up with energy requirements, the body will break down its
-					glycogen stores to release individual glucose monosaccharides.

@@ -1,3 +1,0 @@
-Body mass index (BMI) provides an approximation of total body fat based upon height and
-			weight, and can be used to identify potential weight problems for adults (both males and
-			females).

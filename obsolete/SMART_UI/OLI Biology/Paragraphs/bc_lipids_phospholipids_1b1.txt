@@ -1,9 +1,0 @@
-Remember that hydrophilic
-			molecules dissolve in water and hydrophobic ones do not. But phospholipids have a “split personality” in
-			this regard. How do they behave in water? When small numbers of phospholipids are in an
-			aqueous solution they will self-assemble into micelles, structures that exclude water
-			molecules from the hydrophobic tails while keeping the hydrophilic head in contact with
-			the aqueous solution. If enough phospholipids are present, they will form a bilayer.
-			This is the favored formation because it is the most stable orientation for
-			phospholipids in a water solution. View the animation that demonstrates the formation of
-			micelles and bilayers.

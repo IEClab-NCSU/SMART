@@ -1,5 +1,0 @@
-Like the digestive system, the respiratory system can be thought of as a tube, or
-                    rather, as a branching series of tubes that get smaller and smaller as they
-                    branch off. Unlike the digestive system, which moves solids and liquids in a
-                    single direction, the respiratory system moves gases in both directions, when we
-                    inhale and exhale.

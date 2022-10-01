@@ -1,5 +1,0 @@
-If excited electrons are not removed from a pigment molecule, they will eventually “fall” back
-			to their starting point. At this point, the pigment will release energy. In some
-			pigments, a portion of the released energy is emitted as light. If you expose these
-			fluorescent pigments to light and then place them in a dark place, they will glow. All
-			pigments release at least some of the energy they absorbed from light as heat.

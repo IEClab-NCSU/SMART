@@ -1,3 +1,0 @@
-A metabolic pathway that uses light energy to build
-                                carbohydrates from CO2. The overall equation for
-                                photosynthesis is:

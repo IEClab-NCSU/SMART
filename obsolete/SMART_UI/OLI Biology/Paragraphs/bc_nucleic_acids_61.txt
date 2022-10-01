@@ -1,5 +1,0 @@
-Bases form pairs (base pairs) in a very specific way. The figure
-			shows how A (Adenine) pairs with T (Thymine) and G (Guanine)
-				pairs with C (Cytosine). This is an example of bioselectivity: T pairs with A, and not with
-			C. The molecular recognition occurs because of the ability of bases to form specific
-			hydrogen bonds: atoms align just right to make hydrogen bonds possible.

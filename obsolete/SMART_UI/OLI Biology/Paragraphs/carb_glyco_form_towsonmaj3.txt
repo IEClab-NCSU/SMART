@@ -1,6 +1,0 @@
- Starting with the hemiacetal (closed ring) structure, the unique, newly created,
-			asymmetric center has a special name: the anomeric carbon. In the structure of glucose
-			given below, the anomeric carbon, which is created by forming the six member
-			(pyranose) hemiacetal structure, is highlighted. You should examine this structure and
-			convince yourself that the four different substituents attached to that carbon are
-unique . 

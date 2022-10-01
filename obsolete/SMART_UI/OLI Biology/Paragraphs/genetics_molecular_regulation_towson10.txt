@@ -1,3 +1,0 @@
-Assume that there is an operon in E. coli, called the Chol operon, that included
-                    the genes A, B and C encoding enzymes necessary for the utilization of
-                    cholesterol as an alternative carbon and energy source.

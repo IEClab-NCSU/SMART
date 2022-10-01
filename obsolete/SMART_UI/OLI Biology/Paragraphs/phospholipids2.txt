@@ -1,6 +1,0 @@
-The cell is composed of two distinctive environments: the hydrophilic aqueous
-					cytoplasm and the hydrophobic lipid membranes. The lipid environment is defined
-					by the family of molecules that are characterized by their hydrophobic nature
-					and their common metabolic origin. Three members of the lipid family of
-					molecules will be discussed in this course: fats (triacylglcerol),
-					phospholipids, and steroids. 

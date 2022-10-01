@@ -1,8 +1,0 @@
-Second, what do we mean by “fittest”? We don’t mean physical fitness. Evolutionary fitness is based on genes and inheritance
-					and is measured by lifetime reproductive success. The genes of an organism
-					determine many of its features, and these features help determine how likely an
-					organism is to reproduce in its particular environment. There are other factors
-					at work too, including luck: nature does not line up all the individuals in each
-					population and kill them off systematically, leaving only those with the fittest genes to reproduce. Instead, we say that on average the individuals with some phenotypes will
-					reproduce better than others in a given environment. These fitter individuals will be more likely to pass on their alleles
-					(through reproduction) to the next generation.

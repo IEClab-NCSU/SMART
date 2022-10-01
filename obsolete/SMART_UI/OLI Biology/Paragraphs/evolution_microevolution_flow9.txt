@@ -1,6 +1,0 @@
-Genetic drift refers to random events that change the frequency of
-			alleles and genotypes in a population. It is similar to selection in some ways. Recall
-			that in selection, certain genetic types become more frequent in the population because
-			they survive well, grow well, mate successfully, or even just because humans like them
-			and choose to breed them. In genetic drift, certain genetic types become more frequent
-			through dumb luck.

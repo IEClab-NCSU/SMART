@@ -1,6 +1,0 @@
-Cystic fibrosis is a genetic disorder associated with a transporter protein in the cell
-				membrane. Patients with the defective protein produce a very thick mucus in their
-				lungs and digestive system, making them susceptible to serious lung infections. The
-				normal allele for the protein is symbolized F, while the defective allele is f. F is
-				dominant over f. Among the individuals with the following genotypes, which will
-				present cystic fibrosis?

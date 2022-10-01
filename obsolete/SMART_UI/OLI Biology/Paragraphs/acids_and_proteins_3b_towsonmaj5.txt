@@ -1,7 +1,0 @@
-The amino acids in the active site of enzymes play two roles, and sometimes those roles
-            overlap. Some of the amino acids in the active site are responsible for binding of the
-            substrate and others are responsible for facilitating the chemical reaction. Enzymes are
-            generally quite specific for their substrates. Although lactase and pepsin both catalyze
-            the same type of reaction, breaking a bond using water (hydrolysis: "hydro" means
-            "water" and "lysis" means "to break"), lactase only functions when lactose is its
-            substrate and pepsin can only break peptide bonds.

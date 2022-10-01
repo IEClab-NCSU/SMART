@@ -1,6 +1,0 @@
-To extract useful energy from sugar, cells rely on two major types of catabolic pathways:
-			cellular respiration and fermentation. Cellular respiration involves the
-				mitochondria and requires oxygen gas as an input. Fermentation
-			does not require oxygen and occurs in the cytoplasm. In both of these pathways, some of
-			the energy released by the breakdown of sugar molecules is captured in chemical bonds
-			within ATP molecules. 

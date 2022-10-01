@@ -1,4 +1,0 @@
-
-------------------------------------------------------------------------------------
-Temperature is a measure of how fast molecules are moving. Compared to cold temperatures,
-					would you expect diffusion to happen faster or slower in warm temperatures?

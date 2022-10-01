@@ -1,3 +1,0 @@
-The type of RNA that is component of a ribosome, and which assists
-                                with the process of translating the instructions for making proteins
-                                that are present in messenger RNA (mRNA).

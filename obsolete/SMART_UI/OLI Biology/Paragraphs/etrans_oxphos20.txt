@@ -1,5 +1,0 @@
-
-A conformation that has low affinity of nucleotides, i.e. neither ATP or ADP bind.
-A conformation that has high affinity for ADP plus inorganic phosphate.
-A conformation that has high affinity for ATP, i.e. ATP is more stable in this
-            conformation than ADP.

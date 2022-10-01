@@ -1,5 +1,0 @@
-A property of the cell membrane wherein only certain molecules or
-                                ions can cross the membrane by diffusion. This property allows the
-                                membrane to regulate the passage of substances across them. In this
-                                way the cell can maintain homeostasis by controlling what enters and
-                                exits the cell. 

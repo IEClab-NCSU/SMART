@@ -1,3 +1,0 @@
-Step 3: In step 3, the temperature is raised to ~78°C, which activates DNA
-                    polymerase and stimulates copying of the DNA. The polymerase begins at the
-                    primer and copies the DNA to the end of the template.

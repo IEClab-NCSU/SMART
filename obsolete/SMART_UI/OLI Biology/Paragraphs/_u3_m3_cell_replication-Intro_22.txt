@@ -1,6 +1,0 @@
-If a cell is going to reproduce, more DNA is needed. During
-				mitosis, one cell divides into two cells containing identical genetic
-			material. This requires twice as much DNA, because there must be one complete set for
-			each daughter cell. Meiosis also requires the DNA to be replicated. DNA
-			replication (or DNA synthesis) occurs in the synthesis (S) stage of the cell
-			cycle. 

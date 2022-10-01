@@ -1,9 +1,0 @@
-Understanding the reverse titration, the addition of a strong acid to a
-							solution of conjugate base follows the same logic. At high pH, the added
-							protons do not protonate the weak acid since the pH is much higher than
-							the pKa. In the buffer region of pH = pKa+/-1, the
-							protons that are added to the solution will not decrease the pH, instead
-							they will convert some of the conjugate base, A-, to the acid
-							form, HA. At the lower edge of the buffer region the weak acid is almost
-							fully protonated (pH=pKa-1), consequently it cannot absorb
-							any additional protons.

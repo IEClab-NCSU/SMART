@@ -1,9 +1,0 @@
-Now that you understand the basics of DNA replication, we can add a bit of
-            complexity. The two strands of DNA have to be temporarily separated
-            from each other; this job is done by a special enzyme, helicase, that helps
-            unwind and separate the DNA helices. Another issue is that the DNA
-                polymerase only works in one direction along the strand (5’ to 3’), but the
-            double-stranded DNA has two strands oriented in opposite directions. This problem is
-            solved by synthesizing the two strands slightly differently: one new strand grows
-            continuously, the other in bits and pieces. Short fragments of RNA are used as primers for the
-                DNA polymerase.

@@ -1,8 +1,0 @@
-Aneuploidy is a chromosomal abnormality characterized by an abnormal number of chromosomes in
-					a cell. It is caused by nondisjunction, which occurs when
-					chromosomes fail to separate properly during anaphase.  Genetic problems caused
-					by nondisjunction can be diagnosed prenatally by studying the fetus’
-							karyotype. A karyotype is a visual representation
-					of the chromosomes of an individual, obtained from a small sample of cells. In
-					fetuses, this is usually obtained from sampling either the amniotic liquid
-					(amniocentesis) or the placenta.

@@ -1,6 +1,0 @@
-Epigenetic regulation and inheritance has been linked to cancer and obesity, aging and
-            longevity, and other important processes. It is the key mechanism for interactions
-            between genes and environment. Unlike the genome, which remains fairly unchanged
-            throughout an organism’s life cycle, the epigenome (consisting of the pattern of DNA
-            methylation and histone modifications) is dynamic, responds to the environment, and can
-            be heritable.

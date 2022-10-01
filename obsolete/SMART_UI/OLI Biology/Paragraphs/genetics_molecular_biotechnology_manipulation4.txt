@@ -1,5 +1,0 @@
-If the restriction enzyme does not cut at the center of its recognition sequence the
-            cleavage products will contain short single-stranded segments of DNA. These are often
-            called “sticky-ends” because they can stick to other DNA molecules that have
-            complementary sticky ends. Enzymes that cut in the middle of their recognition sequences
-            produce blunt end fragments.

@@ -1,5 +1,0 @@
-Adenosine diphosphate, or ADP, consists of a single adenosine
-                                molecule (composed of an adenine base bound to a ribose sugar)
-                                linked to two phosphate ions. Building ATP from ADP is an anabolic
-                                reaction that requires catabolic pathways such as cellular
-                                respiration. 

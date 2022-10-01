@@ -1,3 +1,0 @@
-Biologists can monitor births and deaths in a population and estimate their rates of
-				birth and death. Imagine that biologists studying the deer at Valley Forge NHP in
-				1985 report the following data (fictitious but based on real estimates):

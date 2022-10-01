@@ -1,2 +1,0 @@
-Secondary structure is easier to predict than tertiary structure because secondary
-                  structure primarily involves nearest neighbor amino acids.

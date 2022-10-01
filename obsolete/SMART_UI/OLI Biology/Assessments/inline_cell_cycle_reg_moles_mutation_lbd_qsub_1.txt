@@ -1,3 +1,0 @@
-In a different cell, a mutation occurs creating a non-functional protein that
-                could not degrade the cyclin need for the G1 checkpoint. What would be the fate of
-                this cell directly after cytokinesis, if the DNA is damaged?

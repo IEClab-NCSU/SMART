@@ -1,7 +1,0 @@
-An image of a living mouse cell in culture is shown above. As the cell adheres to the
-			bottom of the culture dish it spreads out exploring the local environment giving it
-			the angular shape. The cell can move, utilize energy, and divide to produce new cells.
-			During this course you will explore the fundamentals of how a cell is able to carry out
-			each of these processes. Modern biology is about the molecular events that occur inside
-			a cell: the making of proteins, the building of cellular structures, and the interaction
-			of a cell with its environment.

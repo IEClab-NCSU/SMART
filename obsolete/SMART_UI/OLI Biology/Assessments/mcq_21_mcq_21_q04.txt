@@ -1,3 +1,0 @@
-
- A final purified protein sample contains 10 ug of protein and has an enzyme activity of 1 mmole of ATP synthesized/sec. A unit of activity for this enzyme is defined as 1 umole of ATP synthesized/sec. What is the specific activity of the final purified sample?
- 

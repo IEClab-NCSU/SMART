@@ -1,3 +1,0 @@
-The pH scale is the -log of the hydrogen ion concentration; the minus
-					sign changes the negative numbers that would be obtained from log[H+]
-					to positive ones:  pH = -log[H+].

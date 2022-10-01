@@ -1,7 +1,0 @@
-In The Cell unit 
-                component structures of the cell were discussed. One of these
-            components is the DNA, which is arranged into one or more chromosomes. Each chromosome contains
-            many genes. A gene is a region of a chromosome that has a specific
-            function. For example, genes can contain information required to make a protein. How
-            this happens will be discussed in the Molecular Genetics
-            Unit.

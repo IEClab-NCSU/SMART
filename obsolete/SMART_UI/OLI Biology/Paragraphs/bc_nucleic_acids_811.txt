@@ -1,4 +1,0 @@
-In the cytoplasm, mRNA binds to ribosomes, catalytic machines made up of specialized
-			proteins and ribosomal RNA (rRNA). rRNA is one type of functional
-			RNA does not code for protein and is not translated. Transfer RNA
-			(tRNA) is anther such molecule.

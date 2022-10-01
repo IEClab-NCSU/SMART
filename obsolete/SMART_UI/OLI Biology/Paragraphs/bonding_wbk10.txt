@@ -1,8 +1,0 @@
-We saw with water that the orientation of atoms around the oxygen was tetrahydral
-					with the angle between the two hydrogen atoms close what would be expected for a
-					tetrahydral shape. Both carbon and nitrogen also form tetrahydral shapes. In the
-					case of methane the four hydrogen atoms are at the corners of a tetrahydron. In
-					ammonia, the three attached hydrogens form the base of a tetrahydron. In the
-					ammonium ion, the addition of a fourth hydrogen, to form
-					NH4+, places the fourth hydrogen at the last unoccupied
-					corner of the tetrahydron.

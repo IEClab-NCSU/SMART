@@ -1,2 +1,0 @@
-Note that in this equation, the concentration of [A] and [B] are not necessarily at their
-          equilibrium concentrations.

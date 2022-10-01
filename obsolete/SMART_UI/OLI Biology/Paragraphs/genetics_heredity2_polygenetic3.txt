@@ -1,4 +1,0 @@
-
-The products of two or more genes result in a certain phenotype.
-The expression of one gene masks or changes the expected phenotype of one or
-                        more other genes. 

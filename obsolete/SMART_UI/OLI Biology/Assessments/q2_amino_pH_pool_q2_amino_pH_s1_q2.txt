@@ -1,2 +1,0 @@
-
-The pKa values of the side chains of the common amino acids. 

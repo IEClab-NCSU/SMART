@@ -1,8 +1,0 @@
-DNA polymerases are members of a very interesting family of enzymes because of the multi
-          functional nature of their activity. As has been discussed previously, they are capable of
-          synthesizing DNA given the appropriate substrate. They have their own activity to remove
-          RNA and/or DNA in front of the synthesis as described on the lagging strand of the
-          replication fork. Equally important to the organism is the ability to edit errors during
-          synthesis by either preventing the incorporation of the incorrect base and/or by removing
-          an incorrectly incorporated base before the next base is added. These editing functions
-          can reduce the error frequency by 2 orders of magnitude. 

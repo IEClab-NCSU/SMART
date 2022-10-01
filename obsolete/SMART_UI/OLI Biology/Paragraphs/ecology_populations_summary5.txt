@@ -1,7 +1,0 @@
-This is just one of many examples in which people apply principles of population
-                    ecology to real-world problems. Conservation of endangered species requires
-                    analysis of population changes and action to reduce death rates or increase
-                    birth rates. Control of pests and disease agents requires exactly the opposite
-                    approach. Management of fisheries or other harvestable resources may involve
-                    maintenance of an optimal population size (often about half the carrying
-                    capacity) that maximizes rates of growth and reproduction.

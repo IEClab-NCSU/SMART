@@ -1,6 +1,0 @@
-
-the Genetic Code and the use of the triplet code
-the role of transfer-RNA, messenger-RNA and the ribosome in translation
-the formation of the initiation complex, the elongation of the peptide, and the
-        termination of synthesis, and
-the consequences of errors and presentation of mutations

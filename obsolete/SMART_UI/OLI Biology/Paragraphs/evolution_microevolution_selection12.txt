@@ -1,4 +1,0 @@
-Each individual birth or death changes a population’s gene pool by a tiny
-					fraction: some individuals pass on their alleles through reproduction, others do
-					not. This filtering process affects the composition of the gene pool of the
-					population, and ultimately of the species as a whole.

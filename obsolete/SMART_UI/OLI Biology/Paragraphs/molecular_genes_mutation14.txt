@@ -1,5 +1,0 @@
-The activity below deals with a mutation in the gene that encodes the oxygen transport
-			protein hemoglobin. The mutation causes hemoglobin to form long rods inside red blood
-			cells. As a result, it is difficult for the cells to pass through blood vessels. This
-			leads to a disease called sickle cell anemia in many of those who inherit the
-			mutation.

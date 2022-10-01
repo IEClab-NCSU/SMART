@@ -1,4 +1,0 @@
-While DNA synthesis could be from either end of the primer, during replication using the
-          enzyme DNA polymerase the synthesis is restricted by the enzyme to growth in only one
-          direction. Deoxy-nucleotides are only added to the 3’ end of the primer and thus
-            synthesis is unidirection from 5’ to 3’. 

@@ -1,8 +1,0 @@
-
-For synthesis to proceed, the enzyme imposes a third restriction on the substrate. Not
-            only does it require a DNA template and a primer, but the primer must have a free,
-              3’ hydroxyl group for the addition of the next deoxy-nucleotide. 
-And finally, all four deoxy-nucleotide triphosphates must be present to completely
-            synthesis the complementary strand of DNA. For DNA synthesis (replication) this means
-            dATP, dTTP, dCTP, and dGTP must be present. Collectively these are referred to as dNTPs
-              (deoxy-Nucleotide TriPhosphates).

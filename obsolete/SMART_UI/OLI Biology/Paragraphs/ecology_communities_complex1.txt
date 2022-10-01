@@ -1,5 +1,0 @@
-Ecological communities can be dizzyingly complex. A community may be home to thousands of
-			species, and every single one of them may be linked to several others through a variety
-			of interactions. Among all this complexity, ecologists have worked to discover the most
-			meaningful and important interactions: those that determine the stability and diversity
-			of the whole community.

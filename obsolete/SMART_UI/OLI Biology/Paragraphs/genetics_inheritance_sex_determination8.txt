@@ -1,8 +1,0 @@
-Morgan wondered why the white-eye trait was associated with the male sex. In Morgan’s
-            time, the idea that an additional pair of chromosomes was responsible for sex
-            determination had just emerged. There were two plausible possibilities: either the trait
-            was somehow linked to the sex chromosome, or the white-eyed trait was lethal for
-            females, meaning that females with the phenotype would not develop past the egg stage.
-            Morgan conducted a series of crosses using the F2 generation, and obtained some
-            white-eyed females also, showing that the white-eyed characteristic was not lethal for
-            females. 

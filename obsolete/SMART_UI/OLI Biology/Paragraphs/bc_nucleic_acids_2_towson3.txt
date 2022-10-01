@@ -1,6 +1,0 @@
-Nucleotides can also differ in the type of sugar they contain. All
-					sugars found in nucleotides are pentose sugars, which means they have five
-					carbons; however, there can be different pentose sugars. For
-					example, DNA
-					contains the sugar deoxyribose. RNA, on the other hand,
-					contains ribose.

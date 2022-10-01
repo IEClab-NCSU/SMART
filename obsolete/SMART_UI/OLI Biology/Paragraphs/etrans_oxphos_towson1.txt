@@ -1,9 +1,0 @@
-The production of ATP from "high-energy" electrons on NADH and FADH2 occurs in two
-      steps, electron transport followed by ATP synthesis. The energy obtained from electron
-      transport is stored as a pH gradient across the inner mitochondrial membrane. The combination
-      of a concentration difference of hydrogen ions and a voltage difference accross this membrane
-      is often referred to as an electrochemical gradient. The electrochemical gradient is
-      a form of potential energy that is utilized by the enzyme ATP synthase to convert ADP to ATP.
-      The coupling between the proton gradient and the chemical synthesis of ATP, was originally
-      proposed by Dr. Peter Michell in 1961 as the chemiosmotic hypothesis. His theory
-      proved to be true, leading to a Nobel prize for his work in 1978. 

@@ -1,6 +1,0 @@
-It is possible to reverse the direction of a metabolic pathways, depending on the needs of
-      the organisms; a degradative pathway can become a synthetic one. Many of the enzymes that
-      catalyze reactions in one direction can be easily reversed, and thus function in both
-      pathways. A small number of steps utilize different enzymes in the forward versus the reverse
-      direction. These enzymes are regulated in a coordinated fashion such that a pathway operates
-      in only direction at time.

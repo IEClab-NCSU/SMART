@@ -1,2 +1,0 @@
-One method used to prevent disulfide bond interference with SDS-page is:
-            

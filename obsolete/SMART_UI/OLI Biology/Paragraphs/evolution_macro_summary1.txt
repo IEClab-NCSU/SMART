@@ -1,6 +1,0 @@
-Macroevolution is a long-term process and includes the origin and extinction of
-            species and larger taxonomic groups. Lineages (often the same as species) are
-            collections of populations that evolve independently of each other. Lineages split
-            through a process called speciation. Sometimes speciation occurs when populations
-            are separated in space (allopatric speciation) but it also may occur without
-            physical barriers (sympatric speciation).

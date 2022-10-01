@@ -1,6 +1,0 @@
-A protein that acts as a catalyst for chemical reactions in
-                                biological organisms. Enzymes increase the speed of chemical
-                                reactions. They are proteins that bind to a chemical (called a
-                                substrate) and chemically modify the substrate into an end product.
-                                The substrate binds to the active site of the enzyme. Enzymes speed
-                                up the rate of chemical reactions that support life. 

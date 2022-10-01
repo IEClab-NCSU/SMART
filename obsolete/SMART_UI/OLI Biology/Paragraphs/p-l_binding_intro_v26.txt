@@ -1,4 +1,0 @@
-The binding of ligands and substrates relies primarily on the characteristics of the
-			non-covalent bonds and the functional groups associated with both the protein and the
-			small molecule. The interactions that can be  used are:
-			

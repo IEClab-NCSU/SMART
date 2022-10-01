@@ -1,5 +1,0 @@
-So far, we have discussed the major elements and functional groups that are important in
-			the functioning of a cell. Together these elements and functional groups define the
-			major properties of the four classes of macromolecules that make up a cell:
-			carbohydrates, proteins, lipids and nucleic acids. In this module, we will explore two
-			of these classes: carbohydrates and proteins.

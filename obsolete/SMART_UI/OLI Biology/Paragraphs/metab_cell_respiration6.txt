@@ -1,8 +1,0 @@
-As we have emphasized thus far, cells juggle energy through opposing
-			reactions. Photosynthesis is an anabolic pathway fueled by solar
-			energy that allows the synthesis of organic molecules from simple raw materials. Catabolic
-			pathways reverse this process. They break molecules down into simpler components. The
-			centrally important catabolic pathway that is complementary to photosynthesis is cellular
-				respiration. Although there are many other catabolic reactions occurring in
-			any cell, cellular respiration supplies the vast majority of ATP molecules required for
-			cellular work in aerobic organisms. 

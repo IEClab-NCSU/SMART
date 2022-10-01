@@ -1,9 +1,0 @@
-The biological membrane is a collage of many different proteins embedded in the
-					fluid matrix of the lipid bilayer. The lipid bilayer is the main fabric of the
-					membrane, and its structure creates a semi-permeable membrane. The hydrophobic
-					core impedes the diffusion of hydrophilic structures, such as ions and polar
-					molecules but allows hydrophobic molecules, which can dissolve in the membrane,
-					to cross it with ease. Proteins determine most of the membrane's specific
-					functions. The plasma membrane and the membranes of the various organelles each
-					have unique collections of proteins. For example, to date more than 50 kinds of
-					proteins have been found in the plasma membrane of red blood cells.

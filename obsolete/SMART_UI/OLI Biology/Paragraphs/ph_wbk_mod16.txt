@@ -1,1 +1,0 @@
-[4] pH = log[CH3COO-]/CH3COOH] + pKa (Hendersson-Hasselbach equation)

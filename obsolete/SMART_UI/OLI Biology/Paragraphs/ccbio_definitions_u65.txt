@@ -1,2 +1,0 @@
-Synthesis of a new DNA double helix. Each strand in the existing double helix
-                        is used as a template strand to build a new DNA strand. 

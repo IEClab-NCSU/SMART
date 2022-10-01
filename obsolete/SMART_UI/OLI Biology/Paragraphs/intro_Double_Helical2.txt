@@ -1,4 +1,0 @@
-
-Double stranded DNA or RNA with
-Antiparallel orientation (5’ to 3’ against 3’ to 5’) with
-Uniform distance between the strands due to pairing of a purine with a pyrimidine (A with T (or U) and G with C).

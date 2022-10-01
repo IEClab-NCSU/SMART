@@ -1,8 +1,0 @@
-
-In medical science, the goal is often to figure out how a disease works or to
-                    test out a therapy. Ideally, experiments should be done on humans. Yet the most
-                    informative experiments might also involve some pretty rough stuff: deliberately
-                    disabling a gene to see if it causes a disorder, testing a potentially dangerous
-                    drug, and so on. We cannot ethically do such experiments on humans. 
-How do biomedical researchers get the needed research done without harming human
-                    subjects? 

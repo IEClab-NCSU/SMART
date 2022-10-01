@@ -1,3 +1,0 @@
-HIV has special enzymes to help it make copies of itself within the host cell. Some of
-			these are reverse transcriptase, integrase, and protease. Each one is essential to the
-			virus:

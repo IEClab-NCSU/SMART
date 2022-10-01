@@ -1,9 +1,0 @@
-The formation of the water cage is unfavorable, because it requires water
-					molecules to become ordered. Ordering anything requires energy, whether it is a
-					cage of water molecules surrounding a nonpolar molecule, or your messy dorm
-					room. The energy cost of ordering water molecules around nonpolar compounds is
-					so high that they are forced out of the water, leading to a separation of
-					phases; oil and water don’t mix because of the hydrophobic effect. Most
-					biological molecules contain both polar and nonpolar regions. Their behavior in
-					water depends on the relative number and type of polar groups versus nonpolar
-					groups. For example, consider this series of simple alcohols. 

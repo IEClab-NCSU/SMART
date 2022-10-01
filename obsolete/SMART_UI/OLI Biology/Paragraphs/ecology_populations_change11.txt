@@ -1,4 +1,0 @@
-Now you have some mathematical tools for describing a population’s status in terms of its
-			size, density, and birth and death rates. As we will see in the next page, the rates of
-			birth and death can be very helpful in projecting how a population will change over
-			time.

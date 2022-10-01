@@ -1,9 +1,0 @@
-In the previous sections of this module, we discussed the structure and organization of
-            genes and genomes. Throughout the molecular genetics module, we have been pointing out
-            the connections between genotype and phenotype. Here, we will discuss the other
-            important factor in determining the phenotype of an organism: environment. The effects
-            of environment on phenotype can be fairly subtle or pretty dramatic. In certain groups
-            of cold-blooded animals, such as Nile crocodiles, sex is determined by an environmental
-            factor: average temperature during the middle third of the incubation period. Males will
-            only hatch at temperatures between 89.1° and 94.1°F. Nests with higher or
-            lower temperatures will produce predominantly females.

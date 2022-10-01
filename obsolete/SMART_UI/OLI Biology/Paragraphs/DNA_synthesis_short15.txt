@@ -1,4 +1,0 @@
- obsolete:DNA sythesis starts with the recognition of the 3' end of a primer
-          attached to a DNA template. DNA polymerase binds to the 3' end of the primer and builds a
-          complementary strand of DNA in the 5' to 3' direction. The new strand is a complementary
-          copy of the template strand and satisfies the requirement of being antiparallel.

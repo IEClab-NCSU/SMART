@@ -1,5 +1,0 @@
-Because T and U are identical in the hydrogen bonding that each makes with A, this means that
-          a backbone (strand) of DNA can hydrogen bond with another strand of DNA but also with a
-          strand of RNA. The ability of the strands of DNA and RNA to hydrogen bond with each other
-          either as homodimers (DNA-DNA, RNA-RNA) or as heterodimers (DNA-RNA) is referred to as
-          hybridization.

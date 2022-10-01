@@ -1,7 +1,0 @@
-At least in principle, we can predict what will happen to a self-limiting population over
-			time: it should grow until it reaches its carrying capacity and then remain stable. This
-			pattern of change is calledlogistic growth. It is simple to
-			describe logistic growth with a math equation that allows a population to grow when it
-			is small but causes it to level off when it reaches a predetermined value (the carrying
-			capacity). A logistic model for the Valley Forge NHP is shown below, superimposed on the
-			actual population data from the park.

@@ -1,8 +1,0 @@
- The chromosomes in somatic cells and germ cells are present in pairs. One
-			chromosome in each pair is descended from the organism's father. The other chromosome in
-			the pair is descended from the organism's mother. Each member of a chromosome pair is
-			called a homologue. Together, these two chromosomes make up a pair of homologous
-			chromosomes. The words homologue and homologous both begin with the prefix "homo-,"
-			which means "the same or similar." So the two chromosomes in each pair contain the same
-			set of instructions. The following diagram shows the relationship between homologues and
-			homologous chromosomes. 

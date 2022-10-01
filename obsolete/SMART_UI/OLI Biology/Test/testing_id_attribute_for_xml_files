@@ -1,6 +1,0 @@
-from bs4 import BeautifulSoup
-with open('a2_SimpleDiffusion_Osmosis.xml', 'rU') as f:
-    soup = BeautifulSoup(f, "xml")
-tag = soup.findAll('question')
-for t in tag:
-    print t['id']

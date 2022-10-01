@@ -1,3 +1,0 @@
-Proteins are an essential part of a cell, and are composed of 20 amino acids that fold
-			into intricate structures. In this section, you will explore the folding of proteins and
-			how this folding dictates function.

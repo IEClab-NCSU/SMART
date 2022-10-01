@@ -1,2 +1,0 @@
-
-Organisms interact with one another and their environments. Changes to any part of an ecosystem will invariably cause changes to other parts.

@@ -1,6 +1,0 @@
-The blobs of clay in the diagram above represent histone protein molecules.
-			These proteins associate with DNA in a very precise way. First, they couple with DNA at regularly
-			spaced intervals. Notice in the diagram above that the blobs of clay (histones) are
-			located at equally spaced intervals along the ruler. Second, they help to wind the DNA
-			molecule into an organized and compact structure. The following diagram shows how
-			histones wind DNA into a compact structure called a chromosome.

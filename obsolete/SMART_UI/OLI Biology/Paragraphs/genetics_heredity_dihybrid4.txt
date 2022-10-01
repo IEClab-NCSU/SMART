@@ -1,3 +1,0 @@
-Mendel did not know of genes or alleles, he talked only of “units” specifying
-                    traits. Let’s look in detail at what happens with the genotypes of a dihybrid
-                    cross.

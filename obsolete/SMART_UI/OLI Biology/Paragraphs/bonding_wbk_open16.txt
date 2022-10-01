@@ -1,7 +1,0 @@
-While enantiomers usually undergo chemical reactions in an identical fashion,
-					biological systems are capable of discriminating between these structurally
-					different molecules because biological systems themselves contain chiral
-					centers, such as in amino acids. The ability to discriminate between the
-					enantiomers is an example of bioselectivity. The chemical world has been
-					narrowed by the selective use of specific enantiomers (in this case only
-					D-glyceraldehyde) by biological systems.

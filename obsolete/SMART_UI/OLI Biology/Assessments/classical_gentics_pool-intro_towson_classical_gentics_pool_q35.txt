@@ -1,6 +1,0 @@
-Use the following information to answer the following four questions.
-In dogs, colored fur (E) is dominant to un-colored fur (e). Black fur color (B)
-                    is dominant to brown fur color (b). The E gene is epistatic to the B gene. A
-                    yellow male dog is mated to a black female. The male’s parents were both brown
-                    dogs. The female’s mother was yellow, and her father was brown. 
-Q1 of 4: What is the genotype of the male dog in this example?

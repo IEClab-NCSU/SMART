@@ -1,4 +1,0 @@
-Let us consider how different types of mutations affect the proteins encoded by DNA. The
-			sentence below represents a protein-coding gene. Each three letter word carries some
-			meaning – equivalent to each amino acid being encoded by a three-letter codon in
-			DNA.

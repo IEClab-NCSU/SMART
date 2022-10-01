@@ -1,3 +1,0 @@
-A population grows by 5% per year for 20 years. In other words, the per capita rate of
-            increase, 0.05, stays constant for the 20-year period. What type of growth does this
-            population demonstrate?

@@ -1,5 +1,0 @@
-The community college open learning initiative (CC-OLI) biology course covers a subset of the topical 
-			sub-divisions of the field of biology. This course includes a brief introduction to what biology is 
-			and some fundamental principles such as	an introduction to biological chemistry, basic structure and 
-			function of the cell, and essentials of metabolsim. 
-		

@@ -1,3 +1,0 @@
-Because protein and ligand interactions are non-covalent in nature it is possible for the
-			ligand to dissociate from the protein. This reversible binding is critical and is
-			generally represented as: 

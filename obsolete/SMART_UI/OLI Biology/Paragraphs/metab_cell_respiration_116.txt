@@ -1,7 +1,0 @@
-Even though glucose is the starting substance used in cellular respiration,
-					organisms do not consume pure glucose as an energy source. Instead, many
-					different kinds of fuel molecules must be partly broken down and then fed into
-					various stages of the cellular respiration pathway. For example, complex
-					carbohydrates are readily converted to glucose or similar sugars. Fats and
-					proteins can also be used in cellular respiration, but they must be modified
-					before they can feed into the process. 

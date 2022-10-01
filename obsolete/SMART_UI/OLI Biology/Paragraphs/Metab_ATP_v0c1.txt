@@ -1,7 +1,0 @@
-The energy difference between ATP and ADP is largely due to the interaction between the
-					negatively charged phosphate groups in each molecule. You may remember that
-					unlike charges (+ and -) attract each other, while like charges (+ and +; or -
-					and -) repel each other. Energy is therefore required to move two negative
-					charges close to each other, which is what happens when ATP is made from ADP and
-					phosphate. This is similar to the way in which energy is required to bring the
-					two north poles of a bar magnet together.

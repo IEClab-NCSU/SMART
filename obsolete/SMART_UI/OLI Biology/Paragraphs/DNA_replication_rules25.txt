@@ -1,8 +1,0 @@
-If all four dNTPs were added at this point simple replication of the strand of DNA would
-          occur and no information would be gained. However, if one of the dNTPs was substituted by
-          a NTP that had no hydroxyl on either the 2’ or the 3’ position, a dideoxyNTP
-          (ddNTP), it would be incorporated into the growing DNA strand through the 5’ position
-          in a complementary position opposite its complementary base on the template strand but
-          synthesis from that point forward would be terminated due to the absence of a hydroxyl on
-          the 3’ position. The requirement for synthesis by DNA polymerase has been lost. The
-          dideoxyNTP is referred to as a suicide substrate.

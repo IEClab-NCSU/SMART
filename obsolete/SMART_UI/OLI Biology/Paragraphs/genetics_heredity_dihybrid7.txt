@@ -1,9 +1,0 @@
-There are exceptions to the law of independent assortment. We know now that peas
-                    have seven chromosomes, and Mendel happened to study traits coded by genes on
-                    different chromosomes, or on distant positions of the same chromosome, which
-                    assort independently due to frequent crossing-over. Genes that are very close
-                    together on a chromosome do not assort independently, and are said to be
-                        linked. The closer they are, the more probable that the gametes
-                    will receive parental combinations of alleles of those genes. All the genes in a
-                    chromosome are called a linkage group. Peas have seven linkage
-                    groups.

@@ -1,5 +1,0 @@
-The exponential growth model assumes that populations will maintain constant rates of
-			birth, death, and increase as they grow larger. In reality, we often see that
-			populations stop growing—and sometimes even crash—due to the effects of limiting factors. Limiting factors are biotic or abiotic factors that limit populations by reducing birth rates,
-			increasing death rates, or both. Limiting factors may also increase rates of emigration
-			or decrease immigration.

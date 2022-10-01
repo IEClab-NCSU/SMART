@@ -1,6 +1,0 @@
-Regardless of where DNA is stored in the cell, it contains instructions for building
-			proteins. For protein synthesis to occur, genetic information stored in DNA must first
-			be copied into RNA. In eukaryotic cells, RNA is transported to the cytoplasm, where
-			protein synthesis takes place. Thus, while both RNA and DNA can contain instructions for
-			making proteins, DNA is used for storage of this information, while RNA is directly
-			involved in making proteins.

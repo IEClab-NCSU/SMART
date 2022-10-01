@@ -1,6 +1,0 @@
-consists of two parts, the standard energy change, 
-
-Go, and a term that accounts for the non-equilibrium concentrations of [A]
-      and [B]. Consequently, an unfavorable reaction with a positive Gibbs free energy can be made
-      spontaneous by making the sum of these two terms negative by coupling the unfavorable reaction
-      to a favorable, energy releasing one.   The energy releasing reaction provides the necessary energy to change the sign of the Gibbs free energy from positive to negative.

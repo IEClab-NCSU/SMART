@@ -1,3 +1,0 @@
-Describes a trait that is expressed (manifested as a phenotype) even when
-                        only one copy of the allele encoding the trait is present in the genotype.
-                    

@@ -1,8 +1,0 @@
-Facilitated diffusion and active transport both require transport proteins that act as
-			channels or ports in the membrane. Transport proteins have been classified both by
-			structure and by function. The structure (shape) of each channel helps determine what
-			materials can pass through. Even within classes of transport proteins that carry out
-			similar functions (e.g. ion channels) there are many different structures that can
-			discriminate between specific substances. Dozens of different transporters swirl around
-			within the fluid membranes that enclose your cells and organelles, contributing greatly
-			to their "mosaic" quality. 

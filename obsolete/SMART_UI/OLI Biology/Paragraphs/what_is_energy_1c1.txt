@@ -1,8 +1,0 @@
-Energy cannot be created or destroyed. Instead, energy is transformed from one
-					form to another. Imagine that you climb a mountain trail ending in a steep cliff.
-					Your body’s movement (kinetic energy) is fueled by chemical energy from your
-					food. As you move uphill, your body’s chemical potential energy decreases (you
-					break down molecules and use up stored food energy). At the same time, your
-					body’s gravitational potential energy increases. This kind of potential energy can be released by letting an
-					object drop from a height. A fall from the top of the cliff would do a great
-					deal of “work,” so watch your step!

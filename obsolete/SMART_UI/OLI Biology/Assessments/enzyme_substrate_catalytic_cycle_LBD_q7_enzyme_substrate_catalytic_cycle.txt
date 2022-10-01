@@ -1,4 +1,0 @@
-For each process description, determine the step in the catalytic cycle in which the process occurs, designated with numbers in the above diagram.
-The enzyme undergoes a conformational change causing an induced fit between the
-					substrate and enzyme. This stabilizes the transition state of the substrate as
-					bonds are being reorganized.

@@ -1,5 +1,0 @@
-The buffering of pH plays an important role in the normal function of the
-							cell. If the pH drops too low, or becomes too high, the cell can no
-							longer function. The principal buffer that is used in biological systems
-							is the carbonic acid, a weak acid with an effective pKa of
-							6.4, ideally suited to act as a buffer when the pH ~ 7.0 

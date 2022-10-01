@@ -1,4 +1,0 @@
-Alpha Helix One of the constrained pairs of - angles gives rise to the secondary structural element referred to as the -helix. The -helix  is the prominent
-structure seen hemoglobin shown previously. Because of the regular nature of the structure, every - angle pair in an -helix is the same. -helical structure
-is stabilized by hydrogen bonding between the backbone carbonyl oxygen and the amide hydrogens. In -helices	there are 3.7 amino acids per turn and the carbonyl of the n-th amino
-acid hydrogen bonds to the amide hydrogen of the n+4 amino acid. The hydrogen bonds are parallel to the long axis of the helix and the side chains extend to the outside of the helical cylinder.

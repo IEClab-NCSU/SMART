@@ -1,8 +1,0 @@
- It should also be noted that while the transformation from the alpha to the beta form of
-			an individual carbohydrate at the anomeric carbon is freely reversible and dictated by
-			equilibrium, that freedom of conversion is lost once the anomeric carbon is involved in
-			a glycosidic bond. Furthermore, the condensation/hydrolysis reaction is generally
-			written as an equilibrium; however, the glycosidic (acetal) linkage is very stable and
-			does not spontaneously break (hydrolyze) without the input of energy and the use of a
-			specific enzyme. The stability of the glycosidic bond contributes to the effective use
-			of the polysaccharides in maintaining structure. 

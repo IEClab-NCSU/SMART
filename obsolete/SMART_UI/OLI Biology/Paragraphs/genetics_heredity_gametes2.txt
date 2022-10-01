@@ -1,5 +1,0 @@
-This cell contains a pair of homologous chromosomes. Homologous chromosomes
-                        are two chromosomes with the same genes, but which often have different
-                        alleles. In our example, we have highlighted a gene. Notice that one of the
-                        chromosomes has the "A" version (or allele) of this gene and the other has
-                        the "a" allele of this gene.

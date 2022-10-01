@@ -1,7 +1,0 @@
-Hydrogen bonding can occur whenever hydrogen is covalently bound to strongly
-					electronegative elements like oxygen or nitrogen. These hydrogen atoms carry a
-					positive partial charge and can be attracted to negative partial charges on
-					other molecules, or on different parts of the same molecule. Hydrogen bonds are
-					important to the structure and function of many large biological molecules. DNA,
-					for example, occurs as a double-stranded molecule. The two strands are loosely
-					connected by hydrogen bonds.

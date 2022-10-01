@@ -1,3 +1,0 @@
-
- Removal of the signal peptide from a protein that is translocated across a membrane is accomplished by
- 

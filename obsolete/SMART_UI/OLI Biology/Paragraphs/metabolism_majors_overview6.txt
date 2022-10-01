@@ -1,3 +1,0 @@
-Many of these pathways, with minor modifications, are reversed for synthetic purposes. For
-      example, glucose can be synthesized from pyruvate, fatty acids from acetyl-CoA, and amino
-      acids from intermediates in the TCA cycle.

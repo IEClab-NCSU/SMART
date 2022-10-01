@@ -1,4 +1,0 @@
-A molecule that binds to the active site of an enzyme. Upon bonding
-                                to the enzyme, the substrate molecule is converted into a new
-                                molecule. That is, the enzyme converts the substrate(s) into a
-                                different chemical arrangement. 

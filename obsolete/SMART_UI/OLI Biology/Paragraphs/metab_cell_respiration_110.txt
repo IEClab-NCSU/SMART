@@ -1,5 +1,0 @@
-Glycolysis of glucose produces 2 pyruvates, so the citric acid cycle happens
-					twice. Therefore, per glucose, the citric acid cycle produces 2 ATP, 3 NADH, and
-					2 FADH2. So far, we have produced a total of 4 ATP (that's not very
-					much). In the next step, we are about to produce over 30 ATP molecules. That's a
-					lot more!

@@ -1,7 +1,0 @@
-When placed in water, detergents spontaneously form organized spherical structures called
-				micelles. In a micelle, the hydrophilic part of the detergent is on the
-			surface of the sphere and interacts with the water. The center of the sphere contains
-			the hydrophobic part of the detergent, hidden from the water. A cross section image and
-			a three-dimensional structure of a micelle are shown below. When a micelle comes in
-			contact with oily (hydrophobic) compounds, the oils dissolve into the interior of the
-			micelle and can be washed away with the micelle.

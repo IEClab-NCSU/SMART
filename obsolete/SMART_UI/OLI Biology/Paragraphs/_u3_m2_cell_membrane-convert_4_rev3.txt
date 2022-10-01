@@ -1,8 +1,0 @@
-There are two general forms of endocytosis: phagocytosis and
-				pinocytosis. Phagocytosis is the uptake of large solid
-			particles such as bacteria or cellular debris. Pinocytosis is the uptake of
-			fluid and any small molecules dissolved within it. Cells are also capable of recognizing
-			specific particles and engulfing them in a more targeted way, a process called
-			receptor-mediated endocytosis. In this case, the particle first binds to a membrane
-			protein receptor on the surface of the cell. Binding of the target particle induces the
-			cell to engulf it. 

@@ -1,4 +1,0 @@
-The presence of sticky ends on DNA fragments makes it easy to join DNA fragments. If two
-            fragments are both cut with the same restriction enzyme, they will have complementary
-            sticky ends. These will align and bind loosely to each other: hydrogen bonds will form
-            between complementary bases. 

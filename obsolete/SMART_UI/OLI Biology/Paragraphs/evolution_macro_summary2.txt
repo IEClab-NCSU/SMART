@@ -1,4 +1,0 @@
-Clades are complete collections of species that all trace back to a common ancestor.
-            A few closely related species may form a clade (spoonbills), but on a much grander
-            scale all life is a single clade descended from only one or a few early cell
-            types.

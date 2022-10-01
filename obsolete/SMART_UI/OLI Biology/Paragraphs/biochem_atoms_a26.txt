@@ -1,4 +1,0 @@
-When the number of protons equals the number of electrons, then the atom is
-					electrically neutral. If the number of protons differs from the number of
-					electrons, then the atom has an electrical charge. An atom with more or less
-					protons than electrons is called an ion. 

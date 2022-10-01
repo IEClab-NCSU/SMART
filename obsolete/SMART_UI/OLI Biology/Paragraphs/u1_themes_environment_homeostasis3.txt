@@ -1,3 +1,0 @@
- Your task is to build a body. Not a big body, like a human’s. Just a wee little
-                body, of a creature we’ll call Structo. Of course Structo needs a body - otherwise,
-                how will it function? 

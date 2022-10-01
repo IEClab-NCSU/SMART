@@ -1,7 +1,0 @@
-Carbon and nitrogen can also form planer geometries, where all of the atoms that
-					are bound to the carbon (or nitrogen) are in the same plane as the carbon or
-					nitrogen. In the case of carbon, a planer geometry is usually observed if the
-					carbon is involved in a double bond, while the tetrahydral geometry is found if
-					the carbon is forming single bonds. Compare the structure of methanol to
-					formaldhyde in the Jmol below. In methanol, carbon forms four single bonds while
-					in formaldehyde there is a double bond between the carbon and the oxygen. The carbon atom in methanol shows tetrahdyral geometry, while the carbon atom in formaldehdye is planer; the two hydrogens and oxygen lie in the same plane as the carbon..

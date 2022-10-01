@@ -1,3 +1,0 @@
-Material used or consumed by humans that can be replenished
-                                sufficiently to prevent complete consumption of that material.
-                                Resources are renewed through growth or other ongoing processes.

@@ -1,2 +1,0 @@
-
-Regulation by Energy Sensing.  Cells have a relatively constant amount of adenosine nucleotides, i.e. the sum of the  concentrations of AMP, ADP, and ATP are relatively constant.   When the cell is consuming energy, ATP is being hydrolyzed to ADP or to AMP.  Consequently, high levels of AMP and ADP indicate that the cell needs to activate glycolysis to restore the levels of ATP.    If ATP levels are high, then glycolysis should be turned off.  The excess ATP can be used to synthesize glucose and other molecules if needed.

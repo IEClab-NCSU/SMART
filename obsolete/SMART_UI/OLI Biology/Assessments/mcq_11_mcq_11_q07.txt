@@ -1,3 +1,0 @@
-
- A ligand the binds to a protein more strongly than another ligand will
- 

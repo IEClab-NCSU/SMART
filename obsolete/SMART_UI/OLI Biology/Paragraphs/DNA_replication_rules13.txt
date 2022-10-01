@@ -1,8 +1,0 @@
-During replication of circular chromosomes, such as in bacteria, the leading strand of
-          synthesis from one replication fork eventually meets the lagging strand of synthesis for
-          the other replication fork and there is complete synthesis of the entire chromosome. For
-          linear chromosomes this same process happens between two origins of replication. However
-          at the end of the linear chromosomes, the telomeres, the lagging strand does not
-          completely replicate to match the length of DNA generated on the leading strand. Thus for
-          repeated replication of the chromosomes during multiple cell divisions, this means that
-          the chromosomes are shortened with each cycle of replication.

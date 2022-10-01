@@ -1,8 +1,0 @@
-Many species have very short generation times ranging from minutes (some bacteria) to a
-			few weeks or months (many insects, some weeds). We can track evolutionary changes in
-			populations of these organisms. They may change in ways that are important to us. For
-			example, disease organisms may shift to human hosts, evolve to evade vaccines, or evolve
-			to resist drugs. Pests and weeds may also evolve in ways that make them more harmful or
-			harder to control. Scientists and doctors can use what we know about microevolution and
-			the mechanisms that drive evolution to help tackle these problems in the “real world”
-			not just in the realm of academia. 

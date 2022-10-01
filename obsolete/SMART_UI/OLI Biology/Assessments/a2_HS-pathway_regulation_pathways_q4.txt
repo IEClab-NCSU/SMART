@@ -1,4 +1,0 @@
-
-An allosteric activator is similar to an competitive inhibitor because it
-                              binds to the active site of an enzyme, increasing the catalytic
-                        rate.

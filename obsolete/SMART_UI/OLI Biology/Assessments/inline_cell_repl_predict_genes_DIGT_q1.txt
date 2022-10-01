@@ -1,3 +1,0 @@
-
-Given that dogs have 39 pairs of chromosomes, how many total chromosomes can be found in a
-					skin cell of a dog?

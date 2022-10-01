@@ -1,3 +1,0 @@
-
- The initial velocity, dP/dt, at t=0 is used for kinetic measurements because:
- 

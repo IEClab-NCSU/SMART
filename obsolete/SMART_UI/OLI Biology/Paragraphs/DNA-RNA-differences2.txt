@@ -1,4 +1,0 @@
- The following table compares some of the finer characteristics of the B-helix and A-helix.
-      In general, the A-helix is broader than the B-helix, there are slightly more base pairs per
-      turn in the A-helix, and most significantly, the tilt of the bases relative to the axis of the
-      helix is much greater in the A-Helix.

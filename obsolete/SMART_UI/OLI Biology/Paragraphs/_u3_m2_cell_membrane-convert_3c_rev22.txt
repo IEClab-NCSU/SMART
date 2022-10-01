@@ -1,8 +1,0 @@
-To decrease the pH inside the lysosome, the concentration of protons will need to be greater
-			inside the lysosome than in the cytoplasm. To accomplish this,
-				protons will need to move from a low concentration to a high
-			concentration. This is a nonspontaneous process and requires the cell to do work to move
-			the ions "uphill" against the concentration gradient. To do work, the cell must expend
-			energy and actively move (pump) the ions. This process is referred to as
-					active transport. The source of energy for this process in
-			most biological systems is the hydrolysis of ATP.

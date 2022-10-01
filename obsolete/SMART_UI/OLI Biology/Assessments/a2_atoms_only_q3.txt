@@ -1,1 +1,0 @@
-The reactive properties of an atom depend on the number of

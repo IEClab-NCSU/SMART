@@ -1,7 +1,0 @@
-Water molecules form hydrogen bonds with other water molecules. The hydrogen
-                    bonds formed between water molecules give water some important properties that
-                    enable life. One such property is the polar nature of
-                    water, which makes it a good solvent for other polar compounds, like glucose.
-                    Hydrophobic nonpolar compounds do not interact with water because of hydrophobic
-                    effect; the ordering of water molecules around the dissolved nonpolar molecules
-                    is very unfavorable. 

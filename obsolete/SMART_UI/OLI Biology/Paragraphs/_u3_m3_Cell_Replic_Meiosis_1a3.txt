@@ -1,6 +1,0 @@
-As you learned, genetic information is contained in DNA, which in eukaryotic
-			cells is bound to special proteins called histones. The combination of DNA and histone proteins is
-			called chromatin. During the S phase of the cell cycle, the chromatin is
-			loose, to facilitate DNA replication. Chromatin can condense to form
-				chromosomes during nuclear division. Chromosomes have a typical appearance
-			and can be organized in a karyotype.

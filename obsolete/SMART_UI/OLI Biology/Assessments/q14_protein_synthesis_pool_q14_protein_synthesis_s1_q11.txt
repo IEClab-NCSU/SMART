@@ -1,1 +1,0 @@
-Although the standard free energy change for the following reaction is about zero. Amino acid + tRNA + ATP -> aminoacyl-tRNA + AMP + P-P     The charging of tRNAs is essentially irreversible because:

@@ -1,2 +1,0 @@
-Hydratase. This reaction type, which has a number of idiosyncratic names in
-      different pathways, adds water to a double bond.

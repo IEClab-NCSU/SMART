@@ -1,3 +1,0 @@
-Instructions: Try to determine the
-						chirality of glyceraldehyde, one ot the simplest organic molecules found in
-						biology. A static image of L-glyceraldehyde is shown on the left. Is the right 3D structure the D form or the L form of glyceraldehyde?

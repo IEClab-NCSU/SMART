@@ -1,4 +1,0 @@
-
-A researcher measures the enzyme activity (rate of product formed) at three different substrate concentrations, 0.2, 0.4, and 5 mM.  The measured rates were found to be 10, 15.5 and 32, respectively.  These data were use to generate the following plot:
-
-What rate would you expect to observe if a substrate concentration of 0.1 mM was used?

@@ -1,3 +1,0 @@
-Molecules that make up the individual structural sub-units of the
-                                nucleic acids RNA and DNA. Each nucleotide is made up of three
-                                components: a phosphate, a sugar, and a nitrogenous base. 

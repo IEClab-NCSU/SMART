@@ -1,7 +1,0 @@
-Mendel set out to understand inheritance by breeding pea plants. By collecting peas from
-            pods produced after fertilizing two parent pea plants, Mendel could then grow those peas
-            into new pea plants and see how these offspring resemble or differ from the parent
-            plants. The heritable characteristics that Mendel studied included seed color and shape,
-            pod color and shape, flower color and position, and stem length. Each of the traits that
-            Mendel studied occurs only in two forms, or phenotypes. For instance, pea flower color
-            is a trait that can exhibit either the purple phenotype or the white phenotype.

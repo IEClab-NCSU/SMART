@@ -1,8 +1,0 @@
-All DNA found in living organisms comes in sets of two polymers or strands, usually
-			referred to as double-stranded DNA. Some viruses are an exception to this rule and
-			contain single-stranded DNA as their genetic material. The discovery that DNA structure
-			is a double helix (two strands wound around each other) is considered one of the
-			greatest discoveries in science. Understanding of the structure of DNA opened up a whole
-			new realm of biological and biomedical research (molecular biology) and led to the
-			development of new technologies in science and medicine. Let’s examine the structure of
-			DNA using the activity below.

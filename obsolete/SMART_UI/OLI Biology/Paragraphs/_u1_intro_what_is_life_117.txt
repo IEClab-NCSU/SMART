@@ -1,8 +1,0 @@
-Penicillin, the first antibiotic, was serendipitously discovered by Alexander
-					Fleming in 1928. He had left some Petri dishes out too long and mold had grown
-					on the bacterial medium. Looking closely, Fleming saw that bacteria did not grow
-					well in a zone around the moldy spots. Following up on a hunch, he deliberately
-					added mold to some plates seeded with bacteria and found that bacteria were
-					killed near the mold colonies. By the mid-1940s, just in time to help wounded
-					soldiers in World War II, scientists were able to mass-produce a drug derived
-					from the mold.

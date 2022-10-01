@@ -1,2 +1,0 @@
-Amides (-C=O-NH2) found on some amino acids. Amino acids are linked
-							together in proteins by amide linkages (-C=O-NH-C).

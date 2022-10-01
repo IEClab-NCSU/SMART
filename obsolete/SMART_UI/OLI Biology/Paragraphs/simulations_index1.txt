@@ -1,2 +1,0 @@
- The following is the list of simulations provided within the various modules of the
-            course.

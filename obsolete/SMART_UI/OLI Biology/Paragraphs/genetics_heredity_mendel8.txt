@@ -1,7 +1,0 @@
-Let’s see what happened during that first cross. You will use a tool called a Punnett
-            square, which graphically shows the possible combinations of the gametes of the parents.
-            In a Punnett square, you place the possible gametes from each parent along the top and
-            left side of the square. What you are representing here is the Law of
-                Segregation: during meiosis
-                I, the chromosome pair separates, resulting in haploid gametes. Each
-                gamete will have only one allele.

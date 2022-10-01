@@ -1,1 +1,0 @@
-The gap junction is an example of a uniport that discriminates based on

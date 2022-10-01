@@ -1,3 +1,0 @@
-Energy is released in small portions, so that some of the released energy can be
-					captured in chemical bonds, ultimately as ATP. The process can be regulated at
-					different steps, allowing cells more control over the process.

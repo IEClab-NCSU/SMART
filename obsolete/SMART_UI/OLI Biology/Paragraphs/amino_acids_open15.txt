@@ -1,1 +1,0 @@
-Instructions: In order to answer the following questions you will have to view the 3D structure of different amino acids in the Jmol window.  You can load different structures by clicking on the name of the amino acid.  Note that you may have to click twice the first time you use this tool.

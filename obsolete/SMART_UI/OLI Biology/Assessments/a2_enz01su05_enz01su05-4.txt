@@ -1,2 +1,0 @@
-The tertiary structure of an enzyme provides the scaffolding to form the
-                        active site of an enzyme.

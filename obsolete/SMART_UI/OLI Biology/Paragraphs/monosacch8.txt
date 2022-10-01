@@ -1,6 +1,0 @@
- Biological systems are selective and while it is possible to synthesize both of the
-			glyceraldehyde enantiomers in the chemistry lab, a cell primarily produces and uses the
-			D form of glyceraldehyde. This is dictated by the way in which molecules are selected
-			and used in a cell. Every reaction in a cell is catalyzed by an enzyme and these enzyme
-			catalysts have the ability to discriminate between different structures. In this case
-the enzymes can discriminate between D and L carbohydrates. Thus as a general rule, all carbohydrates in biological systems are D. 

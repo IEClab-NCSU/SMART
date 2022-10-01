@@ -1,1 +1,0 @@
-pKa = -log(Ka) 

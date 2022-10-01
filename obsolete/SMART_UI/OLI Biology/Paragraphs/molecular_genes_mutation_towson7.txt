@@ -1,4 +1,0 @@
-
-Frameshift mutations. A frameshift mutation occurs when one or two bases
-				are inserted into or deleted from a sequence. As a result, subsequent codons are
-				read incorrectly in new groupings of three bases each:

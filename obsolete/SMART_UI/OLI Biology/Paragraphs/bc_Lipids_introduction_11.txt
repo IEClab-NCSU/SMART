@@ -1,6 +1,0 @@
-Lipids are a diverse group of macromolecules united by their hydrophobic,
-			nonpolar nature. We are most familiar with the lipids known as fats. Fats
-			are used to store energy for later use. They also provide structural support and
-			cushioning for many animals. Some dietary fats are healthier than others. In this
-			module, you will learn about the differences between saturated,
-				unsaturated, and trans fats. 

@@ -1,6 +1,0 @@
-Both eukaryotic and prokaryotic cells have a cell or plasma membrane, which
-			surrounds and defines the inner environment of the cell. The cell membrane is made of a
-			phospholipid bilayer containing a variety of proteins and additional components. The
-			cell membrane is responsible for mediating interactions between the cell and its
-			environment. The Cell Membrane module contains a more detailed discussion of the
-			structure and function of the cell membrane.

@@ -1,5 +1,0 @@
-
-For each gene expression property below, specify whether it occurs in prokaryotes only, eukaryotes only, or both. 
- 
-5. Accessory proteins bind to conserved sequences in the promoter which allows RNA
-                    polymerase to bind: 

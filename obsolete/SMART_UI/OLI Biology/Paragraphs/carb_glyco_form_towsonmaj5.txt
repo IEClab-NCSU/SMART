@@ -1,8 +1,0 @@
- While all linkages between the anomeric carbon of one carbohydrate and every hydroxyl of a second carbohydrate are possible, it is important to understand, that in biological systems, very little is left to chance, and in fact, every reaction that takes place in a cell is catalyzed by an enzyme. Just as we
-			have stated that bioselectivity dictates that D carbohydrates are used by biological
-			systems, the formation of glycosidic bonds is catalyzed by specific enzymes that direct
-			the formation of specific glycosidic bonds between the anomeric carbon of one defined
-			carbohydrate and a specific hydroxyl function of a defined second carbohydrate.
-			Each
-			resulting disaccharide is a different structure. This is another example of
-			bioselectivity. 

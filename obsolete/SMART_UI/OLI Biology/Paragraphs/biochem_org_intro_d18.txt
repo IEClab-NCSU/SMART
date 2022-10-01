@@ -1,9 +1,0 @@
-
-Carboxyl:Charged at neutral pH, with a charge of -1. At low pH
-						values, this group is protonated and becomes neutral.
-Amino:Also charged at neutral pH, with a charge of +1. At high pH
-						values, this group is deprotonated and becomes neutral.
-Phosphate:Typically has two negative charges at neutral pH. A
-						special case of a phosphate group is a phosphate diester, which links
-						together nucleotides in DNA and RNA. The phosphate diester is always
-						negatively charged at neutral pH. 

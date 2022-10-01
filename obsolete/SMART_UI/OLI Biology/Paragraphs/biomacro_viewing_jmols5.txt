@@ -1,7 +1,0 @@
-
-The two helical polynucleotide chains are coiled around a common axis
-The phosphate and ribose groups are on the outside
-The bases are directed toward the inside of the helix, and stack on the central helical axis.
-The planes of the bases are perpendicular to the axis of the helix
-The diameter of the helix is uniform and is 20 Angstroms
-The bases are stacked and separated by a uniform distance of 3.4 Angstroms.

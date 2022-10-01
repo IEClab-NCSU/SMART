@@ -1,2 +1,0 @@
-Single bonds: Two atoms attached by a single covalent bond have free
-					rotation about the bond.

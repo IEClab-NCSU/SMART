@@ -1,2 +1,0 @@
-
-Primary Structure script('reset;select all;backbone off;cartoon off;wireframe off;font echo 12;set echo middle left;echo Chain A:|Val-Leu-Ser-Pro-Ala-Asp-...;color echo black;') is the sequence of amino acids.  Hemoglobin has four separate polypeptide chains, the first few amino acids of the first chain (chain A) will appear after clicking the button.

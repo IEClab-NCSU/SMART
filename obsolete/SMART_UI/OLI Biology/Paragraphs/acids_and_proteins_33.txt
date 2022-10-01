@@ -1,4 +1,0 @@
-Binding proteins have amino acids in their binding site that are complementary to
-					the ligand. Generally, a higher degree of complementarity leads to tighter
-					binding and a more specific interaction. The molecules can be complementary in
-					these different ways:

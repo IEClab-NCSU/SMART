@@ -1,8 +1,0 @@
-Cells with a cell wall (such as plant and bacterial cells) respond somewhat
-				differently to these situations. The cell wall will keep these cell from bursting in
-				a hypotonic solution. In a hypotonic solution, the pressure created by the rigidity
-				of the cell wall forces water back out of the cell. In fact, plant cells do best in
-				slightly hypotonic solutions, which results in plump, healthy cells. Isotonic
-				solutions result in somewhat limp plant cells. Plant cells are most sensitive to
-				hypertonic solutions. In hypertonic solutions, the plasma membrane tears as it
-				shrivels away from the cell wall. This solution will kill the cells.

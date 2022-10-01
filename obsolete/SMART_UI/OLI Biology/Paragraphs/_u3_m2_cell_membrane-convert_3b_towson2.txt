@@ -1,5 +1,0 @@
-Shown below is a different cell with the same extracellular concentrations of solute
-						as the cell in the previous question. This cell has a channel instead of a carrier
-						protein to transport the molecule. This Carrier Protein Rate Curve depicts the relationship 
-						between the rate of transport and solute concentration we would expect for a carrier protein.
-					

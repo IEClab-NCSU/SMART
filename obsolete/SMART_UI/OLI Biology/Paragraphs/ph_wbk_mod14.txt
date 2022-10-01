@@ -1,1 +1,0 @@
-[3] -log[H+] = log ([Ch3COO-]/[ CH3COOH]) - log K

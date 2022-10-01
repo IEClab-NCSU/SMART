@@ -1,3 +1,0 @@
-Functional groups of a molecule that do not contain an
-                                electronegative atom; therefore, the functional group is non-polar.
-                                An example is a methy group -CH3. 

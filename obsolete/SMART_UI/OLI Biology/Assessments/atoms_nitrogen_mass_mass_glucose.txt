@@ -1,3 +1,0 @@
-
-Calculate the molecular mass of glucose C6H12O6.
-

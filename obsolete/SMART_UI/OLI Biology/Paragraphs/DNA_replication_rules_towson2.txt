@@ -1,5 +1,0 @@
-The Challenge: To initiate the DNA replication of a chromosome the appropriate
-          substrate conditions must be met as described previously. How long the process of
-          replication takes is also important to the cell. How genomes of variable sizes can be
-          totally replicated within the appropriate life cycle time of the cell is a significant
-          challenge.

@@ -1,5 +1,0 @@
-Phylogenetic tree (also called phylogeny), is a tree diagram that
-                                represents a hypothesis as to how a biological lineage may have
-                                branched and formed clades over time. Remember that as a hypothesis,
-                                phylogenetic trees are subject to change as more data are gathered
-                                and as analysis techniques improve. 

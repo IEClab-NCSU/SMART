@@ -1,6 +1,0 @@
-DNA structure is an antiparallel double helix: the two DNA strands run in opposite
-			directions. The sugar-phosphate backbone is on the outside, and the bases are on the
-			inside of the helix. The two strands are held together by base pairing: hydrogen bonding
-			between specific bases. Adenine (a purine) always pairs with thymine (a pyrimidine);
-			guanine (a purine) always pairs with cytosine (a pyrimidine). These base pairing rules
-			(A-T, G-C) are very important to the structure and function of DNA.

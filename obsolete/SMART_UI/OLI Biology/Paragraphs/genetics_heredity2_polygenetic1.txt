@@ -1,5 +1,0 @@
-Some traits, such as skin color and height, are determined by multiple genes. In
-                    humans, skin color is determined by at least three different genes, and probably
-                    more. This concept is called polygenic inheritance. Variation along
-                    a continuum often indicates that a trait has polygenic inheritance. Most visible
-                    traits are polygenic, and their genetic patterns are rather complicated.

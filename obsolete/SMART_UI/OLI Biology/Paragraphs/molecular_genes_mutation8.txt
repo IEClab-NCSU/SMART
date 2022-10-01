@@ -1,1 +1,0 @@
-Deletion of one nucleotide: introduces frame shift

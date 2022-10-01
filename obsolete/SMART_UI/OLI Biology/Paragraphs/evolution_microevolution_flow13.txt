@@ -1,7 +1,0 @@
-As you can see from the examples presented here, mutations, gene flow and genetic drift
-			are mechanisms that can alter the gene pool of a population leading to microevolution.
-			While these mechanisms of evolution have been presented separately from the mechanisms
-			of natural, artificial, and sexual selection, in reality it is likely that several or
-			all of these mechanisms are at work at any given time to drive evolution. Evolution is a
-			complicated process. It involves some relatively predictable elements (selection and
-			gene flow) but also has many unpredictable aspects (mutation, genetic drift).

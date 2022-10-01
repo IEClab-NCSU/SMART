@@ -1,6 +1,0 @@
-Radioactive isotopes can be used to visualize certain tissues for medical diagnosis. One
-			example of this is radioactive iodine, which tends to concentrate in the thyroid gland.
-			It emits radiation as it breaks down to another isotope of iodine. Special cameras can
-			pick up this radiation and use it to create an image of the thyroid gland to determine
-			if the patient's thyroid is functioning normally. If there is abnormal activity in the
-			thyroid gland, this can indicate cancer. 

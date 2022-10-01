@@ -1,5 +1,0 @@
-In the previous units, you learned about the biomolecules that build up cells, the basic
-			unit of life. You also learned about the structure of the cell and some of the processes
-			that take place in it. Implicit in that knowledge was the notion of cells as
-			continuously changing and dynamic entities: they grow, rebuild, repair, reproduce, and
-			react to the external environment.

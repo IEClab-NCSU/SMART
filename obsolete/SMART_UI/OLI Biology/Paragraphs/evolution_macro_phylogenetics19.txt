@@ -1,9 +1,0 @@
-As you can see, there is a great deal of similarity in this gene among the five species.
-            This shouldn’t be too surprising: they are all vertebrate animals, close relatives in
-            the grand scheme of life’s diversity. There are clearly sections of the gene where all
-            the bases tend to agree; other regions show more differences. Do the differences between
-            the genes match our expectations about how Carp, Salamander, Sea Turtle, Human, and
-            Mouse are related? It is not easy for a human to sort through the sequences and count
-            differences one by one, but a computer can complete this task in a flash. Below is a
-            summary of how the full gene sequence for each species compares to that of the Common
-            Carp:

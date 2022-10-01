@@ -1,3 +1,0 @@
-
- Hydrogen atoms are not generally shown in X-ray structures of proteins because
- 

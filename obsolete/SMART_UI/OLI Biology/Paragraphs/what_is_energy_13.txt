@@ -1,4 +1,0 @@
-The first example below shows a single-celled organism — an amoeba — using energy to
-				move. The second example illustrates the chemical reaction resulting in urea, a
-				molecule found in urine. The third example shows bioluminescence — the emission of
-				light by living organisms; in this case, the aurelia aurita jelly fish.

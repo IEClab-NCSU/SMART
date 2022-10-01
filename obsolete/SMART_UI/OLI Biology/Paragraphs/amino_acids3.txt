@@ -1,6 +1,0 @@
-The numbering of the carbon atoms in an amino acid follows the nomenclature used for carboxylic acids.   
-			The first carbon adjacent to the carboxyl group is the -carbon, 
-			followed by the -carbon, etc. as illustrated in the diagram to the right.  All amino acids that are found in proteins have the same backbone
-			structure, the acidic carboxylic acid group,  the –carbon, and an amino group that is attached to the  -carbon, 
-			hence the name -amino acids.  The sidechain, or R, group is attached to the -carbon and is different for each amino acid. 
-			Note that the  proton is often not drawn, but its existence should be inferred from the fact that carbon forms four single bonds.

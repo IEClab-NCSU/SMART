@@ -1,2 +1,0 @@
- In this module, you will explore the equilibrium forces driving protein ligand binding using
-      the oxygen buffering protein myoglobin. 

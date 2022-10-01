@@ -1,2 +1,0 @@
-CRP protein binds to the lac operon under conditions of low glucose. Its role in
-            the expression of genes in the lac operon is:

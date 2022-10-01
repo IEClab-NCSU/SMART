@@ -1,4 +1,0 @@
-Facilitated diffusion and active transport are not the only ways that materials can enter or
-			leave cells. Through the processes of endocytosis and
-				exocytosis, materials can be taken up or ejected in bulk, without
-			passing through the cell's plasma membrane. 

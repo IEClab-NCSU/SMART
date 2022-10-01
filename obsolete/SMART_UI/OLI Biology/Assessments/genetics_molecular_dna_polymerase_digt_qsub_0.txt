@@ -1,4 +1,0 @@
-
-Indicate if the following functions are performed by DNA polymerase:
- 
-1. Adding nucleotides to the leading strand of DNA.  

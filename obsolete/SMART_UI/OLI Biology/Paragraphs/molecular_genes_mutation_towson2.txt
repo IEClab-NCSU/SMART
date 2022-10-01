@@ -1,8 +1,0 @@
-Errors during DNA replication can have a much longer lasting effect. If incorrect
-			nucleotides are incorporated into a newly synthesized DNA strand, the error may be
-			passed on to future generations. Such heritable changes are referred to as mutations.
-			Some mutations happen due to large scale rearrangements of DNA molecules that involve
-			thousands or millions of nucleotides. We will limit our discussion here to small-scale
-			changes that involve one or a few nucleotides in the coding sequence of a gene. These
-			mutations include substitution of a single nucleotide base and insertion or deletion of
-			one or more bases. 

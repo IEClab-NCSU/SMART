@@ -1,2 +1,0 @@
-This simulation started with a small number of oxygen molecules, giving an average [MO] equal to about 2.  You added more oxygen molecules.
-<b>How did the increase in oxygen affect the amount of [MO]?</b>

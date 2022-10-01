@@ -1,9 +1,0 @@
-Virtually all the activities of the cell are powered by the energy released when
-					ATP loses its terminal phosphate. For example, ATP hydrolysis provides the
-					energy needed to form complex molecules from simpler ones (synthesis). ATP can
-					also transfer energy by making proteins change shape when ATP is converted to
-					ADP. When proteins change shape, their microscopic movements can add up to
-					macroscopic motion, such as occurs when entire muscles contract. Similarly, ATP
-					can transfer energy to specialized transport proteins embedded in the cell
-					membrane and enable materials to be pumped in or out of the cell, against their
-					concentration gradients (active transport).

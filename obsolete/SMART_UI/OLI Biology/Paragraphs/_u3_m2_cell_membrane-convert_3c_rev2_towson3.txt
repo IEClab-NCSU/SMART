@@ -1,5 +1,0 @@
-The animation that follows illustrates an example of an active
-				transporter that uses energy from the molecule ATP
-			to transport sodium (Na+) ions out of the cell and potassium (K+) ions into the cell.
-			Both ions are moved against their concentration gradients. The
-			main stages of the process are:

@@ -1,7 +1,0 @@
-A structure surrounding all types of cells, separating it from the
-                                external environment. It constitutes a semipermeable boundary, where
-                                certain substances can cross and others cannot. Chemically, the
-                                plasma membrane (also called the cell membrane) is a double
-                                layer of phospholipids (phospholipid
-                                    bilayer) in which proteins, and sometimes sterols, are
-                                embedded. 

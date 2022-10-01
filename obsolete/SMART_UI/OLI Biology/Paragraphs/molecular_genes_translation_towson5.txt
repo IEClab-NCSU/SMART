@@ -1,3 +1,0 @@
-This table summarizes the amino acids that result from each codon on mRNA. The
-					first letter in the codon is on the left. The second is on the top, and the
-					third is on the right.

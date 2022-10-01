@@ -1,7 +1,0 @@
-The Challenge: DNA polymerase synthesizes DNA at rates up to 500 bp/sec. There
-          are basically three types of mistakes that the enzyme can make during the synthesis:
-          substitution of an incorrect base, insertion of an extra base or failure to insert a base
-          resulting in a deletion. The consequences of these errors will be apparent as we move
-          toward the discussion of DNA transcription and RNA Translation. In the context of
-          Replication it is important to touch on at least a couple of the means by which the system
-          corrects errors or reduces the frequency of errors. 

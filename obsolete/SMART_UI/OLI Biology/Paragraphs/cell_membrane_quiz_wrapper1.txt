@@ -1,6 +1,0 @@
-The ability to carefully regulate substances moving in and out of the cell is
-					crucial for maintaining cellular homeostasis. There are many ways items can get
-					in and out of the cell. Some substances can move through simple diffusion.
-					Others require a transport protein. Sometimes energy is needed and sometimes it
-					is not. Membrane transport proteins are so important that serious diseases can
-					result when they malfunction. 

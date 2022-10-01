@@ -1,7 +1,0 @@
-The intensive efforts to understand the structure of the molecules involved as well as the
-      details of the process have also yielded a set of tools that have led to the sequencing of
-      whole genomes containing the inherited information passed from generation to generation. This
-      immense amount of information has spawned the field of computational biology that is able to
-      extract information from the sequences that can be applied to both our basic understanding of
-      the functioning of organisms and to applications leading to potential cures for genetically
-      inherited diseases.

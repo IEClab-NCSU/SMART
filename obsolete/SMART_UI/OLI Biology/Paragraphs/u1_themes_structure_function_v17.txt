@@ -1,2 +1,0 @@
-Let’s explore the relationship between structure and function by building a body for
-			a hypothetical creature we’ll call Structo. 

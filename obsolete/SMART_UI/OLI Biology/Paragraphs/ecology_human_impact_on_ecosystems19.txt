@@ -1,9 +1,0 @@
-Warm weather and ocean temperatures. In a record of weather
-                    and ocean temperature data stretching back to 1900, the top five warmest years
-                    were 2005, 2010, 1998, 2003, and 2002. Studies based on weather stations and
-                    ocean temperature measurements around the world have repeatedly found a trend of
-                    increasing temperatures since about 1900 with steep increases since around 1970.
-                    The data for land weather stations are summarized in the graph below. As average
-                    temperatures have increased, so has the frequency of extreme heat waves. These
-                    are particularly dangerous in low-income nations like India, where people lack
-                    air conditioning.

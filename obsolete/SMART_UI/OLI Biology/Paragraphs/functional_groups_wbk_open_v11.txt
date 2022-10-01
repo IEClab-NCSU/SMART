@@ -1,7 +1,0 @@
- Biological systems use only a small part of the total chemical repertoire. This is due
-            to the number of chemical reactions that can occur under physiological conditions, and
-            to the small number of chemical or functional groups compatible in biological systems.
-            The physical properties of these groups define how molecules behave in biological
-            systems at physiological pH and temperature. By learning the properties of these groups,
-            you will be able to predict how various molecules will function, as well as which
-            functional groups can be converted to others during metabolism 

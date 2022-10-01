@@ -1,4 +1,0 @@
-Calcium (Ca2+) can be transported passively by both channels and
-                carrier proteins. Ca2+ channels transport approximately 1000x faster than
-                    Ca2+ carrier proteins. Select the explantion for why this
-                occurs:

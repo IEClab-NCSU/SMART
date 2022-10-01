@@ -1,8 +1,0 @@
-Use the following information to answer the next three questions.
-
-            In dogs, colored fur, E, is dominant over colorless fur, e. Black fur color, B, is
-            dominant over brown fur color, b. The E gene is epistatic to the B gene. Suppose a
-            yellow male dog is mated with a black female. The male’s parents were both brown. The
-            female’s mother was yellow, and her father was brown. 
-            
-Part 1 of 3: What percentage of the puppies will be yellow?

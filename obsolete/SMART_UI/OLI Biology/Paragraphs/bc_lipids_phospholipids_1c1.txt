@@ -1,5 +1,0 @@
-What is important about the structure of a phospholipid membrane? First, it is fluid.
-			This allows cells to change shape, permitting growth and movement. The fluidity of the
-			membrane is regulated by the types of phospholipids and the presence of cholesterol.
-			Second, the phospholipid membrane is selectively permeable.
-		

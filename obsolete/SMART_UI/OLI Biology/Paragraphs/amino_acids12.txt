@@ -1,5 +1,0 @@
-Note that after the amino acid has been incorporated into the protein, the
-					charges on the –amino and the carboxyl groups have disappeared. Thus the mainchain
-					atoms have become polar functional groups. Since each residue in a protein has
-					exactly the same mainchain atoms, the functional properties of a protein must
-					arise from the different sidechain groups.

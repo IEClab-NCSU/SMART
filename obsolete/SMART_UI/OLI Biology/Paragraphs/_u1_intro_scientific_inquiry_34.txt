@@ -1,7 +1,0 @@
-However, the control group cannot get “nothing.” Instead, the control group often receives a
-			placebo. A placebo is a procedure that has no expected therapeutic effect —
-			such as giving a person a sugar pill or a shot containing only plain saline solution
-			with no drug. Scientific studies have shown that the “placebo effect” can alter
-			experimental results because when individuals are told that they are or are not being
-			treated, this knowledge can alter their actions or their emotions, which can then alter
-			the results of the experiment.

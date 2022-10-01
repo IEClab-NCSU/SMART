@@ -1,8 +1,0 @@
- When NaCl dissolves in water, each atom becomes surrounded by at least 20 water
-					molecules. As NaCl there is 5 kcal/mol of energy associated with the ionic
-					attraction of the cation and anion, but when a Na ion is surrounded by 20 water
-					molecules, there is 100 kcal/mol of energy associated with just the Na ion.
-					Thus, NaCl in an aqueous solution is energetically more favored than NaCl as the
-					ionically bonded molecule due to the resulting hydrated state. You will explore
-					what happens to molecules that only partially dissociate, or weak electrolytes,
-					in water in the next module. 

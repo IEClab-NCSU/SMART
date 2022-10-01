@@ -1,5 +1,0 @@
-ATP is a special
-			molecule used by cells as their “energy currency.” ATP supplies energy for other
-			cellular processes: cell movement and division, membrane transport, and anabolic
-			pathways enabling growth. Anabolic pathways use energy stored in ATP for building
-			complex molecules from simpler ones.

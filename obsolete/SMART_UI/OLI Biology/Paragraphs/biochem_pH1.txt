@@ -1,8 +1,0 @@
-In the previous modules in the Biological Chemistry unit, we have been learning about how
-			atoms and molecules interact. The story of acids and bases begins with water
-				(H2O). Water in the liquid state is highly dynamic. Not only are the
-			hydrogen bonds that form between water molecules constantly forming and breaking, but
-			some of the individual water molecules are breaking apart into hydrogen ions
-				(H+) and hydroxide ions (OH-) and reforming to make water. The
-			two reactions (breaking apart and reforming) are in equilibrium, so at any instant in a
-			sample of pure water there are equal proportions of H+ and OH-

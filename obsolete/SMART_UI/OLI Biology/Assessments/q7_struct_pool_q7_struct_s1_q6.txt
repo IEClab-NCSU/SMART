@@ -1,2 +1,0 @@
-The absorption frequency (or spectrum) of a nuclear spin in an NMR spectrum depends on
-            

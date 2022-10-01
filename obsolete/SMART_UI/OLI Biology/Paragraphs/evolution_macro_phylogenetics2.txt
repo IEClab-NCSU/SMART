@@ -1,8 +1,0 @@
-In evolutionary biology, the same principle is extended to related lineages. Species with
-            a recent common ancestor are close relatives, like brother and sister. Their lineages
-            split apart not too long ago. Other species are much more distantly related, like second
-            cousins. They can be traced to a common ancestor, but this ancestor lived very long ago.
-            We can tell their degree of relationship by looking at homologous
-                features: shared features that were inherited from the same source and reflect
-            common ancestry. Two species that are closely related share many homologous features.
-            Species that are distantly related share only a few.

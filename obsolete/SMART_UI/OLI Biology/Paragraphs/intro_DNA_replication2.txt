@@ -1,7 +1,0 @@
-In addition, an understanding of the enzymes that are involved in faithfully copying the DNA
-      has also lead to their use in applications that have advanced our knowledge of genomes, the
-      information they contain and how they are used. The polymerase chain reaction (PCR) and DNA
-      sequencing using dideoxynucleotides have revolutionized our ability to work with small amounts
-      of DNA and generate immense amounts of sequence information in a very short time. The
-      understanding of the basic principles involved in DNA replication have also lead to our
-      understanding of such topics as DNA repair and chromosome extension.

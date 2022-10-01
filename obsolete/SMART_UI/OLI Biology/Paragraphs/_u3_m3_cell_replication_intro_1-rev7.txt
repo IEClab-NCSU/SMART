@@ -1,6 +1,0 @@
-Gametes are haploid cells. They contain only one copy of each
-					chromosome. In human haploid gametes, there are 23 chromosomes. One way to write
-					this is "1n=23." As you learned in the previous activity, two haploid
-					cells can combine, through the process of fertilization, to form a diploid
-					zygote. The diploid zygote then goes through mitosis to form the diploid somatic
-					cells of the organism. 

@@ -1,5 +1,0 @@
-Meiosis is a process of reductive cell division that produces haploid (1N) cells
-					from diploid (2N) cells. In animals, gametes are haploid reproductive cells that
-					are produced using the process of meiosis. The gametes from two individuals fuse
-					in the processes of fertilization to produce a diploid zygote. The diploid
-					zygote divides using the process of mitosis to become an adult organism. 

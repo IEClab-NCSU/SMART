@@ -1,8 +1,0 @@
-In 1990 Woese published a paper proposing a change in the classification system. He
-            reported that there were consistent differences in ribosomal gene sequences among three
-            major groups. Above the level of Kingdom, he proposed three Domains of life. Two of them
-            are made up of prokaryotes (Bacteria and Archaea). The third is called Eukarya and
-            includes all organisms whose cells have nuclei, including fungi, animals, plants, and
-            several groups of protists. Woese’s data have since been greatly expanded, and the new
-            data are consistent with the idea that the three Domains are the first three branches on
-            a unified tree of life.

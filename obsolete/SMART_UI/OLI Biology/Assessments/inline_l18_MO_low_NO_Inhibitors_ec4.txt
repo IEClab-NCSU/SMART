@@ -1,4 +1,0 @@
-Now explore what happens at the high end
-                of substrate concentrations.
-Select [S]=20 and mentally note how frequently the enzymes have substrates bound and record the reaction velocity from the chart below.
-<b>If you increased the substrate to 50, what would you predict for the rate of the reaction, compared to the rate for [S]=20:</b> 

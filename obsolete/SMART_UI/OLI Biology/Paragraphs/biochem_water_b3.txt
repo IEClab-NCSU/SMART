@@ -1,4 +1,0 @@
-
-solvent: the component of the solution in the greatest
-				quantity.
-solutes: the component(s) present in lower quantities.

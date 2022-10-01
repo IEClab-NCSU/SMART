@@ -1,3 +1,0 @@
-In the next section, we will explore how these electron transfers occur, and will look at
-					some of the other ways that atoms interact to achieve stable, full outer
-					electron shells.

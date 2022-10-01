@@ -1,8 +1,0 @@
- The word nucleus is used in two different contexts in the study of biology.
-                        Loosely defined, nucleus means "center" or "core." Here, in a study of basic
-                        chemistry, nucleus means "the center of an atom." In this case, the nucleus
-                        is a central area in which the atom’s heavy particles (protons and neutrons)
-                        are packed close together. When discussing cell structure, the word nucleus
-                        refers to the central organelle of the eukaryotic cell. It consists of the
-                        cell’s DNA enclosed in a double-layered membrane and can be thought of as
-                        the “command center” of the eukaryotic cell.

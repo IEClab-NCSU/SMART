@@ -1,6 +1,0 @@
-A graph of logistic growth shows up as a slightly S-shaped curve. Initial growth is
-			relatively slow because the population is small and has few individuals to give birth.
-			At moderate population sizes the population grows fastest: there are many parents but
-			the effects of crowding are not yet severe. As the population approaches its carrying
-			capacity, the effects of crowding start to reduce its growth. The rate of growth slows
-			and then stops.

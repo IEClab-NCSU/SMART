@@ -1,8 +1,0 @@
-Information contained in DNA is organized into genes and each gene
-			contains instructions for making a functional product: an RNA molecule or a protein. The
-			process of making the functional gene products is called gene expression. 
-			Different cells can contain the same DNA, but express different
-			genes and produce different proteins. For example, red blood cells produce protein
-			hemoglobin required for delivery of oxygen throughout the body. Nerve cells contain the
-			same DNA, but the hemoglobin gene is not expressed. Instead, nerve cells make RNA copies
-			of the genes that encode proteins required for signaling.

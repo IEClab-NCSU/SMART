@@ -1,3 +1,0 @@
-Having identified a code to perform the translation, it is now necessary to describe the
-			process by which the genetic code is used. Four major ingredients are necessary to carry
-			out translation: m-RNA, t-RNA, the ribosome and the initiation factors.

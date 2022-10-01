@@ -1,4 +1,0 @@
-One of the hallmarks of living systems is the ability to maintain
-					homeostasis, or a relatively constant internal state. The
-			cell is the first level of complexity able to maintain homeostasis, and it is the unique
-			structure of the cell that enables this critical function.

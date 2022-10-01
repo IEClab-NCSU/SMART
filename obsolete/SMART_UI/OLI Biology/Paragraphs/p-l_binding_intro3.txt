@@ -1,5 +1,0 @@
- The reversible binding of the protein ligand complex is critical. For example, hemoglobin
-      binds to oxygen in the lungs and releases it in the tissues. If oxygen were unable to
-      dissociate from hemoglobin, the tissues would be starved of oxygen. Likewise, proteins act as
-      signal receptors by binding to signaling molecules, such as hormones, to propagate the signal
-      into a cell. If binding were permanent, there would be no way to terminate the signal. 

@@ -1,9 +1,0 @@
- As described previously the aldehyde form of aldoses and ketone form of ketoses
-			spontaneously form five and six member ring structures called furanoses and pyranoses
-			respectively. This ring closure was an example of an alcohol functional group reacting
-			with the carbon of the carbonyl functional group in either the aldehyde (aldose) or
-			ketone (ketose) group. This is illustrated below. Notice that while atoms are moving
-			from place to place on the structure, there is no net gain or loss of atoms in the
-			closing of the ring to form what is referred to as a hemiacetal. Furthermore,
-			this ring closure is freely reversible, which allows the alpha form of the ring to be in
-			equilibrium with the beta form. 

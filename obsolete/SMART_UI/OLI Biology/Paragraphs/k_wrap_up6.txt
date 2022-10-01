@@ -1,7 +1,0 @@
- Just as the pH scale indicates the relative proton concentration of various
-					solutions, the pKa indicates the relative strengths of the different
-					acids. If a reaction has a large equilibrium constant, then the concentration of
-					the products will be higher than the reactants. In the case of the acidity
-					constant, a larger Ka indicates a more completely dissociated acid,
-					or a stronger acid. Since the pKa = - log (Ka), strong
-					acids will have small pKa values.

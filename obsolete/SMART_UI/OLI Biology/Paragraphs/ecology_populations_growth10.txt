@@ -1,6 +1,0 @@
-The table and graph above depict a pattern of change called exponential
-				growth. In exponential growth, a quantity grows by a constant percentage each time step. As the quantity gets larger, so does
-			the actual amount of growth that occurs. Some familiar examples
-			of exponential growth involve finances. A bank account may earn 1% of its value in
-			interest each year.When the bank account’s value is $100, 1% amounts to a dollar. But if
-			the account already contains $1 million, a gain of 1% brings in $10,000!

@@ -1,4 +1,0 @@
-
-Silent mutations. A silent mutation changes the letter, but not the
-				meaning. Recall that the genetic code is redundant: multiple combinations of three
-				bases can encode the same amino acid. 

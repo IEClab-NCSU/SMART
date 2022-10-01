@@ -1,7 +1,0 @@
-Life is organized on hierarchical levels of increasing complexity. Biologists look at all levels of aspects of life, past and present. 
-				This journey takes them all the way down to atoms and molecules, and all the way up to global relationships among organisms and the environment. 
-				As we ascend to more and more complex levels, emergent properties appear. These are characteristics of a system that do not appear in any of its 
-				component parts. Think about a photograph. A photograph will show a composition conveying a message. Can you explain that composition based only 
-				on the tiny pixels (dots) that make up the image? A more biological example would be life, an emergent property that appears at the cellular level. 
-				Molecules are not alive, but they are the components of life.	
-			

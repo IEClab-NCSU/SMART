@@ -1,5 +1,0 @@
-What happens to light energy that is absorbed by a pigment? In keeping with the law of
-			conservation of energy, this energy does not disappear. Instead, it excites electrons in
-			the pigment, boosting them to higher energy levels. In plants, the excited electrons
-			from some pigments are transferred to other molecules, where they start the
-			transformation of light energy into chemical potential energy.

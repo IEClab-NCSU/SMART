@@ -1,7 +1,0 @@
-
-Molecules can pass across the membrane (diffusion and active
-						transport).
-Molecules can be transported into the cell without passing across the
-						membrane (endocytosis).
-Molecules can send signals for actions within the cell without actually
-						passing across the membrane themselves (signal transduction).

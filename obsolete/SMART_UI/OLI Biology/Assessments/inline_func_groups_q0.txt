@@ -1,4 +1,0 @@
-
-The structure of formamide is shown as a 2D drawing and in the 3D Jmol on the left.  This compound is an example of an functional group called an amide, containing the C=O and the -NH2 group, which is found in proteins.
-
-This functional group is  and the carbon attached to the oxygen has  geometry

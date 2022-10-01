@@ -1,2 +1,0 @@
-Indicate the number of possible tetrapeptides that contain the amino acids D, W, F, and R. Consider the situation in which each amino acid occurs only once.
-            

@@ -1,6 +1,0 @@
-Degradative, or catabolic, pathways generally produce energy. They usually begin
-      with a number of different compounds, each of which represents a branch at the beginning of
-      the pathway. These branches meet at a common intermediate, and the remaining section of the
-      pathway is usually a linear segment. In this way a number of complex compounds are converted
-      to a common intermediate, reducing the number of unique steps in the degradation of complex
-      molecules.

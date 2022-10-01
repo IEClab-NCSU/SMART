@@ -1,3 +1,0 @@
-Proline is unique because the side chain connects to the alpha amino group forming
-                  a five member ring. This restricts the freedom of proline to form all possible
-                  structures around the peptide bond because: ________

@@ -1,9 +1,0 @@
-A helpful analogy for understanding how the electron transport chain works is a
-					hydroelectric dam. In a hydroelectric dam, the dam separates an area of high
-					water concentration from an area of low water concentration. Water is allowed to
-					flow downhill through turbines in the dam. As the water flows through these
-					turbines it turns a water wheel. The motion of the wheel is used to generate
-					electricity. In the electron transport chain, the protons
-					flow down their concentration gradient through a protein called “ATP
-					synthase”. This protein works like a water wheel and transforms the energy from
-					the movement of the protons into the chemical energy of ATP. 

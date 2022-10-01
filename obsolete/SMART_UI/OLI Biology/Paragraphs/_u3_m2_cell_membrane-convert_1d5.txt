@@ -1,8 +1,0 @@
-In order to carry out their functions, some proteins need to be embedded in the membrane.
-			These proteins are called integral proteins (“integral” because they are “integrated”
-			into the membrane). For example, a membrane protein that transports materials into or
-			out of the cell needs to completely span the membrane. On the other hand, a protein that
-			binds the cell to another can simply be attached to the outer surface of the membrane.
-			Proteins that are attached to the inner or outer surface of a membrane are called
-			peripheral proteins. 
-		

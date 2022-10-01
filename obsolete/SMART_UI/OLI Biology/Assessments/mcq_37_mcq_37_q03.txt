@@ -1,3 +1,0 @@
-
- Is this primer suitable for PCR?  5'-GCGCGGGCGCCCC-3' [Tm=81.5+0.41(%GC)-675/N]
- 

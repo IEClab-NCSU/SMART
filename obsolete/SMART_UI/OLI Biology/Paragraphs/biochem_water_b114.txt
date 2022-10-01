@@ -1,6 +1,0 @@
-The carboxylate group (COOH) on the left interacts strongly with water, while the remaining
-					part of the molecule is very hydrophobic and is forced away from water. Fatty
-					acids form structures in solution called micelles. These
-					spherical structures have the hydrophilic part exposed to
-					water on the surface of the sphere and bury the
-						hydrophobic part in the center of the sphere. 

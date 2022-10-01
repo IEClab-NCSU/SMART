@@ -1,7 +1,0 @@
-
-The promoter region of the gene “promotes” transcription by
-                binding RNA polymerase.
-The terminator region signals the end of transcription.
-Regulatory regions before and after the transcribed region bind regulatory proteins.
-                These proteins activate or inhibit transcription, depending on the signals from
-                within the cell or from the environment. 

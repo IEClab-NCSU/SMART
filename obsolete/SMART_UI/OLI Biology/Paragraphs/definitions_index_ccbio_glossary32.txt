@@ -1,4 +1,0 @@
- Number of protons in each atom, which is equal to the number of
-                                electrons in each atom--unless the atom is ionized. As seen in this
-                                diagram of an atom, lithium has three protons in its nucleus.
-                                Therefore the atomic number of lithium is 3. 

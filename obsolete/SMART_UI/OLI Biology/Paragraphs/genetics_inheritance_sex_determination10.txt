@@ -1,6 +1,0 @@
-Below is a Punnett square of a cross between two fruit flies. The phenotypes of the
-                offspring and the parents are given. Using what you know about the genotypes for eye
-                color in fruit flies and the phenotype information in the chart below, determine
-                which chromosome allele (X+ , Xw, or Y) belongs in boxes I,
-                II, III, or IV. Boxes I and II represent the genotype of the female parent, and
-                boxes III and IV represent the genotype of the male parent. 

@@ -1,3 +1,0 @@
-Now we will investigate the effect of high substrate concentration on the inhibition by competitive inhibitors.
-<b>Using the radio dials at the right, select a substrate concentration of  [S]=50.
-The observed decrease in the velocity for the reaction in the presence of the inhibitor is almost the same as the unihibited reaction because:

@@ -1,7 +1,0 @@
-Welcome to the OLI version of Modern Biology. This introductory course is called "Modern
-			Biology" because it is focused on topics at the forefront of experimentation in the
-			fields of cellular biology, molecular biology, biochemistry, and genetics. It is carefully
-			planned to provide the background students will need for advanced biology classes.
-			Students from other disciplines may also find this course useful as it explains many of
-			the concepts and techniques currently discussed in the popular press and applied in
-			other contexts.

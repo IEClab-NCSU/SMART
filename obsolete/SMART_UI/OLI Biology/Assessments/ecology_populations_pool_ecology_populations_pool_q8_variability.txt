@@ -1,3 +1,0 @@
-Based on past rates of birth and death you set up a logistic model of a dolphin
-            population. This model predicts that there will be 10,020 dolphins next spring. How
-            should you interpret this model’s prediction?

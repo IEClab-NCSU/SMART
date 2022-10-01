@@ -1,2 +1,0 @@
-Linking the nucleotides together, a linear polymer is generated with sequences varying
-          according to the placement of the bases along the final backbone. The following figure shows a tetranucleotide sequence of DNA. The bases, sugars and phosphodiester bonds are alternately highlighted. In the lower left of the frame is a schematic representation of the same sequence.

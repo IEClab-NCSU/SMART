@@ -1,4 +1,0 @@
-
-Indicate if the following functions are performed by DNA polymerase:
- 
-5. Proofreading the DNA the newly synthesized DNA strands.

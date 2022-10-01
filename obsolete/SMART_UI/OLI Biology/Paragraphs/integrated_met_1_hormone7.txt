@@ -1,5 +1,0 @@
-Since the protein kinases and phosphatases that are involved in the activation of enzymes are
-      enzymes themselves, amplification of the initial hormone-receptor signal occurs. This is
-      especially true in the case of the hormones glucagon and epinephrine where additional
-      amplification occurs due to the production of a large number of cAMP molecules per signalling
-      event. 

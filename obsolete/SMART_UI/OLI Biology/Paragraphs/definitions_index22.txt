@@ -1,2 +1,0 @@
-Structural unit of a larger molecule or a protein in a multi-protein complex.  
-                        This term is similar, but not identical to the term monomer.    

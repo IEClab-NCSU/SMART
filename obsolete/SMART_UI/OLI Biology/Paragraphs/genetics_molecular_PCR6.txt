@@ -1,2 +1,0 @@
-After this process is complete, the temperature is again raised to 980C and a new cycle begins.  
-                At the end of each cycle, the sample contains double the amount of DNA template.  

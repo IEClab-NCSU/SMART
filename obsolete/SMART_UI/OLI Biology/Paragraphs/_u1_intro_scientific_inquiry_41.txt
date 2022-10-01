@@ -1,3 +1,0 @@
- After the experiment is completed, results are compiled and interpreted. This
-					involves the measurement of the dependent variable. In the case of our HPV
-					experiment, remember, the dependent variable is the rate of HPV infection. 

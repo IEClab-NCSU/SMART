@@ -1,6 +1,0 @@
-Instead of transferring their electrons completely, atoms may remain in very close
-			contact and share electrons so that their outer shells are filled. In essence, a shared
-			electron is counted “twice” and participates in a larger shell that joins the two atoms.
-			A single pair of shared electrons makes a single covalent bond. Atoms can share two
-			pairs of electrons (in a double bond), or even three pairs of electrons (in a triple
-			bond).

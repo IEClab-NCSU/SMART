@@ -1,3 +1,0 @@
-Both copying and reading the information stored in DNA relies on base pairing between two
-            nucleic acid polymer strands. Recall that DNA structure is a double helix (see figure
-            below).

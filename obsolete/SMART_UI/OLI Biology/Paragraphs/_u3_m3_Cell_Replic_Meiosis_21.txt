@@ -1,6 +1,0 @@
-Meiosis II begins with two haploid cells, each containing too much DNA. Remember
-			that while homologous pairs of chromosomes were separated in
-				Meiosis I, each homologous chromosome is still connected to its sister
-			chromatid. The presence of a sister chromatid for each chromosome
-			at the start of Meiosis II means that each cell contains too much DNA. The events in
-			meiosis II are almost identical to the events of mitosis. 

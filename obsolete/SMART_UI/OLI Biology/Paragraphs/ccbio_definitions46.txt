@@ -1,3 +1,0 @@
- Attractions between atoms that hold atoms and molecules together. There are
-                        three major types of chemical bonds that are important in biology: i)
-                        covalent, ii) ionic, and iii) hydrogen bonds.

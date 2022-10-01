@@ -1,2 +1,0 @@
-
-Consider the constraints of a fixed membrane across the box. Once the system has reached equilibrium, on which side of the membrane is pressure exerted? What is applying the pressure?

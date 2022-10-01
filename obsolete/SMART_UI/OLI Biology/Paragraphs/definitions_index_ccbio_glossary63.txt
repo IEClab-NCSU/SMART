@@ -1,6 +1,0 @@
-Representations of a molecule showing arrangement of atoms and
-                                chemical bonds. Simple structures represent atoms by one leter
-                                symbols and covalent bonds by lines. Three-dimensional structures
-                                represent arrangment of atoms and bonds in three-dimensional space.
-                                For example, water can be represented by any of the following
-                                structures: H-O-H and 3D representations.

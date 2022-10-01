@@ -1,8 +1,0 @@
-When atoms interact, they may share electrons. This allows the atoms to connect,
-                    or form covalent
-                        chemical bonds. It is the ability of the atom to form chemical bonds
-                    with other atoms that enables the incredible diversity in forms of matter that
-                    you see around you. Ions of opposite charge can interact by electrostatic
-                    forces, making ionic bonds. In addition to ionic and covalent bonds, a particularly important
-                    chemical interaction found in biological systems is the hydrogen
-                    bond.

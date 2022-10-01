@@ -1,8 +1,0 @@
-How could sympatric speciation happen? The drive to reproduce generally maintains the
-            integrity of species by assuring that all their populations will exchange genes with
-            each other. Sympatric speciation goes against this tendency; it requires the formation
-            of a group of finicky, “cliquish” breeders. Most of the well-known examples involve
-            genetic errors that produce offspring with extra chromosomes, a condition known as
-            polyploidy. Sometimes polyploid types form new species that can breed with each other
-            but are incompatible with the original species. Second, changes in ecology and breeding
-            habits can also isolate a group within a species.

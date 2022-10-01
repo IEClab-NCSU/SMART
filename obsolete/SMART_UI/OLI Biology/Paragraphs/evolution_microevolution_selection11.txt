@@ -1,8 +1,0 @@
-The genetic types that reproduce more than others are more likely to pass on
-					their alleles to the next generation. Traits that give an organism a
-					reproductive advantage in a particular environment are called adaptive traits.
-					For a white-footed mouse in a forest, a long tail could be adaptive because it
-					allows a mouse to escape from predators by climbing trees. It could also be
-					adaptive because it allows a mouse to obtain more food. In either case, the
-					result is that the long-tailed mice reproduce more, on average, than other types
-					in the population.

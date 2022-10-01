@@ -1,5 +1,0 @@
-According to our earlier data, in 1985 the population was 170 deer. Remember that
-                we just calculated the per capita rate of increase for this deer population at 0.39
-                deer added per deer per year. If so, how much did the population increase in 1985?
-                Round to the nearest whole number.  deer were added in
-                1985 

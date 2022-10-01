@@ -1,3 +1,0 @@
-The non-kinetochore microtubules from one pole also push on the non-kinetochore
-			microtubules from the other pole. This causes the cell to elongate. By the end of
-			anaphase, each pole of the cell contains an identical set of chromosomes.

@@ -1,6 +1,0 @@
-When Mendel crossed purple and white flowers, the first generation of plants, which he
-            designated “F1,” were all purple. Somehow, purple was “stronger,” or dominant over the
-            white. So if the alleles of the purple flowers were symbolized by “B," then the allele
-            corresponding to white flowers was “weaker” and is symbolized by “b.” If the genotype of
-            the parent purple flower is BB, then the genotype of the parent white plant will be
-            bb.

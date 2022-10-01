@@ -1,8 +1,0 @@
-In order for DNA to function effectively at storing information, two key processes are
-            required. First, information stored in the DNA molecule must be copied, with minimal
-            errors, every time a cell divides. This ensures that both daughter cells inherit the
-            complete set of genetic information from the parent cell. Second, the information stored
-            in the DNA molecule must be translated, or expressed. In order for the stored
-            information to be useful, cells must be able to access the instructions for making
-            specific proteins, so the correct proteins are made in the right place at the right
-            time.

@@ -1,4 +1,0 @@
-
-mRNA: messenger RNA is a copy of the DNA sequence that is read by the ribosome during protein synthesis.  The mRNA contains the information on the order of the amino acids in protein that is being synthesized on the ribosome.  Each base triplet corresponds to one amino acid.
-tRNA: transfer RNA is responsible for translation of the nucleic acid code to an amino acid.  tRNA carries an amino acid to the protein synthesis machinery (ribosome) and is responsible for  decoding the mRNA information to insert the correct amino acid into the growing protein on the ribosome.  tRNA folds into a distinct three dimensional structure, as shown in the 3D Jmol image on the right.
-rRNA: ribosomal RNA is a significant structural component of the ribosome and plays a role in the catalyzing the formation of the peptide bond during protein synthesis. Since the rRNA catalyzes the reaction, it is referred to as catalytic RNA or a ribozyme.

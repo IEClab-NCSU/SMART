@@ -1,6 +1,0 @@
-
-It provides new cells for growth, the replacement of dead cells, and healing.
-In cells, it
-				ensures the inheritance of genetic information from parent cell to offspring cell. 
-In organisms, it ensures the inheritance of genetic information from one
-				generation to the next.

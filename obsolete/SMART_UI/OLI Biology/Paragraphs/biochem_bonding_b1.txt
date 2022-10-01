@@ -1,6 +1,0 @@
-Ionic bonds are the interactions between ions of opposite charges. Atoms form ions
-			when they either take up or release electrons in order to fill their outer shell.
-			Elements in the outer columns of the periodic table often react in this manner; elements
-			like sodium tend to lose electrons and become cations (positively charged ions), whereas
-			elements like chlorine tend to gain electrons and become anions (negatively charged
-			ions).

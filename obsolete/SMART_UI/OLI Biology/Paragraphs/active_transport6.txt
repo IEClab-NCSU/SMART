@@ -1,3 +1,0 @@
-There are three classifications of transport proteins based on mechanism of transport: Uniport,
-			Symport and Antiport. The animations on the following pages will demonstrate the three classes of
-			proteins with examples of each. 

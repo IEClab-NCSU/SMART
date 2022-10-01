@@ -1,9 +1,0 @@
-Populations change through four primary processes. New members can arise by birth through reproduction of existing population members. In the photo on the
-			previous page, a white-tailed deer has given birth to two offspring (family sizes vary
-			widely among species). New population members may also immigrate
-			(move into the population) from other areas outside the boundaries set by the
-			researcher. A population declines through the death of its
-			existing members. The population may also decrease if members emigrate (move away to areas outside the boundaries enclosing the population).
-			To simplify calculations ecologists often assume that a population is closed - that
-			emigration and immigration do not occur. For this course we will adopt this idea and
-			assume that, unless otherwise stated, the populations we analyze are closed.

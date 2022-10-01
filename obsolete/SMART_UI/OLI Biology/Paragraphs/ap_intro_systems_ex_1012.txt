@@ -1,4 +1,0 @@
-Tendons are band-like structures similar to ligaments. However,
-                    tendons are more rigid and connect bones to muscles. Tendons play a role in
-                    integrating the force generation of the muscle with the rigid bone, which helps
-                    actuate large-scale motion. 

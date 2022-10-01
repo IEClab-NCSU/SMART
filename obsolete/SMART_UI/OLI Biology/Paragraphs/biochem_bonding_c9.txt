@@ -1,2 +1,0 @@
-Because carbon is such a common backbone for molecules, it is often drawn simply
-					as corners on the diagram. This is another way to draw glucose:

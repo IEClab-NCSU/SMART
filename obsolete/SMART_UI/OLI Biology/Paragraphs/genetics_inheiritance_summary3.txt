@@ -1,4 +1,0 @@
-Pedigrees or family trees are very useful to trace genetic traits in families.
-                    Following the trail of a particular disorder in a pedigree can clarify what its
-                    inheritance pattern is, and can provide useful information for genetic
-                    counseling.

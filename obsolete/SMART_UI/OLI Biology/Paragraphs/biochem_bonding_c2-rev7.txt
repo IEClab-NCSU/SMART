@@ -1,9 +1,0 @@
-Structural Formulas: There are many different ways to draw 
-							molecules. For example,
-							look at the glucose molecule shown on the right in a structural formula.
-							Notice that the structure consists of a carbon backbone running down the
-							middle of the molecule. Each carbon has formed a 
-							covalent bond with four
-							other atoms. (The first carbon actually formed two bonds with the oxygen
-							atom; this is called a double bond. This carbon still formed a total of
-							four bonds, even though two of the bonds are with the same oxygen atom.) 

@@ -1,2 +1,0 @@
-After considering individual genes, let’s zoom out and consider a more global view: how
-            genes are organized into genomes.

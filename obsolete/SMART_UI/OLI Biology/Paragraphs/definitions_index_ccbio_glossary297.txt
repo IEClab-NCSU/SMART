@@ -1,3 +1,0 @@
-An enzyme that recognizes and cleaves a specific DNA sequence.
-                                Example: EcoR1 binds to the sequence GAATTC and cleaves between the
-                                G and the A. 

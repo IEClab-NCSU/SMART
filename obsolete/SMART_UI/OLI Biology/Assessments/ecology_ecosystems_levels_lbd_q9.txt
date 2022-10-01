@@ -1,5 +1,0 @@
-An area of ocean supports a striped bass population. In this part of the ocean,
-                the phytoplankton grow by 10,000 units of energy each year. In keeping with the
-                energy pyramid concept, zooplankton accumulate 1,000 units of energy as growth
-                annually. Roughly how many units of energy would striped bass store as growth each
-                year?

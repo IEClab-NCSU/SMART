@@ -1,5 +1,0 @@
-Sickle cell anemia is an autosomal recessive disorder. A person with the disorder
-                and a person that is a carrier mate. (A carrier has the allele for the trait but
-                    does not express it.) 
-                
-                What is the chance that their offspring will develop sickle cell anemia?

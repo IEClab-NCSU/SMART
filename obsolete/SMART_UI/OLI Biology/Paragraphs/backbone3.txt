@@ -1,5 +1,0 @@
-The numbering of the positions on the sugar furanose rings of DNA and RNA follow a
-          convention that uses ' (prime) to denote the sugar positions. Thus the ribose has X
-          connected to the 1' position and hydroxyl groups on the 2', 3' and 5' positions. Using
-          this nomenclature, deoxyribose is formally called 2'-deoxyribose (2 prime deoxyribose) to
-          denote the loss of the hydroxyl at the 2' position of ribose.

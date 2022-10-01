@@ -1,9 +1,0 @@
-Glycogen is a polysaccharide that is used to store glucose in both liver and muscle
-      cells. In plants, amylopectin serves the same role. Glycogen consists of glucose residues
-      linked together in a linear chain with 
-
--(1-4) linkages. Multiple chains are joined together by the formation of 
-
--(1-6) linkages, giving rise to a highly branched polymer. The principle reason for
-      the storage of glucose as glycogen is to reduce the osmotic effects that would otherwise occur
-      from the high concentration of glucose in cells.

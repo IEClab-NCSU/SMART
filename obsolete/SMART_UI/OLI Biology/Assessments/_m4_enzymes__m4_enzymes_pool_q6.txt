@@ -1,5 +1,0 @@
-
-An enzyme binds the indicated substrate and converts it to product by removing two
-				hydrogen atoms and forming a double bond between the two middle carbons. Compounds A
-				and B are inhibitors of this enzyme. Which of the two inhibitors is a
-				non-competitive inhibitor?

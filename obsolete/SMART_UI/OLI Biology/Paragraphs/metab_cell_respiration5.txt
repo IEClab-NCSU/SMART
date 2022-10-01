@@ -1,5 +1,0 @@
-In the later stage of cellular respiration, the
-						NADH and FADH2 donate the electrons and
-						H+ they are carrying to regenerate the NAD+ and
-						FADH+ molecules. These molecules are universal electron carriers
-					that facilitate the transfer of electrons and energy.

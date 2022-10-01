@@ -1,4 +1,0 @@
-Exocytosis is just the reverse of endocytosis. In exocytosis, an internal vesicle fuses
-			with the plasma membrane and releases its contents to the outside. The balance of
-			exocytosis and endocytosis preserves the size of the plasma membrane and keeps the
-			cell's size constant. The following animation depicts endocytosis. 

@@ -1,3 +1,0 @@
-In addition to the forms of selection, microevolution also takes place through processes
-            that do not necessarily lead to adaptation. You should be aware of how mutation, gene
-            flow, and genetic drift can change a population’s gene pool.

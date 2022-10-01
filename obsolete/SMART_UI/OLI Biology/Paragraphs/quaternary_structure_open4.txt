@@ -1,2 +1,0 @@
-Antibodies represent a different type of quaternary structure because the individual subunits are linked by disulfide bonds. The structure is a dimer of dimers and the basic unit is a large peptide (the heavy chain) bound to a smaller chain (light chain) by disulfide bonds. Since this dimer is a combination of two different peptides it is called a heterodimer. Two of these heterodimers are joined by disulfide bonds between the heavy
-chains to form the final tetrameric structure. 

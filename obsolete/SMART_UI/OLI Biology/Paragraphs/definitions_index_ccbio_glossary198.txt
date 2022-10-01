@@ -1,5 +1,0 @@
-A protein, produced by the lacI gene, that binds to the lac repressor
-                                DNA sequence, regulating the transcription of genes required for
-                                lactose metabolism. The repressor is bound to the operator in the
-                                absense of lactose, and released from the operator when lactose is
-                                present. 

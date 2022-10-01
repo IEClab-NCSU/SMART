@@ -1,9 +1,0 @@
-In the past, life was recognized in animals and plants but microscopic life forms were
-			unknown. Today, our definition of life centers on the cell. This structure is the basic
-			unit of organization for all life forms, large and small. In addition to being made of
-			cells, known life grows using raw materials and energy, reproduces using DNA as its genetic material, and senses and responds to changes in the external environment. Viruses,
-			because they depend on cells for their reproduction, do not fully meet this definition
-			of “life.” Knowledge of bacteria and their cell biology has allowed major advances in
-			public health and medicine. For example, we now can selectively use antibiotics to
-			control infectious bacterial diseases. These drugs cannot be used against viruses and
-			their misuse can lead to the evolution of resistance among bacteria.

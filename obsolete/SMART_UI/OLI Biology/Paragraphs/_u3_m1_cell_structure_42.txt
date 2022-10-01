@@ -1,8 +1,0 @@
-The cell wall is a porous structure that protects, supports, and
-			gives shape to the cell. The plant cell wall is different from that of prokaryotes, and
-			it is mainly formed by polysaccharides, particularly cellulose.
-			Plant cells can also have a central vacuole, which can be a place
-			of storage, degradation, defense, and even physical support for the cell. Even though
-			plants have a cell wall, this does not mean they don’t have a cell membrane. All cells
-			have a cell membrane. Some, like plant cells, just have a cell
-			wall as well.

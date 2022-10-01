@@ -1,2 +1,0 @@
-In eukaryotes, DNA and ribosomes reside in separate compartments, so an additional step is
-			required: the transportation of RNA out of the nucleus and into the cytoplasm.

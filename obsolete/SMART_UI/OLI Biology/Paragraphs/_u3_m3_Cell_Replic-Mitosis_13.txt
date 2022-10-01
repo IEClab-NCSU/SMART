@@ -1,8 +1,0 @@
-Each new cell gets one of these nuclei during the process of
-						cytokinesis. At the end of mitosis and
-					cytokinesis, each new daughter cell should have the identical
-					genetic makeup of the parent cell. Mitosis of a single diploid cell will result in
-					two diploid cells with identical genomes, unless a mutation or other error
-					occurred. Mitosis of a haploid cell will result in
-					two identical haploid cells. These cells can go through the process again to
-					reproduce.

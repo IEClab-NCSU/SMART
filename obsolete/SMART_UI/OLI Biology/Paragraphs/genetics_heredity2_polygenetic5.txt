@@ -1,6 +1,0 @@
-The reason for this distinction is an interaction between the two genes. The B
-                    gene is involved in the synthesis of the pigment melanin: B results in a black,
-                    and b in a brown color. The E gene is related to melanin deposition in the fur:
-                    E causes melanin to be deposited, and e suppresses melanin deposits. Being homozygous for e — that is, having the ee genotype (no melanin
-                    deposition) — results in fur with neither brown nor black pigment, which appears
-                    yellow, independent of the black or chocolate allele (B or b). 

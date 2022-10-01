@@ -1,5 +1,0 @@
- The energy that has been stored in the proton gradient across the inner mitochondrial
-          membrane cannot be easily utilized by other processes in the cell. It must be converted to
-          a more usable source, such as ATP. The enzyme ATP synthase is responsible for converting
-          the energy stored in the proton gradient to ATP. This enzyme is found in the inner
-          mitochondrial membrane and it projects into the matrix.

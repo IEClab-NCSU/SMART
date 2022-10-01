@@ -1,7 +1,0 @@
-To construct a fat, or triacylglycerol, three fatty acid molecules are
-							attached to the glycerol through an ester bond between the carboxyl
-							group of the fatty acids and the three alcohol groups of a glycerol
-							molecule. This is another example of a condensation reaction that
-							results in formation of an ester in this case and the release of a water
-							molecule. A fat molecule can be composed of one, two, or three different
-							types of fatty acids each of which can be saturated or unsaturated. 

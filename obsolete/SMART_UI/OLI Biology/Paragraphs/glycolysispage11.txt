@@ -1,8 +1,0 @@
-Instructions: The left panel shows the energy changes that occur
-            for each of the ten steps in glycolysis in the absence of coupling. The right
-            panel shows the actual energy changes during the normal operation of glycolysis. These
-            energy changes include contributions from both direct and indirect coupling. Click 
-              on any of the red labeled steps on the left to see the details of that step in the 
-              glycolysis pathway.
-            You may also explore this activity in a 
-              separate larger window

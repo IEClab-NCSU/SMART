@@ -1,5 +1,0 @@
-
-The formation of glucose-6-P from glucose, coupled to ATP hydrolysis.
-The formation of fructose-1-6-P from fructose-6-P, coupled to ATP hydrolysis.
-The formation of pyruvate from phosphoenolpyruvate (PEP), releasing sufficient energy
-            to produce ATP.

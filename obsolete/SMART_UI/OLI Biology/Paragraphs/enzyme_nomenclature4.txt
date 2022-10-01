@@ -1,6 +1,0 @@
-To further clarify the name of the enzyme, the name of the substrate or product is often included in
-      the name. For example, the enzyme that oxidizes succinate is called succinate dehydrogenase.
-      Keep in mind that most reactions in pathways are reversible, so the name may describe the
-      reverse reaction. Lastly, in cases when enzymes bind more than one substrate, the name can
-      also suggest the co-substrate. For examples, dehydrogenases will use NAD+ or FAD as
-      co-substrates.

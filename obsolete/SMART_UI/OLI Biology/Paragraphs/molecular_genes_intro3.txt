@@ -1,4 +1,0 @@
-Multiple proteins expressed at specific levels at specific times in the cell determine
-			the phenotype. In this module, we will consider each of these processes in more detail,
-			and we will conclude by looking at how changes in DNA sequence can affect the proteins
-			encoded by DNA.

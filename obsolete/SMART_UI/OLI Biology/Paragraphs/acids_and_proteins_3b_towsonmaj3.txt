@@ -1,5 +1,0 @@
-You can often recognize that a protein is an enzyme by its name. Many enzyme names end
-            with “-ase.” For example, the enzyme lactase is used to break down the sugar lactose,
-            found in mammalian milk. Other enzymes are known by a common name, such as pepsin, which
-            is an enzyme that aids in the digestion of proteins in your stomach by breaking the
-            peptide bonds in the proteins. 

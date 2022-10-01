@@ -1,8 +1,0 @@
-Indirect interactions can produce surprises in communities. Some species, called keystone species, may be very influential in communities even
-			though they are not particularly abundant or large. In architecture, a keystone is a
-			single wedge-shaped stone at the top of a stone arch that maintains the integrity of the
-			structure; its removal will cause both sides of the arch to collapse. A keystone
-			species, then is a species that has an unexpectedly strong effect on community stability
-			or diversity. Keystone species play unique roles and are not easily replaced by other
-			species within the community. We often discover their importance only after they are
-			eliminated by human actions.

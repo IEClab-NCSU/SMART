@@ -1,2 +1,0 @@
-Polylysine is a random coil when the pH is less than 10, but it forms an α-helix at high pH values. Why? 
-        

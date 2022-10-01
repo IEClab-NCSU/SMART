@@ -1,3 +1,0 @@
-Assuming that the genes required for Isoleucine (an amino acid) biosynthesis are
-                contained within an operon. If the cell is grown in the presence of high amounts of
-                isoleucine you would expect to find:

@@ -1,8 +1,0 @@
-The goal of translation is to make proteins. The sequence of amino acids in a
-					protein is specified (or encoded) by the sequence of bases in the nucleic acid.
-					You will recall that originally, the information is stored in DNA, but during
-					transcription, an RNA copy of DNA is made. RNA molecules that contain
-					instructions for making a protein are called messenger RNA
-						(mRNA). The sequence of bases in the mRNA determines which amino acid
-					will be used in the protein. Every three bases encode for a single amino acid.
-					These three bases are called codons or triplets.

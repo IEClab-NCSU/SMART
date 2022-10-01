@@ -1,2 +1,0 @@
-In the reaction catalyzed by aspartate transcarbamoylase, a graph in which the rate is plotted against the substrate concentration
-            

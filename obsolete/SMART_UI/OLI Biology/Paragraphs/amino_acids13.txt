@@ -1,5 +1,0 @@
-By convention, the sequences of peptides and proteins are written with the
-					N-terminus on the left and the C-terminus on the right. The name of the
-					N-terminal residue is always the first amino acid. The name of each amino acid
-					then follows. The primary sequence of a protein refers to its amino
-					acid sequence.

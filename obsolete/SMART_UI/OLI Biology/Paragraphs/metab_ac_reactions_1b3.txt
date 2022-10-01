@@ -1,4 +1,0 @@
-The transformation of ingested food to energy and simple compounds, or the
-					synthesis of complex molecules, is performed by a series of enzymatic reactions.
-					Collectively, these enzymes, and their substrates and products, are referred to
-					as a metabolic pathway.

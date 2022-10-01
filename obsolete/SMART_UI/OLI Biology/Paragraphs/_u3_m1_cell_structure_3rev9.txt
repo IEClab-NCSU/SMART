@@ -1,7 +1,0 @@
-All this work requires energy. Most factories need some sort of power
-							plant that converts fuel into a form of energy that can be captured to
-							do work. In the cell, this job is accomplished by organelles called
-									mitochondria (singular form is
-									"mitochondrion"), which take fuel in the
-							form of sugar (glucose) and convert it to usable energy —
-									ATP. 

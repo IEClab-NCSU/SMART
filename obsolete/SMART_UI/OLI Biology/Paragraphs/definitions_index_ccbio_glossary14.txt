@@ -1,3 +1,0 @@
-An alternative form of a gene. An example would be genes that encode
-                                eye color - some encode blue eyes (one allele), while others encode
-                                brown, green or hazel eye colors (other alleles). 

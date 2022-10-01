@@ -1,5 +1,0 @@
-You are trying to determine whether a coin will give fair result in a coin toss to
-                decide who gets the ball in a football game. A fair coin will have an equal chance
-                of giving a head or a tail for an outcome. You flip the coin 4 times with the
-                following outcome: three heads and one tail. Based on these data you decide not to
-                use it for a coin toss. Is this a valid conclusion?

@@ -1,2 +1,0 @@
-The binding of a ligand to a protein gives a Hill plot that intersects the x-axis (log(θ/(1-θ))=0) at 1.If the binding constant, KA, for this protein-ligand interaction increases 10 fold, then the Hill curve will intersect the x-axis at which point?
-            

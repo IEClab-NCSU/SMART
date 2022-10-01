@@ -1,3 +1,0 @@
-Assuming that the genes required for sucrose (table sugar) degradation are
-            contained within an operon, then under conditions of low sucrose, you would
-            expect:

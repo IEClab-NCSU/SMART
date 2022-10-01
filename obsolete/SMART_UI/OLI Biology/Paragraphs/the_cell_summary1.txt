@@ -1,5 +1,0 @@
-In this unit, we learned about the cell, which is the fundamental unit of all living
-			systems. Cells can be divided into two major groups: prokaryotes
-			(cells without a nucleus) and eukaryotes
-			(cells containing a nucleus). Eukaryotic cells are larger and contain organelles that
-			are specifically related to different cellular functions. 

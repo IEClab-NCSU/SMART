@@ -1,4 +1,0 @@
-Amino acids with non-polar side chains contain, primarily, hydrocarbons and no polar 
-                    functional groups containing electronegative atoms. Note that the term “nonpolar” refers 
-                    only to the side chain, while the amino acid as a whole is charged at physiological pH due 
-                    to the carboxyl and amino groups.

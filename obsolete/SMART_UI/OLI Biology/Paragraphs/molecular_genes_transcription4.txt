@@ -1,2 +1,0 @@
-Determine whether the following describe transcription only, replication only or
-				both.

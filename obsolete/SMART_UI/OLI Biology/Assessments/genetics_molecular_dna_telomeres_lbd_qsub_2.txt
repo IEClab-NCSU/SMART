@@ -1,1 +1,0 @@
-Telomerase contains its own template for extending the 3' end of the lagging strand. This template is composed of:

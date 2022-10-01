@@ -1,6 +1,0 @@
-An interspecific interaction is an effect of one population on
-			another in a community. Although we are often focused on how one population affects the
-			size of another, ecologists also may look at how species interact in terms of their
-			activity, growth rates, body size, or other aspects of their well-being. Interactions
-			are classified according to their consequences for each species involved. The most
-			important types of interactions are summarized in the table below.

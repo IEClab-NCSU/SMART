@@ -1,7 +1,0 @@
-A population of pond snails has two genetically determined types: one with a black
-            stripe on its shell and one with a plain brown shell. Evidence indicates that there is
-            absolutely no difference between the two snail types in terms of their fitness: each
-            type survives, grows, and mates with the same average level of success. Over time,
-            black-striped snails become more or less common in a population due to chance events. At
-            one point, for example, the pond nearly dries up and the few surviving snails happen to
-            be mostly black-striped. This evolutionary change is the result of…

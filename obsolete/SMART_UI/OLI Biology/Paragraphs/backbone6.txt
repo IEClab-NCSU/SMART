@@ -1,4 +1,0 @@
-The synthesis of the backbones illustrated above is directed by specific enzymes that
-          restrict the possible structures to links between the 3' position and the 5' position of
-          the sugars with a bridging phosphate and to selected sugars with specific inclusion of
-          either ribose or 2'-deoxyribose.

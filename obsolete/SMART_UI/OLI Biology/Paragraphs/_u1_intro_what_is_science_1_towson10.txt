@@ -1,7 +1,0 @@
-An example of the social and cultural nature of science is stem cell research. Stem cell research has been hailed as the source of potential
-                    cures for several life-threatening diseases – Alzheimer’s, ALS (Lou Gehrig’s Disease), Parkinson’s, cancer, juvenile diabetes and spinal cord 
-                    injuries. However, some people have moral objections to this type of research because one line of stem cells comes from human embryos. Human 
-                    embryonic stem cells (HESCs) are harvested within a first few days of an embryos development. Removing HESCs from the developing embryo destroys it, 
-                    thus raising the moral objection to stem cell research on the basis that it ends human life. A second type of non-embryonic stem cells have also been 
-                    used in scientific research – these are called induced pluripotent stem cells (iPSCs) derived from adult tissues. Unlike HESCs, isolating and
-                    producing iPSCs from adult stem cells in a lab setting is challenging and methods for doing so are still undergoing investigation. 

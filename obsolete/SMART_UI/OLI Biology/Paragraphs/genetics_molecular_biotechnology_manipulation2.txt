@@ -1,7 +1,0 @@
-There are hundreds of different restriction enzymes, each of which recognizes and cleaves
-            a different DNA sequence or “restriction site”. Examples of two such enzymes are shown
-            below. A shorthand notation for the recognition site is given below each name. The “^”
-            symbol indicates the site of cleavage. The DNA sequence that they recognize is shown on
-            the left and the products of the digestion are shown on the right. The fragments that
-            are produced after cleavage can contain single stranded overhangs (e.g. EcoR1) or have
-            blunt ends, such as with PvuII.

@@ -1,7 +1,0 @@
-Relatively large ("macro") molecules made by living organisms from
-                                smaller molecular building blocks. There are four classes of
-                                biological macromolecules: protiens, lipids, nucleic acids and
-                                polysaccharides/complex sugars. For example, starch is a biological
-                                macromolecule made by plants from smaller subunits, glucose; all
-                                proteins are made of amino acids, and nucleic acids are made from
-                                nucleotides. 

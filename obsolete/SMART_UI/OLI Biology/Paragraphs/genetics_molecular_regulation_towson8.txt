@@ -1,5 +1,0 @@
-Thus far, we have described what happens when either glucose is present or
-                    lactose is present. If both are present, glucose is used first by the bacteria,
-                    and only very small amounts of the enzymes for lactose metabolism are made.
-                    Complete the following Learn by Doing to understand how glucose turns off the
-                    lac operon, even if lactose is present.

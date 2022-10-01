@@ -1,6 +1,0 @@
-During cell division, each chromatid moves to one of the two daughter cells.
-			Keeping the two copies of a single chromosome attached helps the sorting process. In
-			human cells, there are a total of 46 chromosomes. After the S stage of the cell cycle, these chromosomes have replicated. The
-			process of mitosis must sort these into 2 identical piles of 46 chromosomes. The cell
-			keeps the matching pairs attached to keep track of which chromosomes need to be sent to
-			opposite poles.

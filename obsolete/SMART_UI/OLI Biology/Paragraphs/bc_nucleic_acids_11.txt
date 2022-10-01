@@ -1,9 +1,0 @@
-Nucleic acids are macromolecules that carry out two main functions in the cell: storage of
-			genetic information and synthesis of proteins. Two types of nucleic acids specialize in
-			these functions: deoxyribonucleic acid (DNA) and ribonucleic acid (RNA). DNA is the
-			genetic material that stores information for making proteins in all living organisms.
-			Some viruses store their genetic information in RNA instead of DNA. This may seem as an
-			exception to the universal use of DNA as genetic material; however, viruses are not
-			cellular, and are not considered living organisms. DNA is found in the nucleus
-			of eukaryotes and in two cellular organelles: chloroplasts, and
-				mitochondria. 

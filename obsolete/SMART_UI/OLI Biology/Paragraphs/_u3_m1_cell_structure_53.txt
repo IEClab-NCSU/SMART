@@ -1,9 +1,0 @@
-Cell division is a carefully regulated process. There are “check-points” between phases,
-			in which the cell “self-checks.” Through molecular interactions, the cell makes sure
-			that it is ready to divide; for example, it checks to see that its
-				DNA has not been damaged. If all criteria are met, the cell
-			moves forward through the cell cycle. Normal cells usually divide only a limited number
-			of times, and usually do so when stimulated by certain molecular signals. For example,
-			if you move to higher altitude, your body will produce more red blood cells in order to
-			supply enough oxygen despite the thinner air. Cancer cells, on the other hand, have lost
-			the normal cell cycle controls, and therefore can divide indefinitely.

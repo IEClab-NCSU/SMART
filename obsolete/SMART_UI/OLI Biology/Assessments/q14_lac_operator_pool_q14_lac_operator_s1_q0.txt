@@ -1,2 +1,0 @@
-The operator region normally can be bound by:
-            

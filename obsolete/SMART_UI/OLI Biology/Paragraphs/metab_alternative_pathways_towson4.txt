@@ -1,8 +1,0 @@
-Some human tissues also use fermentation under certain conditions.
-					Sprinters and weightlifters have well-developed fast-twitch muscles. Fast-twitch
-					fibers have fewer mitochondria and are not able
-					to renew their supply of oxygen rapidly. Therefore, they have relatively poor
-					endurance. However, fast-twitch fibers excel at producing strong contractions
-					very quickly. They do this using the ATP created through a form of
-						fermentation. This pathway does not break sugar all the way
-					down to CO2, but stops at an intermediate (lactic acid).

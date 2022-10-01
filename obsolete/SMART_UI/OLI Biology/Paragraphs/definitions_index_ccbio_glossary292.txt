@@ -1,2 +1,0 @@
-Describes a trait that is masked by the dominant trait and is only
-                                expressed in the homozygous condition.

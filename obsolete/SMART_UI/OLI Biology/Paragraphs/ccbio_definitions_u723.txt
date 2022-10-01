@@ -1,2 +1,0 @@
-A single trait involving multiple genes where the effect of one gene can mask
-                        the effect of a different gene.

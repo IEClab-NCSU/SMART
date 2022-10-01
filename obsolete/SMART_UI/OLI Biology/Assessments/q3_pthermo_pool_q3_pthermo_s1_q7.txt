@@ -1,3 +1,0 @@
-
-What is the overall entropy change when a salt, such as MgCl2 is dissolved in
-    water? 

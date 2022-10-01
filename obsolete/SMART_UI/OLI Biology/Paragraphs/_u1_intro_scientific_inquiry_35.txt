@@ -1,7 +1,0 @@
-Moreover, if the doctor knows which group a patient is in, this can also influence the results
-			of the experiment. Without saying so directly, the doctor may show — through body
-			language or other subtle cues — his or her views about whether the patient is likely to
-			get well. These errors can then alter the patient’s experience and change the results of
-			the experiment. Therefore, many clinical studies are “double blind.” In these studies,
-			neither the doctor nor the patient knows which group the patient is in until all
-			experimental results have been collected.

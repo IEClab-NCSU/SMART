@@ -1,5 +1,0 @@
-
-What do you notice about the state of the system when the system has come to
-                    equilibrium? If the number of glucose molecules above the membrane is initially
-                    100 and there is no glucose below the membrane, how many glucose molecules will
-                    be below the membrane when the system comes to equilibrium?

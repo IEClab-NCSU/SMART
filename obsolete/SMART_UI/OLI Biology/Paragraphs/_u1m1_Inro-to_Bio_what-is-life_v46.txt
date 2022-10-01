@@ -1,5 +1,0 @@
-
-Viruses are very specific to a particular host cell. Proteins on the surface of
-					the virus recognize proteins on the surface of cells. Viruses only infect cells
-					with the proper proteins. 
-

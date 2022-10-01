@@ -1,6 +1,0 @@
-A nucleic acid consists of a chain of nucleotides. There are different kinds
-            of nucleotides that can be linked to build the different nucleic acids. DNA is probably
-            the most familiar nucleic acid, but in this module, you will also learn about RNA. The
-            nucleotides that are used to build RNA molecules are different from the nucleotides that
-            are used to build DNA. You'll also take a look at a very special nucleotide —
-                ATP, which acts as the energy currency of the cell.

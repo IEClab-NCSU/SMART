@@ -1,7 +1,0 @@
-The following is an interactive simulation that allows you to form hydrogen bonding pairs between
-          the appropriate bases in DNA and RNA that would be allowed in the formation of the double
-          helical structure. You should apply the definition of the hydrogen bond to form all
-          possible hydrogen bonds in any pair of bases you choose. All of the possible hyrogen bonds
-          may be useful later as we explore multiple structures especially for RNA. The focus of
-          this exercise is to itentify bonding partners that will be optimal in the formation of the
-          DNA and RNA helical structures.

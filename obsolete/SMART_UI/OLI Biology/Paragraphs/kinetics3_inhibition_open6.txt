@@ -1,9 +1,0 @@
- The second effect of temperature is to cause proteins to denature (unfold).
-					Denaturation means that the protein loses the secondary, tertiary, and
-					quaternary structure required for function. As discussed earlier, the protein
-					tertiary structure is stabilized by non-covalent bonding. As with substrate
-					binding, increased temperature can provide the energy necessary to break the
-					weak non-covalent bonds. In some cases, the beaking of a single hydrogen bond
-					can alter the structure of the enzyme sufficiently to cause the loss of function
-					(i.e. loss of the ability to bind substrate, to recognize the substrate or to
-					catalyze product formation). 

@@ -1,5 +1,0 @@
-The nitrogenous bases in nucleic acids absorb UV light at 260nm. Using this
-        characteristic it is possible to measure the concentration of DNA in a solution using
-        spectrophotometry (measuring the amount of light of a specific wavelength of light
-        absorbed by a solution). The absorbance values depend, in part, on the DNA structure
-        because single stranded DNA will absorb less light than double stranded DNA.

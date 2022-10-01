@@ -1,3 +1,0 @@
-Oxidation of NAD+. In the oxidation of glyceraldehyde to
-          phosphoglycerate an aldehyde is oxidized to a carboxylic acid and the released electrons
-          are placed on to NAD+ to form NADH.

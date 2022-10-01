@@ -1,4 +1,0 @@
-Entry of carbohydrates into the TCA cycle occurs by the transport of pyruvate from the
-          cytoplasm into the mitochondrial matrix. There, the pyruvate undergoes a process called
-            oxidative decarboxylation to produce a key intermediate in metabolism,
-            acetyl-CoA, which enters the TCA cycle. 

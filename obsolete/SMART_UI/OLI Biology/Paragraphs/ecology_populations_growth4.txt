@@ -1,8 +1,0 @@
-Think of a population as a parade of generations, with each new crop of offspring
-			replacing the previous generation. For sexual species, the average female must produce
-				two offspring that live to reproduce: one to replace
-			herself, and another to replace her mate. Yet we know that most species attempt to
-			produce more—often far more—than one or two offspring. Furthermore, they often attempt
-			to live for several reproductive seasons, each time generating another set of offspring.
-			As long as conditions permit good survival and successful reproduction, any population’s
-			size will inevitably increase.

@@ -1,3 +1,0 @@
-
- An enzyme that shows negative cooperativity:
- 

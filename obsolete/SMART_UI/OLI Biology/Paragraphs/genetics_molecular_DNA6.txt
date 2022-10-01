@@ -1,7 +1,0 @@
-The sugar deoxyribose with the phosphate group forms the scaffold or backbone of the
-            molecule (highlighted in yellow in the figure above). Bases point inward. Complementary
-            bases form hydrogen bonds with each other within the double helix. See how the bigger
-            bases (purines) pair with the smaller ones (pyrimidines). This keeps the width of the
-            double helix constant. More specifically, A pairs with T and C pairs with G. As we
-            discuss the function of DNA in subsequent sections, keep in mind that there is a
-            chemical reason for specific pairing of bases.

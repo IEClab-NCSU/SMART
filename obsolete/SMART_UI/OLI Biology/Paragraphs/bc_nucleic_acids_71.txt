@@ -1,4 +1,0 @@
-Two of the most important nucleic acids are DNA and RNA. DNA contains the instructions
-			for building proteins. RNA, on the other hand, is involved in actually building the
-			proteins. Because of these different functions, the structures of the two molecules are
-			very different. 

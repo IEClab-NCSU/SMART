@@ -1,4 +1,0 @@
-
-input and output compounds, 
-the cellular location of the pathway,
-the type of energy the pathway produces.

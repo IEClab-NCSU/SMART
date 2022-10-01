@@ -1,9 +1,0 @@
-The example shown below is the three carbon carbohydrate, glyceraldehyde. This
-					compound contains a chiral center at the middle, or second carbon, because that
-					carbon has four different groups attached to it. The configuration of atoms in
-					the left-hand structure causes polarized light to be rotated to the right and is
-					therefore the D form. Its mirror image shown on the right, rotates polarized
-					light in the opposite direction, and is therefore the L form. Note that in both
-					compounds the H and OH groups project out of the page towards you, but in the D
-					form the -OH group is to the right of carbon two while in the L-form it points
-					to the left.

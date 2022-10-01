@@ -1,8 +1,0 @@
-
-A synthetic gene is made that can be translated into the amino acid sequence of the
-                human growth hormone.
-This gene is inserted in the correct location in a closed circular piece of DNA (an
-                expression plasmid) by use of restriction sites.
-The expression plasmid is introduced into bacteria.
-The bacteria are grown to a high cell density, and then lactose is added to induce
-                the production of human growth hormone.

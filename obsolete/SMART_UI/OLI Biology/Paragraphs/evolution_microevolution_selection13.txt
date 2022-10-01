@@ -1,4 +1,0 @@
-Let's return now to our example of the Wisconsin foxes to see how genes and their
-					environment might interact to drive the evolution of a population. Remember that
-					this population evolved, showing a dramatic increase of ff
-					foxes with thin coats from 1962 to 2202:

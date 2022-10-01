@@ -1,7 +1,0 @@
-Molecular substances enter and exit the cell so that: nutrients and waste can be exchanged;
-					the cell can perform its function; and, when required, the cell can send
-					appropriate signals to other cells. Transporting some substances may require the
-					cell to exert energy and other molecules may cross through
-					the membrane passively, requiring no use of energy by the cell. One way
-					molecules passively move through the cell membrane is a process called simple
-					diffusion. 

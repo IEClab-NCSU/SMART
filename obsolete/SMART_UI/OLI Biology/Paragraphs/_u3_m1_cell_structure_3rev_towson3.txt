@@ -1,7 +1,0 @@
-Eukaryotic cells are complex and organized into membrane-bound compartments,
-					called organelles, that perform specialized functions.
-					Organelles carry out specialized tasks such as energy production, protein
-					synthesis, reproduction, and processing of nutrients and waste. The various cell
-					types differ in the arrangement, number, and structure of organelles.
-					Additionally, the number of organelles of each type in a given cell varies
-					depending on the function of the cell. 

@@ -1,1 +1,0 @@
-Macromolecule (protein) + Ligand <=> [Macromolecule Ligand]

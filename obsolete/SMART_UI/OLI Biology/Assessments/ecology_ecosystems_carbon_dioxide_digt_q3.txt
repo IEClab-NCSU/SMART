@@ -1,3 +1,0 @@
-For each human activity, identify the major greenhouse gas that is emitted. If an
-                activity generates more than one gas, select all that apply. 
-            

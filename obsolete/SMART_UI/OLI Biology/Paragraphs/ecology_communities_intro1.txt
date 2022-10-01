@@ -1,8 +1,0 @@
-Until now, we have focused on specific populations responding to limiting factors such as
-			weather, crowding, or fishing by humans. Community ecology broadens the focus to explore
-			how populations of different species interact with each other. An ecological community is the collection of all interacting species populations
-			within some defined area. Because animals move in and out of any given area, it can be
-			tricky to determine what populations belong within a community. For example, birds such
-			as herons may interact with pond communities by removing fish. They are therefore
-			included as part of the pond community because they can have an important effect on pond
-			life.

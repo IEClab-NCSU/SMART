@@ -1,9 +1,0 @@
-The replication rate for the eukaryotic replication fork has been measured to be
-          approximately 50 bp/sec. This means that for a eukaryotic chromosome of 10e8 bp to
-          completely replicate starting at one origin of replication it would take approximately 23
-          days. While we know that the life-cycles of eukaryotic cells are extremely variable, the
-          S-phase, the period of time during the eukaryotic life-cycle when DNA is replicated,
-          typically last 8 hours. To explain the enormous difference in time scale, it has been
-          found that the eukaryotic chromosome has multiple origins of replication. The
-          eukaryotic replication units have upwards of 80 origins which means the replication time
-          is reduced to approximately 7 hrs. 

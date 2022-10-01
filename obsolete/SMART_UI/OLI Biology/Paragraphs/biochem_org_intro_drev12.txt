@@ -1,9 +1,0 @@
- The link below will open the Functional Groups Glossary. We will use this
-					glossary extensively. It contains the functional groups organized based on
-					properties and is rich with information and examples about each of the groups.
-					Click on "Learn By Doing" below, to enter the tutorial.
-					The functional groups are listed in the center column. You can click on each
-					group to see the chemical properties, as well as several examples of molecules,
-					associated with that group. The 3-D structure viewer is interactive; click and
-					drag the structure to rotate it. You can also use radio buttons to select groups
-					of molecules to explore how the groups are related functionally.

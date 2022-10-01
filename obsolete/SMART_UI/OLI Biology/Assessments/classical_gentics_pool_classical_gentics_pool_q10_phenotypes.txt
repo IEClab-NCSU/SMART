@@ -1,3 +1,0 @@
-In humans, the condition for normal blood clotting (H) is dominant to hemophilia
-                (h). A male who has normal blood clotting mates with a woman who is a carrier. If
-                they have a son, what is the probability that he will have this condition?

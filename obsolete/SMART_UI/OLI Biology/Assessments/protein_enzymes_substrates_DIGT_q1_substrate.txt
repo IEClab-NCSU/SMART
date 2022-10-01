@@ -1,6 +1,0 @@
-
-The binding between an enzyme and substrate was originally thought to be a rigid
-                    and precise interaction; this theory is called . It is now
-                    known that enzymes and their substrate interact through a(n)  mechanism. In this mechanism upon binding the substrate the
-                    enzyme undergoes a , this interaction helps to lower the
-                     of the reaction.

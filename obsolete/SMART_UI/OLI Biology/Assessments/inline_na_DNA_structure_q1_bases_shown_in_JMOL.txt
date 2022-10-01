@@ -1,4 +1,0 @@
-1) Examine the three-dimensional structure of DNA shown in the Jmol on the right. Feel free
-				to rotate the molecule to get a good view. The atoms are color-coded: oxygen is red,
-				nitrogen is blue, phosphorus is orange, and carbon is gray. Where are the bases in
-				the helix? 

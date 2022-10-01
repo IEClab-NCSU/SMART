@@ -1,2 +1,0 @@
-Red flower color is incompletely dominant over white flower color. If two pink flowers
-            are crossed, what percentage of their offspring will be pink?

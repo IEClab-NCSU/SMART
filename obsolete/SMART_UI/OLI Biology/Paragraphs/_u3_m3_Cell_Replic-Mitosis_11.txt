@@ -1,8 +1,0 @@
-Growing from a single fertilized egg to an adult organism requires many rounds of
-						cell division. Before cell division, a cell must copy its genome so
-					that each new daughter cell receives a full set of DNA. This DNA
-						replication occurs in the synthesis (S) stage of the
-						cell
-						cycle just prior to mitosis. The process of mitosis
-					sorts the DNA equally into two separate nuclei. The process of mitosis is
-					divided into the following steps or phases: 

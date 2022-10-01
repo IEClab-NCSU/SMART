@@ -1,8 +1,0 @@
-Adenosine triphosphate (ATP) is a nucleotide; that is, an organic
-                                molecule that acts as the direct energy source for almost all
-                                cellular activities. It consists of a single adenosine molecule
-                                (composed of the base adenine bound to a ribose sugar), linked to
-                                three phosphate ions. It is however a relatively unstable molecule;
-                                consequently, it is never used for the long-term storage of energy
-                                in the cell. ATP is specialized for direct and rapid transfers of
-                                energy. 

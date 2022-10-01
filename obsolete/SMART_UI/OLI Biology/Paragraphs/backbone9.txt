@@ -1,4 +1,0 @@
-In the structure above the X represents the bases that distinguish the units of the
-          backbone from each other in much the same way that the 20 naturally occuring side chains
-          on a common backbone distinguish the units of a polypeptide (protein) structure. These
-          bases will be explored in the following sections.

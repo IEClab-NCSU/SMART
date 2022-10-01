@@ -1,8 +1,0 @@
-Why do cells divide? Cells undergo different phases, during which they grow,
-					duplicate their genetic material, and then divide. In single-celled  organisms, cell
-					division results in two new individuals. Cell division in multicellular
-					organisms is more complex. Most cells in multicellular organisms are somatic
-						cells. Somatic cells consist of all the nonreproductive cells in an
-					organism; for example, tissue cells, nerve cells, and blood cells. When somatic
-					cells divide, they go through the process of mitosis,
-					which is a type of cell division that results in two identical daughter cells. 

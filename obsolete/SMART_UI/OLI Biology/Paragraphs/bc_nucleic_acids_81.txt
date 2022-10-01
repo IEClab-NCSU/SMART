@@ -1,4 +1,0 @@
-The term “central dogma of molecular biology” has been historically used to describe the
-			flow of genetic information in living organisms. Both DNA and RNA are informational
-			molecules – the information is contained in the order of bases. We next consider what
-			this information is and how it flows. 

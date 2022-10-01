@@ -1,7 +1,0 @@
-The students are charged with plagiarism. Both claim to have written their own papers.
-            After all, the professor asked for a paper on phylogenetic biology, so of course the
-            papers will be similar! The professor counters this with a quick calculation: the odds
-            that two students’ papers would have such similar language by
-            chance are one in several trillion. The academic integrity board agrees: either one
-            student copied from the other, or they both copied language from the same outside
-            source.

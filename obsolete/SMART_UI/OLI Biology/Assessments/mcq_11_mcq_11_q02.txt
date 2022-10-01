@@ -1,3 +1,0 @@
-
- If two ligands bind to the same macromolecule, but with difference in affinity, they will also show
- 

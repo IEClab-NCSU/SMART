@@ -1,5 +1,0 @@
-You figured out that the structure of the archaean phospholipid is significantly
-			different from the structure of the bacterial phospholipid. These structural differences
-			lead to functional differences that enable archaeans to survive in extreme environments.
-			This is an excellent example of how structure determines function at the cellular level
-			of organization.

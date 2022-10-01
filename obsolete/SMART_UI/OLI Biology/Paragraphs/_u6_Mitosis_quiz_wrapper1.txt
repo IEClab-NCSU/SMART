@@ -1,6 +1,0 @@
-Mitosis is the process by which eukaryotic cells divide into two identical
-					daughter cells. The process ensures identical DNA is present in both daughter
-					cells. Organisms use mitosis to grow and replace old or malfunctioning cells.
-					There are checkpoints during the cell cycle that regulate whether or not a cell
-					goes through mitosis. When this regulation goes awry, cells can begin to divide
-					uncontrollably, possibly resulting in cancerous tumors. 

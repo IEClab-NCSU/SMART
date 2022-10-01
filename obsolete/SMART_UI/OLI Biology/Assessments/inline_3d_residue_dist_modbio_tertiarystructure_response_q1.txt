@@ -1,2 +1,0 @@
-
-Is this topology of protein (some non-polar side chains in the core, polar side chains on the outside) dependent on the solvent in which the protein folds?

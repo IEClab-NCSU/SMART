@@ -1,2 +1,0 @@
-The length of the polyA tail on the 3' end of mRNA is thought to act as a
-                        clock to determine the operational lifetime of the message.

@@ -1,4 +1,0 @@
-A food chain is a group of organisms that are joined in a linear series of
-			feeding relationships. Each species in a food chain gains energy from a single source
-			and is, in turn, a source of energy to at most one consumer as shown in the picture
-			below:

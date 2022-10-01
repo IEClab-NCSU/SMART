@@ -1,4 +1,0 @@
-A cell that is 2N = 6 has 6 total chromosomes. This cell is diploid (2N) because it
-				has two sets of chromosomes. Each parent would have given this cell three
-				chromosomes — one parent donating the chromosomes seen in the top row, the other
-				donating the chromosomes seen in the bottom row. 

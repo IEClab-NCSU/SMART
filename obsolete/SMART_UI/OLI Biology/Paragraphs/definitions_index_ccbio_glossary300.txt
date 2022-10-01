@@ -1,7 +1,0 @@
-A cellular structure consisting of RNA and protein organized into two
-                                subunits and functioning as the site of protein synthesis in the
-                                cytoplasm. The ribosomal subunits are constructed in the nucleolus.
-                                In prokaryotes ribosomes are found in the cytoplasm; however, in
-                                eukaryotes they are mainy associated with part of the endoplasmic
-                                reticulum, named rough endoplasmic reticulum -- due to its dotted
-                                appearance. 

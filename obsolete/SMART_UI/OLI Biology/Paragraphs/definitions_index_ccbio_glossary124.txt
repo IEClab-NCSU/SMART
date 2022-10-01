@@ -1,6 +1,0 @@
-A type of cell that has a membrane-enclosed nucleus and other
-                                membrane-enclosed structures (called organelles) such as
-                                mitochondria, chloroplasts, cytoskeleton, and the Golgi apparatus.
-                                All organisms except bacteria and archaea are composed of eukaryotic
-                                cells (also referred to as eukaryotes); that is, all species of
-                                animal, plants and fungi are composed of eukaryotic cells. 
